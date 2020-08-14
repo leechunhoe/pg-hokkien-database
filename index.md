@@ -7,22 +7,22 @@
 Tailo | wá
 Taiji | wa4
 
-[爸 Father](relative001.md)
+[爸 father](relative001.md)
 
-[媽 Mother](relative002.md)
+[媽 mother](relative002.md)
 
-[兄 Elder brother](relative003.md)
+[兄 elder brother](relative003.md)
 
-[弟 Younger brother](relative004.md)
+[弟 younger brother](relative004.md)
 
-[姊 Elder sister](relative005.md)
+[姊 elder sister](relative005.md)
 
-[妹 Younger sister](relative006.md)
+[妹 younger sister](relative006.md)
 
-[尪 Husband](relative007.md)
+[尪 husband](relative007.md)
 
-[某 Wife](relative008.md)
+[某 wife](relative008.md)
 
-[後生 Son](relative009.md)
+[後生 son](relative009.md)
 
-[자와 Daughter](relative010.md)
+[자와 daughter](relative010.md)
