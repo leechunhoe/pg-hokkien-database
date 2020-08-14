@@ -1,9 +1,8 @@
-# 我
-
-Me
+# Me
 
 方案 | 拼法
-------------- | -------------
+--- | ---
+漢字| 我
 깐-뿐ˆ| 와ˊ
 Tailo | wá
 Taiji | wa4
@@ -20,3 +19,10 @@ Taiji | wa4
 
 [妹 Younger sister](relative006.md)
 
+[尪 Husband](relative007.md)
+
+[某 Wife](relative008.md)
+
+[後生 Son](relative009.md)
+
+[자와 Daughter](relative010.md)
