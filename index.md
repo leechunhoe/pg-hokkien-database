@@ -23,6 +23,6 @@ Taiji | wa4
 
 [某 wife](relative008.md)
 
-[後生 son](relative009.md)
+[囝 son](relative009.md)
 
 [자와 daughter](relative010.md)
