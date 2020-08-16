@@ -1,5 +1,29 @@
 # 媽 Mother
 
+- [媽兮爸 Father](member13.md)
+
+- [媽兮媽 Mother](member14.md)
+
+- [媽兮翁 Husband](member2.md)
+
+- [媽兮哥 Elder brother](member16.md)
+
+- [媽兮姊 Elder sister](member15.md)
+
+- [媽兮小弟 Younger brother](member16.md)
+
+- [媽兮小妹 Younger sister](member15.md)
+
+- [媽兮囝 Son](member4.md)
+
+- [媽兮자와 Daughter](member5.md)
+
+- [媽兮細漢囝 Younger son](member6.md)
+
+- [媽兮細漢자와 Younger daughter](member7.md)
+
+
+
 漢字/諺文 | 媽
 --- | ---
 諺文 깐-뿐ˆ | 맣·
