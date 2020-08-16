@@ -6,7 +6,7 @@
 
 - [尪兮媽 Husband's mother](member58.md)
 
-- [尪兮某 Husband's wife](member1.md)
+- [尪兮某 Husband's wife](member18.md)
 
 - [尪兮哥 Husband's elder brother](member59.md)
 

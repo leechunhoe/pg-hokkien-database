@@ -29,9 +29,9 @@
 15,阿姨,아·이ˆ,a-î,a3ee2,mother's sister,pa:13.ma:14.ang:16.ht:16.hs1:47.cw1:48.hs2:49.cw2:50
 16,阿舅,아·구-,a-kū,a3koo33,mother's brother,pa:13.ma:14.bo:51.cm:15.hs1:47.cw1:48.hs2:49.cw2:50
 
-17,尪,앙·,ang,ang1,husband,pa:57.ma:58.bo:1.cm:61.ko:59.ti:60.hs:19,cw:20
-17,翁,앙·,ang,ang1,husband,pa:57.ma:58.bo:1.cm:61.ko:59.ti:60.hs:19,cw:20
-18,某,뻐ˊ,bóo,bor4,wife
+17,尪,앙·,ang,ang1,husband,pa:57.ma:58.bo:18.cm:61.ko:59.ti:60.hs:19,cw:20
+17,翁,앙·,ang,ang1,husband,pa:57.ma:58.bo:18.cm:61.ko:59.ti:60.hs:19,cw:20
+18,某,뻐ˊ,bóo,bor4,wife,pa:62.ma:63.ang:17.ko:64.ti:66.ci:65.moy:67.hs:19,cw:20
 
 19,後生,ᄒᅷ-세ᇫ·,hāu-senn,hau33snae1,son,pa:1.ma:1.bo:52.cm:20,hs:53.cw:54
 19,囝,갸ᇫˊ,kiánn,knia4,son
@@ -106,3 +106,11 @@
 59,阿伯,아·벻·,a-peh,ah3paek3,husband's elder brother
 60,阿叔,아·즥·,a-tsek,ah3ceik3,husband's younger brother
 61,姑,거·,koo,kor1,husband's sister
+
+62,丈人,뎌ᇫ-랑ˆ,tiōnn-lâng,tnio33lang2,wife's father
+63,丈姆,뎌ᇫ-음ˊ,tiōnn-ḿ,tnio33mm4,wife's mother
+
+64,阿舅,아·구-,a-kū,a3koo33,wife's elder brother
+65,阿姨,아·이ˆ,a-î,a3ee2,wife's elder sister
+66,舅仔,구-아ˊ,kū-á,koo33ah4,wife's younger brother
+67,姨仔,이ˆ아ˊ,î-á,ee2ah4,wife's younger sister
