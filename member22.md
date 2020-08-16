@@ -1,4 +1,6 @@
-# Sibling's son/daughter漢字/諺文 | 嬲
+# Sibling's son/daughter
+
+漢字/諺文 | 嬲
 --- | ---
 諺文 깐-뿐ˆ | 순·
 台羅 Tâi-lô | sun

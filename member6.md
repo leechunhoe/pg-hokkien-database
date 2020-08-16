@@ -1,4 +1,6 @@
-# Younger brother漢字/諺文 | 小弟
+# Younger brother
+
+漢字/諺文 | 小弟
 --- | ---
 諺文 깐-뿐ˆ | 쇼ˊ디-
 台羅 Tâi-lô | sió-tī

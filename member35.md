@@ -1,4 +1,6 @@
-# Father's brother's elder son漢字/諺文 | 堂哥
+# Father's brother's elder son
+
+漢字/諺文 | 堂哥
 --- | ---
 諺文 깐-뿐ˆ | 덩ˆ고·
 台羅 Tâi-lô | tông-ko

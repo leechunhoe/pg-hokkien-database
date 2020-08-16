@@ -1,4 +1,6 @@
-# Mother's brother漢字/諺文 | 阿舅
+# Mother's brother
+
+漢字/諺文 | 阿舅
 --- | ---
 諺文 깐-뿐ˆ | 아·구-
 台羅 Tâi-lô | a-kū

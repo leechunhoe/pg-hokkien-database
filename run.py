@@ -24,33 +24,33 @@ def main():
 				tables += "台羅 Tâi-lô | %s\n" %variant[3]
 				tables += "戴字 Taiji | %s\n" %variant[4]
 				tables += "\n\n"
-			content += tables
+			content += "\n\n" + tables
 
 			# TODO Add links
 			if len(member[0]) > 6:
 				relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in member[0][6].split(".")}
 				links = ""
 				if relations["pa"] != "-1":
-					links += "[父 father](member%s.md)\n" %relations["pa"]
+					links += "[父 father](member%s.md)\n\n" %relations["pa"]
 				if relations["ma"] != "-1":
-					links += "[母 mother](member%s.md)\n" %relations["ma"]
+					links += "[母 mother](member%s.md)\n\n" %relations["ma"]
 				if relations["an"] != "-1":
-					links += "[尪 husband](member%s.md)\n" %relations["an"]
+					links += "[尪 husband](member%s.md)\n\n" %relations["an"]
 				if relations["bo"] != "-1":
-					links += "[某 wife](member%s.md)\n" %relations["bo"]
+					links += "[某 wife](member%s.md)\n\n" %relations["bo"]
 				if relations["ko"] != "-1":
-					links += "[兄 elder brother](member%s.md)\n" %relations["ko"]
+					links += "[兄 elder brother](member%s.md)\n\n" %relations["ko"]
 				if relations["ci"] != "-1":
-					links += "[姊 elder sister](member%s.md)\n" %relations["ci"]
+					links += "[姊 elder sister](member%s.md)\n\n" %relations["ci"]
 				if relations["ti"] != "-1":
-					links += "[弟 younger brother](member%s.md)\n" %relations["ti"]
+					links += "[弟 younger brother](member%s.md)\n\n" %relations["ti"]
 				if relations["me"] != "-1":
-					links += "[妹 younger sister](member%s.md)\n" %relations["me"]
+					links += "[妹 younger sister](member%s.md)\n\n" %relations["me"]
 				if relations["hs"] != "-1":
-					links += "[囝 son](member%s.md)\n" %relations["hs"]
+					links += "[囝 son](member%s.md)\n\n" %relations["hs"]
 				if relations["cw"] != "-1":
-					links += "[자와 daughter](member%s.md)\n" %relations["cw"]
-				content += links
+					links += "[자와 daughter](member%s.md)\n\n" %relations["cw"]
+				content += "\n\n" + links
 
 			f.write(content)
 

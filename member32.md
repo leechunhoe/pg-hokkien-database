@@ -1,4 +1,6 @@
-# Grandmother's sister漢字/諺文 | 姨婆
+# Grandmother's sister
+
+漢字/諺文 | 姨婆
 --- | ---
 諺文 깐-뿐ˆ | 이ˆ보ˆ
 台羅 Tâi-lô | î-pô

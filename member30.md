@@ -1,4 +1,6 @@
-# Great grandmother漢字/諺文 | 祖嫲
+# Great grandmother
+
+漢字/諺文 | 祖嫲
 --- | ---
 諺文 깐-뿐ˆ | 저ˊ마ˊ
 台羅 Tâi-lô | tsóo-má
