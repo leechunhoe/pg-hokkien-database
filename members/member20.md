@@ -13,7 +13,7 @@ Daughter
 
 
 
-## 稱呼 칑·허· Addresses
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 자와
 --- | ---

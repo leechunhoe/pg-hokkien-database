@@ -1,7 +1,7 @@
 # 姨丈
 Mother's sister's husband
 
-## 稱呼 칑·허· Addresses
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 姨丈
 --- | ---

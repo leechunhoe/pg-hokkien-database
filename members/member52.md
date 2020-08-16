@@ -1,7 +1,7 @@
 # 新婦
 Son's wife
 
-## 稱呼 칑·허· Addresses
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 新婦
 --- | ---
