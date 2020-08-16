@@ -1,4 +1,6 @@
-# 媽 Mother## 關係 과·희- Relationships
+# 媽 Mother
+
+## 關係 관·희- Relationships
 
 - [媽兮爸 Father](member13.md)
 
@@ -12,13 +14,13 @@
 
 - [媽兮小弟 Younger brother](member16.md)
 
-- [媽兮小妹 Younger sister](member15.md)
+- [媽兮大漢後生 Elder son](member4.md)
 
-- [媽兮囝 Son](member4.md)
+- [媽兮大漢자와 Elder daughter](member5.md)
 
-- [媽兮자와 Daughter](member5.md)
+- [媽兮囝 Son/daughter](member1.md)
 
-- [媽兮細漢囝 Younger son](member6.md)
+- [媽兮細漢後生 Younger son](member6.md)
 
 - [媽兮細漢자와 Younger daughter](member7.md)
 

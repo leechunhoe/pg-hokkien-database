@@ -23,29 +23,35 @@ def main():
 
 				relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in member[0][6].split(".")}
 				links = ""
-				if relations["pa"] != "-1":
+				if "pa" in relations:
 					links += "- [%s兮爸 Father](member%s.md)\n\n" %(hanji, relations["pa"])
-				if relations["ma"] != "-1":
+				if "ma" in relations:
 					links += "- [%s兮媽 Mother](member%s.md)\n\n" %(hanji, relations["ma"])
-				if relations["an"] != "-1":
-					links += "- [%s兮翁 Husband](member%s.md)\n\n" %(hanji, relations["an"])
-				if relations["bo"] != "-1":
+				if "ang" in relations:
+					links += "- [%s兮翁 Husband](member%s.md)\n\n" %(hanji, relations["ang"])
+				if "bo" in relations:
 					links += "- [%s兮某 Wife](member%s.md)\n\n" %(hanji, relations["bo"])
-				if relations["ko"] != "-1":
+				if "ko" in relations:
 					links += "- [%s兮哥 Elder brother](member%s.md)\n\n" %(hanji, relations["ko"])
-				if relations["ci"] != "-1":
+				if "ci" in relations:
 					links += "- [%s兮姊 Elder sister](member%s.md)\n\n" %(hanji, relations["ci"])
-				if relations["ti"] != "-1":
+				if "ti" in relations:
 					links += "- [%s兮小弟 Younger brother](member%s.md)\n\n" %(hanji, relations["ti"])
-				if relations["me"] != "-1":
-					links += "- [%s兮小妹 Younger sister](member%s.md)\n\n" %(hanji, relations["me"])
-				if relations["hs"] != "-1":
-					links += "- [%s兮囝 Son](member%s.md)\n\n" %(hanji, relations["hs"])
-				if relations["cw"] != "-1":
+				if "me" in relations:
+					links += "- [%s兮小妹 Younger sister](member%s.md)\n\n" %(hanji, relations["moy"])
+				if "hs1" in relations:
+					links += "- [%s兮大漢後生 Elder son](member%s.md)\n\n" %(hanji, relations["hs1"])
+				if "cw1" in relations:
+					links += "- [%s兮大漢자와 Elder daughter](member%s.md)\n\n" %(hanji, relations["cw1"])
+				if "hscw" in relations:
+					links += "- [%s兮囝 Son/daughter](member%s.md)\n\n" %(hanji, relations["hscw"])
+				if "hs" in relations:
+					links += "- [%s兮後生 Son](member%s.md)\n\n" %(hanji, relations["hs"])
+				if "cw" in relations:
 					links += "- [%s兮자와 Daughter](member%s.md)\n\n" %(hanji, relations["cw"])
-				if relations["hs2"] != "-1":
-					links += "- [%s兮細漢囝 Younger son](member%s.md)\n\n" %(hanji, relations["hs2"])
-				if relations["cw2"] != "-1":
+				if "hs2" in relations:
+					links += "- [%s兮細漢後生 Younger son](member%s.md)\n\n" %(hanji, relations["hs2"])
+				if "cw2" in relations:
 					links += "- [%s兮細漢자와 Younger daughter](member%s.md)\n\n" %(hanji, relations["cw2"])
 				content += "\n\n" + links
 

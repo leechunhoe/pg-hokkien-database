@@ -1,4 +1,6 @@
-# 我 Me## 關係 과·희- Relationships
+# 我 Me
+
+## 關係 관·희- Relationships
 
 - [我兮爸 Father](member2.md)
 
@@ -14,9 +16,7 @@
 
 - [我兮小弟 Younger brother](member6.md)
 
-- [我兮小妹 Younger sister](member7.md)
-
-- [我兮囝 Son](member19.md)
+- [我兮後生 Son](member19.md)
 
 - [我兮자와 Daughter](member20.md)
 

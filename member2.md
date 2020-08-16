@@ -1,4 +1,6 @@
-# 爸 Father## 關係 과·희- Relationships
+# 爸 Father
+
+## 關係 관·희- Relationships
 
 - [爸兮爸 Father](member8.md)
 
@@ -12,13 +14,13 @@
 
 - [爸兮小弟 Younger brother](member11.md)
 
-- [爸兮小妹 Younger sister](member12.md)
+- [爸兮大漢後生 Elder son](member4.md)
 
-- [爸兮囝 Son](member4.md)
+- [爸兮大漢자와 Elder daughter](member5.md)
 
-- [爸兮자와 Daughter](member5.md)
+- [爸兮囝 Son/daughter](member1.md)
 
-- [爸兮細漢囝 Younger son](member6.md)
+- [爸兮細漢後生 Younger son](member6.md)
 
 - [爸兮細漢자와 Younger daughter](member7.md)
 
