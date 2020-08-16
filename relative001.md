@@ -1,1 +1,0 @@
-爸,바·,pa,pa1,father
