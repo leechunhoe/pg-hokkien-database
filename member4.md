@@ -1,4 +1,4 @@
-# Elder brother
+# 哥 Elder brother
 
 漢字/諺文 | 哥
 --- | ---

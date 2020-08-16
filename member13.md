@@ -1,4 +1,4 @@
-# Maternal grandfather
+# 外公 Maternal grandfather
 
 漢字/諺文 | 外公
 --- | ---

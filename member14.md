@@ -1,4 +1,4 @@
-# Maternal grandmother
+# 外嫲 Maternal grandmother
 
 漢字/諺文 | 外嫲
 --- | ---

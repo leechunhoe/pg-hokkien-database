@@ -1,4 +1,4 @@
-# Younger sister's husband
+# 妹夫 Younger sister's husband
 
 漢字/諺文 | 妹夫
 --- | ---

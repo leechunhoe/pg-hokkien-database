@@ -1,4 +1,4 @@
-# Father's sister's husband
+# 姑丈 Father's sister's husband
 
 漢字/諺文 | 姑丈
 --- | ---

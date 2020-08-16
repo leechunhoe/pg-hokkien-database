@@ -1,4 +1,4 @@
-# Husband
+# 尪 Husband
 
 漢字/諺文 | 尪
 --- | ---

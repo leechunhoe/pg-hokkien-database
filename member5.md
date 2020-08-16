@@ -1,4 +1,4 @@
-# Elder sister
+# 姊 Elder sister
 
 漢字/諺文 | 姊
 --- | ---

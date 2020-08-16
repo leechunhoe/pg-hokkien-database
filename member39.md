@@ -1,4 +1,4 @@
-# Father's sister's elder son
+# 表哥 Father's sister's elder son
 
 漢字/諺文 | 表哥
 --- | ---

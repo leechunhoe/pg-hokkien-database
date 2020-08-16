@@ -12,8 +12,10 @@ def main():
 			f = open("member%s.md" %id, "w")
 			content = ""
 
+			hanji = member[0][1].capitalize()
 			english = member[0][5].capitalize()
-			title = "# %s" %english
+
+			title = "# %s %s" %(hanji, english)
 			content += title
 
 			tables = ""

@@ -1,4 +1,4 @@
-# Grandfather's sister
+# 姑婆 Grandfather's sister
 
 漢字/諺文 | 姑婆
 --- | ---

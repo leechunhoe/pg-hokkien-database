@@ -1,4 +1,4 @@
-# Father's elder brother
+# 阿伯 Father's elder brother
 
 漢字/諺文 | 阿伯
 --- | ---

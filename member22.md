@@ -1,4 +1,4 @@
-# Sibling's son/daughter
+# 嬲 Sibling's son/daughter
 
 漢字/諺文 | 嬲
 --- | ---

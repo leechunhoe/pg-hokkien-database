@@ -1,4 +1,4 @@
-# Brother's wife
+# 阿嫂 Brother's wife
 
 漢字/諺文 | 阿嫂
 --- | ---

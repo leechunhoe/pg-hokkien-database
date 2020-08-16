@@ -1,4 +1,4 @@
-# Daughter
+# 자와 Daughter
 
 漢字/諺文 | 자와
 --- | ---

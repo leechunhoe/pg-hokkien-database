@@ -1,4 +1,4 @@
-# Grandfather
+# 阿公 Grandfather
 
 漢字/諺文 | 阿公
 --- | ---

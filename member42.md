@@ -1,4 +1,4 @@
-# Father's sister's younger daughter
+# 表小妹 Father's sister's younger daughter
 
 漢字/諺文 | 表小妹
 --- | ---

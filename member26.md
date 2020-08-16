@@ -1,4 +1,4 @@
-# Grandfather's elder brother
+# 伯公 Grandfather's elder brother
 
 漢字/諺文 | 伯公
 --- | ---

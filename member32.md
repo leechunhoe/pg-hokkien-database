@@ -1,4 +1,4 @@
-# Grandmother's sister
+# 姨婆 Grandmother's sister
 
 漢字/諺文 | 姨婆
 --- | ---
