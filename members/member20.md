@@ -11,6 +11,10 @@ Daughter
 
 - [자와兮兄弟 Daughter's brother](member19.md)
 
+- [자와兮後生 Daughter's son](member55.md)
+
+- [자와兮자와 Daughter's daughter](member56.md)
+
 
 
 ## 稱呼 칑·허· _Address_
