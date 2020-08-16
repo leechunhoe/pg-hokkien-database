@@ -14,6 +14,14 @@
 
 - [阿公兮小弟 Younger brother](member27.md)
 
+- [阿公兮大漢後生 Elder son](member10.md)
+
+- [阿公兮囝 Son/daughter](member2.md)
+
+- [阿公兮자와 Daughter](member12.md)
+
+- [阿公兮細漢後生 Younger son](member11.md)
+
 
 
 ## 稱呼 칑·허· Namings

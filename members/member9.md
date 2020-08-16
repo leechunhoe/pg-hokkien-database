@@ -8,6 +8,14 @@
 
 - [阿嬤兮姊妹 Sister](member32.md)
 
+- [阿嬤兮大漢後生 Elder son](member10.md)
+
+- [阿嬤兮囝 Son/daughter](member2.md)
+
+- [阿嬤兮자와 Daughter](member12.md)
+
+- [阿嬤兮細漢後生 Younger son](member11.md)
+
 
 
 ## 稱呼 칑·허· Namings
