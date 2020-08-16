@@ -37,7 +37,7 @@ def main():
 					links += "- [%s兮姊 Elder sister](member%s.md)\n\n" %(hanji, relations["ci"])
 				if "ti" in relations:
 					links += "- [%s兮小弟 Younger brother](member%s.md)\n\n" %(hanji, relations["ti"])
-				if "me" in relations:
+				if "moy" in relations:
 					links += "- [%s兮小妹 Younger sister](member%s.md)\n\n" %(hanji, relations["moy"])
 				if "hs1" in relations:
 					links += "- [%s兮大漢後生 Elder son](member%s.md)\n\n" %(hanji, relations["hs1"])

@@ -16,6 +16,8 @@
 
 - [我兮小弟 Younger brother](member6.md)
 
+- [我兮小妹 Younger sister](member7.md)
+
 - [我兮後生 Son](member19.md)
 
 - [我兮자와 Daughter](member20.md)

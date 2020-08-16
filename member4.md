@@ -14,6 +14,8 @@
 
 - [哥兮小弟 Younger brother](member6.md)
 
+- [哥兮小妹 Younger sister](member7.md)
+
 - [哥兮囝 Son/daughter](member22.md)
 
 
