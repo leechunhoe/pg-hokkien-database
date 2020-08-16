@@ -10,6 +10,8 @@
 
 [爸兮囝 Son](member4.md)	[爸兮자와 Daughter](member5.md)
 
+[爸兮細漢囝 Younger son](member6.md)	[爸兮細漢자와 Younger daughter](member7.md)
+
 
 
 漢字/諺文 | 爸

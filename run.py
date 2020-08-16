@@ -41,6 +41,10 @@ def main():
 					links += "[%s兮囝 Son](member%s.md)\t" %(hanji, relations["hs"])
 				if relations["cw"] != "-1":
 					links += "[%s兮자와 Daughter](member%s.md)\n\n" %(hanji, relations["cw"])
+				if relations["hs2"] != "-1":
+					links += "[%s兮細漢囝 Younger son](member%s.md)\t" %(hanji, relations["hs2"])
+				if relations["cw2"] != "-1":
+					links += "[%s兮細漢자와 Younger daughter](member%s.md)\n\n" %(hanji, relations["cw2"])
 				content += "\n\n" + links
 
 			tables = ""
