@@ -1,4 +1,4 @@
-# 姑 Father's sister
+# 姑 Father's sister## 稱呼 칑·허· Namings
 
 漢字/諺文 | 姑
 --- | ---

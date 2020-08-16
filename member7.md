@@ -1,4 +1,4 @@
-# 小妹 Younger sister
+# 小妹 Younger sister## 稱呼 칑·허· Namings
 
 漢字/諺文 | 小妹
 --- | ---

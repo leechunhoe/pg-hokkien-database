@@ -1,4 +1,4 @@
-# 外嫲 Maternal grandmother
+# 外嫲 Maternal grandmother## 稱呼 칑·허· Namings
 
 漢字/諺文 | 外嫲
 --- | ---

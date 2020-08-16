@@ -1,4 +1,4 @@
-# 小弟 Younger brother
+# 小弟 Younger brother## 稱呼 칑·허· Namings
 
 漢字/諺文 | 小弟
 --- | ---

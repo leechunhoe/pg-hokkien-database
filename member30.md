@@ -1,4 +1,4 @@
-# 祖嫲 Great grandmother
+# 祖嫲 Great grandmother## 稱呼 칑·허· Namings
 
 漢字/諺文 | 祖嫲
 --- | ---

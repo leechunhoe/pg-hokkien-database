@@ -19,6 +19,8 @@ def main():
 			content += title
 
 			if len(member[0]) > 6:
+				content += "## 關係 과·희- Relationships"
+
 				relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in member[0][6].split(".")}
 				links = ""
 				if relations["pa"] != "-1":
@@ -46,6 +48,8 @@ def main():
 				if relations["cw2"] != "-1":
 					links += "- [%s兮細漢자와 Younger daughter](member%s.md)\n\n" %(hanji, relations["cw2"])
 				content += "\n\n" + links
+
+			content += "## 稱呼 칑·허· Namings"
 
 			tables = ""
 			for variant in member:

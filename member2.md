@@ -1,4 +1,4 @@
-# 爸 Father
+# 爸 Father## 關係 과·희- Relationships
 
 - [爸兮爸 Father](member8.md)
 
@@ -22,7 +22,7 @@
 
 - [爸兮細漢자와 Younger daughter](member7.md)
 
-
+## 稱呼 칑·허· Namings
 
 漢字/諺文 | 爸
 --- | ---

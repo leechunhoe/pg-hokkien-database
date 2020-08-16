@@ -1,4 +1,4 @@
-# 我 Me
+# 我 Me## 關係 과·희- Relationships
 
 - [我兮爸 Father](member2.md)
 
@@ -20,7 +20,7 @@
 
 - [我兮자와 Daughter](member20.md)
 
-
+## 稱呼 칑·허· Namings
 
 漢字/諺文 | 我
 --- | ---

@@ -1,4 +1,4 @@
-# 堂哥 Father's brother's elder son
+# 堂哥 Father's brother's elder son## 稱呼 칑·허· Namings
 
 漢字/諺文 | 堂哥
 --- | ---
