@@ -1,0 +1,78 @@
+1,我,와ˊ,wá,wa4,me
+
+2,爸,바·,pa,pa1,father
+2,爸,바·바·,pa-pa,pa3pa1,father
+2,阿爸,아·바ˆ,a-pâ,ah3pa2,father
+2,父,베-,pēe,pae33,father
+2,老父,ᄅᅷ-베-,lāu-pēe,lau33pae33,father
+
+3,媽,맣·,mah,mak3,mother
+3,媽媽,마·마·,ma-ma,ma3ma1,mother
+3,媽咪,마·미·,ma-mi,ma3mee1,mother
+3,母,뿌ˊ,bú,boo4,mother
+3,老母,ᄅᅷ-뿌ˊ,lāu-bú,lau33boo4,mother
+
+4,哥,고·,ko,koh1,elder brother
+5,姊,지ˊ,tsí,cee4,elder sister
+6,小弟,쇼ˊ디-,sió-tī,sio1tee33,younger brother
+7,小妹,쇼ˊᄆᆀ-,sió-mōi,sio1moy33,younger sister
+
+8,阿公,아·겅·,a-kong,ah3kong1,grandfather
+9,阿嬤,아·마ˊ,a-má,ah3mah4,grandmother
+
+10,阿伯,아·벻·,a-peh,ah3paek3,father's elder brother
+11,阿叔,아·즥·,a-tsek,ah3ceik3,father's younger brother
+12,姑,거·,koo,kor1,father's sister
+
+13,外公,꽈-겅·,guā-kong,gua33kong1,maternal grandfather
+14,外嫲,꽈-마ˊ,guā-má,gua33ma4,maternal grandmother
+15,阿姨,아·이ˆ,a-î,a3ee2,mother's sister
+16,阿舅,아·구-,a-kū,a3koo33,mother's brother
+
+17,尪,앙·,ang,ang1,husband
+17,翁,앙·,ang,ang1,husband
+18,某,뻐ˊ,bóo,bor4,wife
+
+19,囝,갸ᇫˊ,kiánn,knia4,son
+19,後生,ᄒᅷ-세ᇫ·,hāu-senn,hau33snae1,son
+20,자와,자ˊ와ˊ,tsá-uá,ca1ua4,daughter
+20,자뻐囝,자·뻐ˊ갸ᇫˊ,tsa-bóo-kiánn,ca3bor1knia4,daughter
+
+21,阿嫂,아·소ˊ,a-só,ah3soh4,brother's wife
+
+22,嬲,순·,sun,soon1,sibling's son/daughter
+22,孫仔,순·아ˊ,sun--á,soon1ah4,sibling's son/daughter
+
+23,姊夫,지ˊ후·,tsí-hu,cee1hoo1,elder sister's husband
+24,妹夫,ᄆᆀ-후·,mōi-hu,moy33hoo1,younger sister's husband
+
+25,外甥,꽈-싕·,guā-seng,gua33seng1,sister's son/daughter
+25,外甥,괴-싕·,guē-seng,guay33seng1,sister's son/daughter
+
+26,伯公,벻·겅·,peh-kong,paek1kong1,grandfather's elder brother
+27,叔公,즥·겅·,tsek-kong,ceik1kong1,grandfather's younger brother
+28,姑婆,거·보ˆ,koo-pô,kor3poh2,grandfather's sister
+
+29,阿祖,아·저ˊ,a-tsóo,ah3cor4,great,grandfather
+30,祖嫲,저ˊ마ˊ,tsóo-má,cor1mah4,great,grandmother
+
+31,舅公,구-겅·,kū-kong,koo33kong1,grandmother's brother
+32,姨婆,이ˆ보ˆ,î-pô,ee3poh2,grandmother's sister
+
+33,阿姆,아·음ˊ,a-ḿ,ah3mm4,father's elder brother's wife
+34,阿嬸,아·짐ˊ,a-tsím,ah3cim4,father's younger brother's wife
+
+35,堂哥,덩ˆ고·,tông-ko,tong3koh1,father's brother's elder son
+36,堂姊,덩ˆ지ˊ,tông-tsí,tong3cee4,father's brother's elder daughter
+37,堂小弟,덩ˆ쇼ˊ디-,tông-sió-tī,tong3sio1tee33,father's brother's younger son
+38,堂小妹,덩ˆ쇼ˊᄆᆀ-,tông-sió-mōi,tong3sio1moy33,father's brother's younger daughter
+
+39,表哥,ᄇᆤˊ고·,piáu-ko,piau1koh1,father's sister's elder son
+40,表姊,ᄇᆤˊ지ˊ,piáu-tsí,piau1cee4,father's sister's elder daughter
+41,表小弟,ᄇᆤˊ쇼ˊ디-,piáu-sió-tī,piau1sio1tee33,father's sister's younger son
+42,表小妹,ᄇᆤˊ쇼ˊᄆᆀ-,piáu-sió-mōi,piau1sio1moy33,father's sister's younger daughter
+
+43,姑丈,거·뎌ᇫ-,koo-tiōnn,kor3tnio33,father's sister's husband
+
+44,外祖,꽈-저ˊ,guā-tsóo,gua33cor4,maternal great grandfather
+45,外祖嫲,꽈-저ˊ마ˊ,guā-tsóo-má,gua33cor1mah4,maternal great grandmother
