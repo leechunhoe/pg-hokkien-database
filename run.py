@@ -9,7 +9,7 @@ def main():
 
 		for member in members:
 			id = member[0][0]
-			f = open("member%s.md" %id, "w")
+			f = open("members/member%s.md" %id, "w")
 			content = ""
 
 			hanji = member[0][1].capitalize()
