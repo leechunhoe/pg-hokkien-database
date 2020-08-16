@@ -1,4 +1,4 @@
-# 家庭 게·딍ˆ Family
+# 家庭 Family
 
 漢字/諺文 | English
 --- | ---

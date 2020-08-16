@@ -84,7 +84,7 @@ def generate_linked_member_files(members):
 
 def generate_index(members):
 	f = open("README.md", "w")
-	content = "# 家庭 게·딍ˆ Family\n\n"
+	content = "# 家庭 Family\n\n"
 	content += "漢字/諺文 | English\n"
 	content += "--- | ---\n"
 	for member in members:
