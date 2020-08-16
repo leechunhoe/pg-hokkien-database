@@ -6,7 +6,7 @@
 
 - [外嫲兮媽 Maternal grandmother's mother](member45.md)
 
-- [外嫲兮翁 Maternal grandmother's husband](member13.md)
+- [外嫲兮尪 Maternal grandmother's husband](member13.md)
 
 
 

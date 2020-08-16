@@ -6,7 +6,7 @@
 
 - [阿姨兮媽 Mother's sister's mother](member14.md)
 
-- [阿姨兮翁 Mother's sister's husband](member16.md)
+- [阿姨兮尪 Mother's sister's husband](member16.md)
 
 - [阿姨兮兄弟 Mother's sister's brother](member16.md)
 

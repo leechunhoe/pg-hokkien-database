@@ -37,7 +37,7 @@ def generate_linked_member_files(members):
 			if "ma" in relations:
 				links += "- [%s兮媽 %s mother](member%s.md)\n\n" %(hanji, english_possessive, relations["ma"])
 			if "ang" in relations:
-				links += "- [%s兮翁 %s husband](member%s.md)\n\n" %(hanji, english_possessive, relations["ang"])
+				links += "- [%s兮尪 %s husband](member%s.md)\n\n" %(hanji, english_possessive, relations["ang"])
 			if "bo" in relations:
 				links += "- [%s兮某 %s wife](member%s.md)\n\n" %(hanji, english_possessive, relations["bo"])
 			if "ht" in relations:

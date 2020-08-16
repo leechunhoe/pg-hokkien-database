@@ -6,7 +6,7 @@
 
 - [我兮媽 My mother](member3.md)
 
-- [我兮翁 My husband](member17.md)
+- [我兮尪 My husband](member17.md)
 
 - [我兮某 My wife](member18.md)
 

@@ -18,7 +18,7 @@
 [外嫲](members/member14.md) | [Maternal grandmother](members/member14.md)
 [阿姨](members/member15.md) | [Mother's sister](members/member15.md)
 [阿舅](members/member16.md) | [Mother's brother](members/member16.md)
-[翁](members/member17.md) | [Husband](members/member17.md)
+[尪](members/member17.md) | [Husband](members/member17.md)
 [某](members/member18.md) | [Wife](members/member18.md)
 [後生](members/member19.md) | [Son](members/member19.md)
 [자와](members/member20.md) | [Daughter](members/member20.md)

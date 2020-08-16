@@ -6,7 +6,7 @@
 
 - [姑兮媽 Father's sister's mother](member9.md)
 
-- [姑兮翁 Father's sister's husband](member43.md)
+- [姑兮尪 Father's sister's husband](member43.md)
 
 - [姑兮大漢後生 Father's sister's elder son](member39.md)
 

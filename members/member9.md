@@ -2,7 +2,7 @@
 
 ## 關係 관·희- Relationships
 
-- [阿嬤兮翁 Grandmother's husband](member8.md)
+- [阿嬤兮尪 Grandmother's husband](member8.md)
 
 - [阿嬤兮兄弟 Grandmother's brother](member31.md)
 

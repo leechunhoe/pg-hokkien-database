@@ -6,7 +6,7 @@
 
 - [小妹兮媽 Younger sister's mother](member3.md)
 
-- [小妹兮翁 Younger sister's husband](member23.md)
+- [小妹兮尪 Younger sister's husband](member23.md)
 
 - [小妹兮哥 Younger sister's elder brother](member4.md)
 

@@ -6,7 +6,7 @@
 
 - [媽兮媽 Mother's mother](member14.md)
 
-- [媽兮翁 Mother's husband](member2.md)
+- [媽兮尪 Mother's husband](member2.md)
 
 - [媽兮兄弟 Mother's brother](member16.md)
 

@@ -6,7 +6,7 @@
 
 - [姊兮媽 Elder sister's mother](member3.md)
 
-- [姊兮翁 Elder sister's husband](member23.md)
+- [姊兮尪 Elder sister's husband](member23.md)
 
 - [姊兮哥 Elder sister's elder brother](member4.md)
 
