@@ -1,4 +1,4 @@
-1,我,와ˊ,wá,wa4,me
+1,我,와ˊ,wá,wa4,me,a2b3c17d18e4f5g6h7i19j20k19l20
 
 2,爸,바·,pa,pa1,father
 2,爸,바·바·,pa-pa,pa3pa1,father
