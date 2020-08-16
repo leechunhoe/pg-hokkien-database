@@ -1,14 +1,24 @@
 # 我 Me
 
-[我兮爸 Father](member2.md)	[我兮媽 Mother](member3.md)
+- [我兮爸 Father](member2.md)
 
-[我兮翁 Husband](member17.md)	[我兮某 Wife](member18.md)
+- [我兮媽 Mother](member3.md)
 
-[我兮哥 Elder brother](member4.md)	[我兮姊 Elder sister](member5.md)
+- [我兮翁 Husband](member17.md)
 
-[我兮小弟 Younger brother](member6.md)	[我兮小妹 Younger sister](member7.md)
+- [我兮某 Wife](member18.md)
 
-[我兮囝 Son](member19.md)	[我兮자와 Daughter](member20.md)
+- [我兮哥 Elder brother](member4.md)
+
+- [我兮姊 Elder sister](member5.md)
+
+- [我兮小弟 Younger brother](member6.md)
+
+- [我兮小妹 Younger sister](member7.md)
+
+- [我兮囝 Son](member19.md)
+
+- [我兮자와 Daughter](member20.md)
 
 
 

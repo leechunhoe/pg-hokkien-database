@@ -1,16 +1,26 @@
 # 爸 Father
 
-[爸兮爸 Father](member8.md)	[爸兮媽 Mother](member9.md)
+- [爸兮爸 Father](member8.md)
 
-[爸兮某 Wife](member3.md)
+- [爸兮媽 Mother](member9.md)
 
-[爸兮哥 Elder brother](member10.md)	[爸兮姊 Elder sister](member12.md)
+- [爸兮某 Wife](member3.md)
 
-[爸兮小弟 Younger brother](member11.md)	[爸兮小妹 Younger sister](member12.md)
+- [爸兮哥 Elder brother](member10.md)
 
-[爸兮囝 Son](member4.md)	[爸兮자와 Daughter](member5.md)
+- [爸兮姊 Elder sister](member12.md)
 
-[爸兮細漢囝 Younger son](member6.md)	[爸兮細漢자와 Younger daughter](member7.md)
+- [爸兮小弟 Younger brother](member11.md)
+
+- [爸兮小妹 Younger sister](member12.md)
+
+- [爸兮囝 Son](member4.md)
+
+- [爸兮자와 Daughter](member5.md)
+
+- [爸兮細漢囝 Younger son](member6.md)
+
+- [爸兮細漢자와 Younger daughter](member7.md)
 
 
 
