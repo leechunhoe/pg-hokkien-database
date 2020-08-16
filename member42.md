@@ -5,3 +5,5 @@
 諺文 깐-뿐ˆ | ᄇᆤˊ쇼ˊᄆᆀ-
 台羅 Tâi-lô | piáu-sió-mōi
 戴字 Taiji | piau1sio1moy33
+
+

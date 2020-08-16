@@ -5,3 +5,5 @@
 諺文 깐-뿐ˆ | 지ˊ후·
 台羅 Tâi-lô | tsí-hu
 戴字 Taiji | cee1hoo1
+
+

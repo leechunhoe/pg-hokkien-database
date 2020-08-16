@@ -5,3 +5,5 @@
 諺文 깐-뿐ˆ | 덩ˆ지ˊ
 台羅 Tâi-lô | tông-tsí
 戴字 Taiji | tong3cee4
+
+

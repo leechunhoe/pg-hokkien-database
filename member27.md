@@ -5,3 +5,5 @@
 諺文 깐-뿐ˆ | 즥·겅·
 台羅 Tâi-lô | tsek-kong
 戴字 Taiji | ceik1kong1
+
+

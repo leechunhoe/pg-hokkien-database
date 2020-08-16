@@ -21,6 +21,7 @@ with open('data.csv') as csv_file:
 			tables += "諺文 깐-뿐ˆ | %s\n" %variant[2]
 			tables += "台羅 Tâi-lô | %s\n" %variant[3]
 			tables += "戴字 Taiji | %s\n" %variant[4]
+			tables += "\n\n"
 
 		# TODO Add links
 
