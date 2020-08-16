@@ -1,12 +1,22 @@
 pa Father
 ma Mother
-an Husband
+
+ang Husband
 bo Wife
+
 ko Elder brother
 ci Elder sister
 ti Younger brother
-me Younger sister
-hs Elder son
-cw Elder daughter
+moy Younger sister
+ht Brother
+cm Sister
+
+hscw Son/daughter
+hs Son
+cw Daughter
+hs1 Elder son
+cw1 Elder daughter
 hs2 Younger son
 cw2 Younger daughter
+
+pa:.ma:.ang:.bo:.ht:.cm:.ko:.ci:.ti:.moy:.hscw:.hs:.cw:.hs1:.cw1:.hs2:.cw2:
