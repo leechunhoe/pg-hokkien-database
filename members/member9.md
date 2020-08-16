@@ -2,19 +2,19 @@
 
 ## 關係 관·희- Relationships
 
-- [阿嬤兮翁 Husband](member8.md)
+- [阿嬤兮翁 Grandmother's husband](member8.md)
 
-- [阿嬤兮兄弟 Brother](member31.md)
+- [阿嬤兮兄弟 Grandmother's brother](member31.md)
 
-- [阿嬤兮姊妹 Sister](member32.md)
+- [阿嬤兮姊妹 Grandmother's sister](member32.md)
 
-- [阿嬤兮大漢後生 Elder son](member10.md)
+- [阿嬤兮大漢後生 Grandmother's elder son](member10.md)
 
-- [阿嬤兮囝 Children](member2.md)
+- [阿嬤兮囝 Grandmother's children](member2.md)
 
-- [阿嬤兮자와 Daughter](member12.md)
+- [阿嬤兮자와 Grandmother's daughter](member12.md)
 
-- [阿嬤兮細漢後生 Younger son](member11.md)
+- [阿嬤兮細漢後生 Grandmother's younger son](member11.md)
 
 
 

@@ -18,45 +18,49 @@ def main():
 			title = "# %s %s" %(hanji, english)
 			content += title
 
+			english_possessive = "%s's" %english
+			if id == "0":
+				english_possessive = "My"
+
 			if len(member[0]) > 6:
 				content += "\n\n## 關係 관·희- Relationships"
 
 				relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in member[0][6].split(".")}
 				links = ""
 				if "pa" in relations:
-					links += "- [%s兮爸 Father](member%s.md)\n\n" %(hanji, relations["pa"])
+					links += "- [%s兮爸 %s father](member%s.md)\n\n" %(hanji, english_possessive, relations["pa"])
 				if "ma" in relations:
-					links += "- [%s兮媽 Mother](member%s.md)\n\n" %(hanji, relations["ma"])
+					links += "- [%s兮媽 %s mother](member%s.md)\n\n" %(hanji, english_possessive, relations["ma"])
 				if "ang" in relations:
-					links += "- [%s兮翁 Husband](member%s.md)\n\n" %(hanji, relations["ang"])
+					links += "- [%s兮翁 %s husband](member%s.md)\n\n" %(hanji, english_possessive, relations["ang"])
 				if "bo" in relations:
-					links += "- [%s兮某 Wife](member%s.md)\n\n" %(hanji, relations["bo"])
+					links += "- [%s兮某 %s wife](member%s.md)\n\n" %(hanji, english_possessive, relations["bo"])
 				if "ht" in relations:
-					links += "- [%s兮兄弟 Brother](member%s.md)\n\n" %(hanji, relations["ht"])
+					links += "- [%s兮兄弟 %s brother](member%s.md)\n\n" %(hanji, english_possessive, relations["ht"])
 				if "ko" in relations:
-					links += "- [%s兮哥 Elder brother](member%s.md)\n\n" %(hanji, relations["ko"])
+					links += "- [%s兮哥 %s elder brother](member%s.md)\n\n" %(hanji, english_possessive, relations["ko"])
 				if "ti" in relations:
-					links += "- [%s兮小弟 Younger brother](member%s.md)\n\n" %(hanji, relations["ti"])
+					links += "- [%s兮小弟 %s younger brother](member%s.md)\n\n" %(hanji, english_possessive, relations["ti"])
 				if "cm" in relations:
-					links += "- [%s兮姊妹 Sister](member%s.md)\n\n" %(hanji, relations["cm"])
+					links += "- [%s兮姊妹 %s sister](member%s.md)\n\n" %(hanji, english_possessive, relations["cm"])
 				if "ci" in relations:
-					links += "- [%s兮姊 Elder sister](member%s.md)\n\n" %(hanji, relations["ci"])
+					links += "- [%s兮姊 %s elder sister](member%s.md)\n\n" %(hanji, english_possessive, relations["ci"])
 				if "moy" in relations:
-					links += "- [%s兮小妹 Younger sister](member%s.md)\n\n" %(hanji, relations["moy"])
+					links += "- [%s兮小妹 %s younger sister](member%s.md)\n\n" %(hanji, english_possessive, relations["moy"])
 				if "hs1" in relations:
-					links += "- [%s兮大漢後生 Elder son](member%s.md)\n\n" %(hanji, relations["hs1"])
+					links += "- [%s兮大漢後生 %s elder son](member%s.md)\n\n" %(hanji, english_possessive, relations["hs1"])
 				if "cw1" in relations:
-					links += "- [%s兮大漢자와 Elder daughter](member%s.md)\n\n" %(hanji, relations["cw1"])
+					links += "- [%s兮大漢자와 %s elder daughter](member%s.md)\n\n" %(hanji, english_possessive, relations["cw1"])
 				if "hscw" in relations:
-					links += "- [%s兮囝 Children](member%s.md)\n\n" %(hanji, relations["hscw"])
+					links += "- [%s兮囝 %s children](member%s.md)\n\n" %(hanji, english_possessive, relations["hscw"])
 				if "hs" in relations:
-					links += "- [%s兮後生 Son](member%s.md)\n\n" %(hanji, relations["hs"])
+					links += "- [%s兮後生 %s son](member%s.md)\n\n" %(hanji, english_possessive, relations["hs"])
 				if "cw" in relations:
-					links += "- [%s兮자와 Daughter](member%s.md)\n\n" %(hanji, relations["cw"])
+					links += "- [%s兮자와 %s daughter](member%s.md)\n\n" %(hanji, english_possessive, relations["cw"])
 				if "hs2" in relations:
-					links += "- [%s兮細漢後生 Younger son](member%s.md)\n\n" %(hanji, relations["hs2"])
+					links += "- [%s兮細漢後生 %s younger son](member%s.md)\n\n" %(hanji, english_possessive, relations["hs2"])
 				if "cw2" in relations:
-					links += "- [%s兮細漢자와 Younger daughter](member%s.md)\n\n" %(hanji, relations["cw2"])
+					links += "- [%s兮細漢자와 %s younger daughter](member%s.md)\n\n" %(hanji, english_possessive, relations["cw2"])
 				content += "\n\n" + links
 
 			content += "\n\n## 稱呼 칑·허· Namings"

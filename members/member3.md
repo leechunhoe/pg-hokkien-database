@@ -2,25 +2,25 @@
 
 ## 關係 관·희- Relationships
 
-- [媽兮爸 Father](member13.md)
+- [媽兮爸 Mother's father](member13.md)
 
-- [媽兮媽 Mother](member14.md)
+- [媽兮媽 Mother's mother](member14.md)
 
-- [媽兮翁 Husband](member2.md)
+- [媽兮翁 Mother's husband](member2.md)
 
-- [媽兮兄弟 Brother](member16.md)
+- [媽兮兄弟 Mother's brother](member16.md)
 
-- [媽兮姊妹 Sister](member15.md)
+- [媽兮姊妹 Mother's sister](member15.md)
 
-- [媽兮大漢後生 Elder son](member4.md)
+- [媽兮大漢後生 Mother's elder son](member4.md)
 
-- [媽兮大漢자와 Elder daughter](member5.md)
+- [媽兮大漢자와 Mother's elder daughter](member5.md)
 
-- [媽兮囝 Children](member1.md)
+- [媽兮囝 Mother's children](member1.md)
 
-- [媽兮細漢後生 Younger son](member6.md)
+- [媽兮細漢後生 Mother's younger son](member6.md)
 
-- [媽兮細漢자와 Younger daughter](member7.md)
+- [媽兮細漢자와 Mother's younger daughter](member7.md)
 
 
 

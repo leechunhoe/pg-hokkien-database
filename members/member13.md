@@ -2,11 +2,11 @@
 
 ## 關係 관·희- Relationships
 
-- [外公兮爸 Father](member44.md)
+- [外公兮爸 Maternal grandfather's father](member44.md)
 
-- [外公兮媽 Mother](member45.md)
+- [外公兮媽 Maternal grandfather's mother](member45.md)
 
-- [外公兮某 Wife](member14.md)
+- [外公兮某 Maternal grandfather's wife](member14.md)
 
 
 

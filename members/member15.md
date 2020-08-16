@@ -2,21 +2,21 @@
 
 ## 關係 관·희- Relationships
 
-- [阿姨兮爸 Father](member13.md)
+- [阿姨兮爸 Mother's sister's father](member13.md)
 
-- [阿姨兮媽 Mother](member14.md)
+- [阿姨兮媽 Mother's sister's mother](member14.md)
 
-- [阿姨兮翁 Husband](member16.md)
+- [阿姨兮翁 Mother's sister's husband](member16.md)
 
-- [阿姨兮兄弟 Brother](member16.md)
+- [阿姨兮兄弟 Mother's sister's brother](member16.md)
 
-- [阿姨兮大漢後生 Elder son](member47.md)
+- [阿姨兮大漢後生 Mother's sister's elder son](member47.md)
 
-- [阿姨兮大漢자와 Elder daughter](member48.md)
+- [阿姨兮大漢자와 Mother's sister's elder daughter](member48.md)
 
-- [阿姨兮細漢後生 Younger son](member49.md)
+- [阿姨兮細漢後生 Mother's sister's younger son](member49.md)
 
-- [阿姨兮細漢자와 Younger daughter](member50.md)
+- [阿姨兮細漢자와 Mother's sister's younger daughter](member50.md)
 
 
 

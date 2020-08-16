@@ -2,19 +2,19 @@
 
 ## 關係 관·희- Relationships
 
-- [小妹兮爸 Father](member2.md)
+- [小妹兮爸 Younger sister's father](member2.md)
 
-- [小妹兮媽 Mother](member3.md)
+- [小妹兮媽 Younger sister's mother](member3.md)
 
-- [小妹兮翁 Husband](member23.md)
+- [小妹兮翁 Younger sister's husband](member23.md)
 
-- [小妹兮哥 Elder brother](member4.md)
+- [小妹兮哥 Younger sister's elder brother](member4.md)
 
-- [小妹兮小弟 Younger brother](member6.md)
+- [小妹兮小弟 Younger sister's younger brother](member6.md)
 
-- [小妹兮姊 Elder sister](member5.md)
+- [小妹兮姊 Younger sister's elder sister](member5.md)
 
-- [小妹兮囝 Children](member25.md)
+- [小妹兮囝 Younger sister's children](member25.md)
 
 
 

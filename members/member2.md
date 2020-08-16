@@ -2,27 +2,27 @@
 
 ## 關係 관·희- Relationships
 
-- [爸兮爸 Father](member8.md)
+- [爸兮爸 Father's father](member8.md)
 
-- [爸兮媽 Mother](member9.md)
+- [爸兮媽 Father's mother](member9.md)
 
-- [爸兮某 Wife](member3.md)
+- [爸兮某 Father's wife](member3.md)
 
-- [爸兮哥 Elder brother](member10.md)
+- [爸兮哥 Father's elder brother](member10.md)
 
-- [爸兮小弟 Younger brother](member11.md)
+- [爸兮小弟 Father's younger brother](member11.md)
 
-- [爸兮姊妹 Sister](member12.md)
+- [爸兮姊妹 Father's sister](member12.md)
 
-- [爸兮大漢後生 Elder son](member4.md)
+- [爸兮大漢後生 Father's elder son](member4.md)
 
-- [爸兮大漢자와 Elder daughter](member5.md)
+- [爸兮大漢자와 Father's elder daughter](member5.md)
 
-- [爸兮囝 Children](member1.md)
+- [爸兮囝 Father's children](member1.md)
 
-- [爸兮細漢後生 Younger son](member6.md)
+- [爸兮細漢後生 Father's younger son](member6.md)
 
-- [爸兮細漢자와 Younger daughter](member7.md)
+- [爸兮細漢자와 Father's younger daughter](member7.md)
 
 
 
