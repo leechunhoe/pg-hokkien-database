@@ -1,5 +1,17 @@
 # 爸 Father
 
+[爸兮爸 Father](member8.md)	[爸兮媽 Mother](member9.md)
+
+[爸兮某 Wife](member3.md)
+
+[爸兮哥 Elder brother](member10.md)	[爸兮姊 Elder sister](member12.md)
+
+[爸兮小弟 Younger brother](member11.md)	[爸兮小妹 Younger sister](member12.md)
+
+[爸兮囝 Son](member4.md)	[爸兮자와 Daughter](member5.md)
+
+
+
 漢字/諺文 | 爸
 --- | ---
 諺文 깐-뿐ˆ | 바·
@@ -34,16 +46,4 @@
 台羅 Tâi-lô | lāu-pēe
 戴字 Taiji | lau33pae33
 
-
-
-
-[父 Father](member8.md)	[母 Mother](member9.md)
-
-[某 Wife](member3.md)
-
-[兄 Elder brother](member10.md)	[姊 Elder sister](member12.md)
-
-[弟 Younger brother](member11.md)	[妹 Younger sister](member12.md)
-
-[囝 Son](member4.md)	[자와 Daughter](member5.md)
 
