@@ -29,7 +29,7 @@
 15,阿姨,아·이ˆ,a-î,a3ee2,mother's sister,pa:13.ma:14.ang:16.ht:16.hs1:47.cw1:48.hs2:49.cw2:50
 16,阿舅,아·구-,a-kū,a3koo33,mother's brother,pa:13.ma:14.bo:51.cm:15.hs1:47.cw1:48.hs2:49.cw2:50
 
-17,翁/尪,앙·,ang,ang1,husband
+17,翁/尪,앙·,ang,ang1,husband,pa:57.ma:58.bo:1.cm:61.ko:59.ti:60.hs:19,cw:20
 18,某,뻐ˊ,bóo,bor4,wife
 
 19,後生,ᄒᅷ-세ᇫ·,hāu-senn,hau33snae1,son,pa:1.ma:1.bo:52.cm:20,hs:53.cw:54
@@ -94,3 +94,12 @@
 55,外孫,꽈-순·,guā-sun,gua33soon1,daughter's son
 56,자뻐外孫,자·뻐ˊ꽈-순·,tsa-bóo-guā-sun,ca3bor1gua33soon1,daughter's daughter
 56,자뻐孫,자·뻐ˊ순·,tsa-bóo-sun,ca3bor1soon1,daughter's daughter
+
+57,阮官,응ˊ과ᇫ·,ńg-kuann,ng1knua1,husband's father
+57,爸,바·,pa,pa1,husband's father
+58,娘,녀ˆ,niô,nio2,husband's mother
+58,媽,맣·,mah,mak3,husband's mother
+
+59,阿伯,아·벻·,a-peh,ah3paek3,husband's elder brother
+60,阿叔,아·즥·,a-tsek,ah3ceik3,husband's younger brother
+61,姑,거·,koo,kor1,husband's sister

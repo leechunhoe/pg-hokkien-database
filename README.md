@@ -59,3 +59,8 @@
 [자뻐孫](members/member54.md) | [Grand daughter](members/member54.md)
 [外孫](members/member55.md) | [Daughter's son](members/member55.md)
 [자뻐外孫](members/member56.md) | [Daughter's daughter](members/member56.md)
+[阮官](members/member57.md) | [Husband's father](members/member57.md)
+[娘](members/member58.md) | [Husband's mother](members/member58.md)
+[阿伯](members/member59.md) | [Husband's elder brother](members/member59.md)
+[阿叔](members/member60.md) | [Husband's younger brother](members/member60.md)
+[姑](members/member61.md) | [Husband's sister](members/member61.md)
