@@ -1,4 +1,5 @@
-# 姨仔 Wife's younger sister
+# 姨仔
+Wife's younger sister
 
 ## 稱呼 칑·허· Namings
 

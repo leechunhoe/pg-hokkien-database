@@ -1,4 +1,5 @@
-# 阿祖 Great grandfather
+# 阿祖
+Great grandfather
 
 ## 稱呼 칑·허· Namings
 

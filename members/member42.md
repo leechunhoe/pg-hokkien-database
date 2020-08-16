@@ -1,4 +1,5 @@
-# 表小妹 Father's sister's younger daughter
+# 表小妹
+Father's sister's younger daughter
 
 ## 稱呼 칑·허· Namings
 

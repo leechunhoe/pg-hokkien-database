@@ -1,4 +1,5 @@
-# 阿伯 Husband's elder brother
+# 阿伯
+Husband's elder brother
 
 ## 稱呼 칑·허· Namings
 

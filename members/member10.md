@@ -1,4 +1,5 @@
-# 阿伯 Father's elder brother
+# 阿伯
+Father's elder brother
 
 ## 關係 관·희- Relationships
 

@@ -1,4 +1,5 @@
-# 表哥 Mother's sibling's elder son
+# 表哥
+Mother's sibling's elder son
 
 ## 稱呼 칑·허· Namings
 

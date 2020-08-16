@@ -1,4 +1,5 @@
-# 妹夫 Younger sister's husband
+# 妹夫
+Younger sister's husband
 
 ## 稱呼 칑·허· Namings
 

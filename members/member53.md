@@ -1,4 +1,5 @@
-# 孫 Grand son
+# 孫
+Grand son
 
 ## 稱呼 칑·허· Namings
 

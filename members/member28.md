@@ -1,4 +1,5 @@
-# 姑婆 Grandfather's sister
+# 姑婆
+Grandfather's sister
 
 ## 稱呼 칑·허· Namings
 

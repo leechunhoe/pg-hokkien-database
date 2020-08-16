@@ -1,4 +1,5 @@
-# 外嫲 Maternal grandmother
+# 外嫲
+Maternal grandmother
 
 ## 關係 관·희- Relationships
 

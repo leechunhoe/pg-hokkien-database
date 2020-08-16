@@ -20,7 +20,7 @@ def generate_linked_member_files(members):
 		hanji = member[0][1].capitalize()
 		english = member[0][5].capitalize()
 
-		title = "# %s %s" %(hanji, english)
+		title = "# %s\n%s" %(hanji, english)
 		content += title
 
 		english_possessive = "%s's" %english

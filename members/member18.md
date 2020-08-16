@@ -1,4 +1,5 @@
-# 某 Wife
+# 某
+Wife
 
 ## 關係 관·희- Relationships
 

@@ -1,4 +1,5 @@
-# 姑丈 Father's sister's husband
+# 姑丈
+Father's sister's husband
 
 ## 稱呼 칑·허· Namings
 

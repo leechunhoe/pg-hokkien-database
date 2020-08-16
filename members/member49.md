@@ -1,4 +1,5 @@
-# 表小弟 Mother's sibling's younger son
+# 表小弟
+Mother's sibling's younger son
 
 ## 稱呼 칑·허· Namings
 

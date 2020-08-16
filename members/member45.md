@@ -1,4 +1,5 @@
-# 外祖嫲 Maternal great grandmother
+# 外祖嫲
+Maternal great grandmother
 
 ## 稱呼 칑·허· Namings
 

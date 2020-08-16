@@ -1,4 +1,5 @@
-# 姨丈 Mother's sister's husband
+# 姨丈
+Mother's sister's husband
 
 ## 稱呼 칑·허· Namings
 

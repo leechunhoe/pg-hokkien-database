@@ -1,4 +1,5 @@
-# 叔公 Grandfather's younger brother
+# 叔公
+Grandfather's younger brother
 
 ## 稱呼 칑·허· Namings
 
