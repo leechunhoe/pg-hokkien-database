@@ -1,6 +1,4 @@
-# Grandmother
-
-漢字/諺文 | 阿嬤
+# Grandmother漢字/諺文 | 阿嬤
 --- | ---
 諺文 깐-뿐ˆ | 아·마ˊ
 台羅 Tâi-lô | a-má

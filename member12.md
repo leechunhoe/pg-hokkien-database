@@ -1,6 +1,4 @@
-# Father's sister
-
-漢字/諺文 | 姑
+# Father's sister漢字/諺文 | 姑
 --- | ---
 諺文 깐-뿐ˆ | 거·
 台羅 Tâi-lô | koo

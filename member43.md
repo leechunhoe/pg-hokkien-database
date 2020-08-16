@@ -1,6 +1,4 @@
-# Father's sister's husband
-
-漢字/諺文 | 姑丈
+# Father's sister's husband漢字/諺文 | 姑丈
 --- | ---
 諺文 깐-뿐ˆ | 거·뎌ᇫ-
 台羅 Tâi-lô | koo-tiōnn

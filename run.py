@@ -6,12 +6,15 @@ def main():
 		csv_reader = csv.reader(csv_file, delimiter=',')
 		data = [row for row in csv_reader if len(row) > 0]
 		members = [list(i) for j, i in groupby(data, lambda a: a[0])]
+
 		for member in members:
 			id = member[0][0]
 			f = open("member%s.md" %id, "w")
+			content = ""
 
 			english = member[0][5].capitalize()
 			title = "# %s" %english
+			content += title
 
 			tables = ""
 			for variant in member:
@@ -21,6 +24,7 @@ def main():
 				tables += "台羅 Tâi-lô | %s\n" %variant[3]
 				tables += "戴字 Taiji | %s\n" %variant[4]
 				tables += "\n\n"
+			content += tables
 
 			# TODO Add links
 			if len(member[0]) > 6:
@@ -46,8 +50,8 @@ def main():
 					links += "[囝 son](member%s.md)\n" %relations["hs"]
 				if relations["cw"] != "-1":
 					links += "[자와 daughter](member%s.md)\n" %relations["cw"]
+				content += links
 
-			content = title + "\n\n" + tables + "\n\n" + links
 			f.write(content)
 
 main()

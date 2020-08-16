@@ -1,6 +1,4 @@
-# Sister's son/daughter
-
-漢字/諺文 | 外甥
+# Sister's son/daughter漢字/諺文 | 外甥
 --- | ---
 諺文 깐-뿐ˆ | 꽈-싕·
 台羅 Tâi-lô | guā-seng

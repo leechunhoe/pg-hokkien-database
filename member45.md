@@ -1,6 +1,4 @@
-# Maternal great grandmother
-
-漢字/諺文 | 外祖嫲
+# Maternal great grandmother漢字/諺文 | 外祖嫲
 --- | ---
 諺文 깐-뿐ˆ | 꽈-저ˊ마ˊ
 台羅 Tâi-lô | guā-tsóo-má
