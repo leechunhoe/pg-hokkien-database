@@ -11,4 +11,12 @@ with open('data.csv') as csv_file:
 		id = row[0][0]
 		english = row[0][5]
 		f = open("member%s.md" %id, "w")
-		f.write("# %s" %english)
+		title = "# %s" %english
+
+		# TODO Add tables
+
+		# TODO Add links
+
+		content = title
+
+		f.write(content)

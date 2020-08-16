@@ -1,15 +1,14 @@
 # Me
 
-方案 | 拼法
+漢字/諺文  | 我
 --- | ---
-漢字| 我
-깐-뿐ˆ| 와ˊ
-Tailo | wá
-Taiji | wa4
+諺文 깐-뿐ˆ | 와ˊ
+台羅 Tâi-lô | wá
+戴字 Taiji | wa4
 
-[爸 father](relative001.md)
+[父 father](relative001.md)
 
-[媽 mother](relative002.md)
+[母 mother](relative002.md)
 
 [兄 elder brother](relative003.md)
 
