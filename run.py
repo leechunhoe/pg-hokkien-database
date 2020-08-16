@@ -19,7 +19,7 @@ def main():
 			content += title
 
 			english_possessive = "%s's" %english
-			if id == "0":
+			if id == "1":
 				english_possessive = "My"
 
 			if len(member[0]) > 6:
