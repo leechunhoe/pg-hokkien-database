@@ -6,7 +6,7 @@
 2,父,베-,pēe,pae33,father
 2,老父,ᄅᅷ-베-,lāu-pēe,lau33pae33,father
 
-3,媽,맣·,mah,mak3,mother,pa:13.ma:14.ang:2.ko:16.ci:15.ti:16.moy:15.hs1:4.cw1:5.hscw:1.hs2:6.cw2:7
+3,媽,맣·,mah,mak3,mother,pa:13.ma:14.ang:2.ht:16.cm:15.hs1:4.cw1:5.hscw:1.hs2:6.cw2:7
 3,媽媽,마·마·,ma-ma,ma3ma1,mother
 3,媽咪,마·미·,ma-mi,ma3mee1,mother
 3,母,뿌ˊ,bú,boo4,mother
@@ -17,8 +17,8 @@
 6,小弟,쇼ˊ디-,sió-tī,sio1tee33,younger brother,pa:2.ma:3.bo:21.hscw:22
 7,小妹,쇼ˊᄆᆀ-,sió-mōi,sio1moy33,younger sister,pa:2.ma:3.ang:23.hscw:25
 
-8,阿公,아·겅·,a-kong,ah3kong1,grandfather
-9,阿嬤,아·마ˊ,a-má,ah3mah4,grandmother
+8,阿公,아·겅·,a-kong,ah3kong1,grandfather,pa:29.ma:30.bo:9.cm:28.ko:26.ti:27
+9,阿嬤,아·마ˊ,a-má,ah3mah4,grandmother,ang:8.ht:31.cm:32
 
 10,阿伯,아·벻·,a-peh,ah3paek3,father's elder brother
 11,阿叔,아·즥·,a-tsek,ah3ceik3,father's younger brother

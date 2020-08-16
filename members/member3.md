@@ -8,13 +8,9 @@
 
 - [媽兮翁 Husband](member2.md)
 
-- [媽兮哥 Elder brother](member16.md)
+- [媽兮兄弟 Brother](member16.md)
 
-- [媽兮姊 Elder sister](member15.md)
-
-- [媽兮小弟 Younger brother](member16.md)
-
-- [媽兮小妹 Younger sister](member15.md)
+- [媽兮姊妹 Sister](member15.md)
 
 - [媽兮大漢後生 Elder son](member4.md)
 
