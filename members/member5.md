@@ -1,12 +1,13 @@
-# 姊 Elder sister
+# 姊
+Elder sister
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [姊兮爸 Elder sister's father](member2.md)
 
 - [姊兮媽 Elder sister's mother](member3.md)
 
-- [姊兮翁 Elder sister's husband](member23.md)
+- [姊兮尪 Elder sister's husband](member23.md)
 
 - [姊兮哥 Elder sister's elder brother](member4.md)
 
@@ -18,7 +19,7 @@
 
 
 
-## 稱呼 칑·허· Namings
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 姊
 --- | ---

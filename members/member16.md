@@ -1,6 +1,7 @@
-# 阿舅 Mother's brother
+# 阿舅
+Mother's brother
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [阿舅兮爸 Mother's brother's father](member13.md)
 
@@ -20,7 +21,7 @@
 
 
 
-## 稱呼 칑·허· Namings
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 阿舅
 --- | ---

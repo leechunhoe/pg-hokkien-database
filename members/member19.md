@@ -1,6 +1,23 @@
-# 後生 Son
+# 後生
+Son
 
-## 稱呼 칑·허· Namings
+## 關係 관·희- _Relationships_
+
+- [後生兮爸 Son's father](member1.md)
+
+- [後生兮媽 Son's mother](member1.md)
+
+- [後生兮某 Son's wife](member52.md)
+
+- [後生兮姊妹 Son's sister](member20.md)
+
+- [後生兮後生 Son's son](member53.md)
+
+- [後生兮자와 Son's daughter](member54.md)
+
+
+
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 後生
 --- | ---

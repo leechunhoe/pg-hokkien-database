@@ -1,16 +1,17 @@
-# 外嫲 Maternal grandmother
+# 外嫲
+Maternal grandmother
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [外嫲兮爸 Maternal grandmother's father](member44.md)
 
 - [外嫲兮媽 Maternal grandmother's mother](member45.md)
 
-- [外嫲兮翁 Maternal grandmother's husband](member13.md)
+- [外嫲兮尪 Maternal grandmother's husband](member13.md)
 
 
 
-## 稱呼 칑·허· Namings
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 外嫲
 --- | ---

@@ -1,6 +1,7 @@
-# 爸 Father
+# 爸
+Father
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [爸兮爸 Father's father](member8.md)
 
@@ -26,7 +27,7 @@
 
 
 
-## 稱呼 칑·허· Namings
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 爸
 --- | ---

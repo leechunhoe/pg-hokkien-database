@@ -1,12 +1,13 @@
-# 姑 Father's sister
+# 姑
+Father's sister
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [姑兮爸 Father's sister's father](member8.md)
 
 - [姑兮媽 Father's sister's mother](member9.md)
 
-- [姑兮翁 Father's sister's husband](member43.md)
+- [姑兮尪 Father's sister's husband](member43.md)
 
 - [姑兮大漢後生 Father's sister's elder son](member39.md)
 
@@ -18,7 +19,7 @@
 
 
 
-## 稱呼 칑·허· Namings
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 姑
 --- | ---

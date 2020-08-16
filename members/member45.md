@@ -1,6 +1,7 @@
-# 外祖嫲 Maternal great grandmother
+# 外祖嫲
+Maternal great grandmother
 
-## 稱呼 칑·허· Namings
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 外祖嫲
 --- | ---

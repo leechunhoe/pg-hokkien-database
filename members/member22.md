@@ -1,6 +1,7 @@
-# 孫仔 Sibling's children
+# 孫仔
+Sibling's children
 
-## 稱呼 칑·허· Namings
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 孫仔
 --- | ---

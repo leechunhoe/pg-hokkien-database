@@ -1,6 +1,23 @@
-# 자와 Daughter
+# 자와
+Daughter
 
-## 稱呼 칑·허· Namings
+## 關係 관·희- _Relationships_
+
+- [자와兮爸 Daughter's father](member1.md)
+
+- [자와兮媽 Daughter's mother](member1.md)
+
+- [자와兮尪 Daughter's husband](member68.md)
+
+- [자와兮兄弟 Daughter's brother](member19.md)
+
+- [자와兮後生 Daughter's son](member55.md)
+
+- [자와兮자와 Daughter's daughter](member56.md)
+
+
+
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 자와
 --- | ---

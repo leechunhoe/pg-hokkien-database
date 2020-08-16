@@ -1,8 +1,9 @@
-# 阿嬤 Grandmother
+# 阿嬤
+Grandmother
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
-- [阿嬤兮翁 Grandmother's husband](member8.md)
+- [阿嬤兮尪 Grandmother's husband](member8.md)
 
 - [阿嬤兮兄弟 Grandmother's brother](member31.md)
 
@@ -18,7 +19,7 @@
 
 
 
-## 稱呼 칑·허· Namings
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 阿嬤
 --- | ---

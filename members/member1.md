@@ -1,12 +1,13 @@
-# 我 Me
+# 我
+Me
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [我兮爸 My father](member2.md)
 
 - [我兮媽 My mother](member3.md)
 
-- [我兮翁 My husband](member17.md)
+- [我兮尪 My husband](member17.md)
 
 - [我兮某 My wife](member18.md)
 
@@ -24,7 +25,7 @@
 
 
 
-## 稱呼 칑·허· Namings
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 我
 --- | ---

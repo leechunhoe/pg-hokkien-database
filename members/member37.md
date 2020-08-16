@@ -1,6 +1,7 @@
-# 堂小弟 Father's brother's younger son
+# 堂小弟
+Father's brother's younger son
 
-## 稱呼 칑·허· Namings
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 堂小弟
 --- | ---

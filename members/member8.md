@@ -1,6 +1,7 @@
-# 阿公 Grandfather
+# 阿公
+Grandfather
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [阿公兮爸 Grandfather's father](member29.md)
 
@@ -24,7 +25,7 @@
 
 
 
-## 稱呼 칑·허· Namings
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 阿公
 --- | ---

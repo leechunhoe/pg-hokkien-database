@@ -1,6 +1,7 @@
-# 哥 Elder brother
+# 哥
+Elder brother
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [哥兮爸 Elder brother's father](member2.md)
 
@@ -18,7 +19,7 @@
 
 
 
-## 稱呼 칑·허· Namings
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 哥
 --- | ---

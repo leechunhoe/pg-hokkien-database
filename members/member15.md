@@ -1,12 +1,13 @@
-# 阿姨 Mother's sister
+# 阿姨
+Mother's sister
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [阿姨兮爸 Mother's sister's father](member13.md)
 
 - [阿姨兮媽 Mother's sister's mother](member14.md)
 
-- [阿姨兮翁 Mother's sister's husband](member16.md)
+- [阿姨兮尪 Mother's sister's husband](member16.md)
 
 - [阿姨兮兄弟 Mother's sister's brother](member16.md)
 
@@ -20,7 +21,7 @@
 
 
 
-## 稱呼 칑·허· Namings
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 阿姨
 --- | ---

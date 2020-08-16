@@ -20,7 +20,7 @@ def generate_linked_member_files(members):
 		hanji = member[0][1].capitalize()
 		english = member[0][5].capitalize()
 
-		title = "# %s %s" %(hanji, english)
+		title = "# %s\n%s" %(hanji, english)
 		content += title
 
 		english_possessive = "%s's" %english
@@ -28,7 +28,7 @@ def generate_linked_member_files(members):
 			english_possessive = "My"
 
 		if len(member[0]) > 6:
-			content += "\n\n## 關係 관·희- Relationships"
+			content += "\n\n## 關係 관·희- _Relationships_"
 
 			relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in member[0][6].split(".")}
 			links = ""
@@ -37,7 +37,7 @@ def generate_linked_member_files(members):
 			if "ma" in relations:
 				links += "- [%s兮媽 %s mother](member%s.md)\n\n" %(hanji, english_possessive, relations["ma"])
 			if "ang" in relations:
-				links += "- [%s兮翁 %s husband](member%s.md)\n\n" %(hanji, english_possessive, relations["ang"])
+				links += "- [%s兮尪 %s husband](member%s.md)\n\n" %(hanji, english_possessive, relations["ang"])
 			if "bo" in relations:
 				links += "- [%s兮某 %s wife](member%s.md)\n\n" %(hanji, english_possessive, relations["bo"])
 			if "ht" in relations:
@@ -68,7 +68,7 @@ def generate_linked_member_files(members):
 				links += "- [%s兮細漢자와 %s younger daughter](member%s.md)\n\n" %(hanji, english_possessive, relations["cw2"])
 			content += "\n\n" + links
 
-		content += "\n\n## 稱呼 칑·허· Namings"
+		content += "\n\n## 稱呼 칑·허· _Address_"
 
 		tables = ""
 		for variant in member:

@@ -1,12 +1,13 @@
-# 媽 Mother
+# 媽
+Mother
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [媽兮爸 Mother's father](member13.md)
 
 - [媽兮媽 Mother's mother](member14.md)
 
-- [媽兮翁 Mother's husband](member2.md)
+- [媽兮尪 Mother's husband](member2.md)
 
 - [媽兮兄弟 Mother's brother](member16.md)
 
@@ -24,7 +25,7 @@
 
 
 
-## 稱呼 칑·허· Namings
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 媽
 --- | ---

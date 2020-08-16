@@ -1,6 +1,7 @@
-# 舅公 Grandmother's brother
+# 舅公
+Grandmother's brother
 
-## 稱呼 칑·허· Namings
+## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 舅公
 --- | ---
