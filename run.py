@@ -16,11 +16,11 @@ with open('data.csv') as csv_file:
 		tables = ""
 		# TODO Add tables
 		for variant in member:
-			tables += "漢字/諺文 | %s\n" %variant[1]
+			tables += "漢字/諺文 | %s\n\n" %variant[1]
 			tables += "--- | ---"
-			tables += "諺文 깐-뿐ˆ | %s\n" %variant[2]
-			tables += "台羅 Tâi-lô | %s\n" %variant[3]
-			tables += "戴字 Taiji | %s\n" %variant[4]
+			tables += "諺文 깐-뿐ˆ | %s\n\n" %variant[2]
+			tables += "台羅 Tâi-lô | %s\n\n" %variant[3]
+			tables += "戴字 Taiji | %s\n\n" %variant[4]
 
 		# TODO Add links
 
