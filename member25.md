@@ -1,4 +1,4 @@
-# 外甥 Sister's son/daughter
+# 外甥 Sister's children
 
 ## 稱呼 칑·허· Namings
 
