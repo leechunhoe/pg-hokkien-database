@@ -19,7 +19,7 @@ def main():
 			content += title
 
 			if len(member[0]) > 6:
-				content += "## 關係 과·희- Relationships"
+				content += "\n\n## 關係 관·희- Relationships"
 
 				relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in member[0][6].split(".")}
 				links = ""
