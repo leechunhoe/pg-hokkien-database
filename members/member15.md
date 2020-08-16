@@ -1,4 +1,24 @@
-# 阿姨 Mother's sister.pa:13.ma:14.ang:16.ht:16.hs1:47.cw1:48.hs2:49.cw2:50
+# 阿姨 Mother's sister
+
+## 關係 관·희- Relationships
+
+- [阿姨兮爸 Father](member13.md)
+
+- [阿姨兮媽 Mother](member14.md)
+
+- [阿姨兮翁 Husband](member16.md)
+
+- [阿姨兮兄弟 Brother](member16.md)
+
+- [阿姨兮大漢後生 Elder son](member47.md)
+
+- [阿姨兮大漢자와 Elder daughter](member48.md)
+
+- [阿姨兮細漢後生 Younger son](member49.md)
+
+- [阿姨兮細漢자와 Younger daughter](member50.md)
+
+
 
 ## 稱呼 칑·허· Namings
 
