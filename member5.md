@@ -1,4 +1,6 @@
-# 姊 Elder sister## 稱呼 칑·허· Namings
+# 姊 Elder sister
+
+## 稱呼 칑·허· Namings
 
 漢字/諺文 | 姊
 --- | ---

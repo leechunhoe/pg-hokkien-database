@@ -1,4 +1,6 @@
-# 阿公 Grandfather## 稱呼 칑·허· Namings
+# 阿公 Grandfather
+
+## 稱呼 칑·허· Namings
 
 漢字/諺文 | 阿公
 --- | ---

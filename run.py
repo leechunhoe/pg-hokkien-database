@@ -55,7 +55,7 @@ def main():
 					links += "- [%s兮細漢자와 Younger daughter](member%s.md)\n\n" %(hanji, relations["cw2"])
 				content += "\n\n" + links
 
-			content += "## 稱呼 칑·허· Namings"
+			content += "\n\n## 稱呼 칑·허· Namings"
 
 			tables = ""
 			for variant in member:

@@ -1,4 +1,6 @@
-# 妹夫 Younger sister's husband## 稱呼 칑·허· Namings
+# 妹夫 Younger sister's husband
+
+## 稱呼 칑·허· Namings
 
 漢字/諺文 | 妹夫
 --- | ---

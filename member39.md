@@ -1,4 +1,6 @@
-# 表哥 Father's sister's elder son## 稱呼 칑·허· Namings
+# 表哥 Father's sister's elder son
+
+## 稱呼 칑·허· Namings
 
 漢字/諺文 | 表哥
 --- | ---

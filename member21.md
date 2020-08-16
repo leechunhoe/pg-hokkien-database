@@ -1,4 +1,6 @@
-# 阿嫂 Brother's wife## 稱呼 칑·허· Namings
+# 阿嫂 Brother's wife
+
+## 稱呼 칑·허· Namings
 
 漢字/諺文 | 阿嫂
 --- | ---

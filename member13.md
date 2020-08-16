@@ -1,4 +1,6 @@
-# 外公 Maternal grandfather## 稱呼 칑·허· Namings
+# 外公 Maternal grandfather
+
+## 稱呼 칑·허· Namings
 
 漢字/諺文 | 外公
 --- | ---

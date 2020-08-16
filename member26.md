@@ -1,4 +1,6 @@
-# 伯公 Grandfather's elder brother## 稱呼 칑·허· Namings
+# 伯公 Grandfather's elder brother
+
+## 稱呼 칑·허· Namings
 
 漢字/諺文 | 伯公
 --- | ---

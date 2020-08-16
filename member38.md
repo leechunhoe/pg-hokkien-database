@@ -1,4 +1,6 @@
-# 堂小妹 Father's brother's younger daughter## 稱呼 칑·허· Namings
+# 堂小妹 Father's brother's younger daughter
+
+## 稱呼 칑·허· Namings
 
 漢字/諺文 | 堂小妹
 --- | ---

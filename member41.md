@@ -1,4 +1,6 @@
-# 表小弟 Father's sister's younger son## 稱呼 칑·허· Namings
+# 表小弟 Father's sister's younger son
+
+## 稱呼 칑·허· Namings
 
 漢字/諺文 | 表小弟
 --- | ---

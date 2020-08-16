@@ -1,4 +1,6 @@
-# 姑丈 Father's sister's husband## 稱呼 칑·허· Namings
+# 姑丈 Father's sister's husband
+
+## 稱呼 칑·허· Namings
 
 漢字/諺文 | 姑丈
 --- | ---
