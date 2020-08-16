@@ -68,7 +68,7 @@ def generate_linked_member_files(members):
 				links += "- [%s兮細漢자와 %s younger daughter](member%s.md)\n\n" %(hanji, english_possessive, relations["cw2"])
 			content += "\n\n" + links
 
-		content += "\n\n## 稱呼 칑·허· Namings"
+		content += "\n\n## 稱呼 칑·허· Addresses"
 
 		tables = ""
 		for variant in member:

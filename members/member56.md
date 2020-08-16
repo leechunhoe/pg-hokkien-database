@@ -1,7 +1,7 @@
 # 자뻐外孫
 Daughter's daughter
 
-## 稱呼 칑·허· Namings
+## 稱呼 칑·허· Addresses
 
 漢字/諺文 | 자뻐外孫
 --- | ---

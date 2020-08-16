@@ -19,7 +19,7 @@ Elder sister
 
 
 
-## 稱呼 칑·허· Namings
+## 稱呼 칑·허· Addresses
 
 漢字/諺文 | 姊
 --- | ---
