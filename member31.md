@@ -1,4 +1,4 @@
-# grandmother's brother
+# Grandmother's brother
 
 漢字/諺文 | 舅公
 --- | ---

@@ -1,4 +1,4 @@
-# younger brother
+# Younger brother
 
 漢字/諺文 | 小弟
 --- | ---

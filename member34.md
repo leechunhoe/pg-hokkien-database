@@ -1,4 +1,4 @@
-# father's younger brother's wife
+# Father's younger brother's wife
 
 漢字/諺文 | 阿嬸
 --- | ---

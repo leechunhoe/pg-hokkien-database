@@ -1,4 +1,4 @@
-# father's brother's elder son
+# Father's brother's elder son
 
 漢字/諺文 | 堂哥
 --- | ---

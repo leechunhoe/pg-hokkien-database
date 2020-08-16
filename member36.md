@@ -1,4 +1,4 @@
-# father's brother's elder daughter
+# Father's brother's elder daughter
 
 漢字/諺文 | 堂姊
 --- | ---

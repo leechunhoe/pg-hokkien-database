@@ -1,4 +1,4 @@
-# father's brother's younger son
+# Father's brother's younger son
 
 漢字/諺文 | 堂小弟
 --- | ---

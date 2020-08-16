@@ -1,4 +1,4 @@
-# father's younger brother
+# Father's younger brother
 
 漢字/諺文 | 阿叔
 --- | ---

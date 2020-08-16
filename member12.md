@@ -1,4 +1,4 @@
-# father's sister
+# Father's sister
 
 漢字/諺文 | 姑
 --- | ---

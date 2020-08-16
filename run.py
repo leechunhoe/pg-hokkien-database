@@ -9,12 +9,12 @@ with open('data.csv') as csv_file:
 	members = [list(i) for j, i in groupby(data, lambda a: a[0])]
 	for member in members:
 		id = member[0][0]
-		english = member[0][5]
 		f = open("member%s.md" %id, "w")
+
+		english = member[0][5].capitalize()
 		title = "# %s" %english
 
 		tables = ""
-		# TODO Add tables
 		for variant in member:
 			tables += "漢字/諺文 | %s\n" %variant[1]
 			tables += "--- | ---\n"

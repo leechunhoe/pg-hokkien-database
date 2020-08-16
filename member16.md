@@ -1,4 +1,4 @@
-# mother's brother
+# Mother's brother
 
 漢字/諺文 | 阿舅
 --- | ---

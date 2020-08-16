@@ -1,4 +1,4 @@
-# grandmother
+# Grandmother
 
 漢字/諺文 | 阿嬤
 --- | ---

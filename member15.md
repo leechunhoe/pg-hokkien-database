@@ -1,4 +1,4 @@
-# mother's sister
+# Mother's sister
 
 漢字/諺文 | 阿姨
 --- | ---

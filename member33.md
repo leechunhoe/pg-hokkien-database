@@ -1,4 +1,4 @@
-# father's elder brother's wife
+# Father's elder brother's wife
 
 漢字/諺文 | 阿姆
 --- | ---

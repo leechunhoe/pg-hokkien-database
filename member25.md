@@ -1,4 +1,4 @@
-# sister's son/daughter
+# Sister's son/daughter
 
 漢字/諺文 | 外甥
 --- | ---

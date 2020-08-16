@@ -1,4 +1,4 @@
-# elder sister's husband
+# Elder sister's husband
 
 漢字/諺文 | 姊夫
 --- | ---

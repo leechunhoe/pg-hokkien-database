@@ -1,4 +1,4 @@
-# grandfather's younger brother
+# Grandfather's younger brother
 
 漢字/諺文 | 叔公
 --- | ---

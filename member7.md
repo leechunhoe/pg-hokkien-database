@@ -1,4 +1,4 @@
-# younger sister
+# Younger sister
 
 漢字/諺文 | 小妹
 --- | ---
