@@ -8,14 +8,6 @@
 
 - [哥兮某 Wife](member21.md)
 
-- [哥兮哥 Elder brother](member4.md)
-
-- [哥兮姊 Elder sister](member5.md)
-
-- [哥兮小弟 Younger brother](member6.md)
-
-- [哥兮小妹 Younger sister](member7.md)
-
 - [哥兮囝 Son/daughter](member22.md)
 
 
