@@ -1,12 +1,12 @@
-a Father
-b Mother
-c Husband
-d Wife
-e Elder brother
-f Elder sister
-g Younger brother
-h Younger sister
-i Elder son
-j Elder daughter
-k Younger son
-l Younger daughter
+pa Father
+ma Mother
+an Husband
+bo Wife
+ko Elder brother
+ci Elder sister
+ti Younger brother
+me Younger sister
+hs Elder son
+cw Elder daughter
+hs2 Younger son
+cw2 Younger daughter

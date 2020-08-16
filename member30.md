@@ -1,4 +1,4 @@
-# Great
+# Great grandmother
 
 漢字/諺文 | 祖嫲
 --- | ---

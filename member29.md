@@ -1,4 +1,4 @@
-# Great
+# Great grandfather
 
 漢字/諺文 | 阿祖
 --- | ---
