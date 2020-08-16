@@ -28,7 +28,7 @@ def generate_linked_member_files(members):
 			english_possessive = "My"
 
 		if len(member[0]) > 6:
-			content += "\n\n## 關係 관·희- Relationships"
+			content += "\n\n## 關係 관·희- _Relationships_"
 
 			relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in member[0][6].split(".")}
 			links = ""

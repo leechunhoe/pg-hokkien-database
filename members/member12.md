@@ -1,7 +1,7 @@
 # 姑
 Father's sister
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [姑兮爸 Father's sister's father](member8.md)
 

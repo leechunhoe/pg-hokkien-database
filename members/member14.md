@@ -1,7 +1,7 @@
 # 外嫲
 Maternal grandmother
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [外嫲兮爸 Maternal grandmother's father](member44.md)
 

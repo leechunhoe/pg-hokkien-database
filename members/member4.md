@@ -1,7 +1,7 @@
 # 哥
 Elder brother
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [哥兮爸 Elder brother's father](member2.md)
 

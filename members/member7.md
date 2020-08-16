@@ -1,7 +1,7 @@
 # 小妹
 Younger sister
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [小妹兮爸 Younger sister's father](member2.md)
 

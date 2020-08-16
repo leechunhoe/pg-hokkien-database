@@ -1,7 +1,7 @@
 # 某
 Wife
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [某兮爸 Wife's father](member62.md)
 

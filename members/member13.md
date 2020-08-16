@@ -1,7 +1,7 @@
 # 外公
 Maternal grandfather
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [外公兮爸 Maternal grandfather's father](member44.md)
 

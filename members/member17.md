@@ -1,7 +1,7 @@
 # 尪
 Husband
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [尪兮爸 Husband's father](member57.md)
 

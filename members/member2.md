@@ -1,7 +1,7 @@
 # 爸
 Father
 
-## 關係 관·희- Relationships
+## 關係 관·희- _Relationships_
 
 - [爸兮爸 Father's father](member8.md)
 
