@@ -8,6 +8,7 @@ def main():
 		members = [list(i) for j, i in groupby(data, lambda a: a[0])]
 
 		generate_linked_member_files(members)
+		generate_index(members)
 
 def generate_linked_member_files(members):
 	# Generate linked member files
@@ -80,5 +81,19 @@ def generate_linked_member_files(members):
 		content += "\n\n" + tables
 
 		f.write(content)
+
+def generate_index(members):
+	f = open("README.md", "w")
+	content = "# 家庭 게·딍ˆ Family\n\n"
+	content += "漢字/諺文 | English\n"
+	content += "--- | ---\n"
+	for member in members:
+		id = member[0][0]
+		hanji = member[0][1].capitalize()
+		english = member[0][5].capitalize()
+		filename = "members/member%s.md" %id
+		content += "[%s](%s) | [%s](%s)\n" %(hanji, filename, english, filename)
+
+	f.write(content)
 
 main()
