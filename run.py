@@ -47,7 +47,7 @@ def main():
 				if relations["cw"] != "-1":
 					links += "[자와 daughter](member%s.md)\n" %relations["cw"]
 
-			content = title + "\n\n" + tables
+			content = title + "\n\n" + tables + "\n\n" + links
 			f.write(content)
 
 main()
