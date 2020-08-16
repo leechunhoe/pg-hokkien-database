@@ -24,8 +24,8 @@
 11,阿叔,아·즥·,a-tsek,ah3ceik3,father's younger brother,pa:8.ma:9.bo:34.hs1:35.cw1:36.hs2:37.cw2:38
 12,姑,거·,koo,kor1,father's sister,pa:8.ma:9.ang:43.hs1:39.cw1:40.hs2:41.cw2:42
 
-13,外公,꽈-겅·,guā-kong,gua33kong1,maternal grandfather
-14,外嫲,꽈-마ˊ,guā-má,gua33ma4,maternal grandmother
+13,外公,꽈-겅·,guā-kong,gua33kong1,maternal grandfather,pa:44.ma:45.bo:14
+14,外嫲,꽈-마ˊ,guā-má,gua33ma4,maternal grandmother,pa:44.ma:45.ang:13
 15,阿姨,아·이ˆ,a-î,a3ee2,mother's sister
 16,阿舅,아·구-,a-kū,a3koo33,mother's brother
 
@@ -75,3 +75,4 @@
 
 44,外祖,꽈-저ˊ,guā-tsóo,gua33cor4,maternal great grandfather
 45,外祖嫲,꽈-저ˊ마ˊ,guā-tsóo-má,gua33cor1mah4,maternal great grandmother
+
