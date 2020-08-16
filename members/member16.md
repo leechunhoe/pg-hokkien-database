@@ -8,7 +8,7 @@
 
 - [阿舅兮某 Wife](member51.md)
 
-- [阿舅兮兄弟 Brother](member16.md)
+- [阿舅兮姊妹 Sister](member15.md)
 
 - [阿舅兮大漢後生 Elder son](member47.md)
 
