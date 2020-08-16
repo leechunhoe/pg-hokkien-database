@@ -35,3 +35,15 @@
 戴字 Taiji | lau33pae33
 
 
+
+
+[父 Father](member8.md)	[母 Mother](member9.md)
+
+[某 Wife](member3.md)
+
+[兄 Elder brother](member10.md)	[姊 Elder sister](member12.md)
+
+[弟 Younger brother](member11.md)	[妹 Younger sister](member12.md)
+
+[囝 Son](member4.md)	[자와 Daughter](member5.md)
+
