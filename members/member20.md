@@ -7,7 +7,7 @@ Daughter
 
 - [자와兮媽 Daughter's mother](member1.md)
 
-- [자와兮尪 Daughter's husband](member.md)
+- [자와兮尪 Daughter's husband](member68.md)
 
 - [자와兮兄弟 Daughter's brother](member19.md)
 

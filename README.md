@@ -54,7 +54,6 @@
 [表小妹](members/member50.md) | [Mother's sibling's younger daughter](members/member50.md)
 [阿妗](members/member51.md) | [Mother's brother's wife](members/member51.md)
 [新婦](members/member52.md) | [Son's wife](members/member52.md)
-[囝婿](members/member55.md) | [Daughter's husband](members/member55.md)
 [孫](members/member53.md) | [Grand son](members/member53.md)
 [자뻐孫](members/member54.md) | [Grand daughter](members/member54.md)
 [外孫](members/member55.md) | [Daughter's son](members/member55.md)
@@ -70,3 +69,4 @@
 [阿姨](members/member65.md) | [Wife's elder sister](members/member65.md)
 [舅仔](members/member66.md) | [Wife's younger brother](members/member66.md)
 [姨仔](members/member67.md) | [Wife's younger sister](members/member67.md)
+[囝婿](members/member68.md) | [Daughter's husband](members/member68.md)
