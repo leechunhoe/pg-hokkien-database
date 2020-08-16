@@ -8,7 +8,7 @@
 
 - [小妹兮翁 Husband](member23.md)
 
-- [小妹兮囝 Son/daughter](member25.md)
+- [小妹兮囝 Children](member25.md)
 
 
 

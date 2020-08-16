@@ -16,7 +16,7 @@
 
 - [媽兮大漢자와 Elder daughter](member5.md)
 
-- [媽兮囝 Son/daughter](member1.md)
+- [媽兮囝 Children](member1.md)
 
 - [媽兮細漢後生 Younger son](member6.md)
 

@@ -8,7 +8,7 @@
 
 - [姊兮翁 Husband](member23.md)
 
-- [姊兮囝 Son/daughter](member25.md)
+- [姊兮囝 Children](member25.md)
 
 
 

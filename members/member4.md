@@ -8,7 +8,7 @@
 
 - [哥兮某 Wife](member21.md)
 
-- [哥兮囝 Son/daughter](member22.md)
+- [哥兮囝 Children](member22.md)
 
 
 

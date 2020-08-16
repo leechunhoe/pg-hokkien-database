@@ -16,7 +16,7 @@
 
 - [阿公兮大漢後生 Elder son](member10.md)
 
-- [阿公兮囝 Son/daughter](member2.md)
+- [阿公兮囝 Children](member2.md)
 
 - [阿公兮자와 Daughter](member12.md)
 
