@@ -11,6 +11,10 @@ Son
 
 - [後生兮姊妹 Son's sister](member20.md)
 
+- [後生兮後生 Son's son](member53.md)
+
+- [後生兮자와 Son's daughter](member54.md)
+
 
 
 ## 稱呼 칑·허· _Address_

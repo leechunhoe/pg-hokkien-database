@@ -19,6 +19,8 @@ Wife
 
 - [某兮後生 Wife's son](member19.md)
 
+- [某兮자와 Wife's daughter](member20.md)
+
 
 
 ## 稱呼 칑·허· _Address_

@@ -17,6 +17,8 @@ Husband
 
 - [尪兮後生 Husband's son](member19.md)
 
+- [尪兮자와 Husband's daughter](member20.md)
+
 
 
 ## 稱呼 칑·허· _Address_
