@@ -12,9 +12,9 @@
 
 - [我兮哥 Elder brother](member4.md)
 
-- [我兮姊 Elder sister](member5.md)
-
 - [我兮小弟 Younger brother](member6.md)
+
+- [我兮姊 Elder sister](member5.md)
 
 - [我兮小妹 Younger sister](member7.md)
 

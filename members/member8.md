@@ -8,11 +8,11 @@
 
 - [阿公兮某 Wife](member9.md)
 
-- [阿公兮姊妹 Sister](member28.md)
-
 - [阿公兮哥 Elder brother](member26.md)
 
 - [阿公兮小弟 Younger brother](member27.md)
+
+- [阿公兮姊妹 Sister](member28.md)
 
 - [阿公兮大漢後生 Elder son](member10.md)
 

@@ -8,11 +8,11 @@
 
 - [爸兮某 Wife](member3.md)
 
-- [爸兮姊妹 Sister](member12.md)
-
 - [爸兮哥 Elder brother](member10.md)
 
 - [爸兮小弟 Younger brother](member11.md)
+
+- [爸兮姊妹 Sister](member12.md)
 
 - [爸兮大漢後生 Elder son](member4.md)
 
