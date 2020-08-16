@@ -12,10 +12,10 @@
 3,母,뿌ˊ,bú,boo4,mother
 3,老母,ᄅᅷ-뿌ˊ,lāu-bú,lau33boo4,mother
 
-4,哥,고·,ko,koh1,elder brother,pa:2.ma:3.bo:21.hscw:22
-5,姊,지ˊ,tsí,cee4,elder sister,pa:2.ma:3.ang:23.hscw:25
-6,小弟,쇼ˊ디-,sió-tī,sio1tee33,younger brother,pa:2.ma:3.bo:21.hscw:22
-7,小妹,쇼ˊᄆᆀ-,sió-mōi,sio1moy33,younger sister,pa:2.ma:3.ang:23.hscw:25
+4,哥,고·,ko,koh1,elder brother,pa:2.ma:3.bo:21.ci:5.ti:6.moy:7.hscw:22
+5,姊,지ˊ,tsí,cee4,elder sister,pa:2.ma:3.ang:23.ko:4.ti:6.moy:7.hscw:25
+6,小弟,쇼ˊ디-,sió-tī,sio1tee33,younger brother,pa:2.ma:3.bo:21.ko:4.ci:5.moy:7.hscw:22
+7,小妹,쇼ˊᄆᆀ-,sió-mōi,sio1moy33,younger sister,pa:2.ma:3.ang:23.ko:4.ci:5.ti:6.hscw:25
 
 8,阿公,아·겅·,a-kong,ah3kong1,grandfather,pa:29.ma:30.bo:9.cm:28.ko:26.ti:27.hs1:10.cw:12.hscw:2.hs2:11
 9,阿嬤,아·마ˊ,a-má,ah3mah4,grandmother,ang:8.ht:31.cm:32.hs1:10.cw:12.hscw:2.hs2:11
@@ -26,8 +26,8 @@
 
 13,外公,꽈-겅·,guā-kong,gua33kong1,maternal grandfather,pa:44.ma:45.bo:14
 14,外嫲,꽈-마ˊ,guā-má,gua33ma4,maternal grandmother,pa:44.ma:45.ang:13
-15,阿姨,아·이ˆ,a-î,a3ee2,mother's sister
-16,阿舅,아·구-,a-kū,a3koo33,mother's brother
+15,阿姨,아·이ˆ,a-î,a3ee2,mother's sister.pa:13.ma:14.ang:16.ht:16.hs1:47.cw1:48.hs2:49.cw2:50
+16,阿舅,아·구-,a-kū,a3koo33,mother's brother.pa:13.ma:14.bo:51.ht:16.hs1:47.cw1:48.hs2:49.cw2:50
 
 17,翁/尪,앙·,ang,ang1,husband
 18,某,뻐ˊ,bóo,bor4,wife
@@ -75,4 +75,14 @@
 
 44,外祖,꽈-저ˊ,guā-tsóo,gua33cor4,maternal great grandfather
 45,外祖嫲,꽈-저ˊ마ˊ,guā-tsóo-má,gua33cor1mah4,maternal great grandmother
+
+46,姨丈,이ˆ뎌ᇫ-,î-tiōnn,ee3tnio33,mother's sister's husband
+
+47,表哥,ᄇᆤˊ고·,piáu-ko,piau1koh1,mother's sibling's elder son
+48,表姊,ᄇᆤˊ지ˊ,piáu-tsí,piau1cee4,mother's sibling's elder daughter
+49,表小弟,ᄇᆤˊ쇼ˊ디-,piáu-sió-tī,piau1sio1tee33,mother's sibling's younger son
+50,表小妹,ᄇᆤˊ쇼ˊᄆᆀ-,piáu-sió-mōi,piau1sio1moy33,mother's sibling's younger daughter
+
+51,阿妗,아·김-,a-kīm,ah3kim33,mother's brother's wife
+
 

@@ -8,6 +8,12 @@
 
 - [小妹兮翁 Husband](member23.md)
 
+- [小妹兮哥 Elder brother](member4.md)
+
+- [小妹兮小弟 Younger brother](member6.md)
+
+- [小妹兮姊 Elder sister](member5.md)
+
 - [小妹兮囝 Children](member25.md)
 
 

@@ -8,6 +8,12 @@
 
 - [小弟兮某 Wife](member21.md)
 
+- [小弟兮哥 Elder brother](member4.md)
+
+- [小弟兮姊 Elder sister](member5.md)
+
+- [小弟兮小妹 Younger sister](member7.md)
+
 - [小弟兮囝 Children](member22.md)
 
 

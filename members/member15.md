@@ -1,4 +1,4 @@
-# 阿姨 Mother's sister
+# 阿姨 Mother's sister.pa:13.ma:14.ang:16.ht:16.hs1:47.cw1:48.hs2:49.cw2:50
 
 ## 稱呼 칑·허· Namings
 
