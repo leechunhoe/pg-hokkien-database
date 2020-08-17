@@ -17,8 +17,6 @@ Mother
 
 - [媽兮大漢자와 (姊) Mother's elder daughter](member5.md)
 
-- [媽兮囝 (我) Mother's children](member1.md)
-
 - [媽兮細漢後生 (小弟) Mother's younger son](member6.md)
 
 - [媽兮細漢자와 (小妹) Mother's younger daughter](member7.md)

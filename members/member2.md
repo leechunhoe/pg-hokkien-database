@@ -19,8 +19,6 @@ Father
 
 - [爸兮大漢자와 (姊) Father's elder daughter](member5.md)
 
-- [爸兮囝 (我) Father's children](member1.md)
-
 - [爸兮細漢後生 (小弟) Father's younger son](member6.md)
 
 - [爸兮細漢자와 (小妹) Father's younger daughter](member7.md)
