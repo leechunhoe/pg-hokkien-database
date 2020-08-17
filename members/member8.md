@@ -17,9 +17,9 @@ Grandfather
 
 - [阿公兮大漢後生 (阿伯) Grandfather's elder son](member10.md)
 
-- [阿公兮囝 (爸) Grandfather's children](member2.md)
-
 - [阿公兮자와 (姑) Grandfather's daughter](member12.md)
+
+- [阿公兮囝 (爸) Grandfather's children](member2.md)
 
 - [阿公兮細漢後生 (阿叔) Grandfather's younger son](member11.md)
 

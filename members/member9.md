@@ -11,9 +11,9 @@ Grandmother
 
 - [阿嫲兮大漢後生 (阿伯) Grandmother's elder son](member10.md)
 
-- [阿嫲兮囝 (爸) Grandmother's children](member2.md)
-
 - [阿嫲兮자와 (姑) Grandmother's daughter](member12.md)
+
+- [阿嫲兮囝 (爸) Grandmother's children](member2.md)
 
 - [阿嫲兮細漢後生 (阿叔) Grandmother's younger son](member11.md)
 

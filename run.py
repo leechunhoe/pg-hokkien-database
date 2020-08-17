@@ -57,12 +57,12 @@ def generate_linked_member_files(members):
 				links += get_link("大漢後生", "elder son", hanji, english_possessive, relations["hs1"], members)
 			if "cw1" in relations:
 				links += get_link("大漢자와", "elder daughter", hanji, english_possessive, relations["cw1"], members)
-			if "hscw" in relations:
-				links += get_link("囝", "children", hanji, english_possessive, relations["hscw"], members)
 			if "hs" in relations:
 				links += get_link("後生", "son", hanji, english_possessive, relations["hs"], members)
 			if "cw" in relations:
 				links += get_link("자와", "daughter", hanji, english_possessive, relations["cw"], members)
+			if "hscw" in relations:
+				links += get_link("囝", "children", hanji, english_possessive, relations["hscw"], members)
 			if "hs2" in relations:
 				links += get_link("細漢後生", "younger son", hanji, english_possessive, relations["hs2"], members)
 			if "cw2" in relations:
