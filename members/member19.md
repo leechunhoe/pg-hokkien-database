@@ -3,17 +3,17 @@ Son
 
 ## 關係 관·희- _Relationships_
 
-- [後生兮爸 Son's father](member1.md)
+- [後生兮爸 - 我 _Son's_ _father_](member1.md)
 
-- [後生兮媽 Son's mother](member1.md)
+- [後生兮媽 - 我 _Son's_ _mother_](member1.md)
 
-- [後生兮某 Son's wife](member52.md)
+- [後生兮某 - 新婦 _Son's_ _wife_](member52.md)
 
-- [後生兮姊妹 Son's sister](member20.md)
+- [後生兮姊妹 - 자와 _Son's_ _sister_](member20.md)
 
-- [後生兮後生 Son's son](member53.md)
+- [後生兮後生 - 孫 _Son's_ _son_](member53.md)
 
-- [後生兮자와 Son's daughter](member54.md)
+- [後生兮자와 - 자뻐孫 _Son's_ _daughter_](member54.md)
 
 
 

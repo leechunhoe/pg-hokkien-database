@@ -3,21 +3,21 @@ Husband
 
 ## 關係 관·희- _Relationships_
 
-- [尪兮爸 Husband's father](member57.md)
+- [尪兮爸 - 阮官 _Husband's_ _father_](member57.md)
 
-- [尪兮媽 Husband's mother](member58.md)
+- [尪兮媽 - 娘 _Husband's_ _mother_](member58.md)
 
-- [尪兮某 Husband's wife](member18.md)
+- [尪兮某 - 某 _Husband's_ _wife_](member18.md)
 
-- [尪兮哥 Husband's elder brother](member59.md)
+- [尪兮哥 - 阿伯 _Husband's_ _elder brother_](member59.md)
 
-- [尪兮小弟 Husband's younger brother](member60.md)
+- [尪兮小弟 - 阿叔 _Husband's_ _younger brother_](member60.md)
 
-- [尪兮姊妹 Husband's sister](member61.md)
+- [尪兮姊妹 - 姑 _Husband's_ _sister_](member61.md)
 
-- [尪兮後生 Husband's son](member19.md)
+- [尪兮後生 - 後生 _Husband's_ _son_](member19.md)
 
-- [尪兮자와 Husband's daughter](member20.md)
+- [尪兮자와 - 자와 _Husband's_ _daughter_](member20.md)
 
 
 

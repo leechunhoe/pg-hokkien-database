@@ -3,19 +3,19 @@ Elder brother
 
 ## 關係 관·희- _Relationships_
 
-- [哥兮爸 Elder brother's father](member2.md)
+- [哥兮爸 - 爸 _Elder brother's_ _father_](member2.md)
 
-- [哥兮媽 Elder brother's mother](member3.md)
+- [哥兮媽 - 媽 _Elder brother's_ _mother_](member3.md)
 
-- [哥兮某 Elder brother's wife](member21.md)
+- [哥兮某 - 阿嫂 _Elder brother's_ _wife_](member21.md)
 
-- [哥兮小弟 Elder brother's younger brother](member6.md)
+- [哥兮小弟 - 小弟 _Elder brother's_ _younger brother_](member6.md)
 
-- [哥兮姊 Elder brother's elder sister](member5.md)
+- [哥兮姊 - 姊 _Elder brother's_ _elder sister_](member5.md)
 
-- [哥兮小妹 Elder brother's younger sister](member7.md)
+- [哥兮小妹 - 小妹 _Elder brother's_ _younger sister_](member7.md)
 
-- [哥兮囝 Elder brother's children](member22.md)
+- [哥兮囝 - 孫仔 _Elder brother's_ _children_](member22.md)
 
 
 

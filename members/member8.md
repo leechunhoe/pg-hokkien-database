@@ -3,25 +3,25 @@ Grandfather
 
 ## 關係 관·희- _Relationships_
 
-- [阿公兮爸 Grandfather's father](member29.md)
+- [阿公兮爸 - 阿祖 _Grandfather's_ _father_](member29.md)
 
-- [阿公兮媽 Grandfather's mother](member30.md)
+- [阿公兮媽 - 祖嫲 _Grandfather's_ _mother_](member30.md)
 
-- [阿公兮某 Grandfather's wife](member9.md)
+- [阿公兮某 - 阿嬤 _Grandfather's_ _wife_](member9.md)
 
-- [阿公兮哥 Grandfather's elder brother](member26.md)
+- [阿公兮哥 - 伯公 _Grandfather's_ _elder brother_](member26.md)
 
-- [阿公兮小弟 Grandfather's younger brother](member27.md)
+- [阿公兮小弟 - 叔公 _Grandfather's_ _younger brother_](member27.md)
 
-- [阿公兮姊妹 Grandfather's sister](member28.md)
+- [阿公兮姊妹 - 姑婆 _Grandfather's_ _sister_](member28.md)
 
-- [阿公兮大漢後生 Grandfather's elder son](member10.md)
+- [阿公兮大漢後生 - 阿伯 _Grandfather's_ _elder son_](member10.md)
 
-- [阿公兮囝 Grandfather's children](member2.md)
+- [阿公兮囝 - 爸 _Grandfather's_ _children_](member2.md)
 
-- [阿公兮자와 Grandfather's daughter](member12.md)
+- [阿公兮자와 - 姑 _Grandfather's_ _daughter_](member12.md)
 
-- [阿公兮細漢後生 Grandfather's younger son](member11.md)
+- [阿公兮細漢後生 - 阿叔 _Grandfather's_ _younger son_](member11.md)
 
 
 

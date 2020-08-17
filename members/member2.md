@@ -3,27 +3,27 @@ Father
 
 ## 關係 관·희- _Relationships_
 
-- [爸兮爸 Father's father](member8.md)
+- [爸兮爸 - 阿公 _Father's_ _father_](member8.md)
 
-- [爸兮媽 Father's mother](member9.md)
+- [爸兮媽 - 阿嬤 _Father's_ _mother_](member9.md)
 
-- [爸兮某 Father's wife](member3.md)
+- [爸兮某 - 媽 _Father's_ _wife_](member3.md)
 
-- [爸兮哥 Father's elder brother](member10.md)
+- [爸兮哥 - 阿伯 _Father's_ _elder brother_](member10.md)
 
-- [爸兮小弟 Father's younger brother](member11.md)
+- [爸兮小弟 - 阿叔 _Father's_ _younger brother_](member11.md)
 
-- [爸兮姊妹 Father's sister](member12.md)
+- [爸兮姊妹 - 姑 _Father's_ _sister_](member12.md)
 
-- [爸兮大漢後生 Father's elder son](member4.md)
+- [爸兮大漢後生 - 哥 _Father's_ _elder son_](member4.md)
 
-- [爸兮大漢자와 Father's elder daughter](member5.md)
+- [爸兮大漢자와 - 姊 _Father's_ _elder daughter_](member5.md)
 
-- [爸兮囝 Father's children](member1.md)
+- [爸兮囝 - 我 _Father's_ _children_](member1.md)
 
-- [爸兮細漢後生 Father's younger son](member6.md)
+- [爸兮細漢後生 - 小弟 _Father's_ _younger son_](member6.md)
 
-- [爸兮細漢자와 Father's younger daughter](member7.md)
+- [爸兮細漢자와 - 小妹 _Father's_ _younger daughter_](member7.md)
 
 
 
