@@ -5,7 +5,7 @@ Father's sister
 
 - [姑兮爸 (阿公) Father's sister's father](member8.md)
 
-- [姑兮媽 (阿嬤) Father's sister's mother](member9.md)
+- [姑兮媽 (阿嫲) Father's sister's mother](member9.md)
 
 - [姑兮尪 (姑丈) Father's sister's husband](member43.md)
 

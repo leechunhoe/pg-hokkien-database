@@ -5,7 +5,7 @@ Father's elder brother
 
 - [阿伯兮爸 (阿公) Father's elder brother's father](member8.md)
 
-- [阿伯兮媽 (阿嬤) Father's elder brother's mother](member9.md)
+- [阿伯兮媽 (阿嫲) Father's elder brother's mother](member9.md)
 
 - [阿伯兮某 (阿姆) Father's elder brother's wife](member33.md)
 

@@ -5,7 +5,7 @@ Father's younger brother
 
 - [阿叔兮爸 (阿公) Father's younger brother's father](member8.md)
 
-- [阿叔兮媽 (阿嬤) Father's younger brother's mother](member9.md)
+- [阿叔兮媽 (阿嫲) Father's younger brother's mother](member9.md)
 
 - [阿叔兮某 (阿嬸) Father's younger brother's wife](member34.md)
 

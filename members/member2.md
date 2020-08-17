@@ -5,7 +5,7 @@ Father
 
 - [爸兮爸 (阿公) Father's father](member8.md)
 
-- [爸兮媽 (阿嬤) Father's mother](member9.md)
+- [爸兮媽 (阿嫲) Father's mother](member9.md)
 
 - [爸兮某 (媽) Father's wife](member3.md)
 

@@ -10,7 +10,7 @@
 [小弟](members/member6.md) | [Younger brother](members/member6.md)
 [小妹](members/member7.md) | [Younger sister](members/member7.md)
 [阿公](members/member8.md) | [Grandfather](members/member8.md)
-[阿嬤](members/member9.md) | [Grandmother](members/member9.md)
+[阿嫲](members/member9.md) | [Grandmother](members/member9.md)
 [阿伯](members/member10.md) | [Father's elder brother](members/member10.md)
 [阿叔](members/member11.md) | [Father's younger brother](members/member11.md)
 [姑](members/member12.md) | [Father's sister](members/member12.md)

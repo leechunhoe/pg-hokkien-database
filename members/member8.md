@@ -7,7 +7,7 @@ Grandfather
 
 - [阿公兮媽 (祖嫲) Grandfather's mother](member30.md)
 
-- [阿公兮某 (阿嬤) Grandfather's wife](member9.md)
+- [阿公兮某 (阿嫲) Grandfather's wife](member9.md)
 
 - [阿公兮哥 (伯公) Grandfather's elder brother](member26.md)
 
