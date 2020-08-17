@@ -3,23 +3,23 @@ Wife
 
 ## 關係 관·희- _Relationships_
 
-- [某兮爸 - 丈人 _Wife's_ _father_](member62.md)
+- [某兮爸 (丈人) Wife's father](member62.md)
 
-- [某兮媽 - 丈姆 _Wife's_ _mother_](member63.md)
+- [某兮媽 (丈姆) Wife's mother](member63.md)
 
-- [某兮尪 - 尪 _Wife's_ _husband_](member17.md)
+- [某兮尪 (尪) Wife's husband](member17.md)
 
-- [某兮哥 - 阿舅 _Wife's_ _elder brother_](member64.md)
+- [某兮哥 (阿舅) Wife's elder brother](member64.md)
 
-- [某兮小弟 - 舅仔 _Wife's_ _younger brother_](member66.md)
+- [某兮小弟 (舅仔) Wife's younger brother](member66.md)
 
-- [某兮姊 - 阿姨 _Wife's_ _elder sister_](member65.md)
+- [某兮姊 (阿姨) Wife's elder sister](member65.md)
 
-- [某兮小妹 - 姨仔 _Wife's_ _younger sister_](member67.md)
+- [某兮小妹 (姨仔) Wife's younger sister](member67.md)
 
-- [某兮後生 - 後生 _Wife's_ _son_](member19.md)
+- [某兮後生 (後生) Wife's son](member19.md)
 
-- [某兮자와 - 자와 _Wife's_ _daughter_](member20.md)
+- [某兮자와 (자와) Wife's daughter](member20.md)
 
 
 

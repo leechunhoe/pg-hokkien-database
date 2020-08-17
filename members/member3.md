@@ -3,25 +3,25 @@ Mother
 
 ## 關係 관·희- _Relationships_
 
-- [媽兮爸 - 外公 _Mother's_ _father_](member13.md)
+- [媽兮爸 (外公) Mother's father](member13.md)
 
-- [媽兮媽 - 外嫲 _Mother's_ _mother_](member14.md)
+- [媽兮媽 (外嫲) Mother's mother](member14.md)
 
-- [媽兮尪 - 爸 _Mother's_ _husband_](member2.md)
+- [媽兮尪 (爸) Mother's husband](member2.md)
 
-- [媽兮兄弟 - 阿舅 _Mother's_ _brother_](member16.md)
+- [媽兮兄弟 (阿舅) Mother's brother](member16.md)
 
-- [媽兮姊妹 - 阿姨 _Mother's_ _sister_](member15.md)
+- [媽兮姊妹 (阿姨) Mother's sister](member15.md)
 
-- [媽兮大漢後生 - 哥 _Mother's_ _elder son_](member4.md)
+- [媽兮大漢後生 (哥) Mother's elder son](member4.md)
 
-- [媽兮大漢자와 - 姊 _Mother's_ _elder daughter_](member5.md)
+- [媽兮大漢자와 (姊) Mother's elder daughter](member5.md)
 
-- [媽兮囝 - 我 _Mother's_ _children_](member1.md)
+- [媽兮囝 (我) Mother's children](member1.md)
 
-- [媽兮細漢後生 - 小弟 _Mother's_ _younger son_](member6.md)
+- [媽兮細漢後生 (小弟) Mother's younger son](member6.md)
 
-- [媽兮細漢자와 - 小妹 _Mother's_ _younger daughter_](member7.md)
+- [媽兮細漢자와 (小妹) Mother's younger daughter](member7.md)
 
 
 

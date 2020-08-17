@@ -3,17 +3,17 @@ Daughter
 
 ## 關係 관·희- _Relationships_
 
-- [자와兮爸 - 我 _Daughter's_ _father_](member1.md)
+- [자와兮爸 (我) Daughter's father](member1.md)
 
-- [자와兮媽 - 我 _Daughter's_ _mother_](member1.md)
+- [자와兮媽 (我) Daughter's mother](member1.md)
 
-- [자와兮尪 - 囝婿 _Daughter's_ _husband_](member68.md)
+- [자와兮尪 (囝婿) Daughter's husband](member68.md)
 
-- [자와兮兄弟 - 後生 _Daughter's_ _brother_](member19.md)
+- [자와兮兄弟 (後生) Daughter's brother](member19.md)
 
-- [자와兮後生 - 外孫 _Daughter's_ _son_](member55.md)
+- [자와兮後生 (外孫) Daughter's son](member55.md)
 
-- [자와兮자와 - 자뻐外孫 _Daughter's_ _daughter_](member56.md)
+- [자와兮자와 (자뻐外孫) Daughter's daughter](member56.md)
 
 
 
