@@ -1,27 +1,27 @@
-# 阿嬤
+# 阿嫲
 Grandmother
 
 ## 關係 관·희- _Relationships_
 
-- [阿嬤兮尪 Grandmother's husband](member8.md)
+- [阿嫲兮尪 (阿公) Grandmother's husband](member8.md)
 
-- [阿嬤兮兄弟 Grandmother's brother](member31.md)
+- [阿嫲兮兄弟 (舅公) Grandmother's brother](member31.md)
 
-- [阿嬤兮姊妹 Grandmother's sister](member32.md)
+- [阿嫲兮姊妹 (姨婆) Grandmother's sister](member32.md)
 
-- [阿嬤兮大漢後生 Grandmother's elder son](member10.md)
+- [阿嫲兮大漢後生 (阿伯) Grandmother's elder son](member10.md)
 
-- [阿嬤兮囝 Grandmother's children](member2.md)
+- [阿嫲兮자와 (姑) Grandmother's daughter](member12.md)
 
-- [阿嬤兮자와 Grandmother's daughter](member12.md)
+- [阿嫲兮囝 (爸) Grandmother's children](member2.md)
 
-- [阿嬤兮細漢後生 Grandmother's younger son](member11.md)
+- [阿嫲兮細漢後生 (阿叔) Grandmother's younger son](member11.md)
 
 
 
 ## 稱呼 칑·허· _Address_
 
-漢字/諺文 | 阿嬤
+漢字/諺文 | 阿嫲
 --- | ---
 諺文 깐-뿐ˆ | 아·마ˊ
 台羅 Tâi-lô | a-má
