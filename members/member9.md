@@ -3,19 +3,19 @@ Grandmother
 
 ## 關係 관·희- _Relationships_
 
-- [阿嫲兮尪 \[阿公\] Grandmother's husband](member8.md)
+- [阿嫲兮尪 (阿公) Grandmother's husband](member8.md)
 
-- [阿嫲兮兄弟 \[舅公\] Grandmother's brother](member31.md)
+- [阿嫲兮兄弟 (舅公) Grandmother's brother](member31.md)
 
-- [阿嫲兮姊妹 \[姨婆\] Grandmother's sister](member32.md)
+- [阿嫲兮姊妹 (姨婆) Grandmother's sister](member32.md)
 
-- [阿嫲兮後生(大漢過汝) \[阿伯\] Grandmother's elder son](member10.md)
+- [阿嫲兮大漢後生 (阿伯) Grandmother's elder son](member10.md)
 
-- [阿嫲兮자와 \[姑\] Grandmother's daughter](member12.md)
+- [阿嫲兮자와 (姑) Grandmother's daughter](member12.md)
 
-- [阿嫲兮囝 \[爸\] Grandmother's children](member2.md)
+- [阿嫲兮囝 (爸) Grandmother's children](member2.md)
 
-- [阿嫲兮後生(細漢過汝) \[阿叔\] Grandmother's younger son](member11.md)
+- [阿嫲兮細漢後生 (阿叔) Grandmother's younger son](member11.md)
 
 
 

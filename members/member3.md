@@ -3,23 +3,23 @@ Mother
 
 ## 關係 관·희- _Relationships_
 
-- [媽兮爸 \[外公\] Mother's father](member13.md)
+- [媽兮爸 (外公) Mother's father](member13.md)
 
-- [媽兮媽 \[外嫲\] Mother's mother](member14.md)
+- [媽兮媽 (外嫲) Mother's mother](member14.md)
 
-- [媽兮尪 \[爸\] Mother's husband](member2.md)
+- [媽兮尪 (爸) Mother's husband](member2.md)
 
-- [媽兮兄弟 \[阿舅\] Mother's brother](member16.md)
+- [媽兮兄弟 (阿舅) Mother's brother](member16.md)
 
-- [媽兮姊妹 \[阿姨\] Mother's sister](member15.md)
+- [媽兮姊妹 (阿姨) Mother's sister](member15.md)
 
-- [媽兮後生(大漢過汝) \[哥\] Mother's elder son](member4.md)
+- [媽兮大漢後生 (哥) Mother's elder son](member4.md)
 
-- [媽兮자와(大漢過汝) \[姊\] Mother's elder daughter](member5.md)
+- [媽兮大漢자와 (姊) Mother's elder daughter](member5.md)
 
-- [媽兮後生(細漢過汝) \[小弟\] Mother's younger son](member6.md)
+- [媽兮細漢後生 (小弟) Mother's younger son](member6.md)
 
-- [媽兮자와(細漢過汝) \[小妹\] Mother's younger daughter](member7.md)
+- [媽兮細漢자와 (小妹) Mother's younger daughter](member7.md)
 
 
 
