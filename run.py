@@ -54,9 +54,9 @@ def generate_linked_member_files(members):
 			if "moy" in relations:
 				links += get_link("小妹", "younger sister", hanji, english_possessive, relations["moy"], members)
 			if "hs1" in relations:
-				links += get_link("大漢後生", "elder son", hanji, english_possessive, relations["hs1"], members)
+				links += get_link("後生(大漢過汝)", "elder son", hanji, english_possessive, relations["hs1"], members)
 			if "cw1" in relations:
-				links += get_link("大漢자와", "elder daughter", hanji, english_possessive, relations["cw1"], members)
+				links += get_link("자와(大漢過汝)", "elder daughter", hanji, english_possessive, relations["cw1"], members)
 			if "hs" in relations:
 				links += get_link("後生", "son", hanji, english_possessive, relations["hs"], members)
 			if "cw" in relations:
@@ -64,9 +64,9 @@ def generate_linked_member_files(members):
 			if "hscw" in relations:
 				links += get_link("囝", "children", hanji, english_possessive, relations["hscw"], members)
 			if "hs2" in relations:
-				links += get_link("細漢後生", "younger son", hanji, english_possessive, relations["hs2"], members)
+				links += get_link("後生(細漢過汝)", "younger son", hanji, english_possessive, relations["hs2"], members)
 			if "cw2" in relations:
-				links += get_link("細漢자와", "younger daughter", hanji, english_possessive, relations["cw2"], members)
+				links += get_link("자와(細漢過汝)", "younger daughter", hanji, english_possessive, relations["cw2"], members)
 			content += "\n\n" + links
 
 		content += "\n\n## 稱呼 칑·허· _Address_"
@@ -85,7 +85,7 @@ def generate_linked_member_files(members):
 
 def get_link(hanji_title, english_title, hanji, english_possessive, relation, members):
 	member = [m for m in members if m[0][0] == relation][0][0][1]
-	return "- [%s兮%s (%s) %s %s](member%s.md)\n\n" %(hanji, hanji_title, member, english_possessive, english_title, relation)
+	return "- [%s兮%s \[%s\] %s %s](member%s.md)\n\n" %(hanji, hanji_title, member, english_possessive, english_title, relation)
 
 def generate_index(members):
 	f = open("README.md", "w")
