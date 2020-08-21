@@ -3,9 +3,9 @@ Father's younger brother
 
 ## 關係 관·희- _Relationships_
 
-- [叔兮爸 (阿公) Father's younger brother's father](member8.md)
+- [叔兮爸 (公) Father's younger brother's father](member8.md)
 
-- [叔兮媽 (阿嫲) Father's younger brother's mother](member9.md)
+- [叔兮媽 (嫲) Father's younger brother's mother](member9.md)
 
 - [叔兮某 (阿嬸) Father's younger brother's wife](member34.md)
 

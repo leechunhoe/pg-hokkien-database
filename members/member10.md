@@ -3,9 +3,9 @@ Father's elder brother
 
 ## 關係 관·희- _Relationships_
 
-- [伯兮爸 (阿公) Father's elder brother's father](member8.md)
+- [伯兮爸 (公) Father's elder brother's father](member8.md)
 
-- [伯兮媽 (阿嫲) Father's elder brother's mother](member9.md)
+- [伯兮媽 (嫲) Father's elder brother's mother](member9.md)
 
 - [伯兮某 (阿姆) Father's elder brother's wife](member33.md)
 

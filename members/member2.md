@@ -3,9 +3,9 @@ Father
 
 ## 關係 관·희- _Relationships_
 
-- [爸兮爸 (阿公) Father's father](member8.md)
+- [爸兮爸 (公) Father's father](member8.md)
 
-- [爸兮媽 (阿嫲) Father's mother](member9.md)
+- [爸兮媽 (嫲) Father's mother](member9.md)
 
 - [爸兮某 (媽) Father's wife](member3.md)
 
