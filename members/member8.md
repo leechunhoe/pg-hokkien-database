@@ -15,11 +15,11 @@ Grandfather
 
 - [阿公兮姊妹 (姑婆) Grandfather's sister](member28.md)
 
-- [阿公兮大漢後生 (阿伯) Grandfather's elder son](member10.md)
+- [阿公兮大漢後生 (伯) Grandfather's elder son](member10.md)
 
 - [阿公兮자와 (姑) Grandfather's daughter](member12.md)
 
-- [阿公兮細漢後生 (阿叔) Grandfather's younger son](member11.md)
+- [阿公兮細漢後生 (叔) Grandfather's younger son](member11.md)
 
 
 
@@ -30,5 +30,12 @@ Grandfather
 諺文 깐-뿐ˆ | 아·겅·
 台羅 Tâi-lô | a-kong
 戴字 Taiji | ah3kong1
+
+
+漢字/諺文 | 裡公
+--- | ---
+諺文 깐-뿐ˆ | 래-겅·
+台羅 Tâi-lô | lāi-kong
+戴字 Taiji | lai33kong1
 
 

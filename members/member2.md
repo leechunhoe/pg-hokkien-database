@@ -9,9 +9,9 @@ Father
 
 - [爸兮某 (媽) Father's wife](member3.md)
 
-- [爸兮哥 (阿伯) Father's elder brother](member10.md)
+- [爸兮哥 (伯) Father's elder brother](member10.md)
 
-- [爸兮小弟 (阿叔) Father's younger brother](member11.md)
+- [爸兮小弟 (叔) Father's younger brother](member11.md)
 
 - [爸兮姊妹 (姑) Father's sister](member12.md)
 
