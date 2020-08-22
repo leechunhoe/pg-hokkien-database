@@ -4,15 +4,15 @@ Mother
 
 ## 關係 관·희- _Relationships_
 
-- [媽兮爸 (外公) Mother's father](member13.md)
+<center>[媽兮爸 (外公) Mother's father](member13.md)</center>
 
-- [媽兮媽 (外嫲) Mother's mother](member14.md)
+<center>[媽兮媽 (外嫲) Mother's mother](member14.md)</center>
 
-- [媽兮尪 (爸) Mother's husband](member2.md)
+<center>[媽兮尪 (爸) Mother's husband](member2.md)</center>
 
-- [媽兮兄弟 (舅) Mother's brother](member16.md)
+<center>[媽兮兄弟 (舅) Mother's brother](member16.md)</center>
 
-- [媽兮姊妹 (姨) Mother's sister](member15.md)
+<center>[媽兮姊妹 (姨) Mother's sister](member15.md)</center>
 
 
 

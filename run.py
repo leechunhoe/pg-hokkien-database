@@ -92,7 +92,7 @@ def generate_linked_member_files(members, relationships):
 
 def get_link(hanji_title, english_title, hanji, english_possessive, relation, members):
 	member = [m for m in members if m[0][0] == relation][0][0][1]
-	return "- [%s兮%s (%s) %s %s](member%s.md)\n\n" %(hanji, hanji_title, member, english_possessive, english_title, relation)
+	return "<center>[%s兮%s (%s) %s %s](member%s.md)</center>\n\n" %(hanji, hanji_title, member, english_possessive, english_title, relation)
 
 def generate_index(members):
 	f = open("README.md", "w")

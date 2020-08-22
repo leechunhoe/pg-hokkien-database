@@ -4,13 +4,13 @@ Younger sister
 
 ## 關係 관·희- _Relationships_
 
-- [小妹兮爸 (爸) Younger sister's father](member2.md)
+<center>[小妹兮爸 (爸) Younger sister's father](member2.md)</center>
 
-- [小妹兮媽 (媽) Younger sister's mother](member3.md)
+<center>[小妹兮媽 (媽) Younger sister's mother](member3.md)</center>
 
-- [小妹兮尪 (姊夫) Younger sister's husband](member23.md)
+<center>[小妹兮尪 (姊夫) Younger sister's husband](member23.md)</center>
 
-- [小妹兮囝 (外甥) Younger sister's children](member25.md)
+<center>[小妹兮囝 (外甥) Younger sister's children](member25.md)</center>
 
 
 
