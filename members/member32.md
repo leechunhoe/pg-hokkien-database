@@ -1,5 +1,5 @@
 # 姨婆
-[爸](member1.md)兮[媽](member2.md)兮姊妹
+[爸](member2.md)兮[媽](member9.md)兮姊妹
 Grandmother's sister
 
 ## 關係 관·희- _Relationships_
