@@ -1,7 +1,5 @@
 # 자뻐孫
-## 가我兮關係
-
- _Grand daughter_
+##  _Grand daughter_
 
 ## 稱呼 칑·허· _Address_
 

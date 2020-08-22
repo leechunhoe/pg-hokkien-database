@@ -1,7 +1,5 @@
 # 小弟
-## 가我兮關係
-
-[我](member1.md) 兮 小弟 _Younger brother_
+## [我](member1.md) 兮 小弟 _Younger brother_
 
 ## 關係 관·희- _Relationships_
 

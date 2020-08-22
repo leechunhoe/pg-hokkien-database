@@ -1,7 +1,5 @@
 # 某
-## 가我兮關係
-
- _Wife_
+##  _Wife_
 
 ## 關係 관·희- _Relationships_
 

@@ -1,7 +1,5 @@
 # 後生
-## 가我兮關係
-
-[我](member1.md) 兮 後生 _Son_
+## [我](member1.md) 兮 後生 _Son_
 
 ## 關係 관·희- _Relationships_
 

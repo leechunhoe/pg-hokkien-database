@@ -1,7 +1,5 @@
 # 尪
-## 가我兮關係
-
- _Husband_
+##  _Husband_
 
 ## 關係 관·희- _Relationships_
 

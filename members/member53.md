@@ -1,7 +1,5 @@
 # 孫
-## 가我兮關係
-
- _Grand son_
+##  _Grand son_
 
 ## 稱呼 칑·허· _Address_
 

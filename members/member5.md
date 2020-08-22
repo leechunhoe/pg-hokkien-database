@@ -1,7 +1,5 @@
 # 姊
-## 가我兮關係
-
-[我](member1.md) 兮 姊 _Elder sister_
+## [我](member1.md) 兮 姊 _Elder sister_
 
 ## 關係 관·희- _Relationships_
 

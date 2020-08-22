@@ -1,7 +1,5 @@
 # 堂哥
-## 가我兮關係
-
- _Father's brother's elder son_
+##  _Father's brother's elder son_
 
 ## 稱呼 칑·허· _Address_
 

@@ -1,7 +1,5 @@
 # 姑丈
-## 가我兮關係
-
- _Father's sister's husband_
+##  _Father's sister's husband_
 
 ## 稱呼 칑·허· _Address_
 

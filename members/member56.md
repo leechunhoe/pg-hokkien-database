@@ -1,7 +1,5 @@
 # 자뻐外孫
-## 가我兮關係
-
- _Daughter's daughter_
+##  _Daughter's daughter_
 
 ## 稱呼 칑·허· _Address_
 

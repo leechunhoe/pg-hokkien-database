@@ -1,7 +1,5 @@
 # 堂姊
-## 가我兮關係
-
- _Father's brother's elder daughter_
+##  _Father's brother's elder daughter_
 
 ## 稱呼 칑·허· _Address_
 

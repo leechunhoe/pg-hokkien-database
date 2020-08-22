@@ -1,7 +1,5 @@
 # 娘
-## 가我兮關係
-
- _Husband's mother_
+##  _Husband's mother_
 
 ## 稱呼 칑·허· _Address_
 

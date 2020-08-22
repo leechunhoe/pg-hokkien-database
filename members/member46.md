@@ -1,7 +1,5 @@
 # 姨丈
-## 가我兮關係
-
- _Mother's sister's husband_
+##  _Mother's sister's husband_
 
 ## 稱呼 칑·허· _Address_
 

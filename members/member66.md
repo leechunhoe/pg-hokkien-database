@@ -1,7 +1,5 @@
 # 舅仔
-## 가我兮關係
-
- _Wife's younger brother_
+##  _Wife's younger brother_
 
 ## 稱呼 칑·허· _Address_
 

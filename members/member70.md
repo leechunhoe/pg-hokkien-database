@@ -1,7 +1,5 @@
 # 孫仔
-## 가我兮關係
-
- _Younger brother's children_
+##  _Younger brother's children_
 
 ## 稱呼 칑·허· _Address_
 

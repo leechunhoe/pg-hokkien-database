@@ -1,7 +1,5 @@
 # 阿伯
-## 가我兮關係
-
- _Husband's elder brother_
+##  _Husband's elder brother_
 
 ## 稱呼 칑·허· _Address_
 

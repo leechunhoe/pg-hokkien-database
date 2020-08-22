@@ -1,7 +1,5 @@
 # 姨
-## 가我兮關係
-
- _Wife's elder sister_
+##  _Wife's elder sister_
 
 ## 稱呼 칑·허· _Address_
 

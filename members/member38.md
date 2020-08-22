@@ -1,7 +1,5 @@
 # 堂小妹
-## 가我兮關係
-
- _Father's brother's younger daughter_
+##  _Father's brother's younger daughter_
 
 ## 稱呼 칑·허· _Address_
 
