@@ -1,6 +1,6 @@
 # 外祖嫲
 ## 
-## Maternal great grandmother
+Maternal great grandmother
 
 ## 稱呼 칑·허· _Address_
 

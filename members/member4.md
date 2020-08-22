@@ -1,6 +1,6 @@
 # 哥
 ## 哥
-## Elder brother
+Elder brother
 
 ## 關係 관·희- _Relationships_
 

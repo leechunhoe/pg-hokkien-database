@@ -1,6 +1,6 @@
 # 小弟
 ## 小弟
-## Younger brother
+Younger brother
 
 ## 關係 관·희- _Relationships_
 

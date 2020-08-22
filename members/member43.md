@@ -1,6 +1,6 @@
 # 姑丈
 ## 
-## Father's sister's husband
+Father's sister's husband
 
 ## 稱呼 칑·허· _Address_
 

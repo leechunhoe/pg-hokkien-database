@@ -1,6 +1,6 @@
 # 尪
 ## 
-## Husband
+Husband
 
 ## 關係 관·희- _Relationships_
 

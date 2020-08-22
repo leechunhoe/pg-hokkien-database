@@ -1,6 +1,6 @@
 # 後生
 ## 後生
-## Son
+Son
 
 ## 關係 관·희- _Relationships_
 

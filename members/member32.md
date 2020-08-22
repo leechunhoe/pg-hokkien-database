@@ -1,6 +1,6 @@
 # 姨婆
 ## 爸兮媽兮姊妹
-## Grandmother's sister
+Grandmother's sister
 
 ## 關係 관·희- _Relationships_
 

@@ -1,6 +1,6 @@
 # 爸
 ## 爸
-## Father
+Father
 
 ## 關係 관·희- _Relationships_
 

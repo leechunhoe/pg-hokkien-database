@@ -1,6 +1,6 @@
 # 姊
 ## 姊
-## Elder sister
+Elder sister
 
 ## 關係 관·희- _Relationships_
 

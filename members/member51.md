@@ -1,6 +1,6 @@
 # 阿妗
 ## 
-## Mother's brother's wife
+Mother's brother's wife
 
 ## 稱呼 칑·허· _Address_
 

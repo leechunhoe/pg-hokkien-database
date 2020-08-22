@@ -1,6 +1,6 @@
 # 嫲
 ## 爸兮媽
-## Grandmother
+Grandmother
 
 ## 關係 관·희- _Relationships_
 
