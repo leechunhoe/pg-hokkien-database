@@ -1,6 +1,7 @@
 # 丈姆
+## 가我兮關係
 
-가我兮關係： _Wife's mother_
+ _Wife's mother_
 
 ## 稱呼 칑·허· _Address_
 

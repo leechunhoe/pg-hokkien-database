@@ -1,6 +1,7 @@
 # 新婦
+## 가我兮關係
 
-가我兮關係： _Son's wife_
+ _Son's wife_
 
 ## 稱呼 칑·허· _Address_
 

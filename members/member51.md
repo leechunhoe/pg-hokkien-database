@@ -1,6 +1,7 @@
 # 阿妗
+## 가我兮關係
 
-가我兮關係： _Mother's brother's wife_
+ _Mother's brother's wife_
 
 ## 稱呼 칑·허· _Address_
 

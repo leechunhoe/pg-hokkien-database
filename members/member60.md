@@ -1,6 +1,7 @@
 # 阿叔
+## 가我兮關係
 
-가我兮關係： _Husband's younger brother_
+ _Husband's younger brother_
 
 ## 稱呼 칑·허· _Address_
 

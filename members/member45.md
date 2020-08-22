@@ -1,6 +1,7 @@
 # 外祖嫲
+## 가我兮關係
 
-가我兮關係： _Maternal great grandmother_
+ _Maternal great grandmother_
 
 ## 稱呼 칑·허· _Address_
 

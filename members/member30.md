@@ -1,6 +1,7 @@
 # 祖嫲
+## 가我兮關係
 
-가我兮關係：[我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 媽 _Great grandmother_
+[我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 媽 _Great grandmother_
 
 ## 關係 관·희- _Relationships_
 

@@ -1,6 +1,7 @@
 # 孫仔
+## 가我兮關係
 
-가我兮關係：[我](member1.md) 兮 [哥](member4.md) 兮 囝 _Elder brother's children_
+[我](member1.md) 兮 [哥](member4.md) 兮 囝 _Elder brother's children_
 
 ## 關係 관·희- _Relationships_
 

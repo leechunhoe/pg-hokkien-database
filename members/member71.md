@@ -1,6 +1,7 @@
 # 外甥
+## 가我兮關係
 
-가我兮關係： _Younger sister's children_
+ _Younger sister's children_
 
 ## 稱呼 칑·허· _Address_
 
