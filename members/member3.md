@@ -1,5 +1,5 @@
 # 媽
-## [我](member1.md) 兮 媽 (Mother)
+## [我](member1.md) 兮 媽 Mother
 
 ## 關係 관·희- _Relationships_
 

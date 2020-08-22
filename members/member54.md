@@ -1,5 +1,5 @@
 # 자뻐孫
-##  (Grand daughter)
+##  Grand daughter
 
 ## 稱呼 칑·허· _Address_
 

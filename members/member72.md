@@ -1,5 +1,5 @@
 # 丈公
-##  (Grandmother's sister's husband)
+##  Grandmother's sister's husband
 
 ## 稱呼 칑·허· _Address_
 
