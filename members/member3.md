@@ -1,5 +1,5 @@
 # 媽
-Mother
+## [我](member1.md) 兮 媽 Mother
 
 ## 關係 관·희- _Relationships_
 
@@ -12,14 +12,6 @@ Mother
 - [媽兮兄弟 (舅) Mother's brother](member16.md)
 
 - [媽兮姊妹 (姨) Mother's sister](member15.md)
-
-- [媽兮大漢後生 (哥) Mother's elder son](member4.md)
-
-- [媽兮大漢자와 (姊) Mother's elder daughter](member5.md)
-
-- [媽兮細漢後生 (小弟) Mother's younger son](member6.md)
-
-- [媽兮細漢자와 (小妹) Mother's younger daughter](member7.md)
 
 
 

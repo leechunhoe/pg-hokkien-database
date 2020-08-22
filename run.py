@@ -3,15 +3,30 @@ import numpy as np
 from itertools import groupby
 
 def main():
-	with open('data.csv') as csv_file:
-		csv_reader = csv.reader(csv_file, delimiter=',')
-		data = [row for row in csv_reader if len(row) > 0]
-		members = [list(i) for j, i in groupby(data, lambda a: a[0])]
+	members = get_members()
+	relations = get_relations()
+	generate_linked_member_files(members, relations)
+	generate_index(members)
 
-		generate_linked_member_files(members)
-		generate_index(members)
+def get_members():
+	data = get_csv_entries("data.csv")
+	return [list(i) for j, i in groupby(data, lambda a: a[0])]
 
-def generate_linked_member_files(members):
+def get_relations():
+	return get_csv_entries("relation.csv")
+
+def get_relation(relations, key):
+	return [r for r in relations if r[0] == key][0]
+
+def get_csv_entries(filename):
+	content = read_csv(filename)
+	return [row for row in content if len(row) > 0]
+
+def read_csv(filename):
+	file = open(filename, "r")
+	return csv.reader(file, delimiter=',')
+
+def generate_linked_member_files(members, relationships):
 	# Generate linked member files
 	for member in members:
 		id = member[0][0]
@@ -21,53 +36,56 @@ def generate_linked_member_files(members):
 		hanji = member[0][1]
 		english = member[0][5].capitalize()
 
-		title = "# %s\n%s" %(hanji, english)
+		# # Populate his/her relationship with me
+		my_relation = ""
+		if len(member[0]) > 7:
+			relations_text = member[0][7]
+			relations = relations_text.split(".")
+			my_relation_list = []
+
+			me_link = "[%s](%s)"%("我", "member1.md")
+			my_relation_list.append(me_link)
+
+			for i, relation in enumerate(relations):
+				# 1. Get data
+				relation_code = relation.split(":")[1] # relationship code, e.g. "pa", "ma"
+				relationship = get_relation(relationships, relation_code)
+				this_hanji = relationship[1]
+
+				# 2. Append
+				if i == len(relations) - 1:
+					my_relation_list.append(this_hanji)
+				else:
+					member_id = relations[i + 1].split(":")[0] # the member instance (integer)
+					filename = "member%s.md" %member_id
+					this_link = "[%s](%s)"%(this_hanji, filename)
+					my_relation_list.append(this_link)
+
+			my_relation = " 兮 ".join(my_relation_list)
+
+		title = "# %s\n## %s %s" %(hanji, my_relation, english)
 		content += title
 
 		english_possessive = "%s's" %english
 		if id == "1":
 			english_possessive = "My"
 
+		# Populate his/her direct relationships
 		if len(member[0]) > 6:
 			content += "\n\n## 關係 관·희- _Relationships_"
 
-			relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in member[0][6].split(".")}
-			links = ""
-			if "pa" in relations:
-				links += get_link("爸", "father", hanji, english_possessive, relations["pa"], members)
-			if "ma" in relations:
-				links += get_link("媽", "mother", hanji, english_possessive, relations["ma"], members)
-			if "ang" in relations:
-				links += get_link("尪", "husband", hanji, english_possessive, relations["ang"], members)
-			if "bo" in relations:
-				links += get_link("某", "wife", hanji, english_possessive, relations["bo"], members)
-			if "ht" in relations:
-				links += get_link("兄弟", "brother", hanji, english_possessive, relations["ht"], members)
-			if "ko" in relations:
-				links += get_link("哥", "elder brother", hanji, english_possessive, relations["ko"], members)
-			if "ti" in relations:
-				links += get_link("小弟", "younger brother", hanji, english_possessive, relations["ti"], members)
-			if "cm" in relations:
-				links += get_link("姊妹", "sister", hanji, english_possessive, relations["cm"], members)
-			if "ci" in relations:
-				links += get_link("姊", "elder sister", hanji, english_possessive, relations["ci"], members)
-			if "moy" in relations:
-				links += get_link("小妹", "younger sister", hanji, english_possessive, relations["moy"], members)
-			if "hs1" in relations:
-				links += get_link("大漢後生", "elder son", hanji, english_possessive, relations["hs1"], members)
-			if "cw1" in relations:
-				links += get_link("大漢자와", "elder daughter", hanji, english_possessive, relations["cw1"], members)
-			if "hs" in relations:
-				links += get_link("後生", "son", hanji, english_possessive, relations["hs"], members)
-			if "cw" in relations:
-				links += get_link("자와", "daughter", hanji, english_possessive, relations["cw"], members)
-			if "hscw" in relations:
-				links += get_link("囝", "children", hanji, english_possessive, relations["hscw"], members)
-			if "hs2" in relations:
-				links += get_link("細漢後生", "younger son", hanji, english_possessive, relations["hs2"], members)
-			if "cw2" in relations:
-				links += get_link("細漢자와", "younger daughter", hanji, english_possessive, relations["cw2"], members)
-			content += "\n\n" + links
+			relations_text = member[0][6]
+
+			if len(relations_text) > 0:
+				# TODO Refactor
+				relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in relations_text.split(".")}
+				links = ""
+
+				for relationship in relationships:
+					if relationship[0] in relations:
+						links += get_link(relationship[1], relationship[2], hanji, english_possessive, relations[relationship[0]], members)
+
+				content += "\n\n" + links
 
 		content += "\n\n## 稱呼 칑·허· _Address_"
 

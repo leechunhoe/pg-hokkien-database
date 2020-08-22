@@ -1,5 +1,11 @@
 # 阿姆
-Father's elder brother's wife
+## [我](member1.md) 兮 [爸](member2.md) 兮 [哥](member10.md) 兮 某 Father's elder brother's wife
+
+## 關係 관·희- _Relationships_
+
+- [阿姆兮尪 (伯) Father's elder brother's wife's husband](member10.md)
+
+
 
 ## 稱呼 칑·허· _Address_
 

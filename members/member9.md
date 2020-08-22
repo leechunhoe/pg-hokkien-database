@@ -1,5 +1,5 @@
 # 嫲
-Grandmother
+## [我](member1.md) 兮 [爸](member2.md) 兮 媽 Grandmother
 
 ## 關係 관·희- _Relationships_
 
@@ -8,14 +8,6 @@ Grandmother
 - [嫲兮兄弟 (舅公) Grandmother's brother](member31.md)
 
 - [嫲兮姊妹 (姨婆) Grandmother's sister](member32.md)
-
-- [嫲兮大漢後生 (伯) Grandmother's elder son](member10.md)
-
-- [嫲兮자와 (姑) Grandmother's daughter](member12.md)
-
-- [嫲兮囝 (爸) Grandmother's children](member2.md)
-
-- [嫲兮細漢後生 (叔) Grandmother's younger son](member11.md)
 
 
 

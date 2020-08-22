@@ -1,5 +1,5 @@
 # 姊
-Elder sister
+## [我](member1.md) 兮 姊 Elder sister
 
 ## 關係 관·희- _Relationships_
 
@@ -8,12 +8,6 @@ Elder sister
 - [姊兮媽 (媽) Elder sister's mother](member3.md)
 
 - [姊兮尪 (姊夫) Elder sister's husband](member23.md)
-
-- [姊兮哥 (哥) Elder sister's elder brother](member4.md)
-
-- [姊兮小弟 (小弟) Elder sister's younger brother](member6.md)
-
-- [姊兮小妹 (小妹) Elder sister's younger sister](member7.md)
 
 - [姊兮囝 (外甥) Elder sister's children](member25.md)
 

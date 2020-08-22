@@ -1,5 +1,5 @@
 # 小妹
-Younger sister
+## [我](member1.md) 兮 小妹 Younger sister
 
 ## 關係 관·희- _Relationships_
 
@@ -8,12 +8,6 @@ Younger sister
 - [小妹兮媽 (媽) Younger sister's mother](member3.md)
 
 - [小妹兮尪 (姊夫) Younger sister's husband](member23.md)
-
-- [小妹兮哥 (哥) Younger sister's elder brother](member4.md)
-
-- [小妹兮小弟 (小弟) Younger sister's younger brother](member6.md)
-
-- [小妹兮姊 (姊) Younger sister's elder sister](member5.md)
 
 - [小妹兮囝 (外甥) Younger sister's children](member25.md)
 

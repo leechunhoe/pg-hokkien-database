@@ -1,13 +1,5 @@
 # 孫仔
-## [我](member1.md) 兮 [哥](member4.md) 兮 囝 Elder brother's children
-
-## 關係 관·희- _Relationships_
-
-- [孫仔兮爸 (哥) Elder brother's children's father](member4.md)
-
-- [孫仔兮媽 (嫂) Elder brother's children's mother](member21.md)
-
-
+##  Younger brother's children
 
 ## 稱呼 칑·허· _Address_
 

@@ -1,5 +1,13 @@
 # 妹夫
-Younger sister's husband
+## [我](member1.md) 兮 [小妹](member7.md) 兮 尪 Younger sister's husband
+
+## 關係 관·희- _Relationships_
+
+- [妹夫兮某 (小妹) Younger sister's husband's wife](member7.md)
+
+- [妹夫兮囝 (外甥) Younger sister's husband's children](member25.md)
+
+
 
 ## 稱呼 칑·허· _Address_
 

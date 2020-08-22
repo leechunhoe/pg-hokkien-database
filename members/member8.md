@@ -1,5 +1,5 @@
 # 公
-Grandfather
+## [我](member1.md) 兮 [爸](member2.md) 兮 爸 Grandfather
 
 ## 關係 관·희- _Relationships_
 
@@ -14,12 +14,6 @@ Grandfather
 - [公兮小弟 (叔公) Grandfather's younger brother](member27.md)
 
 - [公兮姊妹 (姑婆) Grandfather's sister](member28.md)
-
-- [公兮大漢後生 (伯) Grandfather's elder son](member10.md)
-
-- [公兮자와 (姑) Grandfather's daughter](member12.md)
-
-- [公兮細漢後生 (叔) Grandfather's younger son](member11.md)
 
 
 
