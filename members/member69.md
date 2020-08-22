@@ -1,11 +1,9 @@
 # 嫂
-Elder brother's wife
+Younger brother's wife
 
 ## 關係 관·희- _Relationships_
 
-- [嫂兮尪 (哥) Elder brother's wife's husband](member4.md)
-
-- [嫂兮囝 (孫仔) Elder brother's wife's children](member22.md)
+- [嫂兮囝 (孫仔) Younger brother's wife's children](member22.md)
 
 
 
