@@ -10,3 +10,10 @@ Father's sister's husband
 戴字 Taiji | kor3tnio33
 
 
+漢字/諺文 | 姑丈
+--- | ---
+諺文 깐-뿐ˆ | 거·ᄃᆤᇫ-
+台羅 Tâi-lô | koo-tiāunn
+戴字 Taiji | kor3tniau33
+
+

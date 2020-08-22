@@ -10,3 +10,10 @@ Wife's father
 戴字 Taiji | tnio33lang2
 
 
+漢字/諺文 | 丈人
+--- | ---
+諺文 깐-뿐ˆ | ᄃᆤᇫ-랑ˆ
+台羅 Tâi-lô | tiāunn-lâng
+戴字 Taiji | tniau33lang2
+
+

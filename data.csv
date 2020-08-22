@@ -9,7 +9,6 @@
 3,媽,맣·,mah,mak3,mother,pa:13.ma:14.ang:2.ht:16.cm:15.hs1:4.cw1:5.hs2:6.cw2:7
 3,媽媽,마·마·,ma-ma,ma3ma1,mother
 3,媽咪,마·미·,ma-mi,ma3mee1,mother
-3,母,뿌ˊ,bú,boo4,mother
 3,老母,ᄅᅷ-뽀ˊ,lāu-bó,lau33bo4,mother
 3,老母,ᄅᅷ-뿌ˊ,lāu-bú,lau33boo4,mother
 
@@ -22,6 +21,7 @@
 5,阿姊,아·지ˊ,a-tsí,ah3cee4,elder sister
 6,小弟,쇼ˊ디-,sió-tī,sio1tee33,younger brother,pa:2.ma:3.bo:21.ko:4.ci:5.moy:7.hscw:22
 7,小妹,쇼ˊᄆᆀ-,sió-mōi,sio1moy33,younger sister,pa:2.ma:3.ang:23.ko:4.ci:5.ti:6.hscw:25
+7,小妹,쇼ˊ뫠-,sió-muāi,sio1muai33,younger sister
 
 8,公,겅·,kong,kong1,grandfather,pa:29.ma:30.bo:9.cm:28.ko:26.ti:27.hs1:10.cw:12.hs2:11
 8,阿公,아·겅·,a-kong,ah3kong1,grandfather
@@ -68,6 +68,7 @@
 
 23,姊夫,지ˊ후·,tsí-hu,cee1hoo1,elder sister's husband
 24,妹夫,ᄆᆀ-후·,mōi-hu,moy33hoo1,younger sister's husband
+24,妹夫,ᄆᆀ-후·,muāi-hu,muai33hoo1,younger sister's husband
 
 25,外甥,괴-싕·,guē-seng,guay33seng1,sister's children
 25,外甥,꽈-싕·,guā-seng,gua33seng1,sister's children
@@ -98,11 +99,13 @@
 42,表小妹,ᄇᆤˊ쇼ˊᄆᆀ-,piáu-sió-mōi,piau1sio1moy33,father's sister's younger daughter
 
 43,姑丈,거·뎌ᇫ-,koo-tiōnn,kor3tnio33,father's sister's husband
+43,姑丈,거·ᄃᆤᇫ-,koo-tiāunn,kor3tniau33,father's sister's husband
 
 44,外祖,꽈-저ˊ,guā-tsóo,gua33cor4,maternal great grandfather
 45,外祖嫲,꽈-저ˊ마ˊ,guā-tsóo-má,gua33cor1mah4,maternal great grandmother
 
 46,姨丈,이ˆ뎌ᇫ-,î-tiōnn,ee3tnio33,mother's sister's husband
+46,姨丈,이ˆᄃᆤᇫ-,î-tiāunn,ee3tniau33,mother's sister's husband
 
 47,表哥,ᄇᆤˊ고·,piáu-ko,piau1koh1,mother's sibling's elder son
 48,表姊,ᄇᆤˊ지ˊ,piáu-tsí,piau1cee4,mother's sibling's elder daughter
@@ -123,6 +126,7 @@
 57,阮官,응ˊ과ᇫ·,ńg-kuann,ng1knua1,husband's father
 57,爸,바·,pa,pa1,husband's father
 58,娘,녀ˆ,niô,nio2,husband's mother
+58,娘,ᄂᆤˆ,niâu,niau2,husband's mother
 58,媽,맣·,mah,mak3,husband's mother
 
 59,阿伯,아·벻·,a-peh,ah3paek3,husband's elder brother
@@ -130,7 +134,9 @@
 61,姑,거·,koo,kor1,husband's sister
 
 62,丈人,뎌ᇫ-랑ˆ,tiōnn-lâng,tnio33lang2,wife's father
+62,丈人,ᄃᆤᇫ-랑ˆ,tiāunn-lâng,tniau33lang2,wife's father
 63,丈姆,뎌ᇫ-음ˊ,tiōnn-ḿ,tnio33mm4,wife's mother
+63,丈姆,ᄃᆤᇫ-음ˊ,tiāunn-ḿ,tniau33mm4,wife's mother
 
 64,舅,구-,kū,koo33,wife's elder brother
 64,阿舅,아·구-,a-kū,a3koo33,wife's elder brother
