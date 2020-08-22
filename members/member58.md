@@ -10,6 +10,13 @@ Husband's mother
 戴字 Taiji | nio2
 
 
+漢字/諺文 | 娘
+--- | ---
+諺文 깐-뿐ˆ | ᄂᆤˆ
+台羅 Tâi-lô | niâu
+戴字 Taiji | niau2
+
+
 漢字/諺文 | 媽
 --- | ---
 諺文 깐-뿐ˆ | 맣·

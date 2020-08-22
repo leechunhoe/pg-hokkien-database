@@ -10,3 +10,10 @@ Mother's sister's husband
 戴字 Taiji | ee3tnio33
 
 
+漢字/諺文 | 姨丈
+--- | ---
+諺文 깐-뿐ˆ | 이ˆᄃᆤᇫ-
+台羅 Tâi-lô | î-tiāunn
+戴字 Taiji | ee3tniau33
+
+
