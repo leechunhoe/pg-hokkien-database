@@ -28,10 +28,24 @@ Elder brother
 戴字 Taiji | koh1
 
 
+漢字/諺文 | 阿哥
+--- | ---
+諺文 깐-뿐ˆ | 아·고·
+台羅 Tâi-lô | a-ko
+戴字 Taiji | ah3koh1
+
+
 漢字/諺文 | 兄
 --- | ---
 諺文 깐-뿐ˆ | 햐ᇫ·
 台羅 Tâi-lô | hiann
 戴字 Taiji | hnia1
+
+
+漢字/諺文 | 阿兄
+--- | ---
+諺文 깐-뿐ˆ | 아·햐ᇫ·
+台羅 Tâi-lô | a-hiann
+戴字 Taiji | ah3hnia1
 
 
