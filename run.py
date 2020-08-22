@@ -3,11 +3,15 @@ import numpy as np
 from itertools import groupby
 
 def main():
-	data = get_csv_entries("data.csv")
-	members = [list(i) for j, i in groupby(data, lambda a: a[0])]
+	members = get_members()
+	relations = get_csv_entries("relation.csv")
 
 	generate_linked_member_files(members)
 	generate_index(members)
+
+def get_members():
+	data = get_csv_entries("data.csv")
+	return [list(i) for j, i in groupby(data, lambda a: a[0])]
 
 def get_csv_entries(filename):
 	content = read_csv(filename)
