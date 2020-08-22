@@ -1,5 +1,5 @@
 # 자와
-## [我](member1.md) 兮 자와 _Daughter_
+## [我](member1.md) 兮 자와 (Daughter)
 
 ## 關係 관·희- _Relationships_
 

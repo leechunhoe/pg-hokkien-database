@@ -1,5 +1,5 @@
 # 阿叔
-##  _Husband's younger brother_
+##  (Husband's younger brother)
 
 ## 稱呼 칑·허· _Address_
 

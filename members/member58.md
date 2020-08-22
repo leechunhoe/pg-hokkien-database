@@ -1,5 +1,5 @@
 # 娘
-##  _Husband's mother_
+##  (Husband's mother)
 
 ## 稱呼 칑·허· _Address_
 

@@ -1,5 +1,5 @@
 # 表小妹
-##  _Mother's sibling's younger daughter_
+##  (Mother's sibling's younger daughter)
 
 ## 稱呼 칑·허· _Address_
 

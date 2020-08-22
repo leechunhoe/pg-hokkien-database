@@ -1,5 +1,5 @@
 # 阿妗
-##  _Mother's brother's wife_
+##  (Mother's brother's wife)
 
 ## 稱呼 칑·허· _Address_
 

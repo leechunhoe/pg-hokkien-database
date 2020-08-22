@@ -1,5 +1,5 @@
 # 舅仔
-##  _Wife's younger brother_
+##  (Wife's younger brother)
 
 ## 稱呼 칑·허· _Address_
 

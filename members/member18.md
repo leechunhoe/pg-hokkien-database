@@ -1,5 +1,5 @@
 # 某
-##  _Wife_
+##  (Wife)
 
 ## 關係 관·희- _Relationships_
 

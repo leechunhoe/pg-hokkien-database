@@ -1,5 +1,5 @@
 # 姑丈
-##  _Father's sister's husband_
+##  (Father's sister's husband)
 
 ## 稱呼 칑·허· _Address_
 

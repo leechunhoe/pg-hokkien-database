@@ -1,5 +1,5 @@
 # 丈姆
-##  _Wife's mother_
+##  (Wife's mother)
 
 ## 稱呼 칑·허· _Address_
 

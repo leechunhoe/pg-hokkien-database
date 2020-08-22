@@ -1,5 +1,5 @@
 # 表小弟
-##  _Mother's sibling's younger son_
+##  (Mother's sibling's younger son)
 
 ## 稱呼 칑·허· _Address_
 

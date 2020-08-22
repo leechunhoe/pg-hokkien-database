@@ -1,5 +1,5 @@
 # 外孫
-##  _Daughter's son_
+##  (Daughter's son)
 
 ## 稱呼 칑·허· _Address_
 

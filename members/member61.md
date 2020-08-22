@@ -1,5 +1,5 @@
 # 姑
-##  _Husband's sister_
+##  (Husband's sister)
 
 ## 稱呼 칑·허· _Address_
 

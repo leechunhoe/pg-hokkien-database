@@ -1,5 +1,5 @@
 # 姨仔
-##  _Wife's younger sister_
+##  (Wife's younger sister)
 
 ## 稱呼 칑·허· _Address_
 

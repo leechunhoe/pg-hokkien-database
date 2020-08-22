@@ -1,5 +1,5 @@
 # 表哥
-##  _Father's sister's elder son_
+##  (Father's sister's elder son)
 
 ## 稱呼 칑·허· _Address_
 

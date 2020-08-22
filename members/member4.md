@@ -1,5 +1,5 @@
 # 哥
-## [我](member1.md) 兮 哥 _Elder brother_
+## [我](member1.md) 兮 哥 (Elder brother)
 
 ## 關係 관·희- _Relationships_
 

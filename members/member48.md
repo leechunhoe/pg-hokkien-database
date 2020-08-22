@@ -1,5 +1,5 @@
 # 表姊
-##  _Mother's sibling's elder daughter_
+##  (Mother's sibling's elder daughter)
 
 ## 稱呼 칑·허· _Address_
 

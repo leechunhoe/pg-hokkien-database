@@ -1,5 +1,5 @@
 # 姨
-##  _Wife's elder sister_
+##  (Wife's elder sister)
 
 ## 稱呼 칑·허· _Address_
 
