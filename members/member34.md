@@ -4,7 +4,7 @@ Father's younger brother's wife
 
 ## 關係 관·희- _Relationships_
 
-<center>[阿嬸兮尪 (叔) Father's younger brother's wife's husband](member11.md)</center>
+- [阿嬸兮尪 (叔) Father's younger brother's wife's husband](member11.md)
 
 
 

@@ -4,19 +4,19 @@ Father's elder brother
 
 ## 關係 관·희- _Relationships_
 
-<center>[伯兮爸 (公) Father's elder brother's father](member8.md)</center>
+- [伯兮爸 (公) Father's elder brother's father](member8.md)
 
-<center>[伯兮媽 (嫲) Father's elder brother's mother](member9.md)</center>
+- [伯兮媽 (嫲) Father's elder brother's mother](member9.md)
 
-<center>[伯兮某 (阿姆) Father's elder brother's wife](member33.md)</center>
+- [伯兮某 (阿姆) Father's elder brother's wife](member33.md)
 
-<center>[伯兮大漢後生 (堂哥) Father's elder brother's elder son](member35.md)</center>
+- [伯兮大漢後生 (堂哥) Father's elder brother's elder son](member35.md)
 
-<center>[伯兮大漢자와 (堂姊) Father's elder brother's elder daughter](member36.md)</center>
+- [伯兮大漢자와 (堂姊) Father's elder brother's elder daughter](member36.md)
 
-<center>[伯兮細漢後生 (堂小弟) Father's elder brother's younger son](member37.md)</center>
+- [伯兮細漢後生 (堂小弟) Father's elder brother's younger son](member37.md)
 
-<center>[伯兮細漢자와 (堂小妹) Father's elder brother's younger daughter](member38.md)</center>
+- [伯兮細漢자와 (堂小妹) Father's elder brother's younger daughter](member38.md)
 
 
 

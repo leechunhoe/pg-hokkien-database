@@ -4,9 +4,9 @@ Grandfather's elder brother
 
 ## 關係 관·희- _Relationships_
 
-<center>[伯公兮爸 (阿祖) Grandfather's elder brother's father](member29.md)</center>
+- [伯公兮爸 (阿祖) Grandfather's elder brother's father](member29.md)
 
-<center>[伯公兮媽 (祖嫲) Grandfather's elder brother's mother](member30.md)</center>
+- [伯公兮媽 (祖嫲) Grandfather's elder brother's mother](member30.md)
 
 
 

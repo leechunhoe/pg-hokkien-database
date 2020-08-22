@@ -4,17 +4,17 @@ Father
 
 ## 關係 관·희- _Relationships_
 
-<center>[爸兮爸 (公) Father's father](member8.md)</center>
+- [爸兮爸 (公) Father's father](member8.md)
 
-<center>[爸兮媽 (嫲) Father's mother](member9.md)</center>
+- [爸兮媽 (嫲) Father's mother](member9.md)
 
-<center>[爸兮某 (媽) Father's wife](member3.md)</center>
+- [爸兮某 (媽) Father's wife](member3.md)
 
-<center>[爸兮哥 (伯) Father's elder brother](member10.md)</center>
+- [爸兮哥 (伯) Father's elder brother](member10.md)
 
-<center>[爸兮小弟 (叔) Father's younger brother](member11.md)</center>
+- [爸兮小弟 (叔) Father's younger brother](member11.md)
 
-<center>[爸兮姊妹 (姑) Father's sister](member12.md)</center>
+- [爸兮姊妹 (姑) Father's sister](member12.md)
 
 
 

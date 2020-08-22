@@ -4,9 +4,9 @@ Elder sister's husband
 
 ## 關係 관·희- _Relationships_
 
-<center>[姊夫兮某 (姊) Elder sister's husband's wife](member5.md)</center>
+- [姊夫兮某 (姊) Elder sister's husband's wife](member5.md)
 
-<center>[姊夫兮囝 (外甥) Elder sister's husband's children](member25.md)</center>
+- [姊夫兮囝 (外甥) Elder sister's husband's children](member25.md)
 
 
 

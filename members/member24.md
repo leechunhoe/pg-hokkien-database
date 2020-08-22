@@ -4,9 +4,9 @@ Younger sister's husband
 
 ## 關係 관·희- _Relationships_
 
-<center>[妹夫兮某 (小妹) Younger sister's husband's wife](member7.md)</center>
+- [妹夫兮某 (小妹) Younger sister's husband's wife](member7.md)
 
-<center>[妹夫兮囝 (外甥) Younger sister's husband's children](member25.md)</center>
+- [妹夫兮囝 (外甥) Younger sister's husband's children](member25.md)
 
 
 

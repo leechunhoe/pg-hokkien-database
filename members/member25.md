@@ -4,9 +4,9 @@ Elder sister's children
 
 ## 關係 관·희- _Relationships_
 
-<center>[外甥兮爸 (姊夫) Elder sister's children's father](member23.md)</center>
+- [外甥兮爸 (姊夫) Elder sister's children's father](member23.md)
 
-<center>[外甥兮媽 (姊) Elder sister's children's mother](member5.md)</center>
+- [外甥兮媽 (姊) Elder sister's children's mother](member5.md)
 
 
 

@@ -4,13 +4,13 @@ Elder sister
 
 ## 關係 관·희- _Relationships_
 
-<center>[姊兮爸 (爸) Elder sister's father](member2.md)</center>
+- [姊兮爸 (爸) Elder sister's father](member2.md)
 
-<center>[姊兮媽 (媽) Elder sister's mother](member3.md)</center>
+- [姊兮媽 (媽) Elder sister's mother](member3.md)
 
-<center>[姊兮尪 (姊夫) Elder sister's husband](member23.md)</center>
+- [姊兮尪 (姊夫) Elder sister's husband](member23.md)
 
-<center>[姊兮囝 (外甥) Elder sister's children](member25.md)</center>
+- [姊兮囝 (外甥) Elder sister's children](member25.md)
 
 
 

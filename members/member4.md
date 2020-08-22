@@ -4,13 +4,13 @@ Elder brother
 
 ## 關係 관·희- _Relationships_
 
-<center>[哥兮爸 (爸) Elder brother's father](member2.md)</center>
+- [哥兮爸 (爸) Elder brother's father](member2.md)
 
-<center>[哥兮媽 (媽) Elder brother's mother](member3.md)</center>
+- [哥兮媽 (媽) Elder brother's mother](member3.md)
 
-<center>[哥兮某 (嫂) Elder brother's wife](member21.md)</center>
+- [哥兮某 (嫂) Elder brother's wife](member21.md)
 
-<center>[哥兮囝 (孫仔) Elder brother's children](member22.md)</center>
+- [哥兮囝 (孫仔) Elder brother's children](member22.md)
 
 
 

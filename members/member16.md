@@ -4,21 +4,21 @@ Mother's brother
 
 ## 關係 관·희- _Relationships_
 
-<center>[舅兮爸 (外公) Mother's brother's father](member13.md)</center>
+- [舅兮爸 (外公) Mother's brother's father](member13.md)
 
-<center>[舅兮媽 (外嫲) Mother's brother's mother](member14.md)</center>
+- [舅兮媽 (外嫲) Mother's brother's mother](member14.md)
 
-<center>[舅兮某 (阿妗) Mother's brother's wife](member51.md)</center>
+- [舅兮某 (阿妗) Mother's brother's wife](member51.md)
 
-<center>[舅兮姊妹 (姨) Mother's brother's sister](member15.md)</center>
+- [舅兮姊妹 (姨) Mother's brother's sister](member15.md)
 
-<center>[舅兮大漢後生 (表哥) Mother's brother's elder son](member47.md)</center>
+- [舅兮大漢後生 (表哥) Mother's brother's elder son](member47.md)
 
-<center>[舅兮大漢자와 (表姊) Mother's brother's elder daughter](member48.md)</center>
+- [舅兮大漢자와 (表姊) Mother's brother's elder daughter](member48.md)
 
-<center>[舅兮細漢後生 (表小弟) Mother's brother's younger son](member49.md)</center>
+- [舅兮細漢後生 (表小弟) Mother's brother's younger son](member49.md)
 
-<center>[舅兮細漢자와 (表小妹) Mother's brother's younger daughter](member50.md)</center>
+- [舅兮細漢자와 (表小妹) Mother's brother's younger daughter](member50.md)
 
 
 

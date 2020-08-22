@@ -4,7 +4,7 @@ Grandmother's sister
 
 ## 關係 관·희- _Relationships_
 
-<center>[姨婆兮尪 (丈公) Grandmother's sister's husband](member72.md)</center>
+- [姨婆兮尪 (丈公) Grandmother's sister's husband](member72.md)
 
 
 

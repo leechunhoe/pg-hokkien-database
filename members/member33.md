@@ -4,7 +4,7 @@ Father's elder brother's wife
 
 ## 關係 관·희- _Relationships_
 
-<center>[阿姆兮尪 (伯) Father's elder brother's wife's husband](member10.md)</center>
+- [阿姆兮尪 (伯) Father's elder brother's wife's husband](member10.md)
 
 
 
