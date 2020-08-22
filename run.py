@@ -3,12 +3,15 @@ import numpy as np
 from itertools import groupby
 
 def main():
-	data_csv = read_csv("data.csv")
-	data = [row for row in data_csv if len(row) > 0]
+	data = get_csv_entries("data.csv")
 	members = [list(i) for j, i in groupby(data, lambda a: a[0])]
 
 	generate_linked_member_files(members)
 	generate_index(members)
+
+def get_csv_entries(filename):
+	content = read_csv(filename)
+	return [row for row in content if len(row) > 0]
 
 def read_csv(filename):
 	file = open(filename, "r")
