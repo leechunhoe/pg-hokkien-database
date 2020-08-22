@@ -63,7 +63,7 @@ def generate_linked_member_files(members, relationships):
 
 			my_relation = " 兮 ".join(my_relation_list)
 
-		title = "# %s\n%s\n가我兮關係：%s" %(hanji, english, my_relation)
+		title = "# %s\n\n%s\n\n가我兮關係：%s" %(hanji, english, my_relation)
 		content += title
 
 		english_possessive = "%s's" %english
