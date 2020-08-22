@@ -3,9 +3,9 @@ Father's sister
 
 ## 關係 관·희- _Relationships_
 
-- [姑兮爸 (阿公) Father's sister's father](member8.md)
+- [姑兮爸 (公) Father's sister's father](member8.md)
 
-- [姑兮媽 (阿嫲) Father's sister's mother](member9.md)
+- [姑兮媽 (嫲) Father's sister's mother](member9.md)
 
 - [姑兮尪 (姑丈) Father's sister's husband](member43.md)
 
@@ -26,5 +26,12 @@ Father's sister
 諺文 깐-뿐ˆ | 거·
 台羅 Tâi-lô | koo
 戴字 Taiji | kor1
+
+
+漢字/諺文 | 阿姑
+--- | ---
+諺文 깐-뿐ˆ | 아·거·
+台羅 Tâi-lô | a-koo
+戴字 Taiji | ah3kor1
 
 

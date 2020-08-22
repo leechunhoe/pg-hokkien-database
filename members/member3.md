@@ -9,9 +9,9 @@ Mother
 
 - [媽兮尪 (爸) Mother's husband](member2.md)
 
-- [媽兮兄弟 (阿舅) Mother's brother](member16.md)
+- [媽兮兄弟 (舅) Mother's brother](member16.md)
 
-- [媽兮姊妹 (阿姨) Mother's sister](member15.md)
+- [媽兮姊妹 (姨) Mother's sister](member15.md)
 
 - [媽兮大漢後生 (哥) Mother's elder son](member4.md)
 
@@ -51,6 +51,13 @@ Mother
 諺文 깐-뿐ˆ | 뿌ˊ
 台羅 Tâi-lô | bú
 戴字 Taiji | boo4
+
+
+漢字/諺文 | 老母
+--- | ---
+諺文 깐-뿐ˆ | ᄅᅷ-뽀ˊ
+台羅 Tâi-lô | lāu-bó
+戴字 Taiji | lau33bo4
 
 
 漢字/諺文 | 老母

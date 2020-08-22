@@ -7,7 +7,7 @@ Younger brother
 
 - [小弟兮媽 (媽) Younger brother's mother](member3.md)
 
-- [小弟兮某 (阿嫂) Younger brother's wife](member21.md)
+- [小弟兮某 (嫂) Younger brother's wife](member21.md)
 
 - [小弟兮哥 (哥) Younger brother's elder brother](member4.md)
 

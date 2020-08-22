@@ -33,3 +33,10 @@ Son
 戴字 Taiji | knia4
 
 
+漢字/諺文 | 다버囝
+--- | ---
+諺文 깐-뿐ˆ | 다·버·갸ᇫˊ
+台羅 Tâi-lô | ta-poo-kiánn
+戴字 Taiji | ta3por3knia4
+
+

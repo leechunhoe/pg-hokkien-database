@@ -28,3 +28,10 @@ Elder sister
 戴字 Taiji | cee4
 
 
+漢字/諺文 | 阿姊
+--- | ---
+諺文 깐-뿐ˆ | 아·지ˊ
+台羅 Tâi-lô | a-tsí
+戴字 Taiji | ah3cee4
+
+
