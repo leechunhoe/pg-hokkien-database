@@ -9,11 +9,11 @@ Wife
 
 - [某兮尪 (尪) Wife's husband](member17.md)
 
-- [某兮哥 (阿舅) Wife's elder brother](member64.md)
+- [某兮哥 (舅) Wife's elder brother](member64.md)
 
 - [某兮小弟 (舅仔) Wife's younger brother](member66.md)
 
-- [某兮姊 (阿姨) Wife's elder sister](member65.md)
+- [某兮姊 (姨) Wife's elder sister](member65.md)
 
 - [某兮小妹 (姨仔) Wife's younger sister](member67.md)
 
