@@ -26,7 +26,7 @@
 [孫仔](members/member22.md) | [Elder brother's children](members/member22.md)
 [姊夫](members/member23.md) | [Elder sister's husband](members/member23.md)
 [妹夫](members/member24.md) | [Younger sister's husband](members/member24.md)
-[外甥](members/member25.md) | [Sister's children](members/member25.md)
+[外甥](members/member25.md) | [Elder sister's children](members/member25.md)
 [伯公](members/member26.md) | [Grandfather's elder brother](members/member26.md)
 [叔公](members/member27.md) | [Grandfather's younger brother](members/member27.md)
 [姑婆](members/member28.md) | [Grandfather's sister](members/member28.md)

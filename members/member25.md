@@ -1,5 +1,13 @@
 # 外甥
-Sister's children
+Elder sister's children
+
+## 關係 관·희- _Relationships_
+
+- [外甥兮爸 (姊夫) Elder sister's children's father](member23.md)
+
+- [外甥兮媽 (姊) Elder sister's children's mother](member5.md)
+
+
 
 ## 稱呼 칑·허· _Address_
 
