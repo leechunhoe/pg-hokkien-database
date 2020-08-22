@@ -7,7 +7,7 @@ Elder brother
 
 - [哥兮媽 (媽) Elder brother's mother](member3.md)
 
-- [哥兮某 (阿嫂) Elder brother's wife](member21.md)
+- [哥兮某 (嫂) Elder brother's wife](member21.md)
 
 - [哥兮小弟 (小弟) Elder brother's younger brother](member6.md)
 

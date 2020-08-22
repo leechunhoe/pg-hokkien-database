@@ -9,9 +9,9 @@ Mother
 
 - [媽兮尪 (爸) Mother's husband](member2.md)
 
-- [媽兮兄弟 (阿舅) Mother's brother](member16.md)
+- [媽兮兄弟 (舅) Mother's brother](member16.md)
 
-- [媽兮姊妹 (阿姨) Mother's sister](member15.md)
+- [媽兮姊妹 (姨) Mother's sister](member15.md)
 
 - [媽兮大漢後生 (哥) Mother's elder son](member4.md)
 
