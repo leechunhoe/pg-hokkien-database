@@ -1,5 +1,5 @@
 # 外甥
-Sister's children
+Younger sister's children
 
 ## 稱呼 칑·허· _Address_
 

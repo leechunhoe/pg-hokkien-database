@@ -72,3 +72,4 @@
 [囝婿](members/member68.md) | [Daughter's husband](members/member68.md)
 [嫂](members/member69.md) | [Younger brother's wife](members/member69.md)
 [孫仔](members/member70.md) | [Younger brother's children](members/member70.md)
+[外甥](members/member71.md) | [Younger sister's children](members/member71.md)
