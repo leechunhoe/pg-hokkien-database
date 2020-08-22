@@ -1,5 +1,5 @@
 # 자와
-[자와](member1.md)
+자와
 Daughter
 
 ## 關係 관·희- _Relationships_

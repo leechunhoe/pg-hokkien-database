@@ -1,5 +1,5 @@
 # 伯
-[爸](member1.md)兮[哥](member2.md)
+[爸](member1.md)兮哥
 Father's elder brother
 
 ## 關係 관·희- _Relationships_

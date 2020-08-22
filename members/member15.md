@@ -1,5 +1,5 @@
 # 姨
-[媽](member1.md)兮[姊妹](member2.md)
+[媽](member1.md)兮姊妹
 Mother's sister
 
 ## 關係 관·희- _Relationships_

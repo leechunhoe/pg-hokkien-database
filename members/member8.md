@@ -1,5 +1,5 @@
 # 公
-[爸](member1.md)兮[爸](member2.md)
+[爸](member1.md)兮爸
 Grandfather
 
 ## 關係 관·희- _Relationships_

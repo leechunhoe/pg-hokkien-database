@@ -42,14 +42,21 @@ def generate_linked_member_files(members, relationships):
 			relations_text = member[0][7]
 			relations = relations_text.split(".")
 			my_relation_list = []
-			for relation in relations:
-				member_id = relation.split(":")[0] # the member instance
-				relation_code = relation.split(":")[1] # relationship code, e.g. pa, ma
+			for i, relation in enumerate(relations):
+				# 1. Get data
+				member_id = relation.split(":")[0] # the member instance (integer)
+				relation_code = relation.split(":")[1] # relationship code, e.g. "pa", "ma"
 				relationship = get_relation(relationships, relation_code)
 				this_hanji = relationship[1]
-				filename = "member%s.md" %member_id
-				this_link = "[%s](%s)"%(this_hanji, filename)
-				my_relation_list.append(this_link)
+
+				# 2. Append
+				if i == len(relations) - 1:
+					my_relation_list.append(this_hanji)
+				else:
+					filename = "member%s.md" %member_id
+					this_link = "[%s](%s)"%(this_hanji, filename)
+					my_relation_list.append(this_link)
+
 			my_relation = "兮".join(my_relation_list)
 
 		title = "# %s\n%s\n%s" %(hanji, my_relation, english)

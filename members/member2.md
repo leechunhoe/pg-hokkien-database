@@ -1,5 +1,5 @@
 # 爸
-[爸](member1.md)
+爸
 Father
 
 ## 關係 관·희- _Relationships_
