@@ -13,14 +13,6 @@ Mother
 
 - [媽兮姊妹 (姨) Mother's sister](member15.md)
 
-- [媽兮大漢後生 (哥) Mother's elder son](member4.md)
-
-- [媽兮大漢자와 (姊) Mother's elder daughter](member5.md)
-
-- [媽兮細漢後生 (小弟) Mother's younger son](member6.md)
-
-- [媽兮細漢자와 (小妹) Mother's younger daughter](member7.md)
-
 
 
 ## 稱呼 칑·허· _Address_

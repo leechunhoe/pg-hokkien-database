@@ -9,12 +9,6 @@ Elder brother
 
 - [哥兮某 (嫂) Elder brother's wife](member21.md)
 
-- [哥兮小弟 (小弟) Elder brother's younger brother](member6.md)
-
-- [哥兮姊 (姊) Elder brother's elder sister](member5.md)
-
-- [哥兮小妹 (小妹) Elder brother's younger sister](member7.md)
-
 - [哥兮囝 (孫仔) Elder brother's children](member22.md)
 
 

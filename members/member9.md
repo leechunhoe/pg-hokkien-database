@@ -9,14 +9,6 @@ Grandmother
 
 - [嫲兮姊妹 (姨婆) Grandmother's sister](member32.md)
 
-- [嫲兮大漢後生 (伯) Grandmother's elder son](member10.md)
-
-- [嫲兮자와 (姑) Grandmother's daughter](member12.md)
-
-- [嫲兮囝 (爸) Grandmother's children](member2.md)
-
-- [嫲兮細漢後生 (叔) Grandmother's younger son](member11.md)
-
 
 
 ## 稱呼 칑·허· _Address_

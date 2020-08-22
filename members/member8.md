@@ -15,12 +15,6 @@ Grandfather
 
 - [公兮姊妹 (姑婆) Grandfather's sister](member28.md)
 
-- [公兮大漢後生 (伯) Grandfather's elder son](member10.md)
-
-- [公兮자와 (姑) Grandfather's daughter](member12.md)
-
-- [公兮細漢後生 (叔) Grandfather's younger son](member11.md)
-
 
 
 ## 稱呼 칑·허· _Address_
