@@ -73,3 +73,4 @@
 [嫂](members/member69.md) | [Younger brother's wife](members/member69.md)
 [孫仔](members/member70.md) | [Younger brother's children](members/member70.md)
 [外甥](members/member71.md) | [Younger sister's children](members/member71.md)
+[丈公](members/member72.md) | [Grandmother's sister's husband](members/member72.md)

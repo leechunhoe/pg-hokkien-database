@@ -1,6 +1,14 @@
 # 叔公
 Grandfather's younger brother
 
+## 關係 관·희- _Relationships_
+
+- [叔公兮爸 (阿祖) Grandfather's younger brother's father](member29.md)
+
+- [叔公兮媽 (祖嫲) Grandfather's younger brother's mother](member30.md)
+
+
+
 ## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 叔公

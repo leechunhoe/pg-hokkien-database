@@ -1,6 +1,12 @@
 # 阿姆
 Father's elder brother's wife
 
+## 關係 관·희- _Relationships_
+
+- [阿姆兮尪 (伯) Father's elder brother's wife's husband](member10.md)
+
+
+
 ## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 阿姆

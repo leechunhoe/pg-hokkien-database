@@ -31,43 +31,46 @@ def generate_linked_member_files(members):
 		if len(member[0]) > 6:
 			content += "\n\n## 關係 관·희- _Relationships_"
 
-			relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in member[0][6].split(".")}
-			links = ""
-			if "pa" in relations:
-				links += get_link("爸", "father", hanji, english_possessive, relations["pa"], members)
-			if "ma" in relations:
-				links += get_link("媽", "mother", hanji, english_possessive, relations["ma"], members)
-			if "ang" in relations:
-				links += get_link("尪", "husband", hanji, english_possessive, relations["ang"], members)
-			if "bo" in relations:
-				links += get_link("某", "wife", hanji, english_possessive, relations["bo"], members)
-			if "ht" in relations:
-				links += get_link("兄弟", "brother", hanji, english_possessive, relations["ht"], members)
-			if "ko" in relations:
-				links += get_link("哥", "elder brother", hanji, english_possessive, relations["ko"], members)
-			if "ti" in relations:
-				links += get_link("小弟", "younger brother", hanji, english_possessive, relations["ti"], members)
-			if "cm" in relations:
-				links += get_link("姊妹", "sister", hanji, english_possessive, relations["cm"], members)
-			if "ci" in relations:
-				links += get_link("姊", "elder sister", hanji, english_possessive, relations["ci"], members)
-			if "moy" in relations:
-				links += get_link("小妹", "younger sister", hanji, english_possessive, relations["moy"], members)
-			if "hs1" in relations:
-				links += get_link("大漢後生", "elder son", hanji, english_possessive, relations["hs1"], members)
-			if "cw1" in relations:
-				links += get_link("大漢자와", "elder daughter", hanji, english_possessive, relations["cw1"], members)
-			if "hs" in relations:
-				links += get_link("後生", "son", hanji, english_possessive, relations["hs"], members)
-			if "cw" in relations:
-				links += get_link("자와", "daughter", hanji, english_possessive, relations["cw"], members)
-			if "hscw" in relations:
-				links += get_link("囝", "children", hanji, english_possessive, relations["hscw"], members)
-			if "hs2" in relations:
-				links += get_link("細漢後生", "younger son", hanji, english_possessive, relations["hs2"], members)
-			if "cw2" in relations:
-				links += get_link("細漢자와", "younger daughter", hanji, english_possessive, relations["cw2"], members)
-			content += "\n\n" + links
+			relations_text = member[0][6]
+
+			if len(relations_text) > 0:
+				relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in relations_text.split(".")}
+				links = ""
+				if "pa" in relations:
+					links += get_link("爸", "father", hanji, english_possessive, relations["pa"], members)
+				if "ma" in relations:
+					links += get_link("媽", "mother", hanji, english_possessive, relations["ma"], members)
+				if "ang" in relations:
+					links += get_link("尪", "husband", hanji, english_possessive, relations["ang"], members)
+				if "bo" in relations:
+					links += get_link("某", "wife", hanji, english_possessive, relations["bo"], members)
+				if "ht" in relations:
+					links += get_link("兄弟", "brother", hanji, english_possessive, relations["ht"], members)
+				if "ko" in relations:
+					links += get_link("哥", "elder brother", hanji, english_possessive, relations["ko"], members)
+				if "ti" in relations:
+					links += get_link("小弟", "younger brother", hanji, english_possessive, relations["ti"], members)
+				if "cm" in relations:
+					links += get_link("姊妹", "sister", hanji, english_possessive, relations["cm"], members)
+				if "ci" in relations:
+					links += get_link("姊", "elder sister", hanji, english_possessive, relations["ci"], members)
+				if "moy" in relations:
+					links += get_link("小妹", "younger sister", hanji, english_possessive, relations["moy"], members)
+				if "hs1" in relations:
+					links += get_link("大漢後生", "elder son", hanji, english_possessive, relations["hs1"], members)
+				if "cw1" in relations:
+					links += get_link("大漢자와", "elder daughter", hanji, english_possessive, relations["cw1"], members)
+				if "hs" in relations:
+					links += get_link("後生", "son", hanji, english_possessive, relations["hs"], members)
+				if "cw" in relations:
+					links += get_link("자와", "daughter", hanji, english_possessive, relations["cw"], members)
+				if "hscw" in relations:
+					links += get_link("囝", "children", hanji, english_possessive, relations["hscw"], members)
+				if "hs2" in relations:
+					links += get_link("細漢後生", "younger son", hanji, english_possessive, relations["hs2"], members)
+				if "cw2" in relations:
+					links += get_link("細漢자와", "younger daughter", hanji, english_possessive, relations["cw2"], members)
+				content += "\n\n" + links
 
 		content += "\n\n## 稱呼 칑·허· _Address_"
 

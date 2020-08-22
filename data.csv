@@ -75,18 +75,18 @@
 25,孫仔,순·아ˊ,sun--á,soon1ah4,elder sister's children
 25,孫/甥/嬲,순·,sun,soon1,elder sister's children
 
-26,伯公,벻·겅·,peh-kong,paek1kong1,grandfather's elder brother
-27,叔公,즥·겅·,tsek-kong,ceik1kong1,grandfather's younger brother
-28,姑婆,거·보ˆ,koo-pô,kor3poh2,grandfather's sister
+26,伯公,벻·겅·,peh-kong,paek1kong1,grandfather's elder brother,pa:29.ma:30,1:pa.2:pa.8:ko
+27,叔公,즥·겅·,tsek-kong,ceik1kong1,grandfather's younger brother,pa:29.ma:30,1:pa.2:pa.8:ti
+28,姑婆,거·보ˆ,koo-pô,kor3poh2,grandfather's sister,pa:29.ma:30,1:pa.2:pa.8:cm
 
-29,阿祖,아·저ˊ,a-tsóo,ah3cor4,great grandfather
-30,祖嫲,저ˊ마ˊ,tsóo-má,cor1mah4,great grandmother
+29,阿祖,아·저ˊ,a-tsóo,ah3cor4,great grandfather,,1:pa.2:pa.8:pa
+30,祖嫲,저ˊ마ˊ,tsóo-má,cor1mah4,great grandmother,,1:pa.2:pa.8:ma
 
-31,舅公,구-겅·,kū-kong,koo33kong1,grandmother's brother
-32,姨婆,이ˆ보ˆ,î-pô,ee3poh2,grandmother's sister
+31,舅公,구-겅·,kū-kong,koo33kong1,grandmother's brother,,1:pa.2:ma.9:ht
+32,姨婆,이ˆ보ˆ,î-pô,ee3poh2,grandmother's sister,ang:72,1:pa.2:ma.9:cm
 
-33,阿姆,아·음ˊ,a-ḿ,ah3mm4,father's elder brother's wife
-34,阿嬸,아·짐ˊ,a-tsím,ah3cim4,father's younger brother's wife
+33,阿姆,아·음ˊ,a-ḿ,ah3mm4,father's elder brother's wife,ang:10,1:pa.2:ko.10:bo
+34,阿嬸,아·짐ˊ,a-tsím,ah3cim4,father's younger brother's wife,ang:11,1:pa.2:ti.11:bo
 
 35,堂哥,덩ˆ고·,tông-ko,tong3koh1,father's brother's elder son
 36,堂姊,덩ˆ지ˊ,tông-tsí,tong3cee4,father's brother's elder daughter
@@ -157,3 +157,6 @@
 71,外甥,꽈-싕·,guā-seng,gua33seng1,younger sister's children
 71,孫仔,순·아ˊ,sun--á,soon1ah4,younger sister's children
 71,孫/甥/嬲,순·,sun,soon1,younger sister's children
+
+72,丈公,뎌ᇫ-겅·,tiōnn-kong,tnio33kong1,grandmother's sister's husband
+72,丈公,ᄃᆤᇫ-겅·,tiāunn-kong,tniau33kong1,grandmother's sister's husband

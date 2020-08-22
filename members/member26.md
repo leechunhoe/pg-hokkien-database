@@ -1,6 +1,14 @@
 # 伯公
 Grandfather's elder brother
 
+## 關係 관·희- _Relationships_
+
+- [伯公兮爸 (阿祖) Grandfather's elder brother's father](member29.md)
+
+- [伯公兮媽 (祖嫲) Grandfather's elder brother's mother](member30.md)
+
+
+
 ## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 伯公
