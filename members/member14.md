@@ -1,5 +1,5 @@
 # 外嫲
-[媽](members/member1.md)兮[媽](members/member2.md)
+[媽](member1.md)兮[媽](member2.md)
 Maternal grandmother
 
 ## 關係 관·희- _Relationships_

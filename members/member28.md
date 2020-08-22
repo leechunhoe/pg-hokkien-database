@@ -1,5 +1,5 @@
 # 姑婆
-[爸](members/member1.md)兮[爸](members/member2.md)兮[姊妹](members/member8.md)
+[爸](member1.md)兮[爸](member2.md)兮[姊妹](member8.md)
 Grandfather's sister
 
 ## 關係 관·희- _Relationships_

@@ -47,7 +47,7 @@ def generate_linked_member_files(members, relationships):
 				relation_code = relation.split(":")[1] # relationship code, e.g. pa, ma
 				relationship = get_relation(relationships, relation_code)
 				this_hanji = relationship[1]
-				filename = "members/member%s.md" %member_id
+				filename = "member%s.md" %member_id
 				this_link = "[%s](%s)"%(this_hanji, filename)
 				my_relation_list.append(this_link)
 			my_relation = "兮".join(my_relation_list)

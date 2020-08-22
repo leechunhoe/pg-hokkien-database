@@ -1,5 +1,5 @@
 # 外甥
-[姊](members/member1.md)兮[囝](members/member5.md)
+[姊](member1.md)兮[囝](member5.md)
 Elder sister's children
 
 ## 關係 관·희- _Relationships_

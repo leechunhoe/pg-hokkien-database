@@ -1,5 +1,5 @@
 # 妹夫
-[小妹](members/member1.md)兮[尪](members/member7.md)
+[小妹](member1.md)兮[尪](member7.md)
 Younger sister's husband
 
 ## 關係 관·희- _Relationships_

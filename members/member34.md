@@ -1,5 +1,5 @@
 # 阿嬸
-[爸](members/member1.md)兮[小弟](members/member2.md)兮[某](members/member11.md)
+[爸](member1.md)兮[小弟](member2.md)兮[某](member11.md)
 Father's younger brother's wife
 
 ## 關係 관·희- _Relationships_

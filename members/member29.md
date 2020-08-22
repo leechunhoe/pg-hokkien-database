@@ -1,5 +1,5 @@
 # 阿祖
-[爸](members/member1.md)兮[爸](members/member2.md)兮[爸](members/member8.md)
+[爸](member1.md)兮[爸](member2.md)兮[爸](member8.md)
 Great grandfather
 
 ## 關係 관·희- _Relationships_

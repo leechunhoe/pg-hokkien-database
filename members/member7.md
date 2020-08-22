@@ -1,5 +1,5 @@
 # 小妹
-[小妹](members/member1.md)
+[小妹](member1.md)
 Younger sister
 
 ## 關係 관·희- _Relationships_

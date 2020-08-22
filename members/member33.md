@@ -1,5 +1,5 @@
 # 阿姆
-[爸](members/member1.md)兮[哥](members/member2.md)兮[某](members/member10.md)
+[爸](member1.md)兮[哥](member2.md)兮[某](member10.md)
 Father's elder brother's wife
 
 ## 關係 관·희- _Relationships_

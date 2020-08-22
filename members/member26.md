@@ -1,5 +1,5 @@
 # 伯公
-[爸](members/member1.md)兮[爸](members/member2.md)兮[哥](members/member8.md)
+[爸](member1.md)兮[爸](member2.md)兮[哥](member8.md)
 Grandfather's elder brother
 
 ## 關係 관·희- _Relationships_
