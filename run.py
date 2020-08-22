@@ -3,13 +3,16 @@ import numpy as np
 from itertools import groupby
 
 def main():
-	with open('data.csv') as csv_file:
-		csv_reader = csv.reader(csv_file, delimiter=',')
-		data = [row for row in csv_reader if len(row) > 0]
-		members = [list(i) for j, i in groupby(data, lambda a: a[0])]
+	data_csv = read_csv("data.csv")
+	data = [row for row in data_csv if len(row) > 0]
+	members = [list(i) for j, i in groupby(data, lambda a: a[0])]
 
-		generate_linked_member_files(members)
-		generate_index(members)
+	generate_linked_member_files(members)
+	generate_index(members)
+
+def read_csv(filename):
+	file = open(filename, "r")
+	return csv.reader(file, delimiter=',')
 
 def generate_linked_member_files(members):
 	# Generate linked member files
@@ -28,6 +31,17 @@ def generate_linked_member_files(members):
 		if id == "1":
 			english_possessive = "My"
 
+		# # Populate his/her relationship with me
+		# if len(member[0]) > 7:
+		# 	relations_text = member[0][7]
+		# 	relations = [keyValue.split(":")[0] for keyValue in relations_text.split(".")]
+
+		# 	for relation in relations:
+		# 		code = relation[0]
+		# 		member_index = relation[1]
+		# 	#member = [m for m in members if m[0][0] == relation][0][0][1]
+
+		# Populate his/her direct relationships
 		if len(member[0]) > 6:
 			content += "\n\n## 關係 관·희- _Relationships_"
 
