@@ -1,5 +1,6 @@
 # 伯公
 Grandfather's elder brother
+爸兮爸兮哥
 
 ## 關係 관·희- _Relationships_
 

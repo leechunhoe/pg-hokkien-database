@@ -1,5 +1,6 @@
 # 嫂
 Younger brother's wife
+小弟兮某
 
 ## 關係 관·희- _Relationships_
 

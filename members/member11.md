@@ -1,5 +1,6 @@
 # 叔
 Father's younger brother
+爸兮小弟
 
 ## 關係 관·희- _Relationships_
 

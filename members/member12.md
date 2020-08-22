@@ -1,5 +1,6 @@
 # 姑
 Father's sister
+爸兮姊妹
 
 ## 關係 관·희- _Relationships_
 

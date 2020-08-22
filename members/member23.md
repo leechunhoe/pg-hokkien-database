@@ -1,5 +1,6 @@
 # 姊夫
 Elder sister's husband
+姊兮尪
 
 ## 關係 관·희- _Relationships_
 

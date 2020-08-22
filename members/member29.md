@@ -1,5 +1,6 @@
 # 阿祖
 Great grandfather
+爸兮爸兮爸
 
 ## 關係 관·희- _Relationships_
 
