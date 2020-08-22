@@ -1,6 +1,6 @@
 # 表姊
-
 Father's sister's elder daughter
+가我兮關係：
 
 ## 稱呼 칑·허· _Address_
 

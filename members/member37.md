@@ -1,6 +1,6 @@
 # 堂小弟
-
 Father's brother's younger son
+가我兮關係：
 
 ## 稱呼 칑·허· _Address_
 

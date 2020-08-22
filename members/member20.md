@@ -1,6 +1,6 @@
 # 자와
-[我](member1.md)兮자와
 Daughter
+가我兮關係：[我](member1.md) 兮 자와
 
 ## 關係 관·희- _Relationships_
 

@@ -1,6 +1,6 @@
 # 姊夫
-[我](member1.md)兮[姊](member5.md)兮尪
 Elder sister's husband
+가我兮關係：[我](member1.md) 兮 [姊](member5.md) 兮 尪
 
 ## 關係 관·희- _Relationships_
 
