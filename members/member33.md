@@ -1,6 +1,5 @@
-# 阿姆
+# 阿姆 (爸兮哥兮某)
 Father's elder brother's wife
-爸兮哥兮某
 
 ## 關係 관·희- _Relationships_
 

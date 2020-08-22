@@ -1,6 +1,5 @@
-# 叔公
+# 叔公 (爸兮爸兮小弟)
 Grandfather's younger brother
-爸兮爸兮小弟
 
 ## 關係 관·희- _Relationships_
 

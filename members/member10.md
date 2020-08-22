@@ -1,6 +1,5 @@
-# 伯
+# 伯 (爸兮哥)
 Father's elder brother
-爸兮哥
 
 ## 關係 관·희- _Relationships_
 

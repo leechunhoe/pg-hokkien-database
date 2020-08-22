@@ -1,6 +1,5 @@
-# 舅公
+# 舅公 (爸兮媽兮兄弟)
 Grandmother's brother
-爸兮媽兮兄弟
 
 ## 關係 관·희- _Relationships_
 

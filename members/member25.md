@@ -1,6 +1,5 @@
-# 外甥
+# 外甥 (姊兮囝)
 Elder sister's children
-姊兮囝
 
 ## 關係 관·희- _Relationships_
 

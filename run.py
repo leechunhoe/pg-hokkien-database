@@ -36,14 +36,8 @@ def generate_linked_member_files(members, relationships):
 		hanji = member[0][1]
 		english = member[0][5].capitalize()
 
-		title = "# %s\n%s" %(hanji, english)
-		content += title
-
-		english_possessive = "%s's" %english
-		if id == "1":
-			english_possessive = "My"
-
 		# # Populate his/her relationship with me
+		my_relation = ""
 		if len(member[0]) > 7:
 			relations_text = member[0][7]
 			relations = relations_text.split(".")
@@ -54,7 +48,13 @@ def generate_linked_member_files(members, relationships):
 				relationship = get_relation(relationships, relation_code)
 				my_relation_list.append(relationship[1])
 			my_relation = "兮".join(my_relation_list)
-			content += "\n%s" %my_relation
+
+		title = "# %s (%s)\n%s" %(hanji, my_relation, english)
+		content += title
+
+		english_possessive = "%s's" %english
+		if id == "1":
+			english_possessive = "My"
 
 		# Populate his/her direct relationships
 		if len(member[0]) > 6:

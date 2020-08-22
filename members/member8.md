@@ -1,6 +1,5 @@
-# 公
+# 公 (爸兮爸)
 Grandfather
-爸兮爸
 
 ## 關係 관·희- _Relationships_
 

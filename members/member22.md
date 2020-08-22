@@ -1,6 +1,5 @@
-# 孫仔
+# 孫仔 (哥兮囝)
 Elder brother's children
-哥兮囝
 
 ## 關係 관·희- _Relationships_
 

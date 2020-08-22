@@ -1,6 +1,5 @@
-# 자와
+# 자와 (자와)
 Daughter
-자와
 
 ## 關係 관·희- _Relationships_
 
