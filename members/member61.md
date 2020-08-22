@@ -1,8 +1,6 @@
 # 姑
 
-Husband's sister
-
-가我兮關係：
+가我兮關係： _Husband's sister_
 
 ## 稱呼 칑·허· _Address_
 

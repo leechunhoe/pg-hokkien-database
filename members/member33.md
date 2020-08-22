@@ -1,8 +1,6 @@
 # 阿姆
 
-Father's elder brother's wife
-
-가我兮關係：[我](member1.md) 兮 [爸](member2.md) 兮 [哥](member10.md) 兮 某
+가我兮關係：[我](member1.md) 兮 [爸](member2.md) 兮 [哥](member10.md) 兮 某 _Father's elder brother's wife_
 
 ## 關係 관·희- _Relationships_
 

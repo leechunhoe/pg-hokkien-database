@@ -1,8 +1,6 @@
 # 表小弟
 
-Mother's sibling's younger son
-
-가我兮關係：
+가我兮關係： _Mother's sibling's younger son_
 
 ## 稱呼 칑·허· _Address_
 

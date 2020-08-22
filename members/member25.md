@@ -1,8 +1,6 @@
 # 外甥
 
-Elder sister's children
-
-가我兮關係：[我](member1.md) 兮 [姊](member5.md) 兮 囝
+가我兮關係：[我](member1.md) 兮 [姊](member5.md) 兮 囝 _Elder sister's children_
 
 ## 關係 관·희- _Relationships_
 

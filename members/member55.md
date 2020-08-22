@@ -1,8 +1,6 @@
 # 外孫
 
-Daughter's son
-
-가我兮關係：
+가我兮關係： _Daughter's son_
 
 ## 稱呼 칑·허· _Address_
 

@@ -1,8 +1,6 @@
 # 妹夫
 
-Younger sister's husband
-
-가我兮關係：[我](member1.md) 兮 [小妹](member7.md) 兮 尪
+가我兮關係：[我](member1.md) 兮 [小妹](member7.md) 兮 尪 _Younger sister's husband_
 
 ## 關係 관·희- _Relationships_
 

@@ -1,8 +1,6 @@
 # 阮官
 
-Husband's father
-
-가我兮關係：
+가我兮關係： _Husband's father_
 
 ## 稱呼 칑·허· _Address_
 

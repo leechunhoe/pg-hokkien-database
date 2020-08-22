@@ -1,8 +1,6 @@
 # 哥
 
-Elder brother
-
-가我兮關係：[我](member1.md) 兮 哥
+가我兮關係：[我](member1.md) 兮 哥 _Elder brother_
 
 ## 關係 관·희- _Relationships_
 

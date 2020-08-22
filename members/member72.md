@@ -1,8 +1,6 @@
 # 丈公
 
-Grandmother's sister's husband
-
-가我兮關係：
+가我兮關係： _Grandmother's sister's husband_
 
 ## 稱呼 칑·허· _Address_
 

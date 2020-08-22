@@ -1,8 +1,6 @@
 # 小妹
 
-Younger sister
-
-가我兮關係：[我](member1.md) 兮 小妹
+가我兮關係：[我](member1.md) 兮 小妹 _Younger sister_
 
 ## 關係 관·희- _Relationships_
 

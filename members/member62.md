@@ -1,8 +1,6 @@
 # 丈人
 
-Wife's father
-
-가我兮關係：
+가我兮關係： _Wife's father_
 
 ## 稱呼 칑·허· _Address_
 
