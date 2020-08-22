@@ -1,5 +1,6 @@
-# 嫂 (哥兮某)
-Elder brother's wife
+# 嫂
+## 哥兮某
+## Elder brother's wife
 
 ## 關係 관·희- _Relationships_
 
