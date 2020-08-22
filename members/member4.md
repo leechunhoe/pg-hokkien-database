@@ -1,5 +1,5 @@
 # 哥
-## 哥
+[哥](members/member1.md)
 Elder brother
 
 ## 關係 관·희- _Relationships_

@@ -1,5 +1,5 @@
 # 小弟
-## 小弟
+[小弟](members/member1.md)
 Younger brother
 
 ## 關係 관·희- _Relationships_

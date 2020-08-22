@@ -1,5 +1,5 @@
 # 姑
-## 爸兮姊妹
+[爸](members/member1.md)兮[姊妹](members/member2.md)
 Father's sister
 
 ## 關係 관·희- _Relationships_

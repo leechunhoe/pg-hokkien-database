@@ -1,5 +1,5 @@
 # 祖嫲
-## 爸兮爸兮媽
+[爸](members/member1.md)兮[爸](members/member2.md)兮[媽](members/member8.md)
 Great grandmother
 
 ## 關係 관·희- _Relationships_

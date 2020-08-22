@@ -1,5 +1,5 @@
 # 嫂
-## 小弟兮某
+[小弟](members/member1.md)兮[某](members/member6.md)
 Younger brother's wife
 
 ## 關係 관·희- _Relationships_
