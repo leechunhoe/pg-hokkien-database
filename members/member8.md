@@ -1,6 +1,7 @@
 # 公
 ## 定義 _Definition_
-[我](member1.md) 兮 [爸](member2.md) 兮 爸 Grandfather
+[我](member1.md) 兮 [爸](member2.md) 兮 爸
+Grandfather
 
 ## 關係 관·희- _Relationships_
 

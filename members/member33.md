@@ -1,6 +1,7 @@
 # 姆
 ## 定義 _Definition_
-[我](member1.md) 兮 [爸](member2.md) 兮 [哥](member10.md) 兮 某 Father's elder brother's wife
+[我](member1.md) 兮 [爸](member2.md) 兮 [哥](member10.md) 兮 某
+Father's elder brother's wife
 
 ## 關係 관·희- _Relationships_
 

@@ -1,6 +1,7 @@
 # 嬸
 ## 定義 _Definition_
-[我](member1.md) 兮 [爸](member2.md) 兮 [小弟](member11.md) 兮 某 Father's younger brother's wife
+[我](member1.md) 兮 [爸](member2.md) 兮 [小弟](member11.md) 兮 某
+Father's younger brother's wife
 
 ## 關係 관·희- _Relationships_
 

@@ -1,6 +1,7 @@
 # 娘
 ## 定義 _Definition_
- Husband's mother
+
+Husband's mother
 
 ## 稱呼 칑·허· _Address_
 

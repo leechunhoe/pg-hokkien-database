@@ -1,6 +1,7 @@
 # 表小弟
 ## 定義 _Definition_
- Mother's sibling's younger son
+
+Mother's sibling's younger son
 
 ## 稱呼 칑·허· _Address_
 
