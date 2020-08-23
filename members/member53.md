@@ -1,8 +1,8 @@
 # 孫
 ## 定義 딍-끼- _Definition_
-簡：
+簡：N.A.
 
-詳：
+詳：N.A.
 
 英：Grand son
 
