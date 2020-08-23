@@ -64,7 +64,7 @@ def get_his_relations_content(relationships, members, member):
 			relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in relations_text.split(".")}
 			links = ""
 
-			content += "\n\n | | \n"
+			content += "\n\n1|2|3\n"
 			content += "--- | --- | --- \n"
 			for relationship in relationships:
 				if relationship[0] in relations:
