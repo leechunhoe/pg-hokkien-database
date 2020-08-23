@@ -88,10 +88,10 @@
 33,阿姆,아·음ˊ,a-ḿ,ah3mm4,father's elder brother's wife,ang:10.hs1:35.cw1:36.hs2:37.cw2:38,1:pa.2:ko.10:bo
 34,阿嬸,아·짐ˊ,a-tsím,ah3cim4,father's younger brother's wife,ang:11.hs1:73.cw1:74.hs2:75:cw2:76,1:pa.2:ti.11:bo
 
-35,堂哥,덩ˆ고·,tông-ko,tong3koh1,father's elder brother's elder son
-36,堂姊,덩ˆ지ˊ,tông-tsí,tong3cee4,father's elder brother's elder daughter
-37,堂小弟,덩ˆ쇼ˊ디-,tông-sió-tī,tong3sio1tee33,father's elder brother's younger son
-38,堂小妹,덩ˆ쇼ˊᄆᆀ-,tông-sió-mōi,tong3sio1moy33,father's elder brother's younger daughter
+35,堂哥,덩ˆ고·,tông-ko,tong3koh1,father's elder brother's elder son,pa:10.ma:33,1:pa.2:ko.10:hs1
+36,堂姊,덩ˆ지ˊ,tông-tsí,tong3cee4,father's elder brother's elder daughter,pa:10.ma:33,1:pa.2:ko.10:cw1
+37,堂小弟,덩ˆ쇼ˊ디-,tông-sió-tī,tong3sio1tee33,father's elder brother's younger son,pa:10.ma:33,1:pa.2:ko.10:hs2
+38,堂小妹,덩ˆ쇼ˊᄆᆀ-,tông-sió-mōi,tong3sio1moy33,father's elder brother's younger daughter,pa:10.ma:33,1:pa.2:ko.10:cw2
 
 39,表哥,ᄇᆤˊ고·,piáu-ko,piau1koh1,father's sister's elder son
 40,表姊,ᄇᆤˊ지ˊ,piáu-tsí,piau1cee4,father's sister's elder daughter
