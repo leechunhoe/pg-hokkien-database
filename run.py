@@ -63,7 +63,7 @@ def get_his_relations_content(relationships, members, member):
 			# TODO Refactor
 			relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in relations_text.split(".")}
 
-			content += "\n\n親情 | | \n"
+			content += "\n\n親情 | 稱法 | 英語\n"
 			content += "--- | --- | --- \n"
 			for relationship in relationships:
 				if relationship[0] in relations:

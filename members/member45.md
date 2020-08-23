@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-親情 | | 
+親情 | 稱法 | 英語
 --- | --- | --- 
 外祖嫲 兮 尪 | [外祖](member44.md) | Maternal great grandmother's husband
 

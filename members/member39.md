@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-親情 | | 
+親情 | 稱法 | 英語
 --- | --- | --- 
 表哥 兮 爸 | [姑丈](member43.md) | Father's sister's elder son's father
 表哥 兮 媽 | [姑](member12.md) | Father's sister's elder son's mother

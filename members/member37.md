@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-親情 | | 
+親情 | 稱法 | 英語
 --- | --- | --- 
 堂小弟 兮 爸 | [伯](member10.md) | Father's elder brother's younger son's father
 堂小弟 兮 媽 | [姆](member33.md) | Father's elder brother's younger son's mother
