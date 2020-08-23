@@ -1,5 +1,5 @@
 # 孫仔
-## 定義 _Definition_
+## 定義 딍-끼- _Definition_
 [我](member1.md) 兮 [哥](member4.md) 兮 囝
 
 Elder brother's children

@@ -1,5 +1,5 @@
 # 妹夫
-## 定義 _Definition_
+## 定義 딍-끼- _Definition_
 [我](member1.md) 兮 [小妹](member7.md) 兮 尪
 
 Younger sister's husband

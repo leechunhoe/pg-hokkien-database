@@ -1,5 +1,5 @@
 # 孫仔
-## 定義 _Definition_
+## 定義 딍-끼- _Definition_
 
 
 Younger brother's children

@@ -1,5 +1,5 @@
 # 堂哥
-## 定義 _Definition_
+## 定義 딍-끼- _Definition_
 [我](member1.md) 兮 [爸](member2.md) 兮 [哥](member11.md) 兮 大漢後生
 
 Father's younger brother's elder son
