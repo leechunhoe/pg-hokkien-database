@@ -12,7 +12,11 @@
 --- | --- | --- 
 
 
-姊 兮 爸 | [爸](member2.md) | Elder sister's father姊 兮 媽 | [媽](member3.md) | Elder sister's mother姊 兮 尪 | [姊夫](member23.md) | Elder sister's husband姊 兮 囝 | [外甥](member25.md) | Elder sister's children
+姊 兮 爸 | [爸](member2.md) | Elder sister's father
+姊 兮 媽 | [媽](member3.md) | Elder sister's mother
+姊 兮 尪 | [姊夫](member23.md) | Elder sister's husband
+姊 兮 囝 | [外甥](member25.md) | Elder sister's children
+
 
 ## 稱呼 칑·허· _Address_
 

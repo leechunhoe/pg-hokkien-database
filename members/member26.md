@@ -12,7 +12,9 @@
 --- | --- | --- 
 
 
-伯公 兮 爸 | [阿祖](member29.md) | Grandfather's elder brother's father伯公 兮 媽 | [祖嫲](member30.md) | Grandfather's elder brother's mother
+伯公 兮 爸 | [阿祖](member29.md) | Grandfather's elder brother's father
+伯公 兮 媽 | [祖嫲](member30.md) | Grandfather's elder brother's mother
+
 
 ## 稱呼 칑·허· _Address_
 

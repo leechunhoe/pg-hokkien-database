@@ -12,7 +12,9 @@
 --- | --- | --- 
 
 
-堂小弟 兮 爸 | [伯](member10.md) | Father's elder brother's younger son's father堂小弟 兮 媽 | [姆](member33.md) | Father's elder brother's younger son's mother
+堂小弟 兮 爸 | [伯](member10.md) | Father's elder brother's younger son's father
+堂小弟 兮 媽 | [姆](member33.md) | Father's elder brother's younger son's mother
+
 
 ## 稱呼 칑·허· _Address_
 

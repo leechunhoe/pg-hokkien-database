@@ -12,7 +12,10 @@
 --- | --- | --- 
 
 
-外公 兮 爸 | [外祖](member44.md) | Maternal grandfather's father外公 兮 媽 | [外祖嫲](member45.md) | Maternal grandfather's mother外公 兮 某 | [外嫲](member14.md) | Maternal grandfather's wife
+外公 兮 爸 | [外祖](member44.md) | Maternal grandfather's father
+外公 兮 媽 | [外祖嫲](member45.md) | Maternal grandfather's mother
+外公 兮 某 | [外嫲](member14.md) | Maternal grandfather's wife
+
 
 ## 稱呼 칑·허· _Address_
 

@@ -12,7 +12,9 @@
 --- | --- | --- 
 
 
-表小弟 兮 爸 | [姑丈](member43.md) | Father's sister's younger son's father表小弟 兮 媽 | [姑](member12.md) | Father's sister's younger son's mother
+表小弟 兮 爸 | [姑丈](member43.md) | Father's sister's younger son's father
+表小弟 兮 媽 | [姑](member12.md) | Father's sister's younger son's mother
+
 
 ## 稱呼 칑·허· _Address_
 

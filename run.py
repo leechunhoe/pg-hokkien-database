@@ -146,7 +146,7 @@ def get_my_quick_relation(members, relationships, relations):
 
 def get_his_relation(relation_hanji, english_title, his_hanji, english_possessive, id, members):
 	his_relative_hanji = get_member_primary(members, id)[1]
-	return "%s 兮 %s | [%s](member%s.md) | %s %s"%(his_hanji, relation_hanji, his_relative_hanji, id, english_possessive, english_title)
+	return "%s 兮 %s | [%s](member%s.md) | %s %s\n"%(his_hanji, relation_hanji, his_relative_hanji, id, english_possessive, english_title)
 
 # Get the primary entry of member
 def get_member_primary(members, member_id):

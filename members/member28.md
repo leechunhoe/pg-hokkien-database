@@ -12,7 +12,9 @@
 --- | --- | --- 
 
 
-姑婆 兮 爸 | [阿祖](member29.md) | Grandfather's sister's father姑婆 兮 媽 | [祖嫲](member30.md) | Grandfather's sister's mother
+姑婆 兮 爸 | [阿祖](member29.md) | Grandfather's sister's father
+姑婆 兮 媽 | [祖嫲](member30.md) | Grandfather's sister's mother
+
 
 ## 稱呼 칑·허· _Address_
 

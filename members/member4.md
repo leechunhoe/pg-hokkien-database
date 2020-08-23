@@ -12,7 +12,11 @@
 --- | --- | --- 
 
 
-哥 兮 爸 | [爸](member2.md) | Elder brother's father哥 兮 媽 | [媽](member3.md) | Elder brother's mother哥 兮 某 | [嫂](member21.md) | Elder brother's wife哥 兮 囝 | [孫仔](member22.md) | Elder brother's children
+哥 兮 爸 | [爸](member2.md) | Elder brother's father
+哥 兮 媽 | [媽](member3.md) | Elder brother's mother
+哥 兮 某 | [嫂](member21.md) | Elder brother's wife
+哥 兮 囝 | [孫仔](member22.md) | Elder brother's children
+
 
 ## 稱呼 칑·허· _Address_
 
