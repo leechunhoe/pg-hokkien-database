@@ -94,13 +94,10 @@ def get_names_content(member):
 
 def get_name_tables(member):
 	tables = ""
+	tables += "漢字或諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji\n"
+	tables += "--- | --- | --- | --- \n"
 	for variant in member:
-		tables += "漢字/諺文 | %s\n" %variant[1]
-		tables += "--- | ---\n"
-		tables += "諺文 깐-뿐ˆ | %s\n" %variant[2]
-		tables += "台羅 Tâi-lô | %s\n" %variant[3]
-		tables += "戴字 Taiji | %s\n" %variant[4]
-		tables += "\n\n"
+		tables += "%s | %s | %s | %s \n"%(variant[1], variant[2], variant[3], variant[4])
 	return tables
 
 # e.g. 我兮爸兮爸兮哥

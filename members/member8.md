@@ -20,24 +20,8 @@
 
 ## 稱呼 칑·허· _Address_
 
-漢字/諺文 | 公
---- | ---
-諺文 깐-뿐ˆ | 겅·
-台羅 Tâi-lô | kong
-戴字 Taiji | kong1
-
-
-漢字/諺文 | 阿公
---- | ---
-諺文 깐-뿐ˆ | 아·겅·
-台羅 Tâi-lô | a-kong
-戴字 Taiji | ah3kong1
-
-
-漢字/諺文 | 裡公
---- | ---
-諺文 깐-뿐ˆ | 래-겅·
-台羅 Tâi-lô | lāi-kong
-戴字 Taiji | lai33kong1
-
-
+漢字或諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji
+--- | --- | --- | --- 
+公 | 겅· | kong | kong1 
+阿公 | 아·겅· | a-kong | ah3kong1 
+裡公 | 래-겅· | lāi-kong | lai33kong1 
