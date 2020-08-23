@@ -1,5 +1,7 @@
 # 姊夫
 ## 定義 딍-끼- _Definition_
+[姊](member5.md) 兮 尪
+
 [我](member1.md) 兮 [姊](member5.md) 兮 尪
 
 Elder sister's husband

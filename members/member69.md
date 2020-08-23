@@ -1,5 +1,7 @@
 # 嫂
 ## 定義 딍-끼- _Definition_
+[小弟](member6.md) 兮 某
+
 [我](member1.md) 兮 [小弟](member6.md) 兮 某
 
 Younger brother's wife

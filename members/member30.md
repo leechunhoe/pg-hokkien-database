@@ -1,5 +1,7 @@
 # 祖嫲
 ## 定義 딍-끼- _Definition_
+[公](member8.md) 兮 媽
+
 [我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 媽
 
 Great grandmother

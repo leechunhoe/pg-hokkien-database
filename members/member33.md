@@ -1,5 +1,7 @@
 # 姆
 ## 定義 딍-끼- _Definition_
+[伯](member10.md) 兮 某
+
 [我](member1.md) 兮 [爸](member2.md) 兮 [哥](member10.md) 兮 某
 
 Father's elder brother's wife

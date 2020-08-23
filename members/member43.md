@@ -1,5 +1,7 @@
 # 姑丈
 ## 定義 딍-끼- _Definition_
+[姑](member12.md) 兮 尪
+
 [我](member1.md) 兮 [爸](member2.md) 兮 [姊妹](member12.md) 兮 尪
 
 Father's sister's husband

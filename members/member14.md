@@ -1,5 +1,7 @@
 # 外嫲
 ## 定義 딍-끼- _Definition_
+[爸](member2.md) 兮 媽
+
 [我](member1.md) 兮 [媽](member2.md) 兮 媽
 
 Maternal grandmother
