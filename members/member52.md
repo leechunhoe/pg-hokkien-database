@@ -1,6 +1,5 @@
 # 新婦
-> 
-> Son's wife
+>  Son's wife
 
 ## 稱呼 칑·허· _Address_
 

@@ -1,6 +1,5 @@
 # 孫
-> 
-> Grand son
+>  Grand son
 
 ## 稱呼 칑·허· _Address_
 

@@ -1,6 +1,5 @@
 # 叔公
-> [我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 小弟
-> Grandfather's younger brother
+> [我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 小弟 Grandfather's younger brother
 
 ## 關係 관·희- _Relationships_
 

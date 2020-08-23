@@ -1,6 +1,5 @@
 # 嫲
-> [我](member1.md) 兮 [爸](member2.md) 兮 媽
-> Grandmother
+> [我](member1.md) 兮 [爸](member2.md) 兮 媽 Grandmother
 
 ## 關係 관·희- _Relationships_
 

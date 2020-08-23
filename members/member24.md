@@ -1,6 +1,5 @@
 # 妹夫
-> [我](member1.md) 兮 [小妹](member7.md) 兮 尪
-> Younger sister's husband
+> [我](member1.md) 兮 [小妹](member7.md) 兮 尪 Younger sister's husband
 
 ## 關係 관·희- _Relationships_
 
