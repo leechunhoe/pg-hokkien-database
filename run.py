@@ -70,18 +70,20 @@ def generate_linked_member_files(members, relationships):
 				content += "\n\n" + links
 
 		content += "\n\n## 稱呼 칑·허· _Address_"
-
-		tables = ""
-		for variant in member:
-			tables += "漢字/諺文 | %s\n" %variant[1]
-			tables += "--- | ---\n"
-			tables += "諺文 깐-뿐ˆ | %s\n" %variant[2]
-			tables += "台羅 Tâi-lô | %s\n" %variant[3]
-			tables += "戴字 Taiji | %s\n" %variant[4]
-			tables += "\n\n"
-		content += "\n\n" + tables
+		content += "\n\n" + get_name_tables(member)
 
 		f.write(content)
+
+def get_name_tables(member):
+	tables = ""
+	for variant in member:
+		tables += "漢字/諺文 | %s\n" %variant[1]
+		tables += "--- | ---\n"
+		tables += "諺文 깐-뿐ˆ | %s\n" %variant[2]
+		tables += "台羅 Tâi-lô | %s\n" %variant[3]
+		tables += "戴字 Taiji | %s\n" %variant[4]
+		tables += "\n\n"
+	return tables
 
 # e.g. 我兮爸兮爸兮哥
 # members: from data.csv
