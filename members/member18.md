@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-親情||
+親情 | | 
 --- | --- | --- 
 某 兮 爸 | [丈人](member62.md) | Wife's father
 某 兮 媽 | [丈姆](member63.md) | Wife's mother

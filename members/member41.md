@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-親情||
+親情 | | 
 --- | --- | --- 
 表小弟 兮 爸 | [姑丈](member43.md) | Father's sister's younger son's father
 表小弟 兮 媽 | [姑](member12.md) | Father's sister's younger son's mother

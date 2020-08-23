@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-親情||
+親情 | | 
 --- | --- | --- 
 公 兮 爸 | [阿祖](member29.md) | Grandfather's father
 公 兮 媽 | [祖嫲](member30.md) | Grandfather's mother

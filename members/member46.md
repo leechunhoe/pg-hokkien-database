@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-親情||
+親情 | | 
 --- | --- | --- 
 姨丈 兮 某 | [姨](member15.md) | Mother's sister's husband's wife
 姨丈 兮 大漢後生 | [表哥](member47.md) | Mother's sister's husband's elder son

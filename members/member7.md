@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-親情||
+親情 | | 
 --- | --- | --- 
 小妹 兮 爸 | [爸](member2.md) | Younger sister's father
 小妹 兮 媽 | [媽](member3.md) | Younger sister's mother
