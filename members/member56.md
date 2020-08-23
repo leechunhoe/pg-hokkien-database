@@ -1,5 +1,10 @@
 # 자뻐外孫
-##  Daughter's daughter
+## 定義 딍-끼- _Definition_
+
+
+
+
+英：Daughter's daughter
 
 ## 稱呼 칑·허· _Address_
 

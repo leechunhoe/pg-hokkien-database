@@ -1,9 +1,14 @@
 # 姨婆
-## [我](member1.md) 兮 [爸](member2.md) 兮 [媽](member9.md) 兮 姊妹 Grandmother's sister
+## 定義 딍-끼- _Definition_
+詳：[嫲](member9.md) 兮 姊妹
+
+簡：[我](member1.md) 兮 [爸](member2.md) 兮 [媽](member9.md) 兮 姊妹
+
+英：Grandmother's sister
 
 ## 關係 관·희- _Relationships_
 
-- 姨婆兮[尪 → 丈公](member72.md) Grandmother's sister's husband
+- 姨婆 兮 [尪 → 丈公](member72.md) Grandmother's sister's husband
 
 
 

@@ -1,13 +1,18 @@
 # 嫲
-## [我](member1.md) 兮 [爸](member2.md) 兮 媽 Grandmother
+## 定義 딍-끼- _Definition_
+詳：[爸](member2.md) 兮 媽
+
+簡：[我](member1.md) 兮 [爸](member2.md) 兮 媽
+
+英：Grandmother
 
 ## 關係 관·희- _Relationships_
 
-- 嫲兮[尪 → 公](member8.md) Grandmother's husband
+- 嫲 兮 [尪 → 公](member8.md) Grandmother's husband
 
-- 嫲兮[兄弟 → 舅公](member31.md) Grandmother's brother
+- 嫲 兮 [兄弟 → 舅公](member31.md) Grandmother's brother
 
-- 嫲兮[姊妹 → 姨婆](member32.md) Grandmother's sister
+- 嫲 兮 [姊妹 → 姨婆](member32.md) Grandmother's sister
 
 
 

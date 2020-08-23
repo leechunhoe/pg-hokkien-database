@@ -37,8 +37,10 @@ def generate_linked_member_files(members, relationships):
 		english = member[0][5].capitalize()
 
 		# # Populate his/her relationship with me
-		my_relation = ""
+		my_full_relation = ""
+		my_quick_relation = ""
 		if len(member[0]) > 7:
+			# Part 1: Get full relation
 			relations_text = member[0][7]
 			relations = relations_text.split(".")
 			my_relation_list = []
@@ -61,9 +63,13 @@ def generate_linked_member_files(members, relationships):
 					this_link = "[%s](%s)"%(this_hanji, filename)
 					my_relation_list.append(this_link)
 
-			my_relation = " 兮 ".join(my_relation_list)
+			my_full_relation = "簡：%s"%" 兮 ".join(my_relation_list)
 
-		title = "# %s\n## %s %s" %(hanji, my_relation, english)
+			# Part 2: Get quick relation
+			my_quick_relation = "詳：%s"%get_quick_relation(members, relationships, relations)
+
+
+		title = "# %s\n## 定義 딍-끼- _Definition_\n%s\n\n%s\n\n英：%s" %(hanji, my_quick_relation, my_full_relation, english)
 		content += title
 
 		english_possessive = "%s's" %english
@@ -101,9 +107,29 @@ def generate_linked_member_files(members, relationships):
 
 		f.write(content)
 
+# members: from data.csv
+# relationships: from relation.csv
+# relations: relation chain from me e.g. 1:pa.2:ma
+def get_quick_relation(members, relationships, relations):
+	# Part 2: Get quick relation
+	relation = relations[-1]
+	last_member_id = relation.split(":")[0] # the member instance (integer)
+	last_relation_code = relation.split(":")[1] # relationship code, e.g. "pa", "ma"
+	last_member_hanji = get_member_primary(members, last_member_id)[1]
+	relation_hanji = get_relation(relationships, last_relation_code)[1]
+	return "[%s](member%s.md) 兮 %s"% (last_member_hanji, last_member_id, relation_hanji)
+
 def get_link(hanji_title, english_title, hanji, english_possessive, relation, members):
-	member = [m for m in members if m[0][0] == relation][0][0][1]
-	return "- %s兮[%s → %s](member%s.md) %s %s\n\n" %(hanji, hanji_title, member, relation, english_possessive, english_title)
+	member_hanji = get_member_primary(members, relation)[1]
+	return "- %s 兮 [%s → %s](member%s.md) %s %s\n\n" %(hanji, hanji_title, member_hanji, relation, english_possessive, english_title)
+
+# Get the primary entry of member
+def get_member_primary(members, member_id):
+	return get_member(members, member_id)[0]
+
+# Get the all entries of member
+def get_member(members, member_id):
+	return [m for m in members if m[0][0] == member_id][0]
 
 def generate_index(members):
 	f = open("README.md", "w")

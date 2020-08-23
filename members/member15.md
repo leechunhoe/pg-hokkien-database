@@ -1,23 +1,28 @@
 # 姨
-## [我](member1.md) 兮 [媽](member3.md) 兮 姊妹 Mother's sister
+## 定義 딍-끼- _Definition_
+詳：[媽](member3.md) 兮 姊妹
+
+簡：[我](member1.md) 兮 [媽](member3.md) 兮 姊妹
+
+英：Mother's sister
 
 ## 關係 관·희- _Relationships_
 
-- 姨兮[爸 → 外公](member13.md) Mother's sister's father
+- 姨 兮 [爸 → 外公](member13.md) Mother's sister's father
 
-- 姨兮[媽 → 外嫲](member14.md) Mother's sister's mother
+- 姨 兮 [媽 → 外嫲](member14.md) Mother's sister's mother
 
-- 姨兮[尪 → 舅](member16.md) Mother's sister's husband
+- 姨 兮 [尪 → 舅](member16.md) Mother's sister's husband
 
-- 姨兮[兄弟 → 舅](member16.md) Mother's sister's brother
+- 姨 兮 [兄弟 → 舅](member16.md) Mother's sister's brother
 
-- 姨兮[大漢後生 → 表哥](member47.md) Mother's sister's elder son
+- 姨 兮 [大漢後生 → 表哥](member47.md) Mother's sister's elder son
 
-- 姨兮[大漢자와 → 表姊](member48.md) Mother's sister's elder daughter
+- 姨 兮 [大漢자와 → 表姊](member48.md) Mother's sister's elder daughter
 
-- 姨兮[細漢後生 → 表小弟](member49.md) Mother's sister's younger son
+- 姨 兮 [細漢後生 → 表小弟](member49.md) Mother's sister's younger son
 
-- 姨兮[細漢자와 → 表小妹](member50.md) Mother's sister's younger daughter
+- 姨 兮 [細漢자와 → 表小妹](member50.md) Mother's sister's younger daughter
 
 
 

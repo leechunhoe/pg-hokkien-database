@@ -1,11 +1,16 @@
 # 妹夫
-## [我](member1.md) 兮 [小妹](member7.md) 兮 尪 Younger sister's husband
+## 定義 딍-끼- _Definition_
+詳：[小妹](member7.md) 兮 尪
+
+簡：[我](member1.md) 兮 [小妹](member7.md) 兮 尪
+
+英：Younger sister's husband
 
 ## 關係 관·희- _Relationships_
 
-- 妹夫兮[某 → 小妹](member7.md) Younger sister's husband's wife
+- 妹夫 兮 [某 → 小妹](member7.md) Younger sister's husband's wife
 
-- 妹夫兮[囝 → 外甥](member25.md) Younger sister's husband's children
+- 妹夫 兮 [囝 → 外甥](member25.md) Younger sister's husband's children
 
 
 

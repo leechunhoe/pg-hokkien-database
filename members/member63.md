@@ -1,5 +1,10 @@
 # 丈姆
-##  Wife's mother
+## 定義 딍-끼- _Definition_
+
+
+
+
+英：Wife's mother
 
 ## 稱呼 칑·허· _Address_
 

@@ -1,5 +1,10 @@
 # 表小妹
-##  Mother's sibling's younger daughter
+## 定義 딍-끼- _Definition_
+
+
+
+
+英：Mother's sibling's younger daughter
 
 ## 稱呼 칑·허· _Address_
 
