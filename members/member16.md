@@ -3,21 +3,21 @@
 
 ## 關係 관·희- _Relationships_
 
-- [舅兮爸 (外公) Mother's brother's father](member13.md)
+- 舅兮[爸 → 外公](member13.md) Mother's brother's father
 
-- [舅兮媽 (外嫲) Mother's brother's mother](member14.md)
+- 舅兮[媽 → 外嫲](member14.md) Mother's brother's mother
 
-- [舅兮某 (阿妗) Mother's brother's wife](member51.md)
+- 舅兮[某 → 阿妗](member51.md) Mother's brother's wife
 
-- [舅兮姊妹 (姨) Mother's brother's sister](member15.md)
+- 舅兮[姊妹 → 姨](member15.md) Mother's brother's sister
 
-- [舅兮大漢後生 (表哥) Mother's brother's elder son](member47.md)
+- 舅兮[大漢後生 → 表哥](member47.md) Mother's brother's elder son
 
-- [舅兮大漢자와 (表姊) Mother's brother's elder daughter](member48.md)
+- 舅兮[大漢자와 → 表姊](member48.md) Mother's brother's elder daughter
 
-- [舅兮細漢後生 (表小弟) Mother's brother's younger son](member49.md)
+- 舅兮[細漢後生 → 表小弟](member49.md) Mother's brother's younger son
 
-- [舅兮細漢자와 (表小妹) Mother's brother's younger daughter](member50.md)
+- 舅兮[細漢자와 → 表小妹](member50.md) Mother's brother's younger daughter
 
 
 

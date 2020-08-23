@@ -3,9 +3,9 @@
 
 ## 關係 관·희- _Relationships_
 
-- [姊夫兮某 (姊) Elder sister's husband's wife](member5.md)
+- 姊夫兮[某 → 姊](member5.md) Elder sister's husband's wife
 
-- [姊夫兮囝 (外甥) Elder sister's husband's children](member25.md)
+- 姊夫兮[囝 → 外甥](member25.md) Elder sister's husband's children
 
 
 

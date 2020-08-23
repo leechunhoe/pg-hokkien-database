@@ -3,19 +3,19 @@
 
 ## 關係 관·희- _Relationships_
 
-- [姑兮爸 (公) Father's sister's father](member8.md)
+- 姑兮[爸 → 公](member8.md) Father's sister's father
 
-- [姑兮媽 (嫲) Father's sister's mother](member9.md)
+- 姑兮[媽 → 嫲](member9.md) Father's sister's mother
 
-- [姑兮尪 (姑丈) Father's sister's husband](member43.md)
+- 姑兮[尪 → 姑丈](member43.md) Father's sister's husband
 
-- [姑兮大漢後生 (表哥) Father's sister's elder son](member39.md)
+- 姑兮[大漢後生 → 表哥](member39.md) Father's sister's elder son
 
-- [姑兮大漢자와 (表姊) Father's sister's elder daughter](member40.md)
+- 姑兮[大漢자와 → 表姊](member40.md) Father's sister's elder daughter
 
-- [姑兮細漢後生 (表小弟) Father's sister's younger son](member41.md)
+- 姑兮[細漢後生 → 表小弟](member41.md) Father's sister's younger son
 
-- [姑兮細漢자와 (表小妹) Father's sister's younger daughter](member42.md)
+- 姑兮[細漢자와 → 表小妹](member42.md) Father's sister's younger daughter
 
 
 
