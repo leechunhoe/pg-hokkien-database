@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-- 外祖兮[某 → 外祖嫲](member45.md) Maternal great grandfather's wife
+- 外祖 兮 [某 → 外祖嫲](member45.md) Maternal great grandfather's wife
 
 
 

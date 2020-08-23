@@ -8,9 +8,9 @@
 
 ## 關係 관·희- _Relationships_
 
-- 嫂兮[尪 → 哥](member4.md) Elder brother's wife's husband
+- 嫂 兮 [尪 → 哥](member4.md) Elder brother's wife's husband
 
-- 嫂兮[囝 → 孫仔](member22.md) Elder brother's wife's children
+- 嫂 兮 [囝 → 孫仔](member22.md) Elder brother's wife's children
 
 
 

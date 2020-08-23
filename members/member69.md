@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-- 嫂兮[囝 → 孫仔](member22.md) Younger brother's wife's children
+- 嫂 兮 [囝 → 孫仔](member22.md) Younger brother's wife's children
 
 
 

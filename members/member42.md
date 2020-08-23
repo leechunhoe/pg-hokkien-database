@@ -8,9 +8,9 @@
 
 ## 關係 관·희- _Relationships_
 
-- 表小妹兮[爸 → 姑丈](member43.md) Father's sister's younger daughter's father
+- 表小妹 兮 [爸 → 姑丈](member43.md) Father's sister's younger daughter's father
 
-- 表小妹兮[媽 → 姑](member12.md) Father's sister's younger daughter's mother
+- 表小妹 兮 [媽 → 姑](member12.md) Father's sister's younger daughter's mother
 
 
 

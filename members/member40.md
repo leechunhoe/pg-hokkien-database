@@ -8,9 +8,9 @@
 
 ## 關係 관·희- _Relationships_
 
-- 表姊兮[爸 → 姑丈](member43.md) Father's sister's elder daughter's father
+- 表姊 兮 [爸 → 姑丈](member43.md) Father's sister's elder daughter's father
 
-- 表姊兮[媽 → 姑](member12.md) Father's sister's elder daughter's mother
+- 表姊 兮 [媽 → 姑](member12.md) Father's sister's elder daughter's mother
 
 
 

@@ -8,17 +8,17 @@
 
 ## 關係 관·희- _Relationships_
 
-- 叔兮[爸 → 公](member8.md) Father's younger brother's father
+- 叔 兮 [爸 → 公](member8.md) Father's younger brother's father
 
-- 叔兮[媽 → 嫲](member9.md) Father's younger brother's mother
+- 叔 兮 [媽 → 嫲](member9.md) Father's younger brother's mother
 
-- 叔兮[某 → 嬸](member34.md) Father's younger brother's wife
+- 叔 兮 [某 → 嬸](member34.md) Father's younger brother's wife
 
-- 叔兮[大漢後生 → 堂哥](member73.md) Father's younger brother's elder son
+- 叔 兮 [大漢後生 → 堂哥](member73.md) Father's younger brother's elder son
 
-- 叔兮[大漢자와 → 堂姊](member74.md) Father's younger brother's elder daughter
+- 叔 兮 [大漢자와 → 堂姊](member74.md) Father's younger brother's elder daughter
 
-- 叔兮[細漢後生 → 堂小弟](member75.md) Father's younger brother's younger son
+- 叔 兮 [細漢後生 → 堂小弟](member75.md) Father's younger brother's younger son
 
 
 

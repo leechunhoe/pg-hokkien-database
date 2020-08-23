@@ -8,13 +8,13 @@
 
 ## 關係 관·희- _Relationships_
 
-- 哥兮[爸 → 爸](member2.md) Elder brother's father
+- 哥 兮 [爸 → 爸](member2.md) Elder brother's father
 
-- 哥兮[媽 → 媽](member3.md) Elder brother's mother
+- 哥 兮 [媽 → 媽](member3.md) Elder brother's mother
 
-- 哥兮[某 → 嫂](member21.md) Elder brother's wife
+- 哥 兮 [某 → 嫂](member21.md) Elder brother's wife
 
-- 哥兮[囝 → 孫仔](member22.md) Elder brother's children
+- 哥 兮 [囝 → 孫仔](member22.md) Elder brother's children
 
 
 

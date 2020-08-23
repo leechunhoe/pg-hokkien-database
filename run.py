@@ -121,7 +121,7 @@ def get_quick_relation(members, relationships, relations):
 
 def get_link(hanji_title, english_title, hanji, english_possessive, relation, members):
 	member_hanji = get_member_primary(members, relation)[1]
-	return "- %s兮[%s → %s](member%s.md) %s %s\n\n" %(hanji, hanji_title, member_hanji, relation, english_possessive, english_title)
+	return "- %s 兮 [%s → %s](member%s.md) %s %s\n\n" %(hanji, hanji_title, member_hanji, relation, english_possessive, english_title)
 
 # Get the primary entry of member
 def get_member_primary(members, member_id):

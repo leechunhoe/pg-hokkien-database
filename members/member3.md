@@ -8,15 +8,15 @@
 
 ## 關係 관·희- _Relationships_
 
-- 媽兮[爸 → 外公](member13.md) Mother's father
+- 媽 兮 [爸 → 外公](member13.md) Mother's father
 
-- 媽兮[媽 → 外嫲](member14.md) Mother's mother
+- 媽 兮 [媽 → 外嫲](member14.md) Mother's mother
 
-- 媽兮[尪 → 爸](member2.md) Mother's husband
+- 媽 兮 [尪 → 爸](member2.md) Mother's husband
 
-- 媽兮[兄弟 → 舅](member16.md) Mother's brother
+- 媽 兮 [兄弟 → 舅](member16.md) Mother's brother
 
-- 媽兮[姊妹 → 姨](member15.md) Mother's sister
+- 媽 兮 [姊妹 → 姨](member15.md) Mother's sister
 
 
 

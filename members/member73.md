@@ -8,9 +8,9 @@
 
 ## 關係 관·희- _Relationships_
 
-- 堂哥兮[爸 → 叔](member11.md) Father's younger brother's elder son's father
+- 堂哥 兮 [爸 → 叔](member11.md) Father's younger brother's elder son's father
 
-- 堂哥兮[媽 → 嬸](member34.md) Father's younger brother's elder son's mother
+- 堂哥 兮 [媽 → 嬸](member34.md) Father's younger brother's elder son's mother
 
 
 
