@@ -31,48 +31,52 @@ def generate_linked_member_files(members, relationships):
 	for member in members:
 		id = member[0][0]
 		f = open("members/member%s.md" %id, "w")
-		content = ""
-
-		hanji = member[0][1]
-		english = member[0][5].capitalize()
-
-		# # Populate his/her relationship with me
-		my_full_relation = ""
-		my_quick_relation = ""
-		if len(member[0]) > 7:
-			relations_text = member[0][7]
-			relations = relations_text.split(".")
-			my_full_relation = "詳：%s"%get_my_full_relation(members, relationships, relations)
-			my_quick_relation = "簡：%s"%get_my_quick_relation(members, relationships, relations)
-
-		title = "# %s\n## 定義 딍-끼- _Definition_\n%s\n\n%s\n\n英：%s" %(hanji, my_quick_relation, my_full_relation, english)
-		content += title
-
-		english_possessive = "%s's" %english
-		if id == "1":
-			english_possessive = "My"
-
-		# Populate his/her direct relationships
-		if len(member[0]) > 6:
-			content += "\n\n## 關係 관·희- _Relationships_"
-
-			relations_text = member[0][6]
-
-			if len(relations_text) > 0:
-				# TODO Refactor
-				relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in relations_text.split(".")}
-				links = ""
-
-				for relationship in relationships:
-					if relationship[0] in relations:
-						links += get_his_relation(relationship[1], relationship[2], hanji, english_possessive, relations[relationship[0]], members)
-
-				content += "\n\n" + links
-
-		content += "\n\n## 稱呼 칑·허· _Address_"
-		content += "\n\n" + get_name_tables(member)
-
+		content = get_member_content(relationships, members, member)
 		f.write(content)
+
+def get_member_content(relationships, members, member):
+	id = member[0][0]
+	content = ""
+
+	hanji = member[0][1]
+	english = member[0][5].capitalize()
+
+	# # Populate his/her relationship with me
+	my_full_relation = ""
+	my_quick_relation = ""
+	if len(member[0]) > 7:
+		relations_text = member[0][7]
+		relations = relations_text.split(".")
+		my_full_relation = "詳：%s"%get_my_full_relation(members, relationships, relations)
+		my_quick_relation = "簡：%s"%get_my_quick_relation(members, relationships, relations)
+
+	title = "# %s\n## 定義 딍-끼- _Definition_\n%s\n\n%s\n\n英：%s" %(hanji, my_quick_relation, my_full_relation, english)
+	content += title
+
+	english_possessive = "%s's" %english
+	if id == "1":
+		english_possessive = "My"
+
+	# Populate his/her direct relationships
+	if len(member[0]) > 6:
+		content += "\n\n## 關係 관·희- _Relationships_"
+
+		relations_text = member[0][6]
+
+		if len(relations_text) > 0:
+			# TODO Refactor
+			relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in relations_text.split(".")}
+			links = ""
+
+			for relationship in relationships:
+				if relationship[0] in relations:
+					links += get_his_relation(relationship[1], relationship[2], hanji, english_possessive, relations[relationship[0]], members)
+
+			content += "\n\n" + links
+
+	content += "\n\n## 稱呼 칑·허· _Address_"
+	content += "\n\n" + get_name_tables(member)
+	return content
 
 def get_name_tables(member):
 	tables = ""
