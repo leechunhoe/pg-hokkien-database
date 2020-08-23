@@ -65,7 +65,7 @@ def generate_linked_member_files(members, relationships):
 
 				for relationship in relationships:
 					if relationship[0] in relations:
-						links += get_link(relationship[1], relationship[2], hanji, english_possessive, relations[relationship[0]], members)
+						links += get_his_relation(relationship[1], relationship[2], hanji, english_possessive, relations[relationship[0]], members)
 
 				content += "\n\n" + links
 
@@ -125,7 +125,7 @@ def get_my_quick_relation(members, relationships, relations):
 	relation_hanji = get_relation(relationships, last_relation_code)[1]
 	return "[%s](member%s.md) 兮 %s"% (last_member_hanji, last_member_id, relation_hanji)
 
-def get_link(hanji_title, english_title, hanji, english_possessive, relation, members):
+def get_his_relation(hanji_title, english_title, hanji, english_possessive, relation, members):
 	member_hanji = get_member_primary(members, relation)[1]
 	return "- %s 兮 [%s → %s](member%s.md) %s %s\n\n" %(hanji, hanji_title, member_hanji, relation, english_possessive, english_title)
 
