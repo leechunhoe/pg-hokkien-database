@@ -7,7 +7,7 @@
 
 - [叔兮媽 (嫲) Father's younger brother's mother](member9.md)
 
-- [叔兮某 (阿嬸) Father's younger brother's wife](member34.md)
+- [叔兮某 (嬸) Father's younger brother's wife](member34.md)
 
 - [叔兮大漢後生 (堂哥) Father's younger brother's elder son](member73.md)
 

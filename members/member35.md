@@ -5,7 +5,7 @@
 
 - [堂哥兮爸 (伯) Father's elder brother's elder son's father](member10.md)
 
-- [堂哥兮媽 (阿姆) Father's elder brother's elder son's mother](member33.md)
+- [堂哥兮媽 (姆) Father's elder brother's elder son's mother](member33.md)
 
 
 

@@ -5,7 +5,7 @@
 
 - [堂小弟兮爸 (伯) Father's elder brother's younger son's father](member10.md)
 
-- [堂小弟兮媽 (阿姆) Father's elder brother's younger son's mother](member33.md)
+- [堂小弟兮媽 (姆) Father's elder brother's younger son's mother](member33.md)
 
 
 

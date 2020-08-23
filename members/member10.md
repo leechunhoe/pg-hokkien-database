@@ -7,7 +7,7 @@
 
 - [伯兮媽 (嫲) Father's elder brother's mother](member9.md)
 
-- [伯兮某 (阿姆) Father's elder brother's wife](member33.md)
+- [伯兮某 (姆) Father's elder brother's wife](member33.md)
 
 - [伯兮大漢後生 (堂哥) Father's elder brother's elder son](member35.md)
 
