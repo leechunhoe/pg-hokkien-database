@@ -3,13 +3,13 @@
 
 ## 關係 관·희- _Relationships_
 
-- [姊兮爸 → 爸](member2.md) Elder sister's father
+- 姊兮[爸 → 爸](member2.md) Elder sister's father
 
-- [姊兮媽 → 媽](member3.md) Elder sister's mother
+- 姊兮[媽 → 媽](member3.md) Elder sister's mother
 
-- [姊兮尪 → 姊夫](member23.md) Elder sister's husband
+- 姊兮[尪 → 姊夫](member23.md) Elder sister's husband
 
-- [姊兮囝 → 外甥](member25.md) Elder sister's children
+- 姊兮[囝 → 外甥](member25.md) Elder sister's children
 
 
 

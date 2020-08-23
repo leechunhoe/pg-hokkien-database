@@ -3,9 +3,9 @@
 
 ## 關係 관·희- _Relationships_
 
-- [堂小妹兮爸 → 叔](member11.md) Father's younger brother's younger daughter's father
+- 堂小妹兮[爸 → 叔](member11.md) Father's younger brother's younger daughter's father
 
-- [堂小妹兮媽 → 嬸](member34.md) Father's younger brother's younger daughter's mother
+- 堂小妹兮[媽 → 嬸](member34.md) Father's younger brother's younger daughter's mother
 
 
 

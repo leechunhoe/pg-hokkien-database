@@ -3,17 +3,17 @@
 
 ## 關係 관·희- _Relationships_
 
-- [後生兮爸 → 我](member1.md) Son's father
+- 後生兮[爸 → 我](member1.md) Son's father
 
-- [後生兮媽 → 我](member1.md) Son's mother
+- 後生兮[媽 → 我](member1.md) Son's mother
 
-- [後生兮某 → 新婦](member52.md) Son's wife
+- 後生兮[某 → 新婦](member52.md) Son's wife
 
-- [後生兮姊妹 → 자와](member20.md) Son's sister
+- 後生兮[姊妹 → 자와](member20.md) Son's sister
 
-- [後生兮後生 → 孫](member53.md) Son's son
+- 後生兮[後生 → 孫](member53.md) Son's son
 
-- [後生兮자와 → 자뻐孫](member54.md) Son's daughter
+- 後生兮[자와 → 자뻐孫](member54.md) Son's daughter
 
 
 

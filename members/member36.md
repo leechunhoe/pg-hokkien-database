@@ -3,9 +3,9 @@
 
 ## 關係 관·희- _Relationships_
 
-- [堂姊兮爸 → 伯](member10.md) Father's elder brother's elder daughter's father
+- 堂姊兮[爸 → 伯](member10.md) Father's elder brother's elder daughter's father
 
-- [堂姊兮媽 → 姆](member33.md) Father's elder brother's elder daughter's mother
+- 堂姊兮[媽 → 姆](member33.md) Father's elder brother's elder daughter's mother
 
 
 

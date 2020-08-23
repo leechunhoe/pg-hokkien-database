@@ -3,11 +3,11 @@
 
 ## 關係 관·희- _Relationships_
 
-- [外公兮爸 → 外祖](member44.md) Maternal grandfather's father
+- 外公兮[爸 → 外祖](member44.md) Maternal grandfather's father
 
-- [外公兮媽 → 外祖嫲](member45.md) Maternal grandfather's mother
+- 外公兮[媽 → 外祖嫲](member45.md) Maternal grandfather's mother
 
-- [外公兮某 → 外嫲](member14.md) Maternal grandfather's wife
+- 外公兮[某 → 外嫲](member14.md) Maternal grandfather's wife
 
 
 

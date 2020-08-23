@@ -3,17 +3,17 @@
 
 ## 關係 관·희- _Relationships_
 
-- [公兮爸 → 阿祖](member29.md) Grandfather's father
+- 公兮[爸 → 阿祖](member29.md) Grandfather's father
 
-- [公兮媽 → 祖嫲](member30.md) Grandfather's mother
+- 公兮[媽 → 祖嫲](member30.md) Grandfather's mother
 
-- [公兮某 → 嫲](member9.md) Grandfather's wife
+- 公兮[某 → 嫲](member9.md) Grandfather's wife
 
-- [公兮哥 → 伯公](member26.md) Grandfather's elder brother
+- 公兮[哥 → 伯公](member26.md) Grandfather's elder brother
 
-- [公兮小弟 → 叔公](member27.md) Grandfather's younger brother
+- 公兮[小弟 → 叔公](member27.md) Grandfather's younger brother
 
-- [公兮姊妹 → 姑婆](member28.md) Grandfather's sister
+- 公兮[姊妹 → 姑婆](member28.md) Grandfather's sister
 
 
 
