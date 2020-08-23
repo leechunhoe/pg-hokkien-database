@@ -37,11 +37,17 @@ def generate_linked_member_files(members, relationships):
 def get_member_content(relationships, members, member):
 	id = member[0][0]
 	content = ""
+	content += get_my_relations_content(relationships, members, member)
+	content += get_his_relations_content(relationships, members, member)
+	content += get_address_content(member)
+	return content
+
+def get_his_relations_content(relationships, members, member):
+	id = member[0][0]
+	content = ""
 
 	hanji = member[0][1]
 	english = member[0][5].capitalize()
-
-	content += get_my_relations_content(relationships, members, member)
 
 	english_possessive = "%s's" %english
 	if id == "1":
@@ -63,8 +69,6 @@ def get_member_content(relationships, members, member):
 					links += get_his_relation(relationship[1], relationship[2], hanji, english_possessive, relations[relationship[0]], members)
 
 			content += "\n\n" + links
-
-	content += get_address_content(member)
 	return content
 
 def get_my_relations_content(relationships, members, member):
