@@ -1,8 +1,8 @@
 # 舅
 ## 定義 딍-끼- _Definition_
-詳：[媽](member3.md) 兮 兄弟
+簡：[媽](member3.md) 兮 兄弟
 
-簡：[我](member1.md) 兮 [媽](member3.md) 兮 兄弟
+詳：[我](member1.md) 兮 [媽](member3.md) 兮 兄弟
 
 英：Mother's brother
 

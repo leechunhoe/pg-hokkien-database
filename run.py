@@ -63,10 +63,10 @@ def generate_linked_member_files(members, relationships):
 					this_link = "[%s](%s)"%(this_hanji, filename)
 					my_relation_list.append(this_link)
 
-			my_full_relation = "簡：%s"%" 兮 ".join(my_relation_list)
+			my_full_relation = "詳：%s"%" 兮 ".join(my_relation_list)
 
 			# Part 2: Get quick relation
-			my_quick_relation = "詳：%s"%get_quick_relation(members, relationships, relations)
+			my_quick_relation = "簡：%s"%get_quick_relation(members, relationships, relations)
 
 
 		title = "# %s\n## 定義 딍-끼- _Definition_\n%s\n\n%s\n\n英：%s" %(hanji, my_quick_relation, my_full_relation, english)

@@ -1,8 +1,8 @@
 # 姑
 ## 定義 딍-끼- _Definition_
-詳：[爸](member2.md) 兮 姊妹
+簡：[爸](member2.md) 兮 姊妹
 
-簡：[我](member1.md) 兮 [爸](member2.md) 兮 姊妹
+詳：[我](member1.md) 兮 [爸](member2.md) 兮 姊妹
 
 英：Father's sister
 

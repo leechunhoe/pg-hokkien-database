@@ -1,8 +1,8 @@
 # 外祖嫲
 ## 定義 딍-끼- _Definition_
-詳：[媽](member3.md) 兮 媽
+簡：[媽](member3.md) 兮 媽
 
-簡：[我](member1.md) 兮 [媽](member3.md) 兮 媽
+詳：[我](member1.md) 兮 [媽](member3.md) 兮 媽
 
 英：Maternal great grandmother
 

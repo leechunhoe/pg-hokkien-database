@@ -1,8 +1,8 @@
 # 妹夫
 ## 定義 딍-끼- _Definition_
-詳：[小妹](member7.md) 兮 尪
+簡：[小妹](member7.md) 兮 尪
 
-簡：[我](member1.md) 兮 [小妹](member7.md) 兮 尪
+詳：[我](member1.md) 兮 [小妹](member7.md) 兮 尪
 
 英：Younger sister's husband
 

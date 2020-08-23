@@ -1,8 +1,8 @@
 # 堂哥
 ## 定義 딍-끼- _Definition_
-詳：[叔](member11.md) 兮 大漢後生
+簡：[叔](member11.md) 兮 大漢後生
 
-簡：[我](member1.md) 兮 [爸](member2.md) 兮 [哥](member11.md) 兮 大漢後生
+詳：[我](member1.md) 兮 [爸](member2.md) 兮 [哥](member11.md) 兮 大漢後生
 
 英：Father's younger brother's elder son
 

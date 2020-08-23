@@ -1,8 +1,8 @@
 # 姨丈
 ## 定義 딍-끼- _Definition_
-詳：[姨](member15.md) 兮 尪
+簡：[姨](member15.md) 兮 尪
 
-簡：[我](member1.md) 兮 [媽](member3.md) 兮 [姊妹](member15.md) 兮 尪
+詳：[我](member1.md) 兮 [媽](member3.md) 兮 [姊妹](member15.md) 兮 尪
 
 英：Mother's sister's husband
 

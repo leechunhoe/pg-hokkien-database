@@ -1,8 +1,8 @@
 # 姨
 ## 定義 딍-끼- _Definition_
-詳：[媽](member3.md) 兮 姊妹
+簡：[媽](member3.md) 兮 姊妹
 
-簡：[我](member1.md) 兮 [媽](member3.md) 兮 姊妹
+詳：[我](member1.md) 兮 [媽](member3.md) 兮 姊妹
 
 英：Mother's sister
 

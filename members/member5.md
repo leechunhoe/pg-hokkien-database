@@ -1,8 +1,8 @@
 # 姊
 ## 定義 딍-끼- _Definition_
-詳：[我](member1.md) 兮 姊
-
 簡：[我](member1.md) 兮 姊
+
+詳：[我](member1.md) 兮 姊
 
 英：Elder sister
 
