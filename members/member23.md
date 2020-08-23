@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-親情 | 稱法 | 英語
+關係 | 親情 | 英語
 --- | --- | --- 
 姊夫 兮 某 | [姊](member5.md) | Elder sister's husband's wife
 姊夫 兮 囝 | [外甥](member25.md) | Elder sister's husband's children

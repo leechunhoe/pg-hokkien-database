@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-親情 | 稱法 | 英語
+關係 | 親情 | 英語
 --- | --- | --- 
 姑丈 兮 某 | [姑](member12.md) | Father's sister's husband's wife
 姑丈 兮 大漢後生 | [表哥](member39.md) | Father's sister's husband's elder son

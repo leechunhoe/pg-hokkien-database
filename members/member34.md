@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-親情 | 稱法 | 英語
+關係 | 親情 | 英語
 --- | --- | --- 
 嬸 兮 尪 | [叔](member11.md) | Father's younger brother's wife's husband
 嬸 兮 大漢後生 | [堂哥](member73.md) | Father's younger brother's wife's elder son

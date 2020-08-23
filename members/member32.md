@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-親情 | 稱法 | 英語
+關係 | 親情 | 英語
 --- | --- | --- 
 姨婆 兮 尪 | [丈公](member72.md) | Grandmother's sister's husband
 

@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-親情 | 稱法 | 英語
+關係 | 親情 | 英語
 --- | --- | --- 
 尪 兮 爸 | [阮官](member57.md) | Husband's father
 尪 兮 媽 | [娘](member58.md) | Husband's mother

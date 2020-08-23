@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-親情 | 稱法 | 英語
+關係 | 親情 | 英語
 --- | --- | --- 
 嫂 兮 囝 | [孫仔](member22.md) | Younger brother's wife's children
 

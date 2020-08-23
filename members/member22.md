@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-親情 | 稱法 | 英語
+關係 | 親情 | 英語
 --- | --- | --- 
 孫仔 兮 爸 | [哥](member4.md) | Elder brother's children's father
 孫仔 兮 媽 | [嫂](member21.md) | Elder brother's children's mother

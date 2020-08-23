@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-親情 | 稱法 | 英語
+關係 | 親情 | 英語
 --- | --- | --- 
 姑 兮 爸 | [公](member8.md) | Father's sister's father
 姑 兮 媽 | [嫲](member9.md) | Father's sister's mother
