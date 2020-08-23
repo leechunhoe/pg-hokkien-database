@@ -1,17 +1,17 @@
 # 妹夫
 ## 定義 딍-끼- _Definition_
-詳：[小妹](member7.md) 兮 尪
+簡：[小妹](member7.md) 兮 尪
 
-簡：[我](member1.md) 兮 [小妹](member7.md) 兮 尪
+詳：[我](member1.md) 兮 [小妹](member7.md) 兮 尪
 
 英：Younger sister's husband
 
 ## 關係 관·희- _Relationships_
 
-- 妹夫 兮 [某 → 小妹](member7.md) Younger sister's husband's wife
-
-- 妹夫 兮 [囝 → 外甥](member25.md) Younger sister's husband's children
-
+關係 | 親情 | 英語
+--- | --- | --- 
+妹夫 兮 某 | [小妹](member7.md) | Younger sister's husband's wife
+妹夫 兮 囝 | [外甥](member25.md) | Younger sister's husband's children
 
 
 ## 稱呼 칑·허· _Address_
@@ -25,7 +25,7 @@
 
 漢字/諺文 | 妹夫
 --- | ---
-諺文 깐-뿐ˆ | ᄆᆀ-후·
+諺文 깐-뿐ˆ | 뫠-후·
 台羅 Tâi-lô | muāi-hu
 戴字 Taiji | muai33hoo1
 

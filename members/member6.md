@@ -1,21 +1,19 @@
 # 小弟
 ## 定義 딍-끼- _Definition_
-詳：[我](member1.md) 兮 小弟
-
 簡：[我](member1.md) 兮 小弟
+
+詳：[我](member1.md) 兮 小弟
 
 英：Younger brother
 
 ## 關係 관·희- _Relationships_
 
-- 小弟 兮 [爸 → 爸](member2.md) Younger brother's father
-
-- 小弟 兮 [媽 → 媽](member3.md) Younger brother's mother
-
-- 小弟 兮 [某 → 嫂](member21.md) Younger brother's wife
-
-- 小弟 兮 [囝 → 孫仔](member22.md) Younger brother's children
-
+關係 | 親情 | 英語
+--- | --- | --- 
+小弟 兮 爸 | [爸](member2.md) | Younger brother's father
+小弟 兮 媽 | [媽](member3.md) | Younger brother's mother
+小弟 兮 某 | [嫂](member21.md) | Younger brother's wife
+小弟 兮 囝 | [孫仔](member22.md) | Younger brother's children
 
 
 ## 稱呼 칑·허· _Address_

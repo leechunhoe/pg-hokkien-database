@@ -31,86 +31,110 @@ def generate_linked_member_files(members, relationships):
 	for member in members:
 		id = member[0][0]
 		f = open("members/member%s.md" %id, "w")
-		content = ""
-
-		hanji = member[0][1]
-		english = member[0][5].capitalize()
-
-		# # Populate his/her relationship with me
-		my_full_relation = ""
-		my_quick_relation = ""
-		if len(member[0]) > 7:
-			# Part 1: Get full relation
-			relations_text = member[0][7]
-			relations = relations_text.split(".")
-			my_relation_list = []
-
-			me_link = "[%s](%s)"%("我", "member1.md")
-			my_relation_list.append(me_link)
-
-			for i, relation in enumerate(relations):
-				# 1. Get data
-				relation_code = relation.split(":")[1] # relationship code, e.g. "pa", "ma"
-				relationship = get_relation(relationships, relation_code)
-				this_hanji = relationship[1]
-
-				# 2. Append
-				if i == len(relations) - 1:
-					my_relation_list.append(this_hanji)
-				else:
-					member_id = relations[i + 1].split(":")[0] # the member instance (integer)
-					filename = "member%s.md" %member_id
-					this_link = "[%s](%s)"%(this_hanji, filename)
-					my_relation_list.append(this_link)
-
-			my_full_relation = "簡：%s"%" 兮 ".join(my_relation_list)
-
-			# Part 2: Get quick relation
-			my_quick_relation = "詳：%s"%get_quick_relation(members, relationships, relations)
-
-
-		title = "# %s\n## 定義 딍-끼- _Definition_\n%s\n\n%s\n\n英：%s" %(hanji, my_quick_relation, my_full_relation, english)
-		content += title
-
-		english_possessive = "%s's" %english
-		if id == "1":
-			english_possessive = "My"
-
-		# Populate his/her direct relationships
-		if len(member[0]) > 6:
-			content += "\n\n## 關係 관·희- _Relationships_"
-
-			relations_text = member[0][6]
-
-			if len(relations_text) > 0:
-				# TODO Refactor
-				relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in relations_text.split(".")}
-				links = ""
-
-				for relationship in relationships:
-					if relationship[0] in relations:
-						links += get_link(relationship[1], relationship[2], hanji, english_possessive, relations[relationship[0]], members)
-
-				content += "\n\n" + links
-
-		content += "\n\n## 稱呼 칑·허· _Address_"
-
-		tables = ""
-		for variant in member:
-			tables += "漢字/諺文 | %s\n" %variant[1]
-			tables += "--- | ---\n"
-			tables += "諺文 깐-뿐ˆ | %s\n" %variant[2]
-			tables += "台羅 Tâi-lô | %s\n" %variant[3]
-			tables += "戴字 Taiji | %s\n" %variant[4]
-			tables += "\n\n"
-		content += "\n\n" + tables
-
+		content = get_member_content(relationships, members, member)
 		f.write(content)
 
+def get_member_content(relationships, members, member):
+	id = member[0][0]
+	content = ""
+	content += get_my_relations_content(relationships, members, member)
+	content += get_his_relations_content(relationships, members, member)
+	content += get_names_content(member)
+	return content
+
+def get_his_relations_content(relationships, members, member):
+	id = member[0][0]
+	content = ""
+
+	hanji = member[0][1]
+	english = member[0][5].capitalize()
+
+	english_possessive = "%s's" %english
+	if id == "1":
+		english_possessive = "My"
+
+	# Populate his/her direct relationships
+	if len(member[0]) > 6:
+		content += "\n\n## 關係 관·희- _Relationships_"
+
+		relations_text = member[0][6]
+
+		if len(relations_text) > 0:
+			# TODO Refactor
+			relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in relations_text.split(".")}
+
+			content += "\n\n關係 | 親情 | 英語\n"
+			content += "--- | --- | --- \n"
+			for relationship in relationships:
+				if relationship[0] in relations:
+					content += get_his_relation(relationship[1], relationship[2], hanji, english_possessive, relations[relationship[0]], members)
+
+			
+	return content
+
+def get_my_relations_content(relationships, members, member):
+	hanji = member[0][1]
+	english = member[0][5].capitalize()
+
+	# Populate his/her relationship with me
+	my_full_relation = ""
+	my_quick_relation = ""
+	if len(member[0]) > 7:
+		relations_text = member[0][7]
+		relations = relations_text.split(".")
+		my_full_relation = "詳：%s"%get_my_full_relation(members, relationships, relations)
+		my_quick_relation = "簡：%s"%get_my_quick_relation(members, relationships, relations)
+
+	return "# %s\n## 定義 딍-끼- _Definition_\n%s\n\n%s\n\n英：%s" %(hanji, my_quick_relation, my_full_relation, english)
+
+def get_names_content(member):
+	content = "\n\n## 稱呼 칑·허· _Address_"
+	content += "\n\n" + get_name_tables(member)
+	return content
+
+def get_name_tables(member):
+	tables = ""
+	for variant in member:
+		tables += "漢字/諺文 | %s\n" %variant[1]
+		tables += "--- | ---\n"
+		tables += "諺文 깐-뿐ˆ | %s\n" %variant[2]
+		tables += "台羅 Tâi-lô | %s\n" %variant[3]
+		tables += "戴字 Taiji | %s\n" %variant[4]
+		tables += "\n\n"
+	return tables
+
+# e.g. 我兮爸兮爸兮哥
+# members: from data.csv
+# relationships: from relation.csv
+# relations: relation chain from me e.g. pa:1.ma:2
+def get_my_full_relation(members, relationships, relations):
+	my_relation_list = []
+
+	me_link = "[%s](%s)"%("我", "member1.md")
+	my_relation_list.append(me_link)
+
+	for i, relation in enumerate(relations):
+		# 1. Get data
+		relation_code = relation.split(":")[1] # relationship code, e.g. "pa", "ma"
+		relationship = get_relation(relationships, relation_code)
+		this_hanji = relationship[1]
+
+		# 2. Append
+		if i == len(relations) - 1:
+			my_relation_list.append(this_hanji)
+		else:
+			member_id = relations[i + 1].split(":")[0] # the member instance (integer)
+			filename = "member%s.md" %member_id
+			this_link = "[%s](%s)"%(this_hanji, filename)
+			my_relation_list.append(this_link)
+
+	return " 兮 ".join(my_relation_list)
+
+# e.g. 阿公兮哥
 # members: from data.csv
 # relationships: from relation.csv
 # relations: relation chain from me e.g. 1:pa.2:ma
-def get_quick_relation(members, relationships, relations):
+def get_my_quick_relation(members, relationships, relations):
 	# Part 2: Get quick relation
 	relation = relations[-1]
 	last_member_id = relation.split(":")[0] # the member instance (integer)
@@ -119,9 +143,9 @@ def get_quick_relation(members, relationships, relations):
 	relation_hanji = get_relation(relationships, last_relation_code)[1]
 	return "[%s](member%s.md) 兮 %s"% (last_member_hanji, last_member_id, relation_hanji)
 
-def get_link(hanji_title, english_title, hanji, english_possessive, relation, members):
-	member_hanji = get_member_primary(members, relation)[1]
-	return "- %s 兮 [%s → %s](member%s.md) %s %s\n\n" %(hanji, hanji_title, member_hanji, relation, english_possessive, english_title)
+def get_his_relation(relation_hanji, english_title, his_hanji, english_possessive, id, members):
+	his_relative_hanji = get_member_primary(members, id)[1]
+	return "%s 兮 %s | [%s](member%s.md) | %s %s\n"%(his_hanji, relation_hanji, his_relative_hanji, id, english_possessive, english_title)
 
 # Get the primary entry of member
 def get_member_primary(members, member_id):
