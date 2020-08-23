@@ -6,8 +6,6 @@
 
 英：Great grandmother
 
-## 關係 관·희- _Relationships_
-
 ## 稱呼 칑·허· _Address_
 
 漢字/諺文 | 祖嫲

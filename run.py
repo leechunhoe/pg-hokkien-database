@@ -43,33 +43,31 @@ def get_member_content(relationships, members, member):
 	return content
 
 def get_his_relations_content(relationships, members, member):
-	id = member[0][0]
+	primary_entry = member[0]
+	id = primary_entry[0]
 	content = ""
 
-	hanji = member[0][1]
-	english = member[0][5].capitalize()
+	hanji = primary_entry[1]
+	english = primary_entry[5].capitalize()
 
 	english_possessive = "%s's" %english
 	if id == "1":
 		english_possessive = "My"
 
 	# Populate his/her direct relationships
-	if len(member[0]) > 6:
+	if len(primary_entry) > 6 and len(primary_entry[6]) > 0:
 		content += "\n\n## 關係 관·희- _Relationships_"
 
-		relations_text = member[0][6]
+		relations_text = primary_entry[6]
+		# TODO Refactor
+		relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in relations_text.split(".")}
 
-		if len(relations_text) > 0:
-			# TODO Refactor
-			relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in relations_text.split(".")}
+		content += "\n\n關係 | 親情 | 英語\n"
+		content += "--- | --- | --- \n"
+		for relationship in relationships:
+			if relationship[0] in relations:
+				content += get_his_relation(relationship[1], relationship[2], hanji, english_possessive, relations[relationship[0]], members)
 
-			content += "\n\n關係 | 親情 | 英語\n"
-			content += "--- | --- | --- \n"
-			for relationship in relationships:
-				if relationship[0] in relations:
-					content += get_his_relation(relationship[1], relationship[2], hanji, english_possessive, relations[relationship[0]], members)
-
-			
 	return content
 
 def get_my_relations_content(relationships, members, member):
