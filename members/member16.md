@@ -1,5 +1,5 @@
 # 舅
-> [我](member1.md) 兮 [媽](member2.md) 兮 兄弟 Mother's brother
+	[我](member1.md) 兮 [媽](member2.md) 兮 兄弟 Mother's brother
 
 ## 關係 관·희- _Relationships_
 
