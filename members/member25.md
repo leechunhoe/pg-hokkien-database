@@ -1,8 +1,8 @@
 # 外甥
 ## 定義 딍-끼- _Definition_
-簡：[姊](member5.md) 兮 囝
+詳：[姊](member5.md) 兮 囝
 
-詳：[我](member1.md) 兮 [姊](member5.md) 兮 囝
+簡：[我](member1.md) 兮 [姊](member5.md) 兮 囝
 
 英：Elder sister's children
 

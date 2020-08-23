@@ -1,8 +1,8 @@
 # 伯
 ## 定義 딍-끼- _Definition_
-簡：[爸](member2.md) 兮 哥
+詳：[爸](member2.md) 兮 哥
 
-詳：[我](member1.md) 兮 [爸](member2.md) 兮 哥
+簡：[我](member1.md) 兮 [爸](member2.md) 兮 哥
 
 英：Father's elder brother
 

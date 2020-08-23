@@ -1,8 +1,8 @@
 # 娘
 ## 定義 딍-끼- _Definition_
-簡：--
 
-詳：--
+
+
 
 英：Husband's mother
 

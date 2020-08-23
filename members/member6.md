@@ -1,8 +1,8 @@
 # 小弟
 ## 定義 딍-끼- _Definition_
-簡：[我](member1.md) 兮 小弟
-
 詳：[我](member1.md) 兮 小弟
+
+簡：[我](member1.md) 兮 小弟
 
 英：Younger brother
 

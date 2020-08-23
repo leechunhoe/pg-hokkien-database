@@ -1,8 +1,8 @@
 # 小妹
 ## 定義 딍-끼- _Definition_
-簡：[我](member1.md) 兮 小妹
-
 詳：[我](member1.md) 兮 小妹
+
+簡：[我](member1.md) 兮 小妹
 
 英：Younger sister
 

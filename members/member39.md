@@ -1,8 +1,8 @@
 # 表哥
 ## 定義 딍-끼- _Definition_
-簡：[姑](member12.md) 兮 大漢後生
+詳：[姑](member12.md) 兮 大漢後生
 
-詳：[我](member1.md) 兮 [爸](member2.md) 兮 [姊妹](member12.md) 兮 大漢後生
+簡：[我](member1.md) 兮 [爸](member2.md) 兮 [姊妹](member12.md) 兮 大漢後生
 
 英：Father's sister's elder son
 

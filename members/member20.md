@@ -1,8 +1,8 @@
 # 자와
 ## 定義 딍-끼- _Definition_
-簡：[我](member1.md) 兮 자와
-
 詳：[我](member1.md) 兮 자와
+
+簡：[我](member1.md) 兮 자와
 
 英：Daughter
 

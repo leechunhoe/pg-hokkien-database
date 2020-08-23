@@ -1,8 +1,8 @@
 # 表姊
 ## 定義 딍-끼- _Definition_
-簡：[姑](member12.md) 兮 大漢자와
+詳：[姑](member12.md) 兮 大漢자와
 
-詳：[我](member1.md) 兮 [爸](member2.md) 兮 [姊妹](member12.md) 兮 大漢자와
+簡：[我](member1.md) 兮 [爸](member2.md) 兮 [姊妹](member12.md) 兮 大漢자와
 
 英：Father's sister's elder daughter
 

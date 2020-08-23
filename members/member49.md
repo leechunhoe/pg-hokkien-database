@@ -1,8 +1,8 @@
 # 表小弟
 ## 定義 딍-끼- _Definition_
-簡：--
 
-詳：--
+
+
 
 英：Mother's sibling's younger son
 

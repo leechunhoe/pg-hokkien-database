@@ -1,8 +1,8 @@
 # 堂姊
 ## 定義 딍-끼- _Definition_
-簡：[伯](member10.md) 兮 大漢자와
+詳：[伯](member10.md) 兮 大漢자와
 
-詳：[我](member1.md) 兮 [爸](member2.md) 兮 [哥](member10.md) 兮 大漢자와
+簡：[我](member1.md) 兮 [爸](member2.md) 兮 [哥](member10.md) 兮 大漢자와
 
 英：Father's elder brother's elder daughter
 

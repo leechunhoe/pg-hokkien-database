@@ -1,8 +1,8 @@
 # 後生
 ## 定義 딍-끼- _Definition_
-簡：[我](member1.md) 兮 後生
-
 詳：[我](member1.md) 兮 後生
+
+簡：[我](member1.md) 兮 後生
 
 英：Son
 
