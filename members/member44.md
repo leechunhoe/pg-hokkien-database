@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 外祖 兮 某 | [外祖嫲](member45.md) | Maternal great grandfather's wife
 
 

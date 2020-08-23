@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 尪 兮 爸 | [阮官](member57.md) | Husband's father
 尪 兮 媽 | [娘](member58.md) | Husband's mother
 尪 兮 某 | [某](member18.md) | Husband's wife

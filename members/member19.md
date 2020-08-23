@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 後生 兮 爸 | [我](member1.md) | Son's father
 後生 兮 媽 | [我](member1.md) | Son's mother
 後生 兮 某 | [新婦](member52.md) | Son's wife

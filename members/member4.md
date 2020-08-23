@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 哥 兮 爸 | [爸](member2.md) | Elder brother's father
 哥 兮 媽 | [媽](member3.md) | Elder brother's mother
 哥 兮 某 | [嫂](member21.md) | Elder brother's wife

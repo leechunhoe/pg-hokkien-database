@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 爸 兮 爸 | [公](member8.md) | Father's father
 爸 兮 媽 | [嫲](member9.md) | Father's mother
 爸 兮 某 | [媽](member3.md) | Father's wife

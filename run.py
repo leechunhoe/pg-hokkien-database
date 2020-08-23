@@ -62,15 +62,14 @@ def get_his_relations_content(relationships, members, member):
 		if len(relations_text) > 0:
 			# TODO Refactor
 			relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in relations_text.split(".")}
-			links = ""
 
 			content += "\n\n1|2|3\n"
 			content += "--- | --- | --- \n"
 			for relationship in relationships:
 				if relationship[0] in relations:
-					links += get_his_relation(relationship[1], relationship[2], hanji, english_possessive, relations[relationship[0]], members)
+					content += get_his_relation(relationship[1], relationship[2], hanji, english_possessive, relations[relationship[0]], members)
 
-			content += "\n\n" + links
+			
 	return content
 
 def get_my_relations_content(relationships, members, member):

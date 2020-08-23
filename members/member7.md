@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 小妹 兮 爸 | [爸](member2.md) | Younger sister's father
 小妹 兮 媽 | [媽](member3.md) | Younger sister's mother
 小妹 兮 尪 | [姊夫](member23.md) | Younger sister's husband

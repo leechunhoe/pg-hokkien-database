@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 姨 兮 爸 | [外公](member13.md) | Mother's sister's father
 姨 兮 媽 | [外嫲](member14.md) | Mother's sister's mother
 姨 兮 尪 | [舅](member16.md) | Mother's sister's husband

@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 外嫲 兮 爸 | [外祖](member44.md) | Maternal grandmother's father
 外嫲 兮 媽 | [外祖嫲](member45.md) | Maternal grandmother's mother
 外嫲 兮 尪 | [外公](member13.md) | Maternal grandmother's husband

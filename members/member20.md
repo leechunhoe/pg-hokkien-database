@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 자와 兮 爸 | [我](member1.md) | Daughter's father
 자와 兮 媽 | [我](member1.md) | Daughter's mother
 자와 兮 尪 | [囝婿](member68.md) | Daughter's husband

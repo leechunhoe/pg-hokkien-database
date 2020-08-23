@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 伯 兮 爸 | [公](member8.md) | Father's elder brother's father
 伯 兮 媽 | [嫲](member9.md) | Father's elder brother's mother
 伯 兮 某 | [姆](member33.md) | Father's elder brother's wife

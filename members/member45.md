@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 外祖嫲 兮 尪 | [外祖](member44.md) | Maternal great grandmother's husband
 
 

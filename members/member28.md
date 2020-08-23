@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 姑婆 兮 爸 | [阿祖](member29.md) | Grandfather's sister's father
 姑婆 兮 媽 | [祖嫲](member30.md) | Grandfather's sister's mother
 

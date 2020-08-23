@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 我 兮 爸 | [爸](member2.md) | My father
 我 兮 媽 | [媽](member3.md) | My mother
 我 兮 尪 | [尪](member17.md) | My husband

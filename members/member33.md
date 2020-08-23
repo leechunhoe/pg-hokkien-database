@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 姆 兮 尪 | [伯](member10.md) | Father's elder brother's wife's husband
 姆 兮 大漢後生 | [堂哥](member35.md) | Father's elder brother's wife's elder son
 姆 兮 大漢자와 | [堂姊](member36.md) | Father's elder brother's wife's elder daughter

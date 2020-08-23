@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 堂哥 兮 爸 | [叔](member11.md) | Father's younger brother's elder son's father
 堂哥 兮 媽 | [嬸](member34.md) | Father's younger brother's elder son's mother
 

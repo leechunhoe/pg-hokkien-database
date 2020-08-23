@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 姑 兮 爸 | [公](member8.md) | Father's sister's father
 姑 兮 媽 | [嫲](member9.md) | Father's sister's mother
 姑 兮 尪 | [姑丈](member43.md) | Father's sister's husband

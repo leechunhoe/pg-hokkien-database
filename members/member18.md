@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 某 兮 爸 | [丈人](member62.md) | Wife's father
 某 兮 媽 | [丈姆](member63.md) | Wife's mother
 某 兮 尪 | [尪](member17.md) | Wife's husband

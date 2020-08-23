@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 表姊 兮 爸 | [姑丈](member43.md) | Father's sister's elder daughter's father
 表姊 兮 媽 | [姑](member12.md) | Father's sister's elder daughter's mother
 

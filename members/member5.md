@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 姊 兮 爸 | [爸](member2.md) | Elder sister's father
 姊 兮 媽 | [媽](member3.md) | Elder sister's mother
 姊 兮 尪 | [姊夫](member23.md) | Elder sister's husband

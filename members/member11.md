@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 叔 兮 爸 | [公](member8.md) | Father's younger brother's father
 叔 兮 媽 | [嫲](member9.md) | Father's younger brother's mother
 叔 兮 某 | [嬸](member34.md) | Father's younger brother's wife

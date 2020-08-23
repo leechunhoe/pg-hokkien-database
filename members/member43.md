@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 姑丈 兮 某 | [姑](member12.md) | Father's sister's husband's wife
 姑丈 兮 大漢後生 | [表哥](member39.md) | Father's sister's husband's elder son
 姑丈 兮 大漢자와 | [表姊](member40.md) | Father's sister's husband's elder daughter

@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 姨婆 兮 尪 | [丈公](member72.md) | Grandmother's sister's husband
 
 

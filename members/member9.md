@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 嫲 兮 尪 | [公](member8.md) | Grandmother's husband
 嫲 兮 兄弟 | [舅公](member31.md) | Grandmother's brother
 嫲 兮 姊妹 | [姨婆](member32.md) | Grandmother's sister

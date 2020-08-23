@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 嫂 兮 尪 | [哥](member4.md) | Elder brother's wife's husband
 嫂 兮 囝 | [孫仔](member22.md) | Elder brother's wife's children
 

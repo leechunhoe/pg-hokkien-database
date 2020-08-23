@@ -10,8 +10,6 @@
 
 1|2|3
 --- | --- | --- 
-
-
 媽 兮 爸 | [外公](member13.md) | Mother's father
 媽 兮 媽 | [外嫲](member14.md) | Mother's mother
 媽 兮 尪 | [爸](member2.md) | Mother's husband
