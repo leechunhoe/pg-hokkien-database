@@ -37,8 +37,8 @@ def generate_linked_member_files(members, relationships):
 		english = member[0][5].capitalize()
 
 		# # Populate his/her relationship with me
-		my_full_relation = "N.A."
-		my_quick_relation = "N.A."
+		my_full_relation = "--"
+		my_quick_relation = "--"
 		if len(member[0]) > 7:
 			# Part 1: Get full relation
 			relations_text = member[0][7]

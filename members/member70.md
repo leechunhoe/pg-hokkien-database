@@ -1,8 +1,8 @@
 # 孫仔
 ## 定義 딍-끼- _Definition_
-簡：N.A.
+簡：--
 
-詳：N.A.
+詳：--
 
 英：Younger brother's children
 
