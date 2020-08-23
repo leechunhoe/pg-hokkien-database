@@ -40,34 +40,10 @@ def generate_linked_member_files(members, relationships):
 		my_full_relation = ""
 		my_quick_relation = ""
 		if len(member[0]) > 7:
-			# Part 1: Get full relation
 			relations_text = member[0][7]
 			relations = relations_text.split(".")
-			my_relation_list = []
-
-			me_link = "[%s](%s)"%("我", "member1.md")
-			my_relation_list.append(me_link)
-
-			for i, relation in enumerate(relations):
-				# 1. Get data
-				relation_code = relation.split(":")[1] # relationship code, e.g. "pa", "ma"
-				relationship = get_relation(relationships, relation_code)
-				this_hanji = relationship[1]
-
-				# 2. Append
-				if i == len(relations) - 1:
-					my_relation_list.append(this_hanji)
-				else:
-					member_id = relations[i + 1].split(":")[0] # the member instance (integer)
-					filename = "member%s.md" %member_id
-					this_link = "[%s](%s)"%(this_hanji, filename)
-					my_relation_list.append(this_link)
-
-			my_full_relation = "詳：%s"%" 兮 ".join(my_relation_list)
-
-			# Part 2: Get quick relation
+			my_full_relation = "詳：%s"%get_full_relation(members, relationships, relations)
 			my_quick_relation = "簡：%s"%get_quick_relation(members, relationships, relations)
-
 
 		title = "# %s\n## 定義 딍-끼- _Definition_\n%s\n\n%s\n\n英：%s" %(hanji, my_quick_relation, my_full_relation, english)
 		content += title
@@ -107,6 +83,34 @@ def generate_linked_member_files(members, relationships):
 
 		f.write(content)
 
+# e.g. 我兮爸兮爸兮哥
+# members: from data.csv
+# relationships: from relation.csv
+# relations: relation chain from me e.g. pa:1.ma:2
+def get_full_relation(members, relationships, relations):
+	my_relation_list = []
+
+	me_link = "[%s](%s)"%("我", "member1.md")
+	my_relation_list.append(me_link)
+
+	for i, relation in enumerate(relations):
+		# 1. Get data
+		relation_code = relation.split(":")[1] # relationship code, e.g. "pa", "ma"
+		relationship = get_relation(relationships, relation_code)
+		this_hanji = relationship[1]
+
+		# 2. Append
+		if i == len(relations) - 1:
+			my_relation_list.append(this_hanji)
+		else:
+			member_id = relations[i + 1].split(":")[0] # the member instance (integer)
+			filename = "member%s.md" %member_id
+			this_link = "[%s](%s)"%(this_hanji, filename)
+			my_relation_list.append(this_link)
+
+	return " 兮 ".join(my_relation_list)
+
+# e.g. 阿公兮哥
 # members: from data.csv
 # relationships: from relation.csv
 # relations: relation chain from me e.g. 1:pa.2:ma
