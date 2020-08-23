@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-1|2|3
+親情||
 --- | --- | --- 
 外嫲 兮 爸 | [外祖](member44.md) | Maternal grandmother's father
 外嫲 兮 媽 | [外祖嫲](member45.md) | Maternal grandmother's mother

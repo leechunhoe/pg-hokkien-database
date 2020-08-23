@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-1|2|3
+親情||
 --- | --- | --- 
 姊夫 兮 某 | [姊](member5.md) | Elder sister's husband's wife
 姊夫 兮 囝 | [外甥](member25.md) | Elder sister's husband's children

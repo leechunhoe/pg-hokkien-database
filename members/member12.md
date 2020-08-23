@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-1|2|3
+親情||
 --- | --- | --- 
 姑 兮 爸 | [公](member8.md) | Father's sister's father
 姑 兮 媽 | [嫲](member9.md) | Father's sister's mother

@@ -8,7 +8,7 @@
 
 ## 關係 관·희- _Relationships_
 
-1|2|3
+親情||
 --- | --- | --- 
 堂哥 兮 爸 | [伯](member10.md) | Father's elder brother's elder son's father
 堂哥 兮 媽 | [姆](member33.md) | Father's elder brother's elder son's mother
