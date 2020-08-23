@@ -74,7 +74,11 @@ def get_member_content(relationships, members, member):
 
 			content += "\n\n" + links
 
-	content += "\n\n## 稱呼 칑·허· _Address_"
+	content += get_address_content(member)
+	return content
+
+def get_address_content(member):
+	content = "\n\n## 稱呼 칑·허· _Address_"
 	content += "\n\n" + get_name_tables(member)
 	return content
 
