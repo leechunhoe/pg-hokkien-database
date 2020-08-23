@@ -39,7 +39,7 @@ def get_member_content(relationships, members, member):
 	content = ""
 	content += get_my_relations_content(relationships, members, member)
 	content += get_his_relations_content(relationships, members, member)
-	content += get_address_content(member)
+	content += get_names_content(member)
 	return content
 
 def get_his_relations_content(relationships, members, member):
@@ -86,7 +86,7 @@ def get_my_relations_content(relationships, members, member):
 
 	return "# %s\n## 定義 딍-끼- _Definition_\n%s\n\n%s\n\n英：%s" %(hanji, my_quick_relation, my_full_relation, english)
 
-def get_address_content(member):
+def get_names_content(member):
 	content = "\n\n## 稱呼 칑·허· _Address_"
 	content += "\n\n" + get_name_tables(member)
 	return content
