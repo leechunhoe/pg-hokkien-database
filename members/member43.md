@@ -19,7 +19,7 @@
 
 ## 稱呼 칑·허· _Address_
 
-漢字/諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji
+漢字或諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji
 --- | --- | --- | --- 
 姑丈 | 거·뎌ᇫ- | koo-tiōnn | kor3tnio33 
 姑丈 | 거·ᄃᆤᇫ- | koo-tiāunn | kor3tniau33 

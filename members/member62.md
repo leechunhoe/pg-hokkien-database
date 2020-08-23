@@ -8,7 +8,7 @@
 
 ## 稱呼 칑·허· _Address_
 
-漢字/諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji
+漢字或諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji
 --- | --- | --- | --- 
 丈人 | 뎌ᇫ-랑ˆ | tiōnn-lâng | tnio33lang2 
 丈人 | ᄃᆤᇫ-랑ˆ | tiāunn-lâng | tniau33lang2 

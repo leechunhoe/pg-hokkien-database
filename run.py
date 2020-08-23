@@ -94,7 +94,7 @@ def get_names_content(member):
 
 def get_name_tables(member):
 	tables = ""
-	tables += "漢字/諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji\n"
+	tables += "漢字或諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji\n"
 	tables += "--- | --- | --- | --- \n"
 	for variant in member:
 		tables += "%s | %s | %s | %s \n"%(variant[1], variant[2], variant[3], variant[4])

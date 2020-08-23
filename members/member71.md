@@ -8,7 +8,7 @@
 
 ## 稱呼 칑·허· _Address_
 
-漢字/諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji
+漢字或諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji
 --- | --- | --- | --- 
 外甥 | 꾀-싕· | guē-seng | guay33seng1 
 外甥 | 꽈-싕· | guā-seng | gua33seng1 
