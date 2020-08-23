@@ -64,6 +64,8 @@ def get_his_relations_content(relationships, members, member):
 			relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in relations_text.split(".")}
 			links = ""
 
+			content += "\n\n | | \n"
+			content += "--- | --- | --- \n"
 			for relationship in relationships:
 				if relationship[0] in relations:
 					links += get_his_relation(relationship[1], relationship[2], hanji, english_possessive, relations[relationship[0]], members)
@@ -142,9 +144,9 @@ def get_my_quick_relation(members, relationships, relations):
 	relation_hanji = get_relation(relationships, last_relation_code)[1]
 	return "[%s](member%s.md) 兮 %s"% (last_member_hanji, last_member_id, relation_hanji)
 
-def get_his_relation(hanji_title, english_title, hanji, english_possessive, relation, members):
-	member_hanji = get_member_primary(members, relation)[1]
-	return "- %s 兮 [%s → %s](member%s.md) %s %s\n\n" %(hanji, hanji_title, member_hanji, relation, english_possessive, english_title)
+def get_his_relation(relation_hanji, english_title, his_hanji, english_possessive, id, members):
+	his_relative_hanji = get_member_primary(members, id)[1]
+	return "%s 兮 %s | [%s](member%s.md) | %s %s"%(his_hanji, relation_hanji, his_relative_hanji, id, english_possessive, english_title)
 
 # Get the primary entry of member
 def get_member_primary(members, member_id):

@@ -8,17 +8,11 @@
 
 ## 關係 관·희- _Relationships_
 
-- 姆 兮 [尪 → 伯](member10.md) Father's elder brother's wife's husband
-
-- 姆 兮 [大漢後生 → 堂哥](member35.md) Father's elder brother's wife's elder son
-
-- 姆 兮 [大漢자와 → 堂姊](member36.md) Father's elder brother's wife's elder daughter
-
-- 姆 兮 [細漢後生 → 堂小弟](member37.md) Father's elder brother's wife's younger son
-
-- 姆 兮 [細漢자와 → 堂小妹](member38.md) Father's elder brother's wife's younger daughter
+ | | 
+--- | --- | --- 
 
 
+姆 兮 尪 | [伯](member10.md) | Father's elder brother's wife's husband姆 兮 大漢後生 | [堂哥](member35.md) | Father's elder brother's wife's elder son姆 兮 大漢자와 | [堂姊](member36.md) | Father's elder brother's wife's elder daughter姆 兮 細漢後生 | [堂小弟](member37.md) | Father's elder brother's wife's younger son姆 兮 細漢자와 | [堂小妹](member38.md) | Father's elder brother's wife's younger daughter
 
 ## 稱呼 칑·허· _Address_
 

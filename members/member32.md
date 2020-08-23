@@ -8,9 +8,11 @@
 
 ## 關係 관·희- _Relationships_
 
-- 姨婆 兮 [尪 → 丈公](member72.md) Grandmother's sister's husband
+ | | 
+--- | --- | --- 
 
 
+姨婆 兮 尪 | [丈公](member72.md) | Grandmother's sister's husband
 
 ## 稱呼 칑·허· _Address_
 

@@ -8,11 +8,11 @@
 
 ## 關係 관·희- _Relationships_
 
-- 叔公 兮 [爸 → 阿祖](member29.md) Grandfather's younger brother's father
+ | | 
+--- | --- | --- 
 
-- 叔公 兮 [媽 → 祖嫲](member30.md) Grandfather's younger brother's mother
 
-
+叔公 兮 爸 | [阿祖](member29.md) | Grandfather's younger brother's father叔公 兮 媽 | [祖嫲](member30.md) | Grandfather's younger brother's mother
 
 ## 稱呼 칑·허· _Address_
 

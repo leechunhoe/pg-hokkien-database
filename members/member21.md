@@ -8,11 +8,11 @@
 
 ## 關係 관·희- _Relationships_
 
-- 嫂 兮 [尪 → 哥](member4.md) Elder brother's wife's husband
+ | | 
+--- | --- | --- 
 
-- 嫂 兮 [囝 → 孫仔](member22.md) Elder brother's wife's children
 
-
+嫂 兮 尪 | [哥](member4.md) | Elder brother's wife's husband嫂 兮 囝 | [孫仔](member22.md) | Elder brother's wife's children
 
 ## 稱呼 칑·허· _Address_
 

@@ -8,11 +8,11 @@
 
 ## 關係 관·희- _Relationships_
 
-- 堂姊 兮 [爸 → 叔](member11.md) Father's younger brother's elder daughter's father
+ | | 
+--- | --- | --- 
 
-- 堂姊 兮 [媽 → 嬸](member34.md) Father's younger brother's elder daughter's mother
 
-
+堂姊 兮 爸 | [叔](member11.md) | Father's younger brother's elder daughter's father堂姊 兮 媽 | [嬸](member34.md) | Father's younger brother's elder daughter's mother
 
 ## 稱呼 칑·허· _Address_
 

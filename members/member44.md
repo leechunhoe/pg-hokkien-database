@@ -8,9 +8,11 @@
 
 ## 關係 관·희- _Relationships_
 
-- 外祖 兮 [某 → 外祖嫲](member45.md) Maternal great grandfather's wife
+ | | 
+--- | --- | --- 
 
 
+外祖 兮 某 | [外祖嫲](member45.md) | Maternal great grandfather's wife
 
 ## 稱呼 칑·허· _Address_
 

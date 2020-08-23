@@ -8,17 +8,11 @@
 
 ## 關係 관·희- _Relationships_
 
-- 姨丈 兮 [某 → 姨](member15.md) Mother's sister's husband's wife
-
-- 姨丈 兮 [大漢後生 → 表哥](member47.md) Mother's sister's husband's elder son
-
-- 姨丈 兮 [大漢자와 → 表姊](member48.md) Mother's sister's husband's elder daughter
-
-- 姨丈 兮 [細漢後生 → 表小弟](member49.md) Mother's sister's husband's younger son
-
-- 姨丈 兮 [細漢자와 → 表小妹](member50.md) Mother's sister's husband's younger daughter
+ | | 
+--- | --- | --- 
 
 
+姨丈 兮 某 | [姨](member15.md) | Mother's sister's husband's wife姨丈 兮 大漢後生 | [表哥](member47.md) | Mother's sister's husband's elder son姨丈 兮 大漢자와 | [表姊](member48.md) | Mother's sister's husband's elder daughter姨丈 兮 細漢後生 | [表小弟](member49.md) | Mother's sister's husband's younger son姨丈 兮 細漢자와 | [表小妹](member50.md) | Mother's sister's husband's younger daughter
 
 ## 稱呼 칑·허· _Address_
 
