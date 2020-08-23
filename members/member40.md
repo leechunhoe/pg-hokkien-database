@@ -1,5 +1,13 @@
 # 表姊
-##  Father's sister's elder daughter
+## [我](member1.md) 兮 [爸](member2.md) 兮 [姊妹](member12.md) 兮 大漢자와 Father's sister's elder daughter
+
+## 關係 관·희- _Relationships_
+
+- [表姊兮爸 (姑丈) Father's sister's elder daughter's father](member43.md)
+
+- [表姊兮媽 (姑) Father's sister's elder daughter's mother](member12.md)
+
+
 
 ## 稱呼 칑·허· _Address_
 

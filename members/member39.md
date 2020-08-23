@@ -1,5 +1,13 @@
 # 表哥
-##  Father's sister's elder son
+## [我](member1.md) 兮 [爸](member2.md) 兮 [姊妹](member12.md) 兮 大漢後生 Father's sister's elder son
+
+## 關係 관·희- _Relationships_
+
+- [表哥兮爸 (姑丈) Father's sister's elder son's father](member43.md)
+
+- [表哥兮媽 (姑) Father's sister's elder son's mother](member12.md)
+
+
 
 ## 稱呼 칑·허· _Address_
 
