@@ -1,5 +1,5 @@
 # 堂小弟
-##  Father's elder brother's younger son
+##  Father's younger brother's younger son
 
 ## 稱呼 칑·허· _Address_
 

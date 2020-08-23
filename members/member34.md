@@ -5,6 +5,12 @@
 
 - [阿嬸兮尪 (叔) Father's younger brother's wife's husband](member11.md)
 
+- [阿嬸兮大漢後生 (堂哥) Father's younger brother's wife's elder son](member73.md)
+
+- [阿嬸兮大漢자와 (堂姊) Father's younger brother's wife's elder daughter](member74.md)
+
+- [阿嬸兮細漢後生 (堂小弟) Father's younger brother's wife's younger son](member75.md)
+
 
 
 ## 稱呼 칑·허· _Address_

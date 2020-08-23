@@ -34,7 +34,7 @@
 10,伯,벻·,peh,paek3,father's elder brother,pa:8.ma:9.bo:33.hs1:35.cw1:36.hs2:37.cw2:38,1:pa.2:ko
 10,阿伯,아·벻·,a-peh,ah3paek3,father's elder brother
 
-11,叔,즥·,tsek,ceik3,father's younger brother,pa:8.ma:9.bo:34.hs1:35.cw1:36.hs2:37.cw2:38,1:pa.2:ti
+11,叔,즥·,tsek,ceik3,father's younger brother,pa:8.ma:9.bo:34.hs1:73.cw1:74.hs2:75:cw2:76,1:pa.2:ti
 11,阿叔,아·즥·,a-tsek,ah3ceik3,father's younger brother
 
 12,姑,거·,koo,kor1,father's sister,pa:8.ma:9.ang:43.hs1:39.cw1:40.hs2:41.cw2:42,1:pa.2:cm
@@ -85,13 +85,13 @@
 31,舅公,구-겅·,kū-kong,koo33kong1,grandmother's brother,,1:pa.2:ma.9:ht
 32,姨婆,이ˆ보ˆ,î-pô,ee3poh2,grandmother's sister,ang:72,1:pa.2:ma.9:cm
 
-33,阿姆,아·음ˊ,a-ḿ,ah3mm4,father's elder brother's wife,ang:10,1:pa.2:ko.10:bo
-34,阿嬸,아·짐ˊ,a-tsím,ah3cim4,father's younger brother's wife,ang:11,1:pa.2:ti.11:bo
+33,阿姆,아·음ˊ,a-ḿ,ah3mm4,father's elder brother's wife,ang:10.hs1:35.cw1:36.hs2:37.cw2:38,1:pa.2:ko.10:bo
+34,阿嬸,아·짐ˊ,a-tsím,ah3cim4,father's younger brother's wife,ang:11.hs1:73.cw1:74.hs2:75:cw2:76,1:pa.2:ti.11:bo
 
-35,堂哥,덩ˆ고·,tông-ko,tong3koh1,father's brother's elder son
-36,堂姊,덩ˆ지ˊ,tông-tsí,tong3cee4,father's brother's elder daughter
-37,堂小弟,덩ˆ쇼ˊ디-,tông-sió-tī,tong3sio1tee33,father's brother's younger son
-38,堂小妹,덩ˆ쇼ˊᄆᆀ-,tông-sió-mōi,tong3sio1moy33,father's brother's younger daughter
+35,堂哥,덩ˆ고·,tông-ko,tong3koh1,father's elder brother's elder son
+36,堂姊,덩ˆ지ˊ,tông-tsí,tong3cee4,father's elder brother's elder daughter
+37,堂小弟,덩ˆ쇼ˊ디-,tông-sió-tī,tong3sio1tee33,father's elder brother's younger son
+38,堂小妹,덩ˆ쇼ˊᄆᆀ-,tông-sió-mōi,tong3sio1moy33,father's elder brother's younger daughter
 
 39,表哥,ᄇᆤˊ고·,piáu-ko,piau1koh1,father's sister's elder son
 40,表姊,ᄇᆤˊ지ˊ,piáu-tsí,piau1cee4,father's sister's elder daughter
@@ -160,3 +160,8 @@
 
 72,丈公,뎌ᇫ-겅·,tiōnn-kong,tnio33kong1,grandmother's sister's husband
 72,丈公,ᄃᆤᇫ-겅·,tiāunn-kong,tniau33kong1,grandmother's sister's husband
+
+73,堂哥,덩ˆ고·,tông-ko,tong3koh1,father's younger brother's elder son
+74,堂姊,덩ˆ지ˊ,tông-tsí,tong3cee4,father's younger brother's elder daughter
+75,堂小弟,덩ˆ쇼ˊ디-,tông-sió-tī,tong3sio1tee33,father's younger brother's younger son
+76,堂小妹,덩ˆ쇼ˊᄆᆀ-,tông-sió-mōi,tong3sio1moy33,father's younger brother's younger daughter

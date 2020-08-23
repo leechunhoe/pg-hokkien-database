@@ -5,6 +5,14 @@
 
 - [阿姆兮尪 (伯) Father's elder brother's wife's husband](member10.md)
 
+- [阿姆兮大漢後生 (堂哥) Father's elder brother's wife's elder son](member35.md)
+
+- [阿姆兮大漢자와 (堂姊) Father's elder brother's wife's elder daughter](member36.md)
+
+- [阿姆兮細漢後生 (堂小弟) Father's elder brother's wife's younger son](member37.md)
+
+- [阿姆兮細漢자와 (堂小妹) Father's elder brother's wife's younger daughter](member38.md)
+
 
 
 ## 稱呼 칑·허· _Address_

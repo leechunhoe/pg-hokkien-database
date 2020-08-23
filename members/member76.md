@@ -1,5 +1,5 @@
 # 堂小妹
-##  Father's elder brother's younger daughter
+##  Father's younger brother's younger daughter
 
 ## 稱呼 칑·허· _Address_
 

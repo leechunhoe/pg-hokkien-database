@@ -9,13 +9,11 @@
 
 - [叔兮某 (阿嬸) Father's younger brother's wife](member34.md)
 
-- [叔兮大漢後生 (堂哥) Father's younger brother's elder son](member35.md)
+- [叔兮大漢後生 (堂哥) Father's younger brother's elder son](member73.md)
 
-- [叔兮大漢자와 (堂姊) Father's younger brother's elder daughter](member36.md)
+- [叔兮大漢자와 (堂姊) Father's younger brother's elder daughter](member74.md)
 
-- [叔兮細漢後生 (堂小弟) Father's younger brother's younger son](member37.md)
-
-- [叔兮細漢자와 (堂小妹) Father's younger brother's younger daughter](member38.md)
+- [叔兮細漢後生 (堂小弟) Father's younger brother's younger son](member75.md)
 
 
 
