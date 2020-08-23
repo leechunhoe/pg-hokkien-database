@@ -1,11 +1,16 @@
 # 孫仔
-## [我](member1.md) 兮 [哥](member4.md) 兮 囝 Elder brother's children
+## 定義 딍-끼- _Definition_
+詳：[哥](member4.md) 兮 囝
+
+簡：[我](member1.md) 兮 [哥](member4.md) 兮 囝
+
+英：Elder brother's children
 
 ## 關係 관·희- _Relationships_
 
-- 孫仔兮[爸 → 哥](member4.md) Elder brother's children's father
+- 孫仔 兮 [爸 → 哥](member4.md) Elder brother's children's father
 
-- 孫仔兮[媽 → 嫂](member21.md) Elder brother's children's mother
+- 孫仔 兮 [媽 → 嫂](member21.md) Elder brother's children's mother
 
 
 

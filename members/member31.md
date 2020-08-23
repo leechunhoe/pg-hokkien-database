@@ -1,5 +1,10 @@
 # 舅公
-## [我](member1.md) 兮 [爸](member2.md) 兮 [媽](member9.md) 兮 兄弟 Grandmother's brother
+## 定義 딍-끼- _Definition_
+詳：[嫲](member9.md) 兮 兄弟
+
+簡：[我](member1.md) 兮 [爸](member2.md) 兮 [媽](member9.md) 兮 兄弟
+
+英：Grandmother's brother
 
 ## 關係 관·희- _Relationships_
 

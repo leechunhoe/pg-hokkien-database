@@ -1,15 +1,20 @@
 # 嬸
-## [我](member1.md) 兮 [爸](member2.md) 兮 [小弟](member11.md) 兮 某 Father's younger brother's wife
+## 定義 딍-끼- _Definition_
+詳：[叔](member11.md) 兮 某
+
+簡：[我](member1.md) 兮 [爸](member2.md) 兮 [小弟](member11.md) 兮 某
+
+英：Father's younger brother's wife
 
 ## 關係 관·희- _Relationships_
 
-- 嬸兮[尪 → 叔](member11.md) Father's younger brother's wife's husband
+- 嬸 兮 [尪 → 叔](member11.md) Father's younger brother's wife's husband
 
-- 嬸兮[大漢後生 → 堂哥](member73.md) Father's younger brother's wife's elder son
+- 嬸 兮 [大漢後生 → 堂哥](member73.md) Father's younger brother's wife's elder son
 
-- 嬸兮[大漢자와 → 堂姊](member74.md) Father's younger brother's wife's elder daughter
+- 嬸 兮 [大漢자와 → 堂姊](member74.md) Father's younger brother's wife's elder daughter
 
-- 嬸兮[細漢後生 → 堂小弟](member75.md) Father's younger brother's wife's younger son
+- 嬸 兮 [細漢後生 → 堂小弟](member75.md) Father's younger brother's wife's younger son
 
 
 

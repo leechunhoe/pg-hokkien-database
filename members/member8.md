@@ -1,19 +1,24 @@
 # 公
-## [我](member1.md) 兮 [爸](member2.md) 兮 爸 Grandfather
+## 定義 딍-끼- _Definition_
+詳：[爸](member2.md) 兮 爸
+
+簡：[我](member1.md) 兮 [爸](member2.md) 兮 爸
+
+英：Grandfather
 
 ## 關係 관·희- _Relationships_
 
-- 公兮[爸 → 阿祖](member29.md) Grandfather's father
+- 公 兮 [爸 → 阿祖](member29.md) Grandfather's father
 
-- 公兮[媽 → 祖嫲](member30.md) Grandfather's mother
+- 公 兮 [媽 → 祖嫲](member30.md) Grandfather's mother
 
-- 公兮[某 → 嫲](member9.md) Grandfather's wife
+- 公 兮 [某 → 嫲](member9.md) Grandfather's wife
 
-- 公兮[哥 → 伯公](member26.md) Grandfather's elder brother
+- 公 兮 [哥 → 伯公](member26.md) Grandfather's elder brother
 
-- 公兮[小弟 → 叔公](member27.md) Grandfather's younger brother
+- 公 兮 [小弟 → 叔公](member27.md) Grandfather's younger brother
 
-- 公兮[姊妹 → 姑婆](member28.md) Grandfather's sister
+- 公 兮 [姊妹 → 姑婆](member28.md) Grandfather's sister
 
 
 

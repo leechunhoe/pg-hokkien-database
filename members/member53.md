@@ -1,5 +1,10 @@
 # 孫
-##  Grand son
+## 定義 딍-끼- _Definition_
+
+
+
+
+英：Grand son
 
 ## 稱呼 칑·허· _Address_
 

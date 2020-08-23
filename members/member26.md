@@ -1,11 +1,16 @@
 # 伯公
-## [我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 哥 Grandfather's elder brother
+## 定義 딍-끼- _Definition_
+詳：[公](member8.md) 兮 哥
+
+簡：[我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 哥
+
+英：Grandfather's elder brother
 
 ## 關係 관·희- _Relationships_
 
-- 伯公兮[爸 → 阿祖](member29.md) Grandfather's elder brother's father
+- 伯公 兮 [爸 → 阿祖](member29.md) Grandfather's elder brother's father
 
-- 伯公兮[媽 → 祖嫲](member30.md) Grandfather's elder brother's mother
+- 伯公 兮 [媽 → 祖嫲](member30.md) Grandfather's elder brother's mother
 
 
 

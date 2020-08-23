@@ -1,11 +1,16 @@
 # 姑婆
-## [我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 姊妹 Grandfather's sister
+## 定義 딍-끼- _Definition_
+詳：[公](member8.md) 兮 姊妹
+
+簡：[我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 姊妹
+
+英：Grandfather's sister
 
 ## 關係 관·희- _Relationships_
 
-- 姑婆兮[爸 → 阿祖](member29.md) Grandfather's sister's father
+- 姑婆 兮 [爸 → 阿祖](member29.md) Grandfather's sister's father
 
-- 姑婆兮[媽 → 祖嫲](member30.md) Grandfather's sister's mother
+- 姑婆 兮 [媽 → 祖嫲](member30.md) Grandfather's sister's mother
 
 
 

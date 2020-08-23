@@ -1,5 +1,10 @@
 # 娘
-##  Husband's mother
+## 定義 딍-끼- _Definition_
+
+
+
+
+英：Husband's mother
 
 ## 稱呼 칑·허· _Address_
 

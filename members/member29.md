@@ -1,5 +1,10 @@
 # 阿祖
-## [我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 爸 Great grandfather
+## 定義 딍-끼- _Definition_
+詳：[公](member8.md) 兮 爸
+
+簡：[我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 爸
+
+英：Great grandfather
 
 ## 關係 관·희- _Relationships_
 

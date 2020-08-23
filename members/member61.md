@@ -1,5 +1,10 @@
 # 姑
-##  Husband's sister
+## 定義 딍-끼- _Definition_
+
+
+
+
+英：Husband's sister
 
 ## 稱呼 칑·허· _Address_
 

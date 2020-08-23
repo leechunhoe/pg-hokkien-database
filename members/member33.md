@@ -1,17 +1,22 @@
 # 姆
-## [我](member1.md) 兮 [爸](member2.md) 兮 [哥](member10.md) 兮 某 Father's elder brother's wife
+## 定義 딍-끼- _Definition_
+詳：[伯](member10.md) 兮 某
+
+簡：[我](member1.md) 兮 [爸](member2.md) 兮 [哥](member10.md) 兮 某
+
+英：Father's elder brother's wife
 
 ## 關係 관·희- _Relationships_
 
-- 姆兮[尪 → 伯](member10.md) Father's elder brother's wife's husband
+- 姆 兮 [尪 → 伯](member10.md) Father's elder brother's wife's husband
 
-- 姆兮[大漢後生 → 堂哥](member35.md) Father's elder brother's wife's elder son
+- 姆 兮 [大漢後生 → 堂哥](member35.md) Father's elder brother's wife's elder son
 
-- 姆兮[大漢자와 → 堂姊](member36.md) Father's elder brother's wife's elder daughter
+- 姆 兮 [大漢자와 → 堂姊](member36.md) Father's elder brother's wife's elder daughter
 
-- 姆兮[細漢後生 → 堂小弟](member37.md) Father's elder brother's wife's younger son
+- 姆 兮 [細漢後生 → 堂小弟](member37.md) Father's elder brother's wife's younger son
 
-- 姆兮[細漢자와 → 堂小妹](member38.md) Father's elder brother's wife's younger daughter
+- 姆 兮 [細漢자와 → 堂小妹](member38.md) Father's elder brother's wife's younger daughter
 
 
 

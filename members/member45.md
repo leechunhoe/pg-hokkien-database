@@ -1,9 +1,14 @@
 # 外祖嫲
-## [我](member1.md) 兮 [媽](member3.md) 兮 媽 Maternal great grandmother
+## 定義 딍-끼- _Definition_
+詳：[媽](member3.md) 兮 媽
+
+簡：[我](member1.md) 兮 [媽](member3.md) 兮 媽
+
+英：Maternal great grandmother
 
 ## 關係 관·희- _Relationships_
 
-- 外祖嫲兮[尪 → 外祖](member44.md) Maternal great grandmother's husband
+- 外祖嫲 兮 [尪 → 外祖](member44.md) Maternal great grandmother's husband
 
 
 
