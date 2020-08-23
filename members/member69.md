@@ -3,7 +3,7 @@
 
 ## 關係 관·희- _Relationships_
 
-- [嫂兮囝 (孫仔) Younger brother's wife's children](member22.md)
+- [嫂兮囝 → 孫仔](member22.md) Younger brother's wife's children
 
 
 

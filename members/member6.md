@@ -3,13 +3,13 @@
 
 ## 關係 관·희- _Relationships_
 
-- [小弟兮爸 (爸) Younger brother's father](member2.md)
+- [小弟兮爸 → 爸](member2.md) Younger brother's father
 
-- [小弟兮媽 (媽) Younger brother's mother](member3.md)
+- [小弟兮媽 → 媽](member3.md) Younger brother's mother
 
-- [小弟兮某 (嫂) Younger brother's wife](member21.md)
+- [小弟兮某 → 嫂](member21.md) Younger brother's wife
 
-- [小弟兮囝 (孫仔) Younger brother's children](member22.md)
+- [小弟兮囝 → 孫仔](member22.md) Younger brother's children
 
 
 

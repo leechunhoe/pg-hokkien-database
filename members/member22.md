@@ -3,9 +3,9 @@
 
 ## 關係 관·희- _Relationships_
 
-- [孫仔兮爸 (哥) Elder brother's children's father](member4.md)
+- [孫仔兮爸 → 哥](member4.md) Elder brother's children's father
 
-- [孫仔兮媽 (嫂) Elder brother's children's mother](member21.md)
+- [孫仔兮媽 → 嫂](member21.md) Elder brother's children's mother
 
 
 

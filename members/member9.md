@@ -3,11 +3,11 @@
 
 ## 關係 관·희- _Relationships_
 
-- [嫲兮尪 (公) Grandmother's husband](member8.md)
+- [嫲兮尪 → 公](member8.md) Grandmother's husband
 
-- [嫲兮兄弟 (舅公) Grandmother's brother](member31.md)
+- [嫲兮兄弟 → 舅公](member31.md) Grandmother's brother
 
-- [嫲兮姊妹 (姨婆) Grandmother's sister](member32.md)
+- [嫲兮姊妹 → 姨婆](member32.md) Grandmother's sister
 
 
 

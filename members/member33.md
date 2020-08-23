@@ -3,15 +3,15 @@
 
 ## 關係 관·희- _Relationships_
 
-- [姆兮尪 (伯) Father's elder brother's wife's husband](member10.md)
+- [姆兮尪 → 伯](member10.md) Father's elder brother's wife's husband
 
-- [姆兮大漢後生 (堂哥) Father's elder brother's wife's elder son](member35.md)
+- [姆兮大漢後生 → 堂哥](member35.md) Father's elder brother's wife's elder son
 
-- [姆兮大漢자와 (堂姊) Father's elder brother's wife's elder daughter](member36.md)
+- [姆兮大漢자와 → 堂姊](member36.md) Father's elder brother's wife's elder daughter
 
-- [姆兮細漢後生 (堂小弟) Father's elder brother's wife's younger son](member37.md)
+- [姆兮細漢後生 → 堂小弟](member37.md) Father's elder brother's wife's younger son
 
-- [姆兮細漢자와 (堂小妹) Father's elder brother's wife's younger daughter](member38.md)
+- [姆兮細漢자와 → 堂小妹](member38.md) Father's elder brother's wife's younger daughter
 
 
 

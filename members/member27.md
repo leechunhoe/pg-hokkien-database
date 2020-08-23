@@ -3,9 +3,9 @@
 
 ## 關係 관·희- _Relationships_
 
-- [叔公兮爸 (阿祖) Grandfather's younger brother's father](member29.md)
+- [叔公兮爸 → 阿祖](member29.md) Grandfather's younger brother's father
 
-- [叔公兮媽 (祖嫲) Grandfather's younger brother's mother](member30.md)
+- [叔公兮媽 → 祖嫲](member30.md) Grandfather's younger brother's mother
 
 
 

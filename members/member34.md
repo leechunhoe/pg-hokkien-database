@@ -3,13 +3,13 @@
 
 ## 關係 관·희- _Relationships_
 
-- [嬸兮尪 (叔) Father's younger brother's wife's husband](member11.md)
+- [嬸兮尪 → 叔](member11.md) Father's younger brother's wife's husband
 
-- [嬸兮大漢後生 (堂哥) Father's younger brother's wife's elder son](member73.md)
+- [嬸兮大漢後生 → 堂哥](member73.md) Father's younger brother's wife's elder son
 
-- [嬸兮大漢자와 (堂姊) Father's younger brother's wife's elder daughter](member74.md)
+- [嬸兮大漢자와 → 堂姊](member74.md) Father's younger brother's wife's elder daughter
 
-- [嬸兮細漢後生 (堂小弟) Father's younger brother's wife's younger son](member75.md)
+- [嬸兮細漢後生 → 堂小弟](member75.md) Father's younger brother's wife's younger son
 
 
 

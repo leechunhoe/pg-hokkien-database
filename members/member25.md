@@ -3,9 +3,9 @@
 
 ## 關係 관·희- _Relationships_
 
-- [外甥兮爸 (姊夫) Elder sister's children's father](member23.md)
+- [外甥兮爸 → 姊夫](member23.md) Elder sister's children's father
 
-- [外甥兮媽 (姊) Elder sister's children's mother](member5.md)
+- [外甥兮媽 → 姊](member5.md) Elder sister's children's mother
 
 
 
