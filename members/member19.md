@@ -20,24 +20,8 @@
 
 ## 稱呼 칑·허· _Address_
 
-漢字/諺文 | 後生
---- | ---
-諺文 깐-뿐ˆ | ᄒᅷ-세ᇫ·
-台羅 Tâi-lô | hāu-senn
-戴字 Taiji | hau33snae1
-
-
-漢字/諺文 | 囝
---- | ---
-諺文 깐-뿐ˆ | 갸ᇫˊ
-台羅 Tâi-lô | kiánn
-戴字 Taiji | knia4
-
-
-漢字/諺文 | 다버囝
---- | ---
-諺文 깐-뿐ˆ | 다·버·갸ᇫˊ
-台羅 Tâi-lô | ta-poo-kiánn
-戴字 Taiji | ta3por3knia4
-
-
+漢字/諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji
+--- | --- | --- | --- 
+後生 | ᄒᅷ-세ᇫ· | hāu-senn | hau33snae1 
+囝 | 갸ᇫˊ | kiánn | knia4 
+다버囝 | 다·버·갸ᇫˊ | ta-poo-kiánn | ta3por3knia4 
