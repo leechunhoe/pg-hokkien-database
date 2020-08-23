@@ -1,5 +1,13 @@
 # 堂姊
-##  Father's younger brother's elder daughter
+## [我](member1.md) 兮 [爸](member2.md) 兮 [哥](member11.md) 兮 大漢자와 Father's younger brother's elder daughter
+
+## 關係 관·희- _Relationships_
+
+- [堂姊兮爸 (叔) Father's younger brother's elder daughter's father](member11.md)
+
+- [堂姊兮媽 (嬸) Father's younger brother's elder daughter's mother](member34.md)
+
+
 
 ## 稱呼 칑·허· _Address_
 

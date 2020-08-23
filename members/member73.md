@@ -1,5 +1,13 @@
 # 堂哥
-##  Father's younger brother's elder son
+## [我](member1.md) 兮 [爸](member2.md) 兮 [哥](member11.md) 兮 大漢後生 Father's younger brother's elder son
+
+## 關係 관·희- _Relationships_
+
+- [堂哥兮爸 (叔) Father's younger brother's elder son's father](member11.md)
+
+- [堂哥兮媽 (嬸) Father's younger brother's elder son's mother](member34.md)
+
+
 
 ## 稱呼 칑·허· _Address_
 

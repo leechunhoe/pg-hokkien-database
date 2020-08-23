@@ -1,5 +1,13 @@
 # 堂小妹
-##  Father's younger brother's younger daughter
+## [我](member1.md) 兮 [爸](member2.md) 兮 [哥](member11.md) 兮 細漢자와 Father's younger brother's younger daughter
+
+## 關係 관·희- _Relationships_
+
+- [堂小妹兮爸 (叔) Father's younger brother's younger daughter's father](member11.md)
+
+- [堂小妹兮媽 (嬸) Father's younger brother's younger daughter's mother](member34.md)
+
+
 
 ## 稱呼 칑·허· _Address_
 
