@@ -42,8 +42,8 @@ def generate_linked_member_files(members, relationships):
 		if len(member[0]) > 7:
 			relations_text = member[0][7]
 			relations = relations_text.split(".")
-			my_full_relation = "詳：%s"%get_full_relation(members, relationships, relations)
-			my_quick_relation = "簡：%s"%get_quick_relation(members, relationships, relations)
+			my_full_relation = "詳：%s"%get_my_full_relation(members, relationships, relations)
+			my_quick_relation = "簡：%s"%get_my_quick_relation(members, relationships, relations)
 
 		title = "# %s\n## 定義 딍-끼- _Definition_\n%s\n\n%s\n\n英：%s" %(hanji, my_quick_relation, my_full_relation, english)
 		content += title
@@ -89,7 +89,7 @@ def get_name_tables(member):
 # members: from data.csv
 # relationships: from relation.csv
 # relations: relation chain from me e.g. pa:1.ma:2
-def get_full_relation(members, relationships, relations):
+def get_my_full_relation(members, relationships, relations):
 	my_relation_list = []
 
 	me_link = "[%s](%s)"%("我", "member1.md")
@@ -116,7 +116,7 @@ def get_full_relation(members, relationships, relations):
 # members: from data.csv
 # relationships: from relation.csv
 # relations: relation chain from me e.g. 1:pa.2:ma
-def get_quick_relation(members, relationships, relations):
+def get_my_quick_relation(members, relationships, relations):
 	# Part 2: Get quick relation
 	relation = relations[-1]
 	last_member_id = relation.split(":")[0] # the member instance (integer)
