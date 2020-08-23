@@ -1,10 +1,10 @@
 # 阿妗
 ## 定義 딍-끼- _Definition_
+簡：
 
+詳：
 
-
-
-Mother's brother's wife
+英：Mother's brother's wife
 
 ## 稱呼 칑·허· _Address_
 

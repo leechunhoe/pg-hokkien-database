@@ -1,10 +1,10 @@
 # 丈公
 ## 定義 딍-끼- _Definition_
+簡：
 
+詳：
 
-
-
-Grandmother's sister's husband
+英：Grandmother's sister's husband
 
 ## 稱呼 칑·허· _Address_
 

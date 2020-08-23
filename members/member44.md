@@ -1,10 +1,10 @@
 # 外祖
 ## 定義 딍-끼- _Definition_
-[媽](member3.md) 兮 爸
+簡：[媽](member3.md) 兮 爸
 
-[我](member1.md) 兮 [媽](member3.md) 兮 爸
+詳：[我](member1.md) 兮 [媽](member3.md) 兮 爸
 
-Maternal great grandfather
+英：Maternal great grandfather
 
 ## 關係 관·희- _Relationships_
 

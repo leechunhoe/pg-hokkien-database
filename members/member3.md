@@ -1,10 +1,10 @@
 # 媽
 ## 定義 딍-끼- _Definition_
-[我](member1.md) 兮 媽
+簡：[我](member1.md) 兮 媽
 
-[我](member1.md) 兮 媽
+詳：[我](member1.md) 兮 媽
 
-Mother
+英：Mother
 
 ## 關係 관·희- _Relationships_
 

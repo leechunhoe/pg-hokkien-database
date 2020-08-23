@@ -1,10 +1,10 @@
 # 哥
 ## 定義 딍-끼- _Definition_
-[我](member1.md) 兮 哥
+簡：[我](member1.md) 兮 哥
 
-[我](member1.md) 兮 哥
+詳：[我](member1.md) 兮 哥
 
-Elder brother
+英：Elder brother
 
 ## 關係 관·희- _Relationships_
 

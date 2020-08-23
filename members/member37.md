@@ -1,10 +1,10 @@
 # 堂小弟
 ## 定義 딍-끼- _Definition_
-[伯](member10.md) 兮 細漢後生
+簡：[伯](member10.md) 兮 細漢後生
 
-[我](member1.md) 兮 [爸](member2.md) 兮 [哥](member10.md) 兮 細漢後生
+詳：[我](member1.md) 兮 [爸](member2.md) 兮 [哥](member10.md) 兮 細漢後生
 
-Father's elder brother's younger son
+英：Father's elder brother's younger son
 
 ## 關係 관·희- _Relationships_
 

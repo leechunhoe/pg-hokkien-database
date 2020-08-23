@@ -1,10 +1,10 @@
 # 叔
 ## 定義 딍-끼- _Definition_
-[爸](member2.md) 兮 小弟
+簡：[爸](member2.md) 兮 小弟
 
-[我](member1.md) 兮 [爸](member2.md) 兮 小弟
+詳：[我](member1.md) 兮 [爸](member2.md) 兮 小弟
 
-Father's younger brother
+英：Father's younger brother
 
 ## 關係 관·희- _Relationships_
 

@@ -1,10 +1,10 @@
 # 阮官
 ## 定義 딍-끼- _Definition_
+簡：
 
+詳：
 
-
-
-Husband's father
+英：Husband's father
 
 ## 稱呼 칑·허· _Address_
 

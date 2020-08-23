@@ -1,10 +1,10 @@
 # 囝婿
 ## 定義 딍-끼- _Definition_
+簡：
 
+詳：
 
-
-
-Daughter's husband
+英：Daughter's husband
 
 ## 稱呼 칑·허· _Address_
 

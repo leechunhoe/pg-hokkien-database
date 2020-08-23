@@ -1,10 +1,10 @@
 # 자뻐孫
 ## 定義 딍-끼- _Definition_
+簡：
 
+詳：
 
-
-
-Grand daughter
+英：Grand daughter
 
 ## 稱呼 칑·허· _Address_
 

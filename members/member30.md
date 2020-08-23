@@ -1,10 +1,10 @@
 # 祖嫲
 ## 定義 딍-끼- _Definition_
-[公](member8.md) 兮 媽
+簡：[公](member8.md) 兮 媽
 
-[我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 媽
+詳：[我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 媽
 
-Great grandmother
+英：Great grandmother
 
 ## 關係 관·희- _Relationships_
 

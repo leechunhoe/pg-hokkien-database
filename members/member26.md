@@ -1,10 +1,10 @@
 # 伯公
 ## 定義 딍-끼- _Definition_
-[公](member8.md) 兮 哥
+簡：[公](member8.md) 兮 哥
 
-[我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 哥
+詳：[我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 哥
 
-Grandfather's elder brother
+英：Grandfather's elder brother
 
 ## 關係 관·희- _Relationships_
 

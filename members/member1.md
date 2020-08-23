@@ -1,10 +1,10 @@
 # 我
 ## 定義 딍-끼- _Definition_
+簡：
 
+詳：
 
-
-
-Me
+英：Me
 
 ## 關係 관·희- _Relationships_
 

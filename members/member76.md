@@ -1,10 +1,10 @@
 # 堂小妹
 ## 定義 딍-끼- _Definition_
-[叔](member11.md) 兮 細漢자와
+簡：[叔](member11.md) 兮 細漢자와
 
-[我](member1.md) 兮 [爸](member2.md) 兮 [哥](member11.md) 兮 細漢자와
+詳：[我](member1.md) 兮 [爸](member2.md) 兮 [哥](member11.md) 兮 細漢자와
 
-Father's younger brother's younger daughter
+英：Father's younger brother's younger daughter
 
 ## 關係 관·희- _Relationships_
 

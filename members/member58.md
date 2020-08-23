@@ -1,10 +1,10 @@
 # 娘
 ## 定義 딍-끼- _Definition_
+簡：
 
+詳：
 
-
-
-Husband's mother
+英：Husband's mother
 
 ## 稱呼 칑·허· _Address_
 

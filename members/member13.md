@@ -1,10 +1,10 @@
 # 外公
 ## 定義 딍-끼- _Definition_
-[爸](member2.md) 兮 爸
+簡：[爸](member2.md) 兮 爸
 
-[我](member1.md) 兮 [媽](member2.md) 兮 爸
+詳：[我](member1.md) 兮 [媽](member2.md) 兮 爸
 
-Maternal grandfather
+英：Maternal grandfather
 
 ## 關係 관·희- _Relationships_
 

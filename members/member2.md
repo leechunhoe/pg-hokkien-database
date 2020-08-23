@@ -1,10 +1,10 @@
 # 爸
 ## 定義 딍-끼- _Definition_
-[我](member1.md) 兮 爸
+簡：[我](member1.md) 兮 爸
 
-[我](member1.md) 兮 爸
+詳：[我](member1.md) 兮 爸
 
-Father
+英：Father
 
 ## 關係 관·희- _Relationships_
 

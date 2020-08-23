@@ -1,10 +1,10 @@
 # 外孫
 ## 定義 딍-끼- _Definition_
+簡：
 
+詳：
 
-
-
-Daughter's son
+英：Daughter's son
 
 ## 稱呼 칑·허· _Address_
 

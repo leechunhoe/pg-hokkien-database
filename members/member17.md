@@ -1,10 +1,10 @@
 # 尪
 ## 定義 딍-끼- _Definition_
+簡：
 
+詳：
 
-
-
-Husband
+英：Husband
 
 ## 關係 관·희- _Relationships_
 

@@ -1,10 +1,10 @@
 # 表小弟
 ## 定義 딍-끼- _Definition_
-[姑](member12.md) 兮 細漢後生
+簡：[姑](member12.md) 兮 細漢後生
 
-[我](member1.md) 兮 [爸](member2.md) 兮 [姊妹](member12.md) 兮 細漢後生
+詳：[我](member1.md) 兮 [爸](member2.md) 兮 [姊妹](member12.md) 兮 細漢後生
 
-Father's sister's younger son
+英：Father's sister's younger son
 
 ## 關係 관·희- _Relationships_
 

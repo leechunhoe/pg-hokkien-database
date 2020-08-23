@@ -1,10 +1,10 @@
 # 後生
 ## 定義 딍-끼- _Definition_
-[我](member1.md) 兮 後生
+簡：[我](member1.md) 兮 後生
 
-[我](member1.md) 兮 後生
+詳：[我](member1.md) 兮 後生
 
-Son
+英：Son
 
 ## 關係 관·희- _Relationships_
 

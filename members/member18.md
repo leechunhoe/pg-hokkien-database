@@ -1,10 +1,10 @@
 # 某
 ## 定義 딍-끼- _Definition_
+簡：
 
+詳：
 
-
-
-Wife
+英：Wife
 
 ## 關係 관·희- _Relationships_
 

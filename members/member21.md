@@ -1,10 +1,10 @@
 # 嫂
 ## 定義 딍-끼- _Definition_
-[爸](member2.md) 兮 某
+簡：[爸](member2.md) 兮 某
 
-[我](member1.md) 兮 [哥](member2.md) 兮 某
+詳：[我](member1.md) 兮 [哥](member2.md) 兮 某
 
-Elder brother's wife
+英：Elder brother's wife
 
 ## 關係 관·희- _Relationships_
 

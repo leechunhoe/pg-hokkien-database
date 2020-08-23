@@ -1,10 +1,10 @@
 # 孫仔
 ## 定義 딍-끼- _Definition_
+簡：
 
+詳：
 
-
-
-Younger brother's children
+英：Younger brother's children
 
 ## 稱呼 칑·허· _Address_
 

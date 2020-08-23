@@ -1,10 +1,10 @@
 # 嬸
 ## 定義 딍-끼- _Definition_
-[叔](member11.md) 兮 某
+簡：[叔](member11.md) 兮 某
 
-[我](member1.md) 兮 [爸](member2.md) 兮 [小弟](member11.md) 兮 某
+詳：[我](member1.md) 兮 [爸](member2.md) 兮 [小弟](member11.md) 兮 某
 
-Father's younger brother's wife
+英：Father's younger brother's wife
 
 ## 關係 관·희- _Relationships_
 
