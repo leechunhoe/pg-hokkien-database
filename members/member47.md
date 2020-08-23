@@ -1,5 +1,6 @@
-# 表哥
-	 Mother's sibling's elder son
+#表哥
+## 定義 Definition
+ Mother's sibling's elder son
 
 ## 稱呼 칑·허· _Address_
 

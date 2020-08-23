@@ -1,5 +1,6 @@
-# 外祖
-	[我](member1.md) 兮 [媽](member3.md) 兮 爸 Maternal great grandfather
+#外祖
+## 定義 Definition
+[我](member1.md) 兮 [媽](member3.md) 兮 爸 Maternal great grandfather
 
 ## 關係 관·희- _Relationships_
 

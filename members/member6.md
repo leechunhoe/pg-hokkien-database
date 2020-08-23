@@ -1,5 +1,6 @@
-# 小弟
-	[我](member1.md) 兮 小弟 Younger brother
+#小弟
+## 定義 Definition
+[我](member1.md) 兮 小弟 Younger brother
 
 ## 關係 관·희- _Relationships_
 
