@@ -34,7 +34,7 @@
 10,伯,벻·,peh,paek3,father's elder brother,pa:8.ma:9.bo:33.hs1:35.cw1:36.hs2:37.cw2:38,1:pa.2:ko
 10,阿伯,아·벻·,a-peh,ah3paek3
 
-11,叔,즥·,tsek,ceik3,father's younger brother,pa:8.ma:9.bo:34.hs1:73.cw1:74.hs2:75:cw2:76,1:pa.2:ti
+11,叔,즥·,tsek,ceik3,father's younger brother,pa:8.ma:9.bo:34.hs1:73.cw1:74.hs2:75.cw2:76,1:pa.2:ti
 11,阿叔,아·즥·,a-tsek,ah3ceik3
 
 12,姑,거·,koo,kor1,father's sister,pa:8.ma:9.ang:43.hs1:39.cw1:40.hs2:41.cw2:42,1:pa.2:cm
@@ -110,10 +110,10 @@
 46,姨丈,이ˆ뎌ᇫ-,î-tiōnn,ee3tnio33,mother's sister's husband,bo:15.hs1:47.cw1:48.hs2:49.cw2:50,1:ma.3:cm.15:ang
 46,姨丈,이ˆᄃᆤᇫ-,î-tiāunn,ee3tniau33
 
-47,表哥,ᄇᆤˊ고·,piáu-ko,piau1koh1,mother's sibling's elder son
-48,表姊,ᄇᆤˊ지ˊ,piáu-tsí,piau1cee4,mother's sibling's elder daughter
-49,表小弟,ᄇᆤˊ쇼ˊ디-,piáu-sió-tī,piau1sio1tee33,mother's sibling's younger son
-50,表小妹,ᄇᆤˊ쇼ˊᄆᆀ-,piáu-sió-mōi,piau1sio1moy33,mother's sibling's younger daughter
+47,表哥,ᄇᆤˊ고·,piáu-ko,piau1koh1,mother's brother's elder son,pa:16.ma:51,1:ma.3:ht.16:hs1
+48,表姊,ᄇᆤˊ지ˊ,piáu-tsí,piau1cee4,mother's brother's elder daughter,pa:16.ma:51,1:ma.3:ht.16:cw1
+49,表小弟,ᄇᆤˊ쇼ˊ디-,piáu-sió-tī,piau1sio1tee33,mother's brother's younger son,pa:16.ma:51,1:ma.3:ht.16:hs2
+50,表小妹,ᄇᆤˊ쇼ˊᄆᆀ-,piáu-sió-mōi,piau1sio1moy33,mother's brother's younger daughter,pa:16.ma:51,1:ma.3:ht.16:cw2
 
 51,阿妗,아·김-,a-kīm,ah3kim33,mother's brother's wife
 
@@ -168,3 +168,8 @@
 74,堂姊,덩ˆ지ˊ,tông-tsí,tong3cee4,father's younger brother's elder daughter,pa:11.ma:34,1:pa.2:ko.11:cw1
 75,堂小弟,덩ˆ쇼ˊ디-,tông-sió-tī,tong3sio1tee33,father's younger brother's younger son,pa:11.ma:34,1:pa.2:ko.11:hs2
 76,堂小妹,덩ˆ쇼ˊᄆᆀ-,tông-sió-mōi,tong3sio1moy33,father's younger brother's younger daughter,pa:11.ma:34,1:pa.2:ko.11:cw2
+
+77,表哥,ᄇᆤˊ고·,piáu-ko,piau1koh1,mother's sister's elder son
+78,表姊,ᄇᆤˊ지ˊ,piáu-tsí,piau1cee4,mother's sister's elder daughter
+79,表小弟,ᄇᆤˊ쇼ˊ디-,piáu-sió-tī,piau1sio1tee33,mother's sister's younger son
+80,表小妹,ᄇᆤˊ쇼ˊᄆᆀ-,piáu-sió-mōi,piau1sio1moy33,mother's sister's younger daughter
