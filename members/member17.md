@@ -1,14 +1,14 @@
 # 尪
-## 定義 딍-끼- _Definition_
+## 定義 딍-끼- Definition
 
 
 
 
 英：Husband
 
-## 關係 관·희- _Relationships_
+## 關係 관·희- Relationships
 
-關係 | 親情 | 英語
+關係 | 親情 | English
 --- | --- | --- 
 尪 兮 爸 | [阮官](member57.md) | Husband's father
 尪 兮 媽 | [娘](member58.md) | Husband's mother
@@ -20,7 +20,7 @@
 尪 兮 자와 | [자와](member20.md) | Husband's daughter
 
 
-## 稱呼 칑·허· _Address_
+## 稱呼 칑·허· Address
 
 漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 

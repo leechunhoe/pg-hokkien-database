@@ -1,14 +1,14 @@
 # 媽
-## 定義 딍-끼- _Definition_
+## 定義 딍-끼- Definition
 簡：[我](member1.md) 兮 媽
 
 詳：[我](member1.md) 兮 媽
 
 英：Mother
 
-## 關係 관·희- _Relationships_
+## 關係 관·희- Relationships
 
-關係 | 親情 | 英語
+關係 | 親情 | English
 --- | --- | --- 
 媽 兮 爸 | [外公](member13.md) | Mother's father
 媽 兮 媽 | [外嫲](member14.md) | Mother's mother
@@ -17,7 +17,7 @@
 媽 兮 姊妹 | [姨](member15.md) | Mother's sister
 
 
-## 稱呼 칑·허· _Address_
+## 稱呼 칑·허· Address
 
 漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 

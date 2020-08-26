@@ -1,14 +1,14 @@
 # 爸
-## 定義 딍-끼- _Definition_
+## 定義 딍-끼- Definition
 簡：[我](member1.md) 兮 爸
 
 詳：[我](member1.md) 兮 爸
 
 英：Father
 
-## 關係 관·희- _Relationships_
+## 關係 관·희- Relationships
 
-關係 | 親情 | 英語
+關係 | 親情 | English
 --- | --- | --- 
 爸 兮 爸 | [公](member8.md) | Father's father
 爸 兮 媽 | [嫲](member9.md) | Father's mother
@@ -18,7 +18,7 @@
 爸 兮 姊妹 | [姑](member12.md) | Father's sister
 
 
-## 稱呼 칑·허· _Address_
+## 稱呼 칑·허· Address
 
 漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 

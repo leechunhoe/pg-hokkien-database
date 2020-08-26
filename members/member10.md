@@ -1,14 +1,14 @@
 # 伯
-## 定義 딍-끼- _Definition_
+## 定義 딍-끼- Definition
 簡：[爸](member2.md) 兮 哥
 
 詳：[我](member1.md) 兮 [爸](member2.md) 兮 哥
 
 英：Father's elder brother
 
-## 關係 관·희- _Relationships_
+## 關係 관·희- Relationships
 
-關係 | 親情 | 英語
+關係 | 親情 | English
 --- | --- | --- 
 伯 兮 爸 | [公](member8.md) | Father's elder brother's father
 伯 兮 媽 | [嫲](member9.md) | Father's elder brother's mother
@@ -19,7 +19,7 @@
 伯 兮 細漢자와 | [堂小妹](member38.md) | Father's elder brother's younger daughter
 
 
-## 稱呼 칑·허· _Address_
+## 稱呼 칑·허· Address
 
 漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
