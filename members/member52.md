@@ -6,6 +6,13 @@
 
 Eng：Son's wife
 
+## 關係 관·희- Relationships
+
+關係 | 親情 | English
+--- | --- | --- 
+新婦 兮 尪 | [後生](member19.md) | Son's wife's husband
+
+
 ## 稱呼 칑·허· Address
 
 漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
