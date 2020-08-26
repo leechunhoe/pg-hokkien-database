@@ -10,8 +10,6 @@ Eng：Son
 
 關係 | 親情 | English
 --- | --- | --- 
-後生 兮 爸 | [我](member1.md) | Son's father
-後生 兮 媽 | [我](member1.md) | Son's mother
 後生 兮 某 | [新婦](member52.md) | Son's wife
 後生 兮 姊妹 | [자와](member20.md) | Son's sister
 後生 兮 後生 | [孫](member53.md) | Son's son
