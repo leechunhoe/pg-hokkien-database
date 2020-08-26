@@ -1,13 +1,13 @@
 # 表姊
-## 定義 딍-끼- _Definition_
+## 定義 딍-끼- Definition
 
 
 
 
-英：Mother's sister's elder daughter
+Eng：Mother's sister's elder daughter
 
-## 稱呼 칑·허· _Address_
+## 稱呼 칑·허· Address
 
-漢字或諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji
+漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 表姊 | ᄇᆤˊ지ˊ | piáu-tsí | piau1cee4 

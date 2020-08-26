@@ -1,14 +1,14 @@
 # 某
-## 定義 딍-끼- _Definition_
+## 定義 딍-끼- Definition
 
 
 
 
-英：Wife
+Eng：Wife
 
-## 關係 관·희- _Relationships_
+## 關係 관·희- Relationships
 
-關係 | 親情 | 英語
+關係 | 親情 | English
 --- | --- | --- 
 某 兮 爸 | [丈人](member62.md) | Wife's father
 某 兮 媽 | [丈姆](member63.md) | Wife's mother
@@ -21,8 +21,8 @@
 某 兮 자와 | [자와](member20.md) | Wife's daughter
 
 
-## 稱呼 칑·허· _Address_
+## 稱呼 칑·허· Address
 
-漢字或諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji
+漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 某 | 뻐ˊ | bóo | bor4 

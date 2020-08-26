@@ -1,14 +1,14 @@
 # 舅
-## 定義 딍-끼- _Definition_
+## 定義 딍-끼- Definition
 
 
 
 
-英：Wife's elder brother
+Eng：Wife's elder brother
 
-## 稱呼 칑·허· _Address_
+## 稱呼 칑·허· Address
 
-漢字或諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji
+漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 舅 | 구- | kū | koo33 
 阿舅 | 아·구- | a-kū | a3koo33 

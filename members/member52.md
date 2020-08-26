@@ -1,13 +1,20 @@
 # 新婦
-## 定義 딍-끼- _Definition_
+## 定義 딍-끼- Definition
 
 
 
 
-英：Son's wife
+Eng：Son's wife
 
-## 稱呼 칑·허· _Address_
+## 關係 관·희- Relationships
 
-漢字或諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji
+關係 | 親情 | English
+--- | --- | --- 
+新婦 兮 尪 | [後生](member19.md) | Son's wife's husband
+
+
+## 稱呼 칑·허· Address
+
+漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 新婦 | 신·부- | sin-pū | sin3poo33 

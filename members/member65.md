@@ -1,14 +1,14 @@
 # 姨
-## 定義 딍-끼- _Definition_
+## 定義 딍-끼- Definition
 
 
 
 
-英：Wife's elder sister
+Eng：Wife's elder sister
 
-## 稱呼 칑·허· _Address_
+## 稱呼 칑·허· Address
 
-漢字或諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji
+漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 姨 | 이ˆ | î | ee2 
 阿姨 | 아·이ˆ | a-î | a3ee2 

@@ -56,13 +56,13 @@ def get_his_relations_content(relationships, members, member):
 
 	# Populate his/her direct relationships
 	if len(primary_entry) > 6 and len(primary_entry[6]) > 0:
-		content += "\n\n## 關係 관·희- _Relationships_"
+		content += "\n\n## 關係 관·희- Relationships"
 
 		relations_text = primary_entry[6]
 		# TODO Refactor
 		relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in relations_text.split(".")}
 
-		content += "\n\n關係 | 親情 | 英語\n"
+		content += "\n\n關係 | 親情 | English\n"
 		content += "--- | --- | --- \n"
 		for relationship in relationships:
 			if relationship[0] in relations:
@@ -83,16 +83,16 @@ def get_my_relations_content(relationships, members, member):
 		my_full_relation = "詳：%s"%get_my_full_relation(members, relationships, relations)
 		my_quick_relation = "簡：%s"%get_my_quick_relation(members, relationships, relations)
 
-	return "# %s\n## 定義 딍-끼- _Definition_\n%s\n\n%s\n\n英：%s" %(hanji, my_quick_relation, my_full_relation, english)
+	return "# %s\n## 定義 딍-끼- Definition\n%s\n\n%s\n\nEng：%s" %(hanji, my_quick_relation, my_full_relation, english)
 
 def get_names_content(member):
-	content = "\n\n## 稱呼 칑·허· _Address_"
+	content = "\n\n## 稱呼 칑·허· Address"
 	content += "\n\n" + get_name_tables(member)
 	return content
 
 def get_name_tables(member):
 	tables = ""
-	tables += "漢字或諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji\n"
+	tables += "漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji\n"
 	tables += "--- | --- | --- | --- \n"
 	for variant in member:
 		tables += "%s | %s | %s | %s \n"%(variant[1], variant[2], variant[3], variant[4])
