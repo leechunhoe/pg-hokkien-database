@@ -20,5 +20,5 @@
 --- | --- | --- | --- 
 外甥 | 꾀-싕· | guē-seng | guay33seng1 
 外甥 | 꽈-싕· | guā-seng | gua33seng1 
-孫仔 | 순·아ˊ | sun--á | soon1ah4 
+孫仔 | 순·아ˊ | sun-á | soon3ah4 
 孫/甥/嬲 | 순· | sun | soon1 
