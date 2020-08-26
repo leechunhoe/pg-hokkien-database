@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 자와
 
-英：Daughter
+Eng：Daughter
 
 ## 關係 관·희- Relationships
 

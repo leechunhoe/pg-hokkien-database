@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 [媽](member2.md) 兮 媽
 
-英：Maternal grandmother
+Eng：Maternal grandmother
 
 ## 關係 관·희- Relationships
 

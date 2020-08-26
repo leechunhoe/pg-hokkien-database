@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 爸
 
-英：Father
+Eng：Father
 
 ## 關係 관·희- Relationships
 

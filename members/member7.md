@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 小妹
 
-英：Younger sister
+Eng：Younger sister
 
 ## 關係 관·희- Relationships
 

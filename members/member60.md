@@ -4,7 +4,7 @@
 
 
 
-英：Husband's younger brother
+Eng：Husband's younger brother
 
 ## 稱呼 칑·허· Address
 

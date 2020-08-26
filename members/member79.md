@@ -4,7 +4,7 @@
 
 
 
-英：Mother's sister's younger son
+Eng：Mother's sister's younger son
 
 ## 稱呼 칑·허· Address
 

@@ -83,7 +83,7 @@ def get_my_relations_content(relationships, members, member):
 		my_full_relation = "詳：%s"%get_my_full_relation(members, relationships, relations)
 		my_quick_relation = "簡：%s"%get_my_quick_relation(members, relationships, relations)
 
-	return "# %s\n## 定義 딍-끼- Definition\n%s\n\n%s\n\n英：%s" %(hanji, my_quick_relation, my_full_relation, english)
+	return "# %s\n## 定義 딍-끼- Definition\n%s\n\n%s\n\nEng：%s" %(hanji, my_quick_relation, my_full_relation, english)
 
 def get_names_content(member):
 	content = "\n\n## 稱呼 칑·허· Address"

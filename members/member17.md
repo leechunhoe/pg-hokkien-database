@@ -4,7 +4,7 @@
 
 
 
-英：Husband
+Eng：Husband
 
 ## 關係 관·희- Relationships
 

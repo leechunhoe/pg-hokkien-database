@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 後生
 
-英：Son
+Eng：Son
 
 ## 關係 관·희- Relationships
 

@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 哥
 
-英：Elder brother
+Eng：Elder brother
 
 ## 關係 관·희- Relationships
 

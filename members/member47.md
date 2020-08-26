@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 [媽](member3.md) 兮 [兄弟](member16.md) 兮 大漢後生
 
-英：Mother's brother's elder son
+Eng：Mother's brother's elder son
 
 ## 關係 관·희- Relationships
 

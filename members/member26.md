@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 哥
 
-英：Grandfather's elder brother
+Eng：Grandfather's elder brother
 
 ## 關係 관·희- Relationships
 

@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 [姊](member5.md) 兮 尪
 
-英：Elder sister's husband
+Eng：Elder sister's husband
 
 ## 關係 관·희- Relationships
 

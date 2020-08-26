@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 [媽](member3.md) 兮 [姊妹](member15.md) 兮 尪
 
-英：Mother's sister's husband
+Eng：Mother's sister's husband
 
 ## 關係 관·희- Relationships
 

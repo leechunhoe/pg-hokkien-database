@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 [小妹](member7.md) 兮 尪
 
-英：Younger sister's husband
+Eng：Younger sister's husband
 
 ## 關係 관·희- Relationships
 

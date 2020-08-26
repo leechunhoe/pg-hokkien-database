@@ -4,7 +4,7 @@
 
 
 
-英：Grandmother's sister's husband
+Eng：Grandmother's sister's husband
 
 ## 稱呼 칑·허· Address
 

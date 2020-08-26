@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 姊
 
-英：Elder sister
+Eng：Elder sister
 
 ## 關係 관·희- Relationships
 

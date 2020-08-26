@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 媽
 
-英：Mother
+Eng：Mother
 
 ## 關係 관·희- Relationships
 

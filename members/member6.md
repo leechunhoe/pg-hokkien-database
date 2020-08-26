@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 小弟
 
-英：Younger brother
+Eng：Younger brother
 
 ## 關係 관·희- Relationships
 

@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 姊妹
 
-英：Grandfather's sister
+Eng：Grandfather's sister
 
 ## 關係 관·희- Relationships
 

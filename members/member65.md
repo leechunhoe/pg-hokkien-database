@@ -4,7 +4,7 @@
 
 
 
-英：Wife's elder sister
+Eng：Wife's elder sister
 
 ## 稱呼 칑·허· Address
 

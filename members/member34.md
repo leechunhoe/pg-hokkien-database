@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 [爸](member2.md) 兮 [小弟](member11.md) 兮 某
 
-英：Father's younger brother's wife
+Eng：Father's younger brother's wife
 
 ## 關係 관·희- Relationships
 

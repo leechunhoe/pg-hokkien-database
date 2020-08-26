@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 [哥](member4.md) 兮 囝
 
-英：Elder brother's children
+Eng：Elder brother's children
 
 ## 關係 관·희- Relationships
 

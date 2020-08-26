@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 [爸](member2.md) 兮 [爸](member8.md) 兮 爸
 
-英：Great grandfather
+Eng：Great grandfather
 
 ## 稱呼 칑·허· Address
 

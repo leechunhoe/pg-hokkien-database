@@ -4,7 +4,7 @@
 
 
 
-英：Wife's father
+Eng：Wife's father
 
 ## 稱呼 칑·허· Address
 

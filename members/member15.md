@@ -4,7 +4,7 @@
 
 詳：[我](member1.md) 兮 [媽](member3.md) 兮 姊妹
 
-英：Mother's sister
+Eng：Mother's sister
 
 ## 關係 관·희- Relationships
 
