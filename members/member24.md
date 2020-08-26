@@ -16,7 +16,7 @@
 
 ## 稱呼 칑·허· _Address_
 
-漢字或諺文 | 諺文 깐-뿐ˆ | 台羅 Tâi-lô | 戴字 Taiji
+漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 妹夫 | ᄆᆀ-후· | mōi-hu | moy33hoo1 
 妹夫 | 뫠-후· | muāi-hu | muai33hoo1 
