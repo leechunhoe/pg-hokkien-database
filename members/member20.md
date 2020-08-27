@@ -12,7 +12,7 @@ Eng：Daughter
 --- | --- | --- 
 자와 兮 尪 | [囝婿](member68.md) | Daughter's husband
 자와 兮 兄弟 | [後生](member19.md) | Daughter's brother
-자와 兮 後生 | [外孫](member55.md) | Daughter's son
+자와 兮 後生 | [다버外孫](member55.md) | Daughter's son
 자와 兮 자와 | [자뻐外孫](member56.md) | Daughter's daughter
 
 

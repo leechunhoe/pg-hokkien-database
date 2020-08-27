@@ -122,46 +122,52 @@
 53,孫,순·,sun,soon1,grand son,pa:19.ma:52,1:hs.19:hs
 54,자뻐孫,자·뻐ˊ순·,tsa-bóo-sun,ca3bor1soon1,grand daughter,pa:19.ma:52,1:hs.19:cw
 
+55,다버外孫,다·버·꽈-순·,ta-poo-guā-sun,ta3por3gua33soon1,daughter's son,pa:68.ma:20,1:cw.20:hs
 55,外孫,꽈-순·,guā-sun,gua33soon1,daughter's son
-56,자뻐外孫,자·뻐ˊ꽈-순·,tsa-bóo-guā-sun,ca3bor1gua33soon1,daughter's daughter
+56,자뻐外孫,자·뻐ˊ꽈-순·,tsa-bóo-guā-sun,ca3bor1gua33soon1,daughter's daughter,pa:68.ma:20,1:cw.20:cw
 56,자뻐孫,자·뻐ˊ순·,tsa-bóo-sun,ca3bor1soon1
 
-57,阮官,응ˊ과ᇫ·,ńg-kuann,ng1knua1,husband's father
+57,阮官,응ˊ과ᇫ·,ńg-kuann,ng1knua1,husband's father,bo:58.hs:17,1:ang.17:pa
 57,爸,바·,pa,pa1
-58,娘,녀ˆ,niô,nio2,husband's mother
+
+58,娘,녀ˆ,niô,nio2,husband's mother,ang:57.hs:17,1:ang.17:ma
 58,娘,ᄂᆤˆ,niâu,niau2
 58,媽,맣·,mah,mak3
 
+59,伯,벻·,peh,paek3,husband's elder brother,ti:17,1:ang.17:ko
 59,阿伯,아·벻·,a-peh,ah3paek3,husband's elder brother
-60,阿叔,아·즥·,a-tsek,ah3ceik3,husband's younger brother
-61,姑,거·,koo,kor1,husband's sister
 
-62,丈人,뎌ᇫ-랑ˆ,tiōnn-lâng,tnio33lang2,wife's father
+60,叔,즥·,tsek,ceik3,husband's younger brother,ko:17,1:ang.17:ti
+60,阿叔,아·즥·,a-tsek,ah3ceik3,husband's younger brother
+
+61,姑,거·,koo,kor1,husband's sister,ht:17,1:ang.17:cm
+
+62,丈人,뎌ᇫ-랑ˆ,tiōnn-lâng,tnio33lang2,wife's father,cw:18,1:bo.18:pa
 62,丈人,ᄃᆤᇫ-랑ˆ,tiāunn-lâng,tniau33lang2
-63,丈姆,뎌ᇫ-음ˊ,tiōnn-ḿ,tnio33mm4,wife's mother
+63,丈姆,뎌ᇫ-음ˊ,tiōnn-ḿ,tnio33mm4,wife's mother,cw:18,1:bo.18:ma
 63,丈姆,ᄃᆤᇫ-음ˊ,tiāunn-ḿ,tniau33mm4
 
-64,舅,구-,kū,koo33,wife's elder brother
+64,舅,구-,kū,koo33,wife's elder brother,pa:62.ma:63,1:bo.18:ko
 64,阿舅,아·구-,a-kū,a3koo33
-65,姨,이ˆ,î,ee2,wife's elder sister
+65,姨,이ˆ,î,ee2,wife's elder sister,pa:62.ma:63,1:bo.18:ci
 65,阿姨,아·이ˆ,a-î,a3ee2
-66,舅仔,구-아ˊ,kū-á,koo33ah4,wife's younger brother
-67,姨仔,이ˆ아ˊ,î-á,ee2ah4,wife's younger sister
+66,舅仔,구-아ˊ,kū-á,koo33ah4,wife's younger brother,pa:62.ma:63,1:bo.18:ti
+67,姨仔,이ˆ아ˊ,î-á,ee2ah4,wife's younger sister,pa:62.ma:63,1:bo.18:moy
 
-68,囝婿,갸ᇫˊ새,kiánn-sài,knia1sai3,daughter's husband
+68,囝婿,갸ᇫˊ새,kiánn-sài,knia1sai3,daughter's husband,bo:20,1:cw.20:ang
 
 69,嫂,소ˊ,só,soh4,younger brother's wife,hscw:22,1:ti.6:bo
 69,阿嫂,아·소ˊ,a-só,ah3soh4
 
-70,孫仔,순·아ˊ,sun-á,soon3ah4,younger brother's children
+70,孫仔,순·아ˊ,sun-á,soon3ah4,younger brother's children,pa:6.ma:69,1:ti.6:hscw
 70,孫/甥/嬲,순·,sun,soon1
 
-71,外甥,꾀-싕·,guē-seng,guay33seng1,younger sister's children
+71,外甥,꾀-싕·,guē-seng,guay33seng1,younger sister's children,pa:23.ma:7,1:moy.7:hscw
 71,外甥,꽈-싕·,guā-seng,gua33seng1
 71,孫仔,순·아ˊ,sun-á,soon3ah4
 71,孫/甥/嬲,순·,sun,soon1
 
-72,丈公,뎌ᇫ-겅·,tiōnn-kong,tnio33kong1,grandmother's sister's husband
+72,丈公,뎌ᇫ-겅·,tiōnn-kong,tnio33kong1,grandmother's sister's husband,bo:32,1:pa.2:ma.9:cm.32:ang
 72,丈公,ᄃᆤᇫ-겅·,tiāunn-kong,tniau33kong1
 
 73,堂哥,덩ˆ고·,tông-ko,tong3koh1,father's younger brother's elder son,pa:11.ma:34,1:pa.2:ko.11:hs1
@@ -169,7 +175,7 @@
 75,堂小弟,덩ˆ쇼ˊ디-,tông-sió-tī,tong3sio1tee33,father's younger brother's younger son,pa:11.ma:34,1:pa.2:ko.11:hs2
 76,堂小妹,덩ˆ쇼ˊᄆᆀ-,tông-sió-mōi,tong3sio1moy33,father's younger brother's younger daughter,pa:11.ma:34,1:pa.2:ko.11:cw2
 
-77,表哥,ᄇᆤˊ고·,piáu-ko,piau1koh1,mother's sister's elder son
-78,表姊,ᄇᆤˊ지ˊ,piáu-tsí,piau1cee4,mother's sister's elder daughter
-79,表小弟,ᄇᆤˊ쇼ˊ디-,piáu-sió-tī,piau1sio1tee33,mother's sister's younger son
-80,表小妹,ᄇᆤˊ쇼ˊᄆᆀ-,piáu-sió-mōi,piau1sio1moy33,mother's sister's younger daughter
+77,表哥,ᄇᆤˊ고·,piáu-ko,piau1koh1,mother's sister's elder son,pa:46.ma:15,1:ma.3:cm.15:hs1
+78,表姊,ᄇᆤˊ지ˊ,piáu-tsí,piau1cee4,mother's sister's elder daughter,pa:46.ma:15,1:ma.3:cm.15:cw1
+79,表小弟,ᄇᆤˊ쇼ˊ디-,piáu-sió-tī,piau1sio1tee33,mother's sister's younger son,pa:46.ma:15,1:ma.3:cm.15:hs2
+80,表小妹,ᄇᆤˊ쇼ˊᄆᆀ-,piáu-sió-mōi,piau1sio1moy33,mother's sister's younger daughter,pa:46.ma:15,1:ma.3:cm.15:cw2

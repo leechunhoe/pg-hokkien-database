@@ -1,10 +1,18 @@
 # 孫仔
 ## 定義 딍-끼- Definition
+簡：[小弟](member6.md) 兮 囝
 
-
-
+詳：[我](member1.md) 兮 [小弟](member6.md) 兮 囝
 
 Eng：Younger brother's children
+
+## 關係 관·희- Relationships
+
+關係 | 親情 | English
+--- | --- | --- 
+孫仔 兮 爸 | [小弟](member6.md) | Younger brother's children's father
+孫仔 兮 媽 | [嫂](member69.md) | Younger brother's children's mother
+
 
 ## 稱呼 칑·허· Address
 
