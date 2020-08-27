@@ -150,11 +150,15 @@ def get_member_primary(members, member_id):
 def get_member(members, member_id):
 	return [m for m in members if m[0][0] == member_id][0]
 
+def index_sort_order(e):
+	return e[0][5]
+
 def generate_index(members):
 	f = open("README.md", "w")
 	content = "# 家庭 게·긩ˆ Family\n\n"
 	content += "漢諺 | English\n"
 	content += "--- | ---\n"
+	members.sort(key=index_sort_order)
 	for member in members:
 		id = member[0][0]
 		hanji = member[0][1].capitalize()
