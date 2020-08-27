@@ -1,12 +1,12 @@
 # 小弟
-## 定義 딍-끼- Definition
+## 定義 Definition
 簡：[我](member1.md) 兮 小弟
 
 詳：[我](member1.md) 兮 小弟
 
 Eng：Younger brother
 
-## 關係 관·희- Relationships
+## 關係 Relationships
 
 關係 | 稱法 | English
 --- | --- | --- 
@@ -16,7 +16,7 @@ Eng：Younger brother
 小弟 兮 囝 | [孫仔](member70.md) | Younger brother's children
 
 
-## 稱呼 칑·허· Address
+## 稱呼 Address
 
 漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 

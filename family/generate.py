@@ -56,7 +56,7 @@ def get_his_relations_content(relationships, members, member):
 
 	# Populate his/her direct relationships
 	if len(primary_entry) > 6 and len(primary_entry[6]) > 0:
-		content += "\n\n## 關係 관·희- Relationships"
+		content += "\n\n## 關係 Relationships"
 
 		relations_text = primary_entry[6]
 		# TODO Refactor
@@ -83,10 +83,10 @@ def get_my_relations_content(relationships, members, member):
 		my_full_relation = "詳：%s"%get_my_full_relation(members, relationships, relations)
 		my_quick_relation = "簡：%s"%get_my_quick_relation(members, relationships, relations)
 
-	return "# %s\n## 定義 딍-끼- Definition\n%s\n\n%s\n\nEng：%s" %(hanji, my_quick_relation, my_full_relation, english)
+	return "# %s\n## 定義 Definition\n%s\n\n%s\n\nEng：%s" %(hanji, my_quick_relation, my_full_relation, english)
 
 def get_names_content(member):
-	content = "\n\n## 稱呼 칑·허· Address"
+	content = "\n\n## 稱呼 Address"
 	content += "\n\n" + get_name_tables(member)
 	return content
 
@@ -155,7 +155,7 @@ def index_sort_order(e):
 
 def generate_index(members):
 	f = open("README.md", "w")
-	content = "# 家庭 게·긩ˆ Family\n\n"
+	content = "# 家庭 Family\n\n"
 	content += "漢諺 | English\n"
 	content += "--- | ---\n"
 	members.sort(key=index_sort_order)

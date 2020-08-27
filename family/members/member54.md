@@ -1,12 +1,12 @@
 # 자뻐孫
-## 定義 딍-끼- Definition
+## 定義 Definition
 簡：[後生](member19.md) 兮 자와
 
 詳：[我](member1.md) 兮 [後生](member19.md) 兮 자와
 
 Eng：Grand daughter
 
-## 關係 관·희- Relationships
+## 關係 Relationships
 
 關係 | 稱法 | English
 --- | --- | --- 
@@ -14,7 +14,7 @@ Eng：Grand daughter
 자뻐孫 兮 媽 | [新婦](member52.md) | Grand daughter's mother
 
 
-## 稱呼 칑·허· Address
+## 稱呼 Address
 
 漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 

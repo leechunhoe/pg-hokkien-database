@@ -1,12 +1,12 @@
 # 外嫲
-## 定義 딍-끼- Definition
+## 定義 Definition
 簡：[爸](member2.md) 兮 媽
 
 詳：[我](member1.md) 兮 [媽](member2.md) 兮 媽
 
 Eng：Maternal grandmother
 
-## 關係 관·희- Relationships
+## 關係 Relationships
 
 關係 | 稱法 | English
 --- | --- | --- 
@@ -15,7 +15,7 @@ Eng：Maternal grandmother
 外嫲 兮 尪 | [外公](member13.md) | Maternal grandmother's husband
 
 
-## 稱呼 칑·허· Address
+## 稱呼 Address
 
 漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
