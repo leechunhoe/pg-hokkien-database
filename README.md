@@ -2,4 +2,4 @@
 
 A lil text corpus of Penang Hokkien.
 
-- (家庭)[/family]
+- [家庭 Family](family)
