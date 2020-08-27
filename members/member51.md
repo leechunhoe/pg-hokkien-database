@@ -15,6 +15,6 @@ Eng：Mother's brother's wife
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 阿妗 | 아·김- | a-kīm | ah3kim33 

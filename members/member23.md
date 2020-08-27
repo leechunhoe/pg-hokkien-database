@@ -16,6 +16,6 @@ Eng：Elder sister's husband
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 姊夫 | 지ˊ후· | tsí-hu | cee1hoo1 

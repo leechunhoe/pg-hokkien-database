@@ -19,7 +19,7 @@ Eng：Mother's sister's husband
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 姨丈 | 이ˆ뎌ᇫ- | î-tiōnn | ee3tnio33 
 姨丈 | 이ˆᄃᆤᇫ- | î-tiāunn | ee3tniau33 

@@ -18,7 +18,7 @@ Eng：Elder brother
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 哥 | 고· | ko | koh1 
 阿哥 | 아·고· | a-ko | ah3koh1 

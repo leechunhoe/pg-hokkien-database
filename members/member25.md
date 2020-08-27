@@ -16,7 +16,7 @@ Eng：Elder sister's children
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 外甥 | 꾀-싕· | guē-seng | guay33seng1 
 外甥 | 꽈-싕· | guā-seng | gua33seng1 

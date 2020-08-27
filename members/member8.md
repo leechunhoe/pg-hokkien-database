@@ -20,7 +20,7 @@ Eng：Grandfather
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 公 | 겅· | kong | kong1 
 阿公 | 아·겅· | a-kong | ah3kong1 

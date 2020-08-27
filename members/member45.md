@@ -15,6 +15,6 @@ Eng：Maternal great grandmother
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 外祖嫲 | 꽈-저ˊ마ˊ | guā-tsóo-má | gua33cor1mah4 

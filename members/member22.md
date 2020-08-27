@@ -16,7 +16,7 @@ Eng：Elder brother's children
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 孫仔 | 순·아ˊ | sun-á | soon3ah4 
 孫/甥/嬲 | 순· | sun | soon1 

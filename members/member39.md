@@ -16,6 +16,6 @@ Eng：Father's sister's elder son
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 表哥 | ᄇᆤˊ고· | piáu-ko | piau1koh1 

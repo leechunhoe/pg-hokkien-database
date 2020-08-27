@@ -22,7 +22,7 @@ Eng：Mother's brother
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 舅 | 구- | kū | koo33 
 阿舅 | 아·구- | a-kū | a3koo33 

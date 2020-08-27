@@ -20,7 +20,7 @@ Eng：Father
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 爸 | 바· | pa | pa1 
 爸爸 | 바·바· | pa-pa | pa3pa1 

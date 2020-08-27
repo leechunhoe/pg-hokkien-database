@@ -16,6 +16,6 @@ Eng：Grandfather's sister
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 姑婆 | 거·보ˆ | koo-pô | kor3poh2 

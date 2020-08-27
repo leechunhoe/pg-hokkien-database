@@ -18,7 +18,7 @@ Eng：Elder sister
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 姊 | 지ˊ | tsí | cee4 
 阿姊 | 아·지ˊ | a-tsí | ah3cee4 

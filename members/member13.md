@@ -17,6 +17,6 @@ Eng：Maternal grandfather
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 外公 | 꽈-겅· | guā-kong | gua33kong1 

@@ -19,7 +19,7 @@ Eng：Mother
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 媽 | 맣· | mah | mak3 
 媽媽 | 마·마· | ma-ma | ma3ma1 

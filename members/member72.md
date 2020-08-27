@@ -15,7 +15,7 @@ Eng：Grandmother's sister's husband
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 丈公 | 뎌ᇫ-겅· | tiōnn-kong | tnio33kong1 
 丈公 | ᄃᆤᇫ-겅· | tiāunn-kong | tniau33kong1 

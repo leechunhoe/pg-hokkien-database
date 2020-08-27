@@ -16,6 +16,6 @@ Eng：Father's younger brother's younger son
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 堂小弟 | 덩ˆ쇼ˊ디- | tông-sió-tī | tong3sio1tee33 

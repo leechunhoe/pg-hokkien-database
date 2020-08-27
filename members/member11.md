@@ -21,7 +21,7 @@ Eng：Father's younger brother
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 叔 | 즥· | tsek | ceik3 
 阿叔 | 아·즥· | a-tsek | ah3ceik3 

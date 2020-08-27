@@ -18,7 +18,7 @@ Eng：Son
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 後生 | ᄒᅷ-세ᇫ· | hāu-senn | hau33snae1 
 囝 | 갸ᇫˊ | kiánn | knia4 

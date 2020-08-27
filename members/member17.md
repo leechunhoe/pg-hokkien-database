@@ -22,7 +22,7 @@ Eng：Husband
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 尪 | 앙· | ang | ang1 
 翁 | 앙· | ang | ang1 

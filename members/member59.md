@@ -15,7 +15,7 @@ Eng：Husband's elder brother
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 伯 | 벻· | peh | paek3 
 阿伯 | 아·벻· | a-peh | ah3paek3 

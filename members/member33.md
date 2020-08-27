@@ -19,7 +19,7 @@ Eng：Father's elder brother's wife
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 姆 | 음ˊ | ḿ | mm4 
 阿姆 | 아·음ˊ | a-ḿ | ah3mm4 

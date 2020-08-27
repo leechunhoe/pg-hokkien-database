@@ -16,6 +16,6 @@ Eng：Father's elder brother's younger daughter
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 堂小妹 | 덩ˆ쇼ˊᄆᆀ- | tông-sió-mōi | tong3sio1moy33 

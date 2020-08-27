@@ -17,7 +17,7 @@ Eng：Grandmother
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 嫲 | 마ˊ | má | mah4 
 阿嫲 | 아·마ˊ | a-má | ah3mah4 

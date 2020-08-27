@@ -18,7 +18,7 @@ Eng：Father's younger brother's wife
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 嬸 | 짐ˊ | tsím | cim4 
 阿嬸 | 아·짐ˊ | a-tsím | ah3cim4 

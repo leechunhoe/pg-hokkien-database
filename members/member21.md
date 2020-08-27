@@ -16,7 +16,7 @@ Eng：Elder brother's wife
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 嫂 | 소ˊ | só | soh4 
 阿嫂 | 아·소ˊ | a-só | ah3soh4 

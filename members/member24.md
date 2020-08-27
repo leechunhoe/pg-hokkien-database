@@ -16,7 +16,7 @@ Eng：Younger sister's husband
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 妹夫 | ᄆᆀ-후· | mōi-hu | moy33hoo1 
 妹夫 | 뫠-후· | muāi-hu | muai33hoo1 
