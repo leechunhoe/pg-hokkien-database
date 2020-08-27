@@ -8,7 +8,7 @@ Eng：Grandfather's sister
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 姑婆 兮 爸 | [阿祖](member29.md) | Grandfather's sister's father
 姑婆 兮 媽 | [祖嫲](member30.md) | Grandfather's sister's mother

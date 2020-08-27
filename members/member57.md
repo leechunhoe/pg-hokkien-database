@@ -8,7 +8,7 @@ Eng：Husband's father
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 阮官 兮 某 | [娘](member58.md) | Husband's father's wife
 阮官 兮 後生 | [尪](member17.md) | Husband's father's son

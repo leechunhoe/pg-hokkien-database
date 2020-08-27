@@ -8,7 +8,7 @@ Eng：Me
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 我 兮 爸 | [爸](member2.md) | My father
 我 兮 媽 | [媽](member3.md) | My mother

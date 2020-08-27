@@ -8,7 +8,7 @@ Eng：Daughter's son
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 다버外孫 兮 爸 | [囝婿](member68.md) | Daughter's son's father
 다버外孫 兮 媽 | [자와](member20.md) | Daughter's son's mother

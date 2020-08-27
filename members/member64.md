@@ -8,7 +8,7 @@ Eng：Wife's elder brother
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 舅 兮 爸 | [丈人](member62.md) | Wife's elder brother's father
 舅 兮 媽 | [丈姆](member63.md) | Wife's elder brother's mother

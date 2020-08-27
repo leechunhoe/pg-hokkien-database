@@ -8,7 +8,7 @@ Eng：Grandmother's sister
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 姨婆 兮 尪 | [丈公](member72.md) | Grandmother's sister's husband
 

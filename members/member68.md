@@ -8,7 +8,7 @@ Eng：Daughter's husband
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 囝婿 兮 某 | [자와](member20.md) | Daughter's husband's wife
 

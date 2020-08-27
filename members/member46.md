@@ -8,7 +8,7 @@ Eng：Mother's sister's husband
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 姨丈 兮 某 | [姨](member15.md) | Mother's sister's husband's wife
 姨丈 兮 大漢後生 | [表哥](member47.md) | Mother's sister's husband's elder son

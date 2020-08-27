@@ -8,7 +8,7 @@ Eng：Husband's elder brother
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 伯 兮 小弟 | [尪](member17.md) | Husband's elder brother's younger brother
 

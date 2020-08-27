@@ -8,7 +8,7 @@ Eng：Son's wife
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 新婦 兮 尪 | [後生](member19.md) | Son's wife's husband
 

@@ -8,7 +8,7 @@ Eng：Husband's mother
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 娘 兮 尪 | [阮官](member57.md) | Husband's mother's husband
 娘 兮 後生 | [尪](member17.md) | Husband's mother's son

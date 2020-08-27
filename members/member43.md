@@ -8,7 +8,7 @@ Eng：Father's sister's husband
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 姑丈 兮 某 | [姑](member12.md) | Father's sister's husband's wife
 姑丈 兮 大漢後生 | [表哥](member39.md) | Father's sister's husband's elder son

@@ -8,7 +8,7 @@ Eng：Elder brother's children
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 孫仔 兮 爸 | [哥](member4.md) | Elder brother's children's father
 孫仔 兮 媽 | [嫂](member21.md) | Elder brother's children's mother

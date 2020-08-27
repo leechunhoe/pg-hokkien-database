@@ -8,7 +8,7 @@ Eng：Father's sister's younger daughter
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 表小妹 兮 爸 | [姑丈](member43.md) | Father's sister's younger daughter's father
 表小妹 兮 媽 | [姑](member12.md) | Father's sister's younger daughter's mother

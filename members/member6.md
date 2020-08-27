@@ -8,7 +8,7 @@ Eng：Younger brother
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 小弟 兮 爸 | [爸](member2.md) | Younger brother's father
 小弟 兮 媽 | [媽](member3.md) | Younger brother's mother

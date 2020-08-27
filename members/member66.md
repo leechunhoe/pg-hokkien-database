@@ -8,7 +8,7 @@ Eng：Wife's younger brother
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 舅仔 兮 爸 | [丈人](member62.md) | Wife's younger brother's father
 舅仔 兮 媽 | [丈姆](member63.md) | Wife's younger brother's mother

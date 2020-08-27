@@ -8,7 +8,7 @@ Eng：Mother's brother's wife
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 阿妗 兮 尪 | [舅](member16.md) | Mother's brother's wife's husband
 

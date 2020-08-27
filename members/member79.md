@@ -8,7 +8,7 @@ Eng：Mother's sister's younger son
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 表小弟 兮 爸 | [姨丈](member46.md) | Mother's sister's younger son's father
 表小弟 兮 媽 | [姨](member15.md) | Mother's sister's younger son's mother

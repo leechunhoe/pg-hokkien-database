@@ -8,7 +8,7 @@ Eng：Grandmother
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 叫法 | English
 --- | --- | --- 
 嫲 兮 尪 | [公](member8.md) | Grandmother's husband
 嫲 兮 兄弟 | [舅公](member31.md) | Grandmother's brother
