@@ -152,16 +152,15 @@ def get_member(members, member_id):
 
 def generate_index(members):
 	f = open("README.md", "w")
-	content = "# 家庭 Family\n\n"
-	content += "漢字/諺文 | English\n"
+	content = "# 家庭 게·긩ˆ Family\n\n"
+	content += "漢諺 | English\n"
 	content += "--- | ---\n"
 	for member in members:
 		id = member[0][0]
 		hanji = member[0][1].capitalize()
 		english = member[0][5].capitalize()
 		filename = "members/member%s.md" %id
-		content += "[%s](%s) | [%s](%s)\n" %(hanji, filename, english, filename)
-
+		content += "[%s](%s) | %s\n" %(hanji, filename, english)
 	f.write(content)
 
 main()
