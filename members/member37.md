@@ -8,7 +8,7 @@ Eng：Father's elder brother's younger son
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 堂小弟 兮 爸 | [伯](member10.md) | Father's elder brother's younger son's father
 堂小弟 兮 媽 | [姆](member33.md) | Father's elder brother's younger son's mother
@@ -16,6 +16,6 @@ Eng：Father's elder brother's younger son
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 堂小弟 | 덩ˆ쇼ˊ디- | tông-sió-tī | tong3sio1tee33 

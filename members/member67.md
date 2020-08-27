@@ -8,7 +8,7 @@ Eng：Wife's younger sister
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 姨仔 兮 爸 | [丈人](member62.md) | Wife's younger sister's father
 姨仔 兮 媽 | [丈姆](member63.md) | Wife's younger sister's mother
@@ -16,6 +16,6 @@ Eng：Wife's younger sister
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 姨仔 | 이ˆ아ˊ | î-á | ee2ah4 

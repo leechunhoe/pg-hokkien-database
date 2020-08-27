@@ -8,7 +8,7 @@ Eng：Elder brother's wife
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 嫂 兮 尪 | [哥](member4.md) | Elder brother's wife's husband
 嫂 兮 囝 | [孫仔](member22.md) | Elder brother's wife's children
@@ -16,7 +16,7 @@ Eng：Elder brother's wife
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 嫂 | 소ˊ | só | soh4 
 阿嫂 | 아·소ˊ | a-só | ah3soh4 

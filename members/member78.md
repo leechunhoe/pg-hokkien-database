@@ -8,7 +8,7 @@ Eng：Mother's sister's elder daughter
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 表姊 兮 爸 | [姨丈](member46.md) | Mother's sister's elder daughter's father
 表姊 兮 媽 | [姨](member15.md) | Mother's sister's elder daughter's mother
@@ -16,6 +16,6 @@ Eng：Mother's sister's elder daughter
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 表姊 | ᄇᆤˊ지ˊ | piáu-tsí | piau1cee4 

@@ -8,7 +8,7 @@ Eng：Wife's elder sister
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 姨 兮 爸 | [丈人](member62.md) | Wife's elder sister's father
 姨 兮 媽 | [丈姆](member63.md) | Wife's elder sister's mother
@@ -16,7 +16,7 @@ Eng：Wife's elder sister
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 姨 | 이ˆ | î | ee2 
 阿姨 | 아·이ˆ | a-î | a3ee2 

@@ -8,13 +8,13 @@ Eng：Husband's sister
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 姑 兮 兄弟 | [尪](member17.md) | Husband's sister's brother
 
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 姑 | 거· | koo | kor1 

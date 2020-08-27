@@ -8,7 +8,7 @@ Eng：Son
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 後生 兮 某 | [新婦](member52.md) | Son's wife
 後生 兮 姊妹 | [자와](member20.md) | Son's sister
@@ -18,7 +18,7 @@ Eng：Son
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 後生 | ᄒᅷ-세ᇫ· | hāu-senn | hau33snae1 
 囝 | 갸ᇫˊ | kiánn | knia4 

@@ -8,7 +8,7 @@ Eng：Me
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 我 兮 爸 | [爸](member2.md) | My father
 我 兮 媽 | [媽](member3.md) | My mother
@@ -24,6 +24,6 @@ Eng：Me
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 我 | 와ˊ | wá | wa4 

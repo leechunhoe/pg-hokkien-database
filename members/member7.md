@@ -8,7 +8,7 @@ Eng：Younger sister
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 小妹 兮 爸 | [爸](member2.md) | Younger sister's father
 小妹 兮 媽 | [媽](member3.md) | Younger sister's mother
@@ -18,7 +18,7 @@ Eng：Younger sister
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 小妹 | 쇼ˊᄆᆀ- | sió-mōi | sio1moy33 
 小妹 | 쇼ˊ뫠- | sió-muāi | sio1muai33 

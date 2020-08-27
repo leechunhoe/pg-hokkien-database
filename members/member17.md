@@ -8,7 +8,7 @@ Eng：Husband
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 尪 兮 爸 | [阮官](member57.md) | Husband's father
 尪 兮 媽 | [娘](member58.md) | Husband's mother
@@ -22,7 +22,7 @@ Eng：Husband
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 尪 | 앙· | ang | ang1 
 翁 | 앙· | ang | ang1 

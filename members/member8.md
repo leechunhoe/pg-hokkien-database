@@ -8,7 +8,7 @@ Eng：Grandfather
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 公 兮 爸 | [阿祖](member29.md) | Grandfather's father
 公 兮 媽 | [祖嫲](member30.md) | Grandfather's mother
@@ -20,7 +20,7 @@ Eng：Grandfather
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 公 | 겅· | kong | kong1 
 阿公 | 아·겅· | a-kong | ah3kong1 

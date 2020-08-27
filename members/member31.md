@@ -8,6 +8,6 @@ Eng：Grandmother's brother
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 舅公 | 구-겅· | kū-kong | koo33kong1 

@@ -8,7 +8,7 @@ Eng：Mother
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 媽 兮 爸 | [外公](member13.md) | Mother's father
 媽 兮 媽 | [外嫲](member14.md) | Mother's mother
@@ -19,7 +19,7 @@ Eng：Mother
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 媽 | 맣· | mah | mak3 
 媽媽 | 마·마· | ma-ma | ma3ma1 

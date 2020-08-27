@@ -8,7 +8,7 @@ Eng：Maternal grandmother
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 外嫲 兮 爸 | [外祖](member44.md) | Maternal grandmother's father
 外嫲 兮 媽 | [外祖嫲](member45.md) | Maternal grandmother's mother
@@ -17,6 +17,6 @@ Eng：Maternal grandmother
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 外嫲 | 꽈-마ˊ | guā-má | gua33ma4 

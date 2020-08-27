@@ -8,6 +8,6 @@ Eng：Great grandmother
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 祖嫲 | 저ˊ마ˊ | tsóo-má | cor1mah4 

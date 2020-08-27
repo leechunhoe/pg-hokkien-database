@@ -8,7 +8,7 @@ Eng：Father's sister
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 姑 兮 爸 | [公](member8.md) | Father's sister's father
 姑 兮 媽 | [嫲](member9.md) | Father's sister's mother
@@ -21,7 +21,7 @@ Eng：Father's sister
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 姑 | 거· | koo | kor1 
 阿姑 | 아·거· | a-koo | ah3kor1 

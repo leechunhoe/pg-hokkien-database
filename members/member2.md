@@ -8,7 +8,7 @@ Eng：Father
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 爸 兮 爸 | [公](member8.md) | Father's father
 爸 兮 媽 | [嫲](member9.md) | Father's mother
@@ -20,7 +20,7 @@ Eng：Father
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 爸 | 바· | pa | pa1 
 爸爸 | 바·바· | pa-pa | pa3pa1 

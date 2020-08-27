@@ -8,7 +8,7 @@ Eng：Younger sister's husband
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 妹夫 兮 某 | [小妹](member7.md) | Younger sister's husband's wife
 妹夫 兮 囝 | [外甥](member25.md) | Younger sister's husband's children
@@ -16,7 +16,7 @@ Eng：Younger sister's husband
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 妹夫 | ᄆᆀ-후· | mōi-hu | moy33hoo1 
 妹夫 | 뫠-후· | muāi-hu | muai33hoo1 

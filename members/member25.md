@@ -8,7 +8,7 @@ Eng：Elder sister's children
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 外甥 兮 爸 | [姊夫](member23.md) | Elder sister's children's father
 外甥 兮 媽 | [姊](member5.md) | Elder sister's children's mother
@@ -16,7 +16,7 @@ Eng：Elder sister's children
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 外甥 | 꾀-싕· | guē-seng | guay33seng1 
 外甥 | 꽈-싕· | guā-seng | gua33seng1 

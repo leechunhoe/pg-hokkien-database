@@ -62,7 +62,7 @@ def get_his_relations_content(relationships, members, member):
 		# TODO Refactor
 		relations = {keyValue.split(":")[0] : keyValue.split(":")[1] for keyValue in relations_text.split(".")}
 
-		content += "\n\n關係 | 親情 | English\n"
+		content += "\n\n關係 | 稱法 | English\n"
 		content += "--- | --- | --- \n"
 		for relationship in relationships:
 			if relationship[0] in relations:
@@ -92,7 +92,7 @@ def get_names_content(member):
 
 def get_name_tables(member):
 	tables = ""
-	tables += "漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji\n"
+	tables += "漢諺 | 임·뿐ˆ | Tâi-lô | Taiji\n"
 	tables += "--- | --- | --- | --- \n"
 	for variant in member:
 		tables += "%s | %s | %s | %s \n"%(variant[1], variant[2], variant[3], variant[4])
@@ -150,18 +150,21 @@ def get_member_primary(members, member_id):
 def get_member(members, member_id):
 	return [m for m in members if m[0][0] == member_id][0]
 
+def index_sort_order(e):
+	return e[0][5]
+
 def generate_index(members):
 	f = open("README.md", "w")
-	content = "# 家庭 Family\n\n"
-	content += "漢字/諺文 | English\n"
+	content = "# 家庭 게·긩ˆ Family\n\n"
+	content += "漢諺 | English\n"
 	content += "--- | ---\n"
+	members.sort(key=index_sort_order)
 	for member in members:
 		id = member[0][0]
 		hanji = member[0][1].capitalize()
 		english = member[0][5].capitalize()
 		filename = "members/member%s.md" %id
-		content += "[%s](%s) | [%s](%s)\n" %(hanji, filename, english, filename)
-
+		content += "[%s](%s) | %s\n" %(hanji, filename, english)
 	f.write(content)
 
 main()

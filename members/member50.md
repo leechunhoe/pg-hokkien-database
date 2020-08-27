@@ -8,7 +8,7 @@ Eng：Mother's brother's younger daughter
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 表小妹 兮 爸 | [舅](member16.md) | Mother's brother's younger daughter's father
 表小妹 兮 媽 | [阿妗](member51.md) | Mother's brother's younger daughter's mother
@@ -16,6 +16,6 @@ Eng：Mother's brother's younger daughter
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 表小妹 | ᄇᆤˊ쇼ˊᄆᆀ- | piáu-sió-mōi | piau1sio1moy33 

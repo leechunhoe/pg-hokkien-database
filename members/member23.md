@@ -8,7 +8,7 @@ Eng：Elder sister's husband
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 姊夫 兮 某 | [姊](member5.md) | Elder sister's husband's wife
 姊夫 兮 囝 | [外甥](member25.md) | Elder sister's husband's children
@@ -16,6 +16,6 @@ Eng：Elder sister's husband
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 姊夫 | 지ˊ후· | tsí-hu | cee1hoo1 

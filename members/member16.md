@@ -8,7 +8,7 @@ Eng：Mother's brother
 
 ## 關係 관·희- Relationships
 
-關係 | 親情 | English
+關係 | 稱法 | English
 --- | --- | --- 
 舅 兮 爸 | [外公](member13.md) | Mother's brother's father
 舅 兮 媽 | [外嫲](member14.md) | Mother's brother's mother
@@ -22,7 +22,7 @@ Eng：Mother's brother
 
 ## 稱呼 칑·허· Address
 
-漢諺 | 깐-뿐ˆ | Tâi-lô | Taiji
+漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
 --- | --- | --- | --- 
 舅 | 구- | kū | koo33 
 阿舅 | 아·구- | a-kū | a3koo33 
