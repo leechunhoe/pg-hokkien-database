@@ -56,12 +56,12 @@
 [新婦](members/member52.md) | Son's wife
 [孫](members/member53.md) | Grand son
 [자뻐孫](members/member54.md) | Grand daughter
-[外孫](members/member55.md) | Daughter's son
+[다버外孫](members/member55.md) | Daughter's son
 [자뻐外孫](members/member56.md) | Daughter's daughter
 [阮官](members/member57.md) | Husband's father
 [娘](members/member58.md) | Husband's mother
-[阿伯](members/member59.md) | Husband's elder brother
-[阿叔](members/member60.md) | Husband's younger brother
+[伯](members/member59.md) | Husband's elder brother
+[叔](members/member60.md) | Husband's younger brother
 [姑](members/member61.md) | Husband's sister
 [丈人](members/member62.md) | Wife's father
 [丈姆](members/member63.md) | Wife's mother
