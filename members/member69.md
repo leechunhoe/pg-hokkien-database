@@ -8,7 +8,7 @@ Eng：Younger brother's wife
 
 ## 關係 관·희- Relationships
 
-關係 | 叫法 | English
+關係 | 稱法 | English
 --- | --- | --- 
 嫂 兮 囝 | [孫仔](member22.md) | Younger brother's wife's children
 

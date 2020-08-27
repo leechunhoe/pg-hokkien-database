@@ -8,7 +8,7 @@ Eng：Wife's mother
 
 ## 關係 관·희- Relationships
 
-關係 | 叫法 | English
+關係 | 稱法 | English
 --- | --- | --- 
 丈姆 兮 자와 | [某](member18.md) | Wife's mother's daughter
 

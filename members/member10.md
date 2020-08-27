@@ -8,7 +8,7 @@ Eng：Father's elder brother
 
 ## 關係 관·희- Relationships
 
-關係 | 叫法 | English
+關係 | 稱法 | English
 --- | --- | --- 
 伯 兮 爸 | [公](member8.md) | Father's elder brother's father
 伯 兮 媽 | [嫲](member9.md) | Father's elder brother's mother

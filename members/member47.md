@@ -8,7 +8,7 @@ Eng：Mother's brother's elder son
 
 ## 關係 관·희- Relationships
 
-關係 | 叫法 | English
+關係 | 稱法 | English
 --- | --- | --- 
 表哥 兮 爸 | [舅](member16.md) | Mother's brother's elder son's father
 表哥 兮 媽 | [阿妗](member51.md) | Mother's brother's elder son's mother

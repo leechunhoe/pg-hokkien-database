@@ -8,7 +8,7 @@ Eng：Maternal great grandfather
 
 ## 關係 관·희- Relationships
 
-關係 | 叫法 | English
+關係 | 稱法 | English
 --- | --- | --- 
 外祖 兮 某 | [外祖嫲](member45.md) | Maternal great grandfather's wife
 

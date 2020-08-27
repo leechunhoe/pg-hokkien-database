@@ -8,7 +8,7 @@ Eng：Husband's younger brother
 
 ## 關係 관·희- Relationships
 
-關係 | 叫法 | English
+關係 | 稱法 | English
 --- | --- | --- 
 叔 兮 哥 | [尪](member17.md) | Husband's younger brother's elder brother
 

@@ -8,7 +8,7 @@ Eng：Husband's sister
 
 ## 關係 관·희- Relationships
 
-關係 | 叫法 | English
+關係 | 稱法 | English
 --- | --- | --- 
 姑 兮 兄弟 | [尪](member17.md) | Husband's sister's brother
 

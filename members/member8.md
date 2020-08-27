@@ -8,7 +8,7 @@ Eng：Grandfather
 
 ## 關係 관·희- Relationships
 
-關係 | 叫法 | English
+關係 | 稱法 | English
 --- | --- | --- 
 公 兮 爸 | [阿祖](member29.md) | Grandfather's father
 公 兮 媽 | [祖嫲](member30.md) | Grandfather's mother

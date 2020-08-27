@@ -8,7 +8,7 @@ Eng：Mother's brother's younger daughter
 
 ## 關係 관·희- Relationships
 
-關係 | 叫法 | English
+關係 | 稱法 | English
 --- | --- | --- 
 表小妹 兮 爸 | [舅](member16.md) | Mother's brother's younger daughter's father
 表小妹 兮 媽 | [阿妗](member51.md) | Mother's brother's younger daughter's mother

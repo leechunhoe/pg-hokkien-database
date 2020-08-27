@@ -8,7 +8,7 @@ Eng：Elder sister
 
 ## 關係 관·희- Relationships
 
-關係 | 叫法 | English
+關係 | 稱法 | English
 --- | --- | --- 
 姊 兮 爸 | [爸](member2.md) | Elder sister's father
 姊 兮 媽 | [媽](member3.md) | Elder sister's mother

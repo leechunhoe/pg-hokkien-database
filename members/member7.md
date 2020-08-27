@@ -8,7 +8,7 @@ Eng：Younger sister
 
 ## 關係 관·희- Relationships
 
-關係 | 叫法 | English
+關係 | 稱法 | English
 --- | --- | --- 
 小妹 兮 爸 | [爸](member2.md) | Younger sister's father
 小妹 兮 媽 | [媽](member3.md) | Younger sister's mother

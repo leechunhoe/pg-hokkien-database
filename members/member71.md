@@ -8,7 +8,7 @@ Eng：Younger sister's children
 
 ## 關係 관·희- Relationships
 
-關係 | 叫法 | English
+關係 | 稱法 | English
 --- | --- | --- 
 外甥 兮 爸 | [姊夫](member23.md) | Younger sister's children's father
 外甥 兮 媽 | [小妹](member7.md) | Younger sister's children's mother

@@ -8,7 +8,7 @@ Eng：Daughter
 
 ## 關係 관·희- Relationships
 
-關係 | 叫法 | English
+關係 | 稱法 | English
 --- | --- | --- 
 자와 兮 尪 | [囝婿](member68.md) | Daughter's husband
 자와 兮 兄弟 | [後生](member19.md) | Daughter's brother
