@@ -1,10 +1,18 @@
 # 外甥
 ## 定義 딍-끼- Definition
+簡：[小妹](member7.md) 兮 囝
 
-
-
+詳：[我](member1.md) 兮 [小妹](member7.md) 兮 囝
 
 Eng：Younger sister's children
+
+## 關係 관·희- Relationships
+
+關係 | 親情 | English
+--- | --- | --- 
+外甥 兮 爸 | [姊夫](member23.md) | Younger sister's children's father
+外甥 兮 媽 | [小妹](member7.md) | Younger sister's children's mother
+
 
 ## 稱呼 칑·허· Address
 
