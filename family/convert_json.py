@@ -5,6 +5,10 @@ import json
 
 def main():
 	members = get_members()
+	members_json = generate_content(members)
+	write_to_file(members_json)
+
+def generate_content(members):
 	members_json = []
 	for member in members:
 		variant_main = member[0]
@@ -16,6 +20,12 @@ def main():
 			"variants": get_variants(member)
 		}
 		members_json.append(member_json)
+	return members_json
+
+def write_to_file(members_json):
+	members_json_string = json.dumps(members_json)
+	f = open("members.json", "w")
+	f.write(members_json_string)
 
 def get_variants(member):
 	variants = []
