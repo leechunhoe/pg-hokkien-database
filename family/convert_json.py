@@ -1,14 +1,34 @@
 import csv
-import numpy as np
 from itertools import groupby
 import json
 
 def main():
-	members = get_members()
-	members_json = generate_content(members)
-	write_to_file(members_json)
+	convert_members()
+	convert_relations()
 
-def generate_content(members):
+def convert_members():
+	members = get_members()
+	members_json = generate_members_content(members)
+	write_to_file(members_json, "members.json")
+
+def convert_relations():
+	relations = get_relations()
+	relations_json = generate_relations_content(relations)
+	write_to_file(relations_json, "relations.json")
+
+def generate_relations_content(relations):
+	relations_json = []
+	for relation in relations:
+		if len(relation) == 3:
+			relation_json = {
+				"id": relation[0],
+				"hanji": relation[1],
+				"english": relation[2]
+			}
+			relations_json.append(relation_json)
+	return relations_json
+
+def generate_members_content(members):
 	members_json = []
 	for member in members:
 		variant_main = member[0]
@@ -22,10 +42,10 @@ def generate_content(members):
 		members_json.append(member_json)
 	return members_json
 
-def write_to_file(members_json):
-	members_json_string = json.dumps(members_json)
-	f = open("members.json", "w")
-	f.write(members_json_string)
+def write_to_file(json_object, filename):
+	json_string = json.dumps(json_object, ensure_ascii=False)
+	f = open(filename, "w")
+	f.write(json_string)
 
 def get_variants(member):
 	variants = []
@@ -74,6 +94,9 @@ def get_item_if_exist(list, index):
 def get_members():
 	data = get_csv_entries("data.csv")
 	return [list(i) for j, i in groupby(data, lambda a: a[0])]
+
+def get_relations():
+	return get_csv_entries("relation.csv")
 
 def get_csv_entries(filename):
 	content = read_csv(filename)
