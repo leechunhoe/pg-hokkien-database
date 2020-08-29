@@ -43,7 +43,7 @@ def generate_members_content(members):
 	return members_json
 
 def write_to_file(json_object, filename):
-	json_string = json.dumps(json_object)
+	json_string = json.dumps(json_object, ensure_ascii=False)
 	f = open(filename, "w")
 	f.write(json_string)
 
