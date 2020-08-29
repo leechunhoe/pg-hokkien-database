@@ -8,19 +8,26 @@ def main():
 	members_json = []
 	for member in members:
 		variant_main = member[0]
-
-		his_relations = get_his_relations(variant_main)
-		my_relations = get_my_relations(variant_main)
-
 		member_json = {
 			"id": variant_main[0],
 			"english": variant_main[5],
-			"his_relations": his_relations,
-			"my_relations": my_relations
+			"his_relations": get_his_relations(variant_main),
+			"my_relations": get_my_relations(variant_main),
+			"variants": get_variants(member)
 		}
 		members_json.append(member_json)
 
-	print(members_json)
+def get_variants(member):
+	variants = []
+	for variant in member:
+		variant_json = {
+			"hanji": variant[1],
+			"imji": variant[2],
+			"tailo": variant[3],
+			"taiji": variant[4]
+		}
+		variants.append(variant_json)
+	return variants
 
 def get_his_relations(variant_main):
 	raw_string = get_item_if_exist(variant_main, 6)
