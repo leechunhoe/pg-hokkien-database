@@ -18,4 +18,4 @@ Eng：Wife's mother
 
 關係 | 稱法 | English
 --- | --- | --- 
-丈姆 兮 자와 | [某](member18.md) | Wife's mother's daughter
+丈姆 兮 자와ˊ | [某](member18.md) | Wife's mother's daughter

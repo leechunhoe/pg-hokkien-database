@@ -1,8 +1,8 @@
 # 자뻐外孫
 ## 定義 Definition
-簡：[자와ˊ](member20.md) 兮 자와
+簡：[자와ˊ](member20.md) 兮 자와ˊ
 
-詳：[我](member1.md) 兮 [자와](member20.md) 兮 자와
+詳：[我](member1.md) 兮 [자와ˊ](member20.md) 兮 자와ˊ
 
 Eng：Daughter's daughter
 

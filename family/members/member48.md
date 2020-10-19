@@ -1,8 +1,8 @@
 # 表姊
 ## 定義 Definition
-簡：[舅](member16.md) 兮 大漢자와
+簡：[舅](member16.md) 兮 大漢자와ˊ
 
-詳：[我](member1.md) 兮 [媽](member3.md) 兮 [兄弟](member16.md) 兮 大漢자와
+詳：[我](member1.md) 兮 [媽](member3.md) 兮 [兄弟](member16.md) 兮 大漢자와ˊ
 
 Eng：Mother's brother's elder daughter
 
