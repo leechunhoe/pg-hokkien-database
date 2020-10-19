@@ -2,7 +2,7 @@
 
 漢音 | English
 --- | ---
-[자와](members/member20.md) | Daughter
+[자와ˊ](members/member20.md) | Daughter
 [자뻐外孫](members/member56.md) | Daughter's daughter
 [囝婿](members/member68.md) | Daughter's husband
 [다버外孫](members/member55.md) | Daughter's son

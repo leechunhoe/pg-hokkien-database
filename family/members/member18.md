@@ -25,4 +25,4 @@ Eng：Wife
 某 兮 姊 | [姨](member65.md) | Wife's elder sister
 某 兮 小妹 | [姨仔](member67.md) | Wife's younger sister
 某 兮 後生 | [後生](member19.md) | Wife's son
-某 兮 자와 | [자와](member20.md) | Wife's daughter
+某 兮 자와 | [자와ˊ](member20.md) | Wife's daughter

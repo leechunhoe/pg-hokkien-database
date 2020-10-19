@@ -1,6 +1,6 @@
 # 자뻐外孫
 ## 定義 Definition
-簡：[자와](member20.md) 兮 자와
+簡：[자와ˊ](member20.md) 兮 자와
 
 詳：[我](member1.md) 兮 [자와](member20.md) 兮 자와
 
@@ -19,4 +19,4 @@ Eng：Daughter's daughter
 關係 | 稱法 | English
 --- | --- | --- 
 자뻐外孫 兮 爸 | [囝婿](member68.md) | Daughter's daughter's father
-자뻐外孫 兮 媽 | [자와](member20.md) | Daughter's daughter's mother
+자뻐外孫 兮 媽 | [자와ˊ](member20.md) | Daughter's daughter's mother

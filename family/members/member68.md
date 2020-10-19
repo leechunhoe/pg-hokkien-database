@@ -1,6 +1,6 @@
 # 囝婿
 ## 定義 Definition
-簡：[자와](member20.md) 兮 尪
+簡：[자와ˊ](member20.md) 兮 尪
 
 詳：[我](member1.md) 兮 [자와](member20.md) 兮 尪
 
@@ -17,4 +17,4 @@ Eng：Daughter's husband
 
 關係 | 稱法 | English
 --- | --- | --- 
-囝婿 兮 某 | [자와](member20.md) | Daughter's husband's wife
+囝婿 兮 某 | [자와ˊ](member20.md) | Daughter's husband's wife
