@@ -1,3 +1,11 @@
+
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+姆 | 음ˊ | ḿ | mm4 
+阿姆 | 아·음ˊ | a-ḿ | ah3mm4 
 # 姆
 ## 定義 Definition
 簡：[伯](member10.md) 兮 某
@@ -15,11 +23,3 @@ Eng：Father's elder brother's wife
 姆 兮 大漢자와 | [堂姊](member36.md) | Father's elder brother's wife's elder daughter
 姆 兮 細漢後生 | [堂小弟](member37.md) | Father's elder brother's wife's younger son
 姆 兮 細漢자와 | [堂小妹](member38.md) | Father's elder brother's wife's younger daughter
-
-
-## 稱呼 Address
-
-漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
---- | --- | --- | --- 
-姆 | 음ˊ | ḿ | mm4 
-阿姆 | 아·음ˊ | a-ḿ | ah3mm4 

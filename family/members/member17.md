@@ -1,3 +1,11 @@
+
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+尪 | 앙· | ang | ang1 
+翁 | 앙· | ang | ang1 
 # 尪
 ## 定義 Definition
 
@@ -18,11 +26,3 @@ Eng：Husband
 尪 兮 姊妹 | [姑](member61.md) | Husband's sister
 尪 兮 後生 | [後生](member19.md) | Husband's son
 尪 兮 자와 | [자와](member20.md) | Husband's daughter
-
-
-## 稱呼 Address
-
-漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
---- | --- | --- | --- 
-尪 | 앙· | ang | ang1 
-翁 | 앙· | ang | ang1 

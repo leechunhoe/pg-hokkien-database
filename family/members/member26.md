@@ -1,3 +1,10 @@
+
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+伯公 | 벻·겅· | peh-kong | paek1kong1 
 # 伯公
 ## 定義 Definition
 簡：[公](member8.md) 兮 哥
@@ -12,10 +19,3 @@ Eng：Grandfather's elder brother
 --- | --- | --- 
 伯公 兮 爸 | [阿祖](member29.md) | Grandfather's elder brother's father
 伯公 兮 媽 | [祖嫲](member30.md) | Grandfather's elder brother's mother
-
-
-## 稱呼 Address
-
-漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
---- | --- | --- | --- 
-伯公 | 벻·겅· | peh-kong | paek1kong1 

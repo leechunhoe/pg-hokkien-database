@@ -1,3 +1,14 @@
+
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+爸 | 바· | pa | pa1 
+爸爸 | 바·바· | pa-pa | pa3pa1 
+阿爸 | 아·바ˆ | a-pâ | ah3pa2 
+父 | 베- | pēe | pae33 
+老父 | ᄅᅷ-베- | lāu-pēe | lau33pae33 
 # 爸
 ## 定義 Definition
 簡：[我](member1.md) 兮 爸
@@ -16,14 +27,3 @@ Eng：Father
 爸 兮 哥 | [伯](member10.md) | Father's elder brother
 爸 兮 小弟 | [叔](member11.md) | Father's younger brother
 爸 兮 姊妹 | [姑](member12.md) | Father's sister
-
-
-## 稱呼 Address
-
-漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
---- | --- | --- | --- 
-爸 | 바· | pa | pa1 
-爸爸 | 바·바· | pa-pa | pa3pa1 
-阿爸 | 아·바ˆ | a-pâ | ah3pa2 
-父 | 베- | pēe | pae33 
-老父 | ᄅᅷ-베- | lāu-pēe | lau33pae33 

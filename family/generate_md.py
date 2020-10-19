@@ -37,9 +37,9 @@ def generate_linked_member_files(members, relationships):
 def get_member_content(relationships, members, member):
 	id = member[0][0]
 	content = ""
+	content += get_names_content(member)
 	content += get_my_relations_content(relationships, members, member)
 	content += get_his_relations_content(relationships, members, member)
-	content += get_names_content(member)
 	return content
 
 def get_his_relations_content(relationships, members, member):
@@ -92,7 +92,7 @@ def get_names_content(member):
 
 def get_name_tables(member):
 	tables = ""
-	tables += "漢諺 | 임·찌ˆ | Tâi-lô | Taiji\n"
+	tables += "漢音 | 임·찌- | Tâi-lô | Taiji\n"
 	tables += "--- | --- | --- | --- \n"
 	for variant in member:
 		tables += "%s | %s | %s | %s \n"%(variant[1], variant[2], variant[3], variant[4])
@@ -156,7 +156,7 @@ def index_sort_order(e):
 def generate_index(members):
 	f = open("README.md", "w")
 	content = "# 家庭 Family\n\n"
-	content += "漢諺 | English\n"
+	content += "漢音 | English\n"
 	content += "--- | ---\n"
 	members.sort(key=index_sort_order)
 	for member in members:

@@ -1,3 +1,10 @@
+
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+孫 | 순· | sun | soon1 
 # 孫
 ## 定義 Definition
 簡：[後生](member19.md) 兮 後生
@@ -12,10 +19,3 @@ Eng：Grand son
 --- | --- | --- 
 孫 兮 爸 | [後生](member19.md) | Grand son's father
 孫 兮 媽 | [新婦](member52.md) | Grand son's mother
-
-
-## 稱呼 Address
-
-漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
---- | --- | --- | --- 
-孫 | 순· | sun | soon1 

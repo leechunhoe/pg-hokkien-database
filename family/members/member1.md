@@ -1,3 +1,10 @@
+
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+我 | 와ˊ | wá | wa4 
 # 我
 ## 定義 Definition
 
@@ -20,10 +27,3 @@ Eng：Me
 我 兮 小妹 | [小妹](member7.md) | My younger sister
 我 兮 後生 | [後生](member19.md) | My son
 我 兮 자와 | [자와](member20.md) | My daughter
-
-
-## 稱呼 Address
-
-漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
---- | --- | --- | --- 
-我 | 와ˊ | wá | wa4 

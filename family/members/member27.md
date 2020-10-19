@@ -1,3 +1,10 @@
+
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+叔公 | 즥·겅· | tsek-kong | ceik1kong1 
 # 叔公
 ## 定義 Definition
 簡：[公](member8.md) 兮 小弟
@@ -12,10 +19,3 @@ Eng：Grandfather's younger brother
 --- | --- | --- 
 叔公 兮 爸 | [阿祖](member29.md) | Grandfather's younger brother's father
 叔公 兮 媽 | [祖嫲](member30.md) | Grandfather's younger brother's mother
-
-
-## 稱呼 Address
-
-漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
---- | --- | --- | --- 
-叔公 | 즥·겅· | tsek-kong | ceik1kong1 

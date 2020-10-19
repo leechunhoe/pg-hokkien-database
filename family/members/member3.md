@@ -1,3 +1,14 @@
+
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+媽 | 맣· | mah | mak3 
+媽媽 | 마·마· | ma-ma | ma3ma1 
+媽咪 | 마·미· | ma-mi | ma3mee1 
+老母 | ᄅᅷ-뽀ˊ | lāu-bó | lau33bo4 
+老母 | ᄅᅷ-뿌ˊ | lāu-bú | lau33boo4 
 # 媽
 ## 定義 Definition
 簡：[我](member1.md) 兮 媽
@@ -15,14 +26,3 @@ Eng：Mother
 媽 兮 尪 | [爸](member2.md) | Mother's husband
 媽 兮 兄弟 | [舅](member16.md) | Mother's brother
 媽 兮 姊妹 | [姨](member15.md) | Mother's sister
-
-
-## 稱呼 Address
-
-漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
---- | --- | --- | --- 
-媽 | 맣· | mah | mak3 
-媽媽 | 마·마· | ma-ma | ma3ma1 
-媽咪 | 마·미· | ma-mi | ma3mee1 
-老母 | ᄅᅷ-뽀ˊ | lāu-bó | lau33bo4 
-老母 | ᄅᅷ-뿌ˊ | lāu-bú | lau33boo4 

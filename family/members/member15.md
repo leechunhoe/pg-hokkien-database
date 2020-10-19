@@ -1,3 +1,11 @@
+
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+姨 | 이ˆ | î | ee2 
+阿姨 | 아·이ˆ | a-î | a3ee2 
 # 姨
 ## 定義 Definition
 簡：[媽](member3.md) 兮 姊妹
@@ -18,11 +26,3 @@ Eng：Mother's sister
 姨 兮 大漢자와 | [表姊](member48.md) | Mother's sister's elder daughter
 姨 兮 細漢後生 | [表小弟](member49.md) | Mother's sister's younger son
 姨 兮 細漢자와 | [表小妹](member50.md) | Mother's sister's younger daughter
-
-
-## 稱呼 Address
-
-漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
---- | --- | --- | --- 
-姨 | 이ˆ | î | ee2 
-阿姨 | 아·이ˆ | a-î | a3ee2 

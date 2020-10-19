@@ -1,6 +1,6 @@
 # 家庭 Family
 
-漢諺 | English
+漢音 | English
 --- | ---
 [자와](members/member20.md) | Daughter
 [자뻐外孫](members/member56.md) | Daughter's daughter
