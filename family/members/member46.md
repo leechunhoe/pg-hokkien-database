@@ -6,6 +6,14 @@
 
 Eng：Mother's sister's husband
 
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+姨丈 | 이ˆ뎌ᇫ- | î-tiōnn | ee3tnio33 
+姨丈 | 이ˆᄃᆤᇫ- | î-tiāunn | ee3tniau33 
+
+
 ## 關係 Relationships
 
 關係 | 稱法 | English
@@ -15,11 +23,3 @@ Eng：Mother's sister's husband
 姨丈 兮 大漢자와 | [表姊](member48.md) | Mother's sister's husband's elder daughter
 姨丈 兮 細漢後生 | [表小弟](member49.md) | Mother's sister's husband's younger son
 姨丈 兮 細漢자와 | [表小妹](member50.md) | Mother's sister's husband's younger daughter
-
-
-## 稱呼 Address
-
-漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
---- | --- | --- | --- 
-姨丈 | 이ˆ뎌ᇫ- | î-tiōnn | ee3tnio33 
-姨丈 | 이ˆᄃᆤᇫ- | î-tiāunn | ee3tniau33 

@@ -6,16 +6,16 @@
 
 Eng：Mother's brother's elder son
 
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+表哥 | ᄇᆤˊ고· | piáu-ko | piau1koh1 
+
+
 ## 關係 Relationships
 
 關係 | 稱法 | English
 --- | --- | --- 
 表哥 兮 爸 | [舅](member16.md) | Mother's brother's elder son's father
 表哥 兮 媽 | [阿妗](member51.md) | Mother's brother's elder son's mother
-
-
-## 稱呼 Address
-
-漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
---- | --- | --- | --- 
-表哥 | ᄇᆤˊ고· | piáu-ko | piau1koh1 

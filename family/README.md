@@ -1,8 +1,8 @@
 # 家庭 Family
 
-漢諺 | English
+漢音 | English
 --- | ---
-[자와](members/member20.md) | Daughter
+[자와ˊ](members/member20.md) | Daughter
 [자뻐外孫](members/member56.md) | Daughter's daughter
 [囝婿](members/member68.md) | Daughter's husband
 [다버外孫](members/member55.md) | Daughter's son
@@ -72,7 +72,7 @@
 [某](members/member18.md) | Wife
 [舅](members/member64.md) | Wife's elder brother
 [姨](members/member65.md) | Wife's elder sister
-[丈人](members/member62.md) | Wife's father
+[丈랑ˆ](members/member62.md) | Wife's father
 [丈姆](members/member63.md) | Wife's mother
 [舅仔](members/member66.md) | Wife's younger brother
 [姨仔](members/member67.md) | Wife's younger sister

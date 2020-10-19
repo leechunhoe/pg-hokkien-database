@@ -6,17 +6,18 @@
 
 Eng：Husband's father
 
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+阮官 | 응ˊ과ᇫ· | ńg-kuann | ng1knua1 
+大官 | 다-과ᇫ· | tā-kuann | ta33knua1 
+爸 | 바· | pa | pa1 
+
+
 ## 關係 Relationships
 
 關係 | 稱法 | English
 --- | --- | --- 
 阮官 兮 某 | [娘](member58.md) | Husband's father's wife
 阮官 兮 後生 | [尪](member17.md) | Husband's father's son
-
-
-## 稱呼 Address
-
-漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
---- | --- | --- | --- 
-阮官 | 응ˊ과ᇫ· | ńg-kuann | ng1knua1 
-爸 | 바· | pa | pa1 

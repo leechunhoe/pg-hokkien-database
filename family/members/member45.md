@@ -6,15 +6,15 @@
 
 Eng：Maternal great grandmother
 
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+外祖嫲 | 꽈-저ˊ마ˊ | guā-tsóo-má | gua33cor1mah4 
+
+
 ## 關係 Relationships
 
 關係 | 稱法 | English
 --- | --- | --- 
 外祖嫲 兮 尪 | [外祖](member44.md) | Maternal great grandmother's husband
-
-
-## 稱呼 Address
-
-漢諺 | 임·뿐ˆ | Tâi-lô | Taiji
---- | --- | --- | --- 
-外祖嫲 | 꽈-저ˊ마ˊ | guā-tsóo-má | gua33cor1mah4 
