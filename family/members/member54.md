@@ -1,8 +1,8 @@
 # 자뻐孫
 ## 定義 Definition
-簡：[後生](member19.md) 兮 자와
+簡：[後生](member19.md) 兮 자와ˊ
 
-詳：[我](member1.md) 兮 [後生](member19.md) 兮 자와
+詳：[我](member1.md) 兮 [後生](member19.md) 兮 자와ˊ
 
 Eng：Grand daughter
 

@@ -1,8 +1,8 @@
 # 자와ˊ
 ## 定義 Definition
-簡：[我](member1.md) 兮 자와
+簡：[我](member1.md) 兮 자와ˊ
 
-詳：[我](member1.md) 兮 자와
+詳：[我](member1.md) 兮 자와ˊ
 
 Eng：Daughter
 
@@ -21,4 +21,4 @@ Eng：Daughter
 자와ˊ 兮 尪 | [囝婿](member68.md) | Daughter's husband
 자와ˊ 兮 兄弟 | [後生](member19.md) | Daughter's brother
 자와ˊ 兮 後生 | [다버外孫](member55.md) | Daughter's son
-자와ˊ 兮 자와 | [자뻐外孫](member56.md) | Daughter's daughter
+자와ˊ 兮 자와ˊ | [자뻐外孫](member56.md) | Daughter's daughter

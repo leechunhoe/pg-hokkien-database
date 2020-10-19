@@ -23,6 +23,6 @@ Eng：Mother's sister
 姨 兮 尪 | [姨丈](member46.md) | Mother's sister's husband
 姨 兮 兄弟 | [舅](member16.md) | Mother's sister's brother
 姨 兮 大漢後生 | [表哥](member47.md) | Mother's sister's elder son
-姨 兮 大漢자와 | [表姊](member48.md) | Mother's sister's elder daughter
+姨 兮 大漢자와ˊ | [表姊](member48.md) | Mother's sister's elder daughter
 姨 兮 細漢後生 | [表小弟](member49.md) | Mother's sister's younger son
-姨 兮 細漢자와 | [表小妹](member50.md) | Mother's sister's younger daughter
+姨 兮 細漢자와ˊ | [表小妹](member50.md) | Mother's sister's younger daughter

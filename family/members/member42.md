@@ -1,8 +1,8 @@
 # 表小妹
 ## 定義 Definition
-簡：[姑](member12.md) 兮 細漢자와
+簡：[姑](member12.md) 兮 細漢자와ˊ
 
-詳：[我](member1.md) 兮 [爸](member2.md) 兮 [姊妹](member12.md) 兮 細漢자와
+詳：[我](member1.md) 兮 [爸](member2.md) 兮 [姊妹](member12.md) 兮 細漢자와ˊ
 
 Eng：Father's sister's younger daughter
 

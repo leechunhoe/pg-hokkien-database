@@ -25,4 +25,4 @@ Eng：Husband
 尪 兮 小弟 | [叔](member60.md) | Husband's younger brother
 尪 兮 姊妹 | [姑](member61.md) | Husband's sister
 尪 兮 後生 | [後生](member19.md) | Husband's son
-尪 兮 자와 | [자와ˊ](member20.md) | Husband's daughter
+尪 兮 자와ˊ | [자와ˊ](member20.md) | Husband's daughter

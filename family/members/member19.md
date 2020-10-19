@@ -22,4 +22,4 @@ Eng：Son
 後生 兮 某 | [新婦](member52.md) | Son's wife
 後生 兮 姊妹 | [자와ˊ](member20.md) | Son's sister
 後生 兮 後生 | [孫](member53.md) | Son's son
-後生 兮 자와 | [자뻐孫](member54.md) | Son's daughter
+後生 兮 자와ˊ | [자뻐孫](member54.md) | Son's daughter

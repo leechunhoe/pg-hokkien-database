@@ -22,4 +22,4 @@ Eng：Wife's father
 
 關係 | 稱法 | English
 --- | --- | --- 
-丈랑ˆ 兮 자와 | [某](member18.md) | Wife's father's daughter
+丈랑ˆ 兮 자와ˊ | [某](member18.md) | Wife's father's daughter

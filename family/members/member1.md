@@ -26,4 +26,4 @@ Eng：Me
 我 兮 姊 | [姊](member5.md) | My elder sister
 我 兮 小妹 | [小妹](member7.md) | My younger sister
 我 兮 後生 | [後生](member19.md) | My son
-我 兮 자와 | [자와ˊ](member20.md) | My daughter
+我 兮 자와ˊ | [자와ˊ](member20.md) | My daughter

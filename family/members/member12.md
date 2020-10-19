@@ -22,6 +22,6 @@ Eng：Father's sister
 姑 兮 媽 | [嫲](member9.md) | Father's sister's mother
 姑 兮 尪 | [姑丈](member43.md) | Father's sister's husband
 姑 兮 大漢後生 | [表哥](member39.md) | Father's sister's elder son
-姑 兮 大漢자와 | [表姊](member40.md) | Father's sister's elder daughter
+姑 兮 大漢자와ˊ | [表姊](member40.md) | Father's sister's elder daughter
 姑 兮 細漢後生 | [表小弟](member41.md) | Father's sister's younger son
-姑 兮 細漢자와 | [表小妹](member42.md) | Father's sister's younger daughter
+姑 兮 細漢자와ˊ | [表小妹](member42.md) | Father's sister's younger daughter

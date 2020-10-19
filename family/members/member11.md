@@ -22,6 +22,6 @@ Eng：Father's younger brother
 叔 兮 媽 | [嫲](member9.md) | Father's younger brother's mother
 叔 兮 某 | [嬸](member34.md) | Father's younger brother's wife
 叔 兮 大漢後生 | [堂哥](member73.md) | Father's younger brother's elder son
-叔 兮 大漢자와 | [堂姊](member74.md) | Father's younger brother's elder daughter
+叔 兮 大漢자와ˊ | [堂姊](member74.md) | Father's younger brother's elder daughter
 叔 兮 細漢後生 | [堂小弟](member75.md) | Father's younger brother's younger son
-叔 兮 細漢자와 | [堂小妹](member76.md) | Father's younger brother's younger daughter
+叔 兮 細漢자와ˊ | [堂小妹](member76.md) | Father's younger brother's younger daughter

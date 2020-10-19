@@ -20,6 +20,6 @@ Eng：Father's sister's husband
 --- | --- | --- 
 姑丈 兮 某 | [姑](member12.md) | Father's sister's husband's wife
 姑丈 兮 大漢後生 | [表哥](member39.md) | Father's sister's husband's elder son
-姑丈 兮 大漢자와 | [表姊](member40.md) | Father's sister's husband's elder daughter
+姑丈 兮 大漢자와ˊ | [表姊](member40.md) | Father's sister's husband's elder daughter
 姑丈 兮 細漢後生 | [表小弟](member41.md) | Father's sister's husband's younger son
-姑丈 兮 細漢자와 | [表小妹](member42.md) | Father's sister's husband's younger daughter
+姑丈 兮 細漢자와ˊ | [表小妹](member42.md) | Father's sister's husband's younger daughter

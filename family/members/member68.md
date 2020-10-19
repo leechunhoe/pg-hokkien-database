@@ -2,7 +2,7 @@
 ## 定義 Definition
 簡：[자와ˊ](member20.md) 兮 尪
 
-詳：[我](member1.md) 兮 [자와](member20.md) 兮 尪
+詳：[我](member1.md) 兮 [자와ˊ](member20.md) 兮 尪
 
 Eng：Daughter's husband
 
