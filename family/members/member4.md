@@ -1,4 +1,10 @@
+# 哥
+## 定義 Definition
+簡：[我](member1.md) 兮 哥
 
+詳：[我](member1.md) 兮 哥
+
+Eng：Elder brother
 
 ## 稱呼 Address
 
@@ -8,13 +14,7 @@
 阿哥 | 아·고· | a-ko | ah3koh1 
 兄 | 햐ᇫ· | hiann | hnia1 
 阿兄 | 아·햐ᇫ· | a-hiann | ah3hnia1 
-# 哥
-## 定義 Definition
-簡：[我](member1.md) 兮 哥
 
-詳：[我](member1.md) 兮 哥
-
-Eng：Elder brother
 
 ## 關係 Relationships
 

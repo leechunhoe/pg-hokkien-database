@@ -1,10 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-姨仔 | 이ˆ아ˊ | î-á | ee2ah4 
 # 姨仔
 ## 定義 Definition
 簡：[某](member18.md) 兮 小妹
@@ -12,6 +5,13 @@
 詳：[我](member1.md) 兮 [某](member18.md) 兮 小妹
 
 Eng：Wife's younger sister
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+姨仔 | 이ˆ아ˊ | î-á | ee2ah4 
+
 
 ## 關係 Relationships
 

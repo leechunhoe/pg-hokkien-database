@@ -1,11 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-舅 | 구- | kū | koo33 
-阿舅 | 아·구- | a-kū | a3koo33 
 # 舅
 ## 定義 Definition
 簡：[媽](member3.md) 兮 兄弟
@@ -13,6 +5,14 @@
 詳：[我](member1.md) 兮 [媽](member3.md) 兮 兄弟
 
 Eng：Mother's brother
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+舅 | 구- | kū | koo33 
+阿舅 | 아·구- | a-kū | a3koo33 
+
 
 ## 關係 Relationships
 

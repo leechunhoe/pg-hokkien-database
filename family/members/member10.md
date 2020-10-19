@@ -1,11 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-伯 | 벻· | peh | paek3 
-阿伯 | 아·벻· | a-peh | ah3paek3 
 # 伯
 ## 定義 Definition
 簡：[爸](member2.md) 兮 哥
@@ -13,6 +5,14 @@
 詳：[我](member1.md) 兮 [爸](member2.md) 兮 哥
 
 Eng：Father's elder brother
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+伯 | 벻· | peh | paek3 
+阿伯 | 아·벻· | a-peh | ah3paek3 
+
 
 ## 關係 Relationships
 

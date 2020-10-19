@@ -1,11 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-嫂 | 소ˊ | só | soh4 
-阿嫂 | 아·소ˊ | a-só | ah3soh4 
 # 嫂
 ## 定義 Definition
 簡：[爸](member2.md) 兮 某
@@ -13,6 +5,14 @@
 詳：[我](member1.md) 兮 [哥](member2.md) 兮 某
 
 Eng：Elder brother's wife
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+嫂 | 소ˊ | só | soh4 
+阿嫂 | 아·소ˊ | a-só | ah3soh4 
+
 
 ## 關係 Relationships
 

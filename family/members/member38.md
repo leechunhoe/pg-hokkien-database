@@ -1,10 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-堂小妹 | 덩ˆ쇼ˊᄆᆀ- | tông-sió-mōi | tong3sio1moy33 
 # 堂小妹
 ## 定義 Definition
 簡：[伯](member10.md) 兮 細漢자와
@@ -12,6 +5,13 @@
 詳：[我](member1.md) 兮 [爸](member2.md) 兮 [哥](member10.md) 兮 細漢자와
 
 Eng：Father's elder brother's younger daughter
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+堂小妹 | 덩ˆ쇼ˊᄆᆀ- | tông-sió-mōi | tong3sio1moy33 
+
 
 ## 關係 Relationships
 

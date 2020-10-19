@@ -1,10 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-新婦 | 신·부- | sin-pū | sin3poo33 
 # 新婦
 ## 定義 Definition
 
@@ -12,6 +5,13 @@
 
 
 Eng：Son's wife
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+新婦 | 신·부- | sin-pū | sin3poo33 
+
 
 ## 關係 Relationships
 

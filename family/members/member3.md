@@ -1,4 +1,10 @@
+# 媽
+## 定義 Definition
+簡：[我](member1.md) 兮 媽
 
+詳：[我](member1.md) 兮 媽
+
+Eng：Mother
 
 ## 稱呼 Address
 
@@ -9,13 +15,7 @@
 媽咪 | 마·미· | ma-mi | ma3mee1 
 老母 | ᄅᅷ-뽀ˊ | lāu-bó | lau33bo4 
 老母 | ᄅᅷ-뿌ˊ | lāu-bú | lau33boo4 
-# 媽
-## 定義 Definition
-簡：[我](member1.md) 兮 媽
 
-詳：[我](member1.md) 兮 媽
-
-Eng：Mother
 
 ## 關係 Relationships
 

@@ -1,11 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-姑丈 | 거·뎌ᇫ- | koo-tiōnn | kor3tnio33 
-姑丈 | 거·ᄃᆤᇫ- | koo-tiāunn | kor3tniau33 
 # 姑丈
 ## 定義 Definition
 簡：[姑](member12.md) 兮 尪
@@ -13,6 +5,14 @@
 詳：[我](member1.md) 兮 [爸](member2.md) 兮 [姊妹](member12.md) 兮 尪
 
 Eng：Father's sister's husband
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+姑丈 | 거·뎌ᇫ- | koo-tiōnn | kor3tnio33 
+姑丈 | 거·ᄃᆤᇫ- | koo-tiāunn | kor3tniau33 
+
 
 ## 關係 Relationships
 

@@ -1,11 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-姨丈 | 이ˆ뎌ᇫ- | î-tiōnn | ee3tnio33 
-姨丈 | 이ˆᄃᆤᇫ- | î-tiāunn | ee3tniau33 
 # 姨丈
 ## 定義 Definition
 簡：[姨](member15.md) 兮 尪
@@ -13,6 +5,14 @@
 詳：[我](member1.md) 兮 [媽](member3.md) 兮 [姊妹](member15.md) 兮 尪
 
 Eng：Mother's sister's husband
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+姨丈 | 이ˆ뎌ᇫ- | î-tiōnn | ee3tnio33 
+姨丈 | 이ˆᄃᆤᇫ- | î-tiāunn | ee3tniau33 
+
 
 ## 關係 Relationships
 

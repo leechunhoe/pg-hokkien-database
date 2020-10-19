@@ -1,11 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-자와 | 자ˊ와ˊ | tsá-uá | ca1ua4 
-자뻐囝 | 자·뻐ˊ갸ᇫˊ | tsa-bóo-kiánn | ca3bor1knia4 
 # 자와
 ## 定義 Definition
 簡：[我](member1.md) 兮 자와
@@ -13,6 +5,14 @@
 詳：[我](member1.md) 兮 자와
 
 Eng：Daughter
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+자와 | 자ˊ와ˊ | tsá-uá | ca1ua4 
+자뻐囝 | 자·뻐ˊ갸ᇫˊ | tsa-bóo-kiánn | ca3bor1knia4 
+
 
 ## 關係 Relationships
 

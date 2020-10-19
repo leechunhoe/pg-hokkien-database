@@ -1,11 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-姊 | 지ˊ | tsí | cee4 
-阿姊 | 아·지ˊ | a-tsí | ah3cee4 
 # 姊
 ## 定義 Definition
 簡：[我](member1.md) 兮 姊
@@ -13,6 +5,14 @@
 詳：[我](member1.md) 兮 姊
 
 Eng：Elder sister
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+姊 | 지ˊ | tsí | cee4 
+阿姊 | 아·지ˊ | a-tsí | ah3cee4 
+
 
 ## 關係 Relationships
 

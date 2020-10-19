@@ -37,8 +37,8 @@ def generate_linked_member_files(members, relationships):
 def get_member_content(relationships, members, member):
 	id = member[0][0]
 	content = ""
-	content += get_names_content(member)
 	content += get_my_relations_content(relationships, members, member)
+	content += get_names_content(member)
 	content += get_his_relations_content(relationships, members, member)
 	return content
 

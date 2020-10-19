@@ -1,10 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-外嫲 | 꽈-마ˊ | guā-má | gua33ma4 
 # 外嫲
 ## 定義 Definition
 簡：[爸](member2.md) 兮 媽
@@ -12,6 +5,13 @@
 詳：[我](member1.md) 兮 [媽](member2.md) 兮 媽
 
 Eng：Maternal grandmother
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+外嫲 | 꽈-마ˊ | guā-má | gua33ma4 
+
 
 ## 關係 Relationships
 

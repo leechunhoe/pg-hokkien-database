@@ -1,11 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-尪 | 앙· | ang | ang1 
-翁 | 앙· | ang | ang1 
 # 尪
 ## 定義 Definition
 
@@ -13,6 +5,14 @@
 
 
 Eng：Husband
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+尪 | 앙· | ang | ang1 
+翁 | 앙· | ang | ang1 
+
 
 ## 關係 Relationships
 

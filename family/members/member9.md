@@ -1,4 +1,10 @@
+# 嫲
+## 定義 Definition
+簡：[爸](member2.md) 兮 媽
 
+詳：[我](member1.md) 兮 [爸](member2.md) 兮 媽
+
+Eng：Grandmother
 
 ## 稱呼 Address
 
@@ -7,13 +13,7 @@
 嫲 | 마ˊ | má | mah4 
 阿嫲 | 아·마ˊ | a-má | ah3mah4 
 裡嫲 | 래-마ˊ | lāi-má | lai33mah4 
-# 嫲
-## 定義 Definition
-簡：[爸](member2.md) 兮 媽
 
-詳：[我](member1.md) 兮 [爸](member2.md) 兮 媽
-
-Eng：Grandmother
 
 ## 關係 Relationships
 

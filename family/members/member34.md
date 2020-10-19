@@ -1,11 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-嬸 | 짐ˊ | tsím | cim4 
-阿嬸 | 아·짐ˊ | a-tsím | ah3cim4 
 # 嬸
 ## 定義 Definition
 簡：[叔](member11.md) 兮 某
@@ -13,6 +5,14 @@
 詳：[我](member1.md) 兮 [爸](member2.md) 兮 [小弟](member11.md) 兮 某
 
 Eng：Father's younger brother's wife
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+嬸 | 짐ˊ | tsím | cim4 
+阿嬸 | 아·짐ˊ | a-tsím | ah3cim4 
+
 
 ## 關係 Relationships
 

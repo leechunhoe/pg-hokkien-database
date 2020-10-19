@@ -1,4 +1,10 @@
+# 爸
+## 定義 Definition
+簡：[我](member1.md) 兮 爸
 
+詳：[我](member1.md) 兮 爸
+
+Eng：Father
 
 ## 稱呼 Address
 
@@ -9,13 +15,7 @@
 阿爸 | 아·바ˆ | a-pâ | ah3pa2 
 父 | 베- | pēe | pae33 
 老父 | ᄅᅷ-베- | lāu-pēe | lau33pae33 
-# 爸
-## 定義 Definition
-簡：[我](member1.md) 兮 爸
 
-詳：[我](member1.md) 兮 爸
-
-Eng：Father
 
 ## 關係 Relationships
 

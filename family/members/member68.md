@@ -1,10 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-囝婿 | 갸ᇫˊ새 | kiánn-sài | knia1sai3 
 # 囝婿
 ## 定義 Definition
 簡：[자와](member20.md) 兮 尪
@@ -12,6 +5,13 @@
 詳：[我](member1.md) 兮 [자와](member20.md) 兮 尪
 
 Eng：Daughter's husband
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+囝婿 | 갸ᇫˊ새 | kiánn-sài | knia1sai3 
+
 
 ## 關係 Relationships
 

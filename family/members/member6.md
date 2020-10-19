@@ -1,10 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-小弟 | 쇼ˊ디- | sió-tī | sio1tee33 
 # 小弟
 ## 定義 Definition
 簡：[我](member1.md) 兮 小弟
@@ -12,6 +5,13 @@
 詳：[我](member1.md) 兮 小弟
 
 Eng：Younger brother
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+小弟 | 쇼ˊ디- | sió-tī | sio1tee33 
+
 
 ## 關係 Relationships
 

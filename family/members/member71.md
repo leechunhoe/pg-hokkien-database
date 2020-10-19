@@ -1,4 +1,10 @@
+# 外甥
+## 定義 Definition
+簡：[小妹](member7.md) 兮 囝
 
+詳：[我](member1.md) 兮 [小妹](member7.md) 兮 囝
+
+Eng：Younger sister's children
 
 ## 稱呼 Address
 
@@ -8,13 +14,7 @@
 外甥 | 꽈-싕· | guā-seng | gua33seng1 
 孫仔 | 순·아ˊ | sun-á | soon3ah4 
 孫/甥/嬲 | 순· | sun | soon1 
-# 外甥
-## 定義 Definition
-簡：[小妹](member7.md) 兮 囝
 
-詳：[我](member1.md) 兮 [小妹](member7.md) 兮 囝
-
-Eng：Younger sister's children
 
 ## 關係 Relationships
 

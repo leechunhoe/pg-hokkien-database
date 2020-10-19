@@ -1,4 +1,10 @@
+# 公
+## 定義 Definition
+簡：[爸](member2.md) 兮 爸
 
+詳：[我](member1.md) 兮 [爸](member2.md) 兮 爸
+
+Eng：Grandfather
 
 ## 稱呼 Address
 
@@ -7,13 +13,7 @@
 公 | 겅· | kong | kong1 
 阿公 | 아·겅· | a-kong | ah3kong1 
 裡公 | 래-겅· | lāi-kong | lai33kong1 
-# 公
-## 定義 Definition
-簡：[爸](member2.md) 兮 爸
 
-詳：[我](member1.md) 兮 [爸](member2.md) 兮 爸
-
-Eng：Grandfather
 
 ## 關係 Relationships
 

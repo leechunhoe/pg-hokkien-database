@@ -1,11 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-자뻐外孫 | 자·뻐ˊ꽈-순· | tsa-bóo-guā-sun | ca3bor1gua33soon1 
-자뻐孫 | 자·뻐ˊ순· | tsa-bóo-sun | ca3bor1soon1 
 # 자뻐外孫
 ## 定義 Definition
 簡：[자와](member20.md) 兮 자와
@@ -13,6 +5,14 @@
 詳：[我](member1.md) 兮 [자와](member20.md) 兮 자와
 
 Eng：Daughter's daughter
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+자뻐外孫 | 자·뻐ˊ꽈-순· | tsa-bóo-guā-sun | ca3bor1gua33soon1 
+자뻐孫 | 자·뻐ˊ순· | tsa-bóo-sun | ca3bor1soon1 
+
 
 ## 關係 Relationships
 

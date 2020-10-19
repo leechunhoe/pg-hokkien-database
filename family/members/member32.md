@@ -1,10 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-姨婆 | 이ˆ보ˆ | î-pô | ee3poh2 
 # 姨婆
 ## 定義 Definition
 簡：[嫲](member9.md) 兮 姊妹
@@ -12,6 +5,13 @@
 詳：[我](member1.md) 兮 [爸](member2.md) 兮 [媽](member9.md) 兮 姊妹
 
 Eng：Grandmother's sister
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+姨婆 | 이ˆ보ˆ | î-pô | ee3poh2 
+
 
 ## 關係 Relationships
 

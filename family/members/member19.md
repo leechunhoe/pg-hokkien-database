@@ -1,4 +1,10 @@
+# 後生
+## 定義 Definition
+簡：[我](member1.md) 兮 後生
 
+詳：[我](member1.md) 兮 後生
+
+Eng：Son
 
 ## 稱呼 Address
 
@@ -7,13 +13,7 @@
 後生 | ᄒᅷ-세ᇫ· | hāu-senn | hau33snae1 
 囝 | 갸ᇫˊ | kiánn | knia4 
 다버囝 | 다·버·갸ᇫˊ | ta-poo-kiánn | ta3por3knia4 
-# 後生
-## 定義 Definition
-簡：[我](member1.md) 兮 後生
 
-詳：[我](member1.md) 兮 後生
-
-Eng：Son
 
 ## 關係 Relationships
 

@@ -1,11 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-姑 | 거· | koo | kor1 
-阿姑 | 아·거· | a-koo | ah3kor1 
 # 姑
 ## 定義 Definition
 簡：[爸](member2.md) 兮 姊妹
@@ -13,6 +5,14 @@
 詳：[我](member1.md) 兮 [爸](member2.md) 兮 姊妹
 
 Eng：Father's sister
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+姑 | 거· | koo | kor1 
+阿姑 | 아·거· | a-koo | ah3kor1 
+
 
 ## 關係 Relationships
 

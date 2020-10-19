@@ -1,10 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-某 | 뻐ˊ | bóo | bor4 
 # 某
 ## 定義 Definition
 
@@ -12,6 +5,13 @@
 
 
 Eng：Wife
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+某 | 뻐ˊ | bóo | bor4 
+
 
 ## 關係 Relationships
 

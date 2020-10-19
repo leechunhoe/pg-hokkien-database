@@ -1,10 +1,3 @@
-
-
-## 稱呼 Address
-
-漢音 | 임·찌- | Tâi-lô | Taiji
---- | --- | --- | --- 
-我 | 와ˊ | wá | wa4 
 # 我
 ## 定義 Definition
 
@@ -12,6 +5,13 @@
 
 
 Eng：Me
+
+## 稱呼 Address
+
+漢音 | 임·찌- | Tâi-lô | Taiji
+--- | --- | --- | --- 
+我 | 와ˊ | wá | wa4 
+
 
 ## 關係 Relationships
 
