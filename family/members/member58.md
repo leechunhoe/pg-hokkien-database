@@ -12,6 +12,7 @@ Eng：Husband's mother
 --- | --- | --- | --- 
 娘 | 녀ˆ | niô | nio2 
 娘 | ᄂᆤˆ | niâu | niau2 
+大家 | 다-게· | ta-kee | ta33kae1 
 媽 | 맣· | mah | mak3 
 
 

@@ -11,6 +11,7 @@ Eng：Husband's father
 漢音 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 阮官 | 응ˊ과ᇫ· | ńg-kuann | ng1knua1 
+大官 | 다-과ᇫ· | tā-kuann | ta33knua1 
 爸 | 바· | pa | pa1 
 
 
