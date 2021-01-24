@@ -18,5 +18,5 @@ Eng：Wife's elder brother
 
 關係 | 稱法 | English
 --- | --- | --- 
-舅 兮 爸 | [丈랑ˆ](member62.md) | Wife's elder brother's father
+舅 兮 爸 | [丈儂](member62.md) | Wife's elder brother's father
 舅 兮 媽 | [丈姆](member63.md) | Wife's elder brother's mother

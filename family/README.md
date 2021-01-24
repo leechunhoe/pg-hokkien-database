@@ -72,7 +72,7 @@
 [某](members/member18.md) | Wife
 [舅](members/member64.md) | Wife's elder brother
 [姨](members/member65.md) | Wife's elder sister
-[丈랑ˆ](members/member62.md) | Wife's father
+[丈儂](members/member62.md) | Wife's father
 [丈姆](members/member63.md) | Wife's mother
 [舅仔](members/member66.md) | Wife's younger brother
 [姨仔](members/member67.md) | Wife's younger sister
