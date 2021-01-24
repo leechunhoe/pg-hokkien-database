@@ -20,4 +20,5 @@ Eng：Younger brother's wife
 
 關係 | 稱法 | English
 --- | --- | --- 
+嬸 兮 尪 | [小弟](member6.md) | Younger brother's wife's husband
 嬸 兮 囝 | [孫仔](member22.md) | Younger brother's wife's children
