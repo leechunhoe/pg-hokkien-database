@@ -1,0 +1,35 @@
+{
+    "id": 19,
+    "english": "son",
+    "his_relations": {
+        "bo": 52,
+        "cm": 20,
+        "hs": 53,
+        "cw": 54
+    },
+    "my_relations": [
+        {
+            "1": "hs"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "後生",
+            "imji": "ᄒᅷ-세ᇫ·",
+            "tailo": "hāu-senn",
+            "taiji": "hau33snae1"
+        },
+        {
+            "hanji": "囝",
+            "imji": "갸ᇫˊ",
+            "tailo": "kiánn",
+            "taiji": "knia4"
+        },
+        {
+            "hanji": "다버囝",
+            "imji": "다·버·갸ᇫˊ",
+            "tailo": "ta-poo-kiánn",
+            "taiji": "ta3por3knia4"
+        }
+    ]
+}

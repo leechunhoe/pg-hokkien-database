@@ -1,0 +1,42 @@
+{
+    "id": 25,
+    "english": "elder sister's children",
+    "his_relations": {
+        "pa": 23,
+        "ma": 5
+    },
+    "my_relations": [
+        {
+            "1": "ci"
+        },
+        {
+            "5": "hscw"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "外甥",
+            "imji": "꾀-싕·",
+            "tailo": "guē-seng",
+            "taiji": "guay33seng1"
+        },
+        {
+            "hanji": "外甥",
+            "imji": "꽈-싕·",
+            "tailo": "guā-seng",
+            "taiji": "gua33seng1"
+        },
+        {
+            "hanji": "孫仔",
+            "imji": "순·아ˊ",
+            "tailo": "sun-á",
+            "taiji": "soon3ah4"
+        },
+        {
+            "hanji": "孫/甥/嬲",
+            "imji": "순·",
+            "tailo": "sun",
+            "taiji": "soon1"
+        }
+    ]
+}

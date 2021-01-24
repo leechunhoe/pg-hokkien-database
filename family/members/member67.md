@@ -17,5 +17,5 @@ Eng：Wife's younger sister
 
 關係 | 稱法 | English
 --- | --- | --- 
-姨仔 兮 爸 | [丈랑ˆ](member62.md) | Wife's younger sister's father
+姨仔 兮 爸 | [丈人](member62.md) | Wife's younger sister's father
 姨仔 兮 媽 | [丈姆](member63.md) | Wife's younger sister's mother

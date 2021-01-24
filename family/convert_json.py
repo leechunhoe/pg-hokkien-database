@@ -9,7 +9,17 @@ def main():
 def convert_members():
 	members = get_members()
 	members_json = generate_members_content(members)
+	convert_each_members(members_json)
 	write_to_file(members_json, "members.json")
+
+def convert_each_members(members_json):
+	for member in members_json:
+		convert_member(member)
+
+def convert_member(member):
+	filename = "members_json/member%s.json" %member['id']
+	json_string = json.dumps(member, ensure_ascii=False, indent=4)
+	open(filename, "w").write(json_string)
 
 def convert_relations():
 	relations = get_relations()
@@ -33,7 +43,7 @@ def generate_members_content(members):
 	for member in members:
 		variant_main = member[0]
 		member_json = {
-			"id": variant_main[0],
+			"id": int(variant_main[0]),
 			"english": variant_main[5],
 			"his_relations": get_his_relations(variant_main),
 			"my_relations": get_my_relations(variant_main),
@@ -67,7 +77,7 @@ def get_his_relations(variant_main):
 	result = {}
 	for relation in raw_string.split("."):
 		key = relation.split(":")[0]
-		value = relation.split(":")[1]
+		value = int(relation.split(":")[1])
 		result[key] = value
 
 	return result
@@ -79,7 +89,7 @@ def get_my_relations(variant_main):
 
 	result = []
 	for relation in raw_string.split("."):
-		key = relation.split(":")[0]
+		key = int(relation.split(":")[0])
 		value = relation.split(":")[1]
 		result.append({key: value})
 

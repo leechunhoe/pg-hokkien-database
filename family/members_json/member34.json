@@ -1,0 +1,35 @@
+{
+    "id": 34,
+    "english": "father's younger brother's wife",
+    "his_relations": {
+        "ang": 11,
+        "hs1": 73,
+        "cw1": 74,
+        "hs2": 75
+    },
+    "my_relations": [
+        {
+            "1": "pa"
+        },
+        {
+            "2": "ti"
+        },
+        {
+            "11": "bo"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "嬸",
+            "imji": "짐ˊ",
+            "tailo": "tsím",
+            "taiji": "cim4"
+        },
+        {
+            "hanji": "阿嬸",
+            "imji": "아·짐ˊ",
+            "tailo": "a-tsím",
+            "taiji": "ah3cim4"
+        }
+    ]
+}

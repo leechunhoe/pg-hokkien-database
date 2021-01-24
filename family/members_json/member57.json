@@ -1,0 +1,36 @@
+{
+    "id": 57,
+    "english": "husband's father",
+    "his_relations": {
+        "bo": 58,
+        "hs": 17
+    },
+    "my_relations": [
+        {
+            "1": "ang"
+        },
+        {
+            "17": "pa"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "阮官",
+            "imji": "응ˊ과ᇫ·",
+            "tailo": "ńg-kuann",
+            "taiji": "ng1knua1"
+        },
+        {
+            "hanji": "大官",
+            "imji": "다-과ᇫ·",
+            "tailo": "tā-kuann",
+            "taiji": "ta33knua1"
+        },
+        {
+            "hanji": "爸",
+            "imji": "바·",
+            "tailo": "pa",
+            "taiji": "pa1"
+        }
+    ]
+}

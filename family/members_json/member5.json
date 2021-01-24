@@ -1,0 +1,29 @@
+{
+    "id": 5,
+    "english": "elder sister",
+    "his_relations": {
+        "pa": 2,
+        "ma": 3,
+        "ang": 23,
+        "hscw": 25
+    },
+    "my_relations": [
+        {
+            "1": "ci"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "姊",
+            "imji": "지ˊ",
+            "tailo": "tsí",
+            "taiji": "cee4"
+        },
+        {
+            "hanji": "阿姊",
+            "imji": "아·지ˊ",
+            "tailo": "a-tsí",
+            "taiji": "ah3cee4"
+        }
+    ]
+}

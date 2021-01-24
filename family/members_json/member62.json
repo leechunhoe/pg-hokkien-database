@@ -1,0 +1,41 @@
+{
+    "id": 62,
+    "english": "wife's father",
+    "his_relations": {
+        "cw": 18
+    },
+    "my_relations": [
+        {
+            "1": "bo"
+        },
+        {
+            "18": "pa"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "丈人",
+            "imji": "뎌ᇫ-랑ˆ",
+            "tailo": "tiōnn-lâng",
+            "taiji": "tnio33lang2"
+        },
+        {
+            "hanji": "丈人",
+            "imji": "ᄃᆤᇫ-랑ˆ",
+            "tailo": "tiāunn-lâng",
+            "taiji": "tniau33lang2"
+        },
+        {
+            "hanji": "丈儂",
+            "imji": "뎌ᇫ-랑ˆ",
+            "tailo": "tiōnn-lâng",
+            "taiji": "tnio33lang2"
+        },
+        {
+            "hanji": "丈儂",
+            "imji": "ᄃᆤᇫ-랑ˆ",
+            "tailo": "tiāunn-lâng",
+            "taiji": "tniau33lang2"
+        }
+    ]
+}

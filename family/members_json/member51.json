@@ -1,0 +1,26 @@
+{
+    "id": 51,
+    "english": "mother's brother's wife",
+    "his_relations": {
+        "ang": 16
+    },
+    "my_relations": [
+        {
+            "1": "ma"
+        },
+        {
+            "3": "ht"
+        },
+        {
+            "16": "bo"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "阿妗",
+            "imji": "아·김-",
+            "tailo": "a-kīm",
+            "taiji": "ah3kim33"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 33,
+    "english": "father's elder brother's wife",
+    "his_relations": {
+        "ang": 10,
+        "hs1": 35,
+        "cw1": 36,
+        "hs2": 37,
+        "cw2": 38
+    },
+    "my_relations": [
+        {
+            "1": "pa"
+        },
+        {
+            "2": "ko"
+        },
+        {
+            "10": "bo"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "姆",
+            "imji": "음ˊ",
+            "tailo": "ḿ",
+            "taiji": "mm4"
+        },
+        {
+            "hanji": "阿姆",
+            "imji": "아·음ˊ",
+            "tailo": "a-ḿ",
+            "taiji": "ah3mm4"
+        }
+    ]
+}

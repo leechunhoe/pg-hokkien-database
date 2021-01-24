@@ -1,0 +1,23 @@
+{
+    "id": 44,
+    "english": "maternal great grandfather",
+    "his_relations": {
+        "bo": 45
+    },
+    "my_relations": [
+        {
+            "1": "ma"
+        },
+        {
+            "3": "pa"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "外祖",
+            "imji": "꽈-저ˊ",
+            "tailo": "guā-tsóo",
+            "taiji": "gua33cor4"
+        }
+    ]
+}

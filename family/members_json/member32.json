@@ -1,0 +1,26 @@
+{
+    "id": 32,
+    "english": "grandmother's sister",
+    "his_relations": {
+        "ang": 72
+    },
+    "my_relations": [
+        {
+            "1": "pa"
+        },
+        {
+            "2": "ma"
+        },
+        {
+            "9": "cm"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "姨婆",
+            "imji": "이ˆ보ˆ",
+            "tailo": "î-pô",
+            "taiji": "ee3poh2"
+        }
+    ]
+}

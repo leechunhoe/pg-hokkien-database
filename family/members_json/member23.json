@@ -1,0 +1,24 @@
+{
+    "id": 23,
+    "english": "elder sister's husband",
+    "his_relations": {
+        "bo": 5,
+        "hscw": 25
+    },
+    "my_relations": [
+        {
+            "1": "ci"
+        },
+        {
+            "5": "ang"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "姊夫",
+            "imji": "지ˊ후·",
+            "tailo": "tsí-hu",
+            "taiji": "cee1hoo1"
+        }
+    ]
+}

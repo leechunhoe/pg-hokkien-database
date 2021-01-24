@@ -1,0 +1,24 @@
+{
+    "id": 29,
+    "english": "great grandfather",
+    "his_relations": {},
+    "my_relations": [
+        {
+            "1": "pa"
+        },
+        {
+            "2": "pa"
+        },
+        {
+            "8": "pa"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "阿祖",
+            "imji": "아·저ˊ",
+            "tailo": "a-tsóo",
+            "taiji": "ah3cor4"
+        }
+    ]
+}

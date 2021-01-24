@@ -1,0 +1,48 @@
+{
+    "id": 3,
+    "english": "mother",
+    "his_relations": {
+        "pa": 13,
+        "ma": 14,
+        "ang": 2,
+        "ht": 16,
+        "cm": 15
+    },
+    "my_relations": [
+        {
+            "1": "ma"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "媽",
+            "imji": "맣·",
+            "tailo": "mah",
+            "taiji": "mak3"
+        },
+        {
+            "hanji": "媽媽",
+            "imji": "마·마·",
+            "tailo": "ma-ma",
+            "taiji": "ma3ma1"
+        },
+        {
+            "hanji": "媽咪",
+            "imji": "마·미·",
+            "tailo": "ma-mi",
+            "taiji": "ma3mee1"
+        },
+        {
+            "hanji": "老母",
+            "imji": "ᄅᅷ-뽀ˊ",
+            "tailo": "lāu-bó",
+            "taiji": "lau33bo4"
+        },
+        {
+            "hanji": "老母",
+            "imji": "ᄅᅷ-뿌ˊ",
+            "tailo": "lāu-bú",
+            "taiji": "lau33boo4"
+        }
+    ]
+}

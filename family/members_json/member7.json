@@ -1,0 +1,29 @@
+{
+    "id": 7,
+    "english": "younger sister",
+    "his_relations": {
+        "pa": 2,
+        "ma": 3,
+        "ang": 23,
+        "hscw": 25
+    },
+    "my_relations": [
+        {
+            "1": "moy"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "小妹",
+            "imji": "쇼ˊᄆᆀ-",
+            "tailo": "sió-mōi",
+            "taiji": "sio1moy33"
+        },
+        {
+            "hanji": "小妹",
+            "imji": "쇼ˊ뫠-",
+            "tailo": "sió-muāi",
+            "taiji": "sio1muai33"
+        }
+    ]
+}

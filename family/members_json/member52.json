@@ -1,0 +1,23 @@
+{
+    "id": 52,
+    "english": "son's wife",
+    "his_relations": {
+        "ang": 19
+    },
+    "my_relations": [
+        {
+            "1": "hs"
+        },
+        {
+            "19": "bo"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "新婦",
+            "imji": "신·부-",
+            "tailo": "sin-pū",
+            "taiji": "sin3poo33"
+        }
+    ]
+}

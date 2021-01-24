@@ -1,0 +1,27 @@
+{
+    "id": 41,
+    "english": "father's sister's younger son",
+    "his_relations": {
+        "pa": 43,
+        "ma": 12
+    },
+    "my_relations": [
+        {
+            "1": "pa"
+        },
+        {
+            "2": "cm"
+        },
+        {
+            "12": "hs2"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "表小弟",
+            "imji": "ᄇᆤˊ쇼ˊ디-",
+            "tailo": "piáu-sió-tī",
+            "taiji": "piau1sio1tee33"
+        }
+    ]
+}

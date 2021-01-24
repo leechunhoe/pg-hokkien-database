@@ -1,0 +1,29 @@
+{
+    "id": 69,
+    "english": "younger brother's wife",
+    "his_relations": {
+        "hscw": 22
+    },
+    "my_relations": [
+        {
+            "1": "ti"
+        },
+        {
+            "6": "bo"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "嫂",
+            "imji": "소ˊ",
+            "tailo": "só",
+            "taiji": "soh4"
+        },
+        {
+            "hanji": "阿嫂",
+            "imji": "아·소ˊ",
+            "tailo": "a-só",
+            "taiji": "ah3soh4"
+        }
+    ]
+}

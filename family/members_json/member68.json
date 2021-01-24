@@ -1,0 +1,23 @@
+{
+    "id": 68,
+    "english": "daughter's husband",
+    "his_relations": {
+        "bo": 20
+    },
+    "my_relations": [
+        {
+            "1": "cw"
+        },
+        {
+            "20": "ang"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "囝婿",
+            "imji": "갸ᇫˊ새",
+            "tailo": "kiánn-sài",
+            "taiji": "knia1sai3"
+        }
+    ]
+}

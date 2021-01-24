@@ -1,0 +1,24 @@
+{
+    "id": 54,
+    "english": "grand daughter",
+    "his_relations": {
+        "pa": 19,
+        "ma": 52
+    },
+    "my_relations": [
+        {
+            "1": "hs"
+        },
+        {
+            "19": "cw"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "자뻐孫",
+            "imji": "자·뻐ˊ순·",
+            "tailo": "tsa-bóo-sun",
+            "taiji": "ca3bor1soon1"
+        }
+    ]
+}

@@ -1,8 +1,8 @@
 # 新婦
 ## 定義 Definition
+簡：[後生](member19.md) 兮 某
 
-
-
+詳：[我](member1.md) 兮 [後生](member19.md) 兮 某
 
 Eng：Son's wife
 

@@ -1,0 +1,29 @@
+{
+    "id": 63,
+    "english": "wife's mother",
+    "his_relations": {
+        "cw": 18
+    },
+    "my_relations": [
+        {
+            "1": "bo"
+        },
+        {
+            "18": "ma"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "丈姆",
+            "imji": "뎌ᇫ-음ˊ",
+            "tailo": "tiōnn-ḿ",
+            "taiji": "tnio33mm4"
+        },
+        {
+            "hanji": "丈姆",
+            "imji": "ᄃᆤᇫ-음ˊ",
+            "tailo": "tiāunn-ḿ",
+            "taiji": "tniau33mm4"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": 67,
+    "english": "wife's younger sister",
+    "his_relations": {
+        "pa": 62,
+        "ma": 63
+    },
+    "my_relations": [
+        {
+            "1": "bo"
+        },
+        {
+            "18": "moy"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "姨仔",
+            "imji": "이ˆ아ˊ",
+            "tailo": "î-á",
+            "taiji": "ee2ah4"
+        }
+    ]
+}

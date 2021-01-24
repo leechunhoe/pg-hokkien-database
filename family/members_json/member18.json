@@ -1,0 +1,24 @@
+{
+    "id": 18,
+    "english": "wife",
+    "his_relations": {
+        "pa": 62,
+        "ma": 63,
+        "ang": 17,
+        "ko": 64,
+        "ti": 66,
+        "ci": 65,
+        "moy": 67,
+        "hs": 19,
+        "cw": 20
+    },
+    "my_relations": {},
+    "variants": [
+        {
+            "hanji": "某",
+            "imji": "뻐ˊ",
+            "tailo": "bóo",
+            "taiji": "bor4"
+        }
+    ]
+}

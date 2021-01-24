@@ -1,0 +1,23 @@
+{
+    "id": 61,
+    "english": "husband's sister",
+    "his_relations": {
+        "ht": 17
+    },
+    "my_relations": [
+        {
+            "1": "ang"
+        },
+        {
+            "17": "cm"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "姑",
+            "imji": "거·",
+            "tailo": "koo",
+            "taiji": "kor1"
+        }
+    ]
+}

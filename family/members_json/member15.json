@@ -1,0 +1,36 @@
+{
+    "id": 15,
+    "english": "mother's sister",
+    "his_relations": {
+        "pa": 13,
+        "ma": 14,
+        "ang": 46,
+        "ht": 16,
+        "hs1": 47,
+        "cw1": 48,
+        "hs2": 49,
+        "cw2": 50
+    },
+    "my_relations": [
+        {
+            "1": "ma"
+        },
+        {
+            "3": "cm"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "姨",
+            "imji": "이ˆ",
+            "tailo": "î",
+            "taiji": "ee2"
+        },
+        {
+            "hanji": "阿姨",
+            "imji": "아·이ˆ",
+            "tailo": "a-î",
+            "taiji": "a3ee2"
+        }
+    ]
+}
