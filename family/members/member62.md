@@ -8,7 +8,7 @@ Eng：Wife's father
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 丈랑ˆ | 뎌ᇫ-랑ˆ | tiōnn-lâng | tnio33lang2 
 丈랑ˆ | ᄃᆤᇫ-랑ˆ | tiāunn-lâng | tniau33lang2 

@@ -8,7 +8,7 @@ Eng：Father's sister
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 姑 | 거· | koo | kor1 
 阿姑 | 아·거· | a-koo | ah3kor1 

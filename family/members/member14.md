@@ -8,7 +8,7 @@ Eng：Maternal grandmother
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 外嫲 | 꽈-마ˊ | guā-má | gua33ma4 
 

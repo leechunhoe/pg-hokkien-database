@@ -8,7 +8,7 @@ Eng：Father's elder brother's elder daughter
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 堂姊 | 덩ˆ지ˊ | tông-tsí | tong3cee4 
 

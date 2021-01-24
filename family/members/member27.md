@@ -8,7 +8,7 @@ Eng：Grandfather's younger brother
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 叔公 | 즥·겅· | tsek-kong | ceik1kong1 
 

@@ -8,7 +8,7 @@ Eng：Son
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 後生 | ᄒᅷ-세ᇫ· | hāu-senn | hau33snae1 
 囝 | 갸ᇫˊ | kiánn | knia4 

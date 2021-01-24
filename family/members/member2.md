@@ -8,7 +8,7 @@ Eng：Father
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 爸 | 바· | pa | pa1 
 爸爸 | 바·바· | pa-pa | pa3pa1 

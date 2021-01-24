@@ -8,7 +8,7 @@ Eng：Grandfather's elder brother
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 伯公 | 벻·겅· | peh-kong | paek1kong1 
 

@@ -8,7 +8,7 @@ Eng：Husband's father
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 阮官 | 응ˊ과ᇫ· | ńg-kuann | ng1knua1 
 大官 | 다-과ᇫ· | tā-kuann | ta33knua1 

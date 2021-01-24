@@ -8,7 +8,7 @@ Eng：Husband's younger brother
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 叔 | 즥· | tsek | ceik3 
 阿叔 | 아·즥· | a-tsek | ah3ceik3 

@@ -8,7 +8,7 @@ Eng：Father's younger brother's elder son
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 堂哥 | 덩ˆ고· | tông-ko | tong3koh1 
 
