@@ -18,5 +18,5 @@ Eng：Wife's elder sister
 
 關係 | 稱法 | English
 --- | --- | --- 
-姨 兮 爸 | [丈儂](member62.md) | Wife's elder sister's father
+姨 兮 爸 | [丈人](member62.md) | Wife's elder sister's father
 姨 兮 媽 | [丈姆](member63.md) | Wife's elder sister's mother

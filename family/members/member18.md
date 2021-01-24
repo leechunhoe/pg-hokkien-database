@@ -17,7 +17,7 @@ Eng：Wife
 
 關係 | 稱法 | English
 --- | --- | --- 
-某 兮 爸 | [丈儂](member62.md) | Wife's father
+某 兮 爸 | [丈人](member62.md) | Wife's father
 某 兮 媽 | [丈姆](member63.md) | Wife's mother
 某 兮 尪 | [尪](member17.md) | Wife's husband
 某 兮 哥 | [舅](member64.md) | Wife's elder brother
