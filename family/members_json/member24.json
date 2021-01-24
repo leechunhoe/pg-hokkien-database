@@ -1,9 +1,9 @@
 {
-    "id": "24",
+    "id": 24,
     "english": "younger sister's husband",
     "his_relations": {
-        "bo": "7",
-        "hscw": "25"
+        "bo": 7,
+        "hscw": 25
     },
     "my_relations": [
         {

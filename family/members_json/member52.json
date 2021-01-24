@@ -1,12 +1,17 @@
 {
-    "id": "52",
+    "id": 52,
     "english": "son's wife",
     "his_relations": {
-        "ang": "19",
-        "1": "hs",
-        "19": "bo"
+        "ang": 19
     },
-    "my_relations": {},
+    "my_relations": [
+        {
+            "1": "hs"
+        },
+        {
+            "19": "bo"
+        }
+    ],
     "variants": [
         {
             "hanji": "新婦",

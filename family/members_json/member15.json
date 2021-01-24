@@ -1,15 +1,15 @@
 {
-    "id": "15",
+    "id": 15,
     "english": "mother's sister",
     "his_relations": {
-        "pa": "13",
-        "ma": "14",
-        "ang": "46",
-        "ht": "16",
-        "hs1": "47",
-        "cw1": "48",
-        "hs2": "49",
-        "cw2": "50"
+        "pa": 13,
+        "ma": 14,
+        "ang": 46,
+        "ht": 16,
+        "hs1": 47,
+        "cw1": 48,
+        "hs2": 49,
+        "cw2": 50
     },
     "my_relations": [
         {

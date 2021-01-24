@@ -1,11 +1,11 @@
 {
-    "id": "19",
+    "id": 19,
     "english": "son",
     "his_relations": {
-        "bo": "52",
-        "cm": "20",
-        "hs": "53",
-        "cw": "54"
+        "bo": 52,
+        "cm": 20,
+        "hs": 53,
+        "cw": 54
     },
     "my_relations": [
         {

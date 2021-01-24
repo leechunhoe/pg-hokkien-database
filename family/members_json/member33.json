@@ -1,12 +1,12 @@
 {
-    "id": "33",
+    "id": 33,
     "english": "father's elder brother's wife",
     "his_relations": {
-        "ang": "10",
-        "hs1": "35",
-        "cw1": "36",
-        "hs2": "37",
-        "cw2": "38"
+        "ang": 10,
+        "hs1": 35,
+        "cw1": 36,
+        "hs2": 37,
+        "cw2": 38
     },
     "my_relations": [
         {

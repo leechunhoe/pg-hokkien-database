@@ -1,11 +1,11 @@
 {
-    "id": "6",
+    "id": 6,
     "english": "younger brother",
     "his_relations": {
-        "pa": "2",
-        "ma": "3",
-        "bo": "21",
-        "hscw": "70"
+        "pa": 2,
+        "ma": 3,
+        "bo": 21,
+        "hscw": 70
     },
     "my_relations": [
         {

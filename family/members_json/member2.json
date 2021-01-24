@@ -1,13 +1,13 @@
 {
-    "id": "2",
+    "id": 2,
     "english": "father",
     "his_relations": {
-        "pa": "8",
-        "ma": "9",
-        "bo": "3",
-        "ko": "10",
-        "cm": "12",
-        "ti": "11"
+        "pa": 8,
+        "ma": 9,
+        "bo": 3,
+        "ko": 10,
+        "cm": 12,
+        "ti": 11
     },
     "my_relations": [
         {

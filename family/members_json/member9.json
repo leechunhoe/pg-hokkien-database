@@ -1,10 +1,10 @@
 {
-    "id": "9",
+    "id": 9,
     "english": "grandmother",
     "his_relations": {
-        "ang": "8",
-        "ht": "31",
-        "cm": "32"
+        "ang": 8,
+        "ht": 31,
+        "cm": 32
     },
     "my_relations": [
         {

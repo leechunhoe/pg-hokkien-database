@@ -1,17 +1,17 @@
 {
-    "id": "1",
+    "id": 1,
     "english": "me",
     "his_relations": {
-        "pa": "2",
-        "ma": "3",
-        "ang": "17",
-        "bo": "18",
-        "ko": "4",
-        "ci": "5",
-        "ti": "6",
-        "moy": "7",
-        "hs": "19",
-        "cw": "20"
+        "pa": 2,
+        "ma": 3,
+        "ang": 17,
+        "bo": 18,
+        "ko": 4,
+        "ci": 5,
+        "ti": 6,
+        "moy": 7,
+        "hs": 19,
+        "cw": 20
     },
     "my_relations": {},
     "variants": [

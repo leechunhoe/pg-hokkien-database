@@ -43,7 +43,7 @@ def generate_members_content(members):
 	for member in members:
 		variant_main = member[0]
 		member_json = {
-			"id": variant_main[0],
+			"id": int(variant_main[0]),
 			"english": variant_main[5],
 			"his_relations": get_his_relations(variant_main),
 			"my_relations": get_my_relations(variant_main),
@@ -77,7 +77,7 @@ def get_his_relations(variant_main):
 	result = {}
 	for relation in raw_string.split("."):
 		key = relation.split(":")[0]
-		value = relation.split(":")[1]
+		value = int(relation.split(":")[1])
 		result[key] = value
 
 	return result
@@ -89,7 +89,7 @@ def get_my_relations(variant_main):
 
 	result = []
 	for relation in raw_string.split("."):
-		key = relation.split(":")[0]
+		key = int(relation.split(":")[0])
 		value = relation.split(":")[1]
 		result.append({key: value})
 

@@ -1,10 +1,10 @@
 {
-    "id": "13",
+    "id": 13,
     "english": "maternal grandfather",
     "his_relations": {
-        "pa": "44",
-        "ma": "45",
-        "bo": "14"
+        "pa": 44,
+        "ma": 45,
+        "bo": 14
     },
     "my_relations": [
         {

@@ -1,9 +1,9 @@
 {
-    "id": "26",
+    "id": 26,
     "english": "grandfather's elder brother",
     "his_relations": {
-        "pa": "29",
-        "ma": "30"
+        "pa": 29,
+        "ma": 30
     },
     "my_relations": [
         {
