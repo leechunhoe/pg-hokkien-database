@@ -78,7 +78,7 @@
 [姨仔](members/member67.md) | Wife's younger sister
 [小弟](members/member6.md) | Younger brother
 [孫仔](members/member70.md) | Younger brother's children
-[嫂](members/member69.md) | Younger brother's wife
+[嬸](members/member69.md) | Younger brother's wife
 [小妹](members/member7.md) | Younger sister
 [外甥](members/member71.md) | Younger sister's children
 [妹夫](members/member24.md) | Younger sister's husband

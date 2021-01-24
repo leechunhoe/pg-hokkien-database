@@ -19,4 +19,4 @@ Eng：Younger brother's children
 關係 | 稱法 | English
 --- | --- | --- 
 孫仔 兮 爸 | [小弟](member6.md) | Younger brother's children's father
-孫仔 兮 媽 | [嫂](member69.md) | Younger brother's children's mother
+孫仔 兮 媽 | [嬸](member69.md) | Younger brother's children's mother
