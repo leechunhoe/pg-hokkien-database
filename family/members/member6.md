@@ -19,5 +19,5 @@ Eng：Younger brother
 --- | --- | --- 
 小弟 兮 爸 | [爸](member2.md) | Younger brother's father
 小弟 兮 媽 | [媽](member3.md) | Younger brother's mother
-小弟 兮 某 | [嫂](member21.md) | Younger brother's wife
+小弟 兮 某 | [嬸](member69.md) | Younger brother's wife
 小弟 兮 囝 | [孫仔](member70.md) | Younger brother's children
