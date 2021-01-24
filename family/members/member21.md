@@ -1,8 +1,8 @@
 # 嫂
 ## 定義 Definition
-簡：[爸](member2.md) 兮 某
+簡：[哥](member4.md) 兮 某
 
-詳：[我](member1.md) 兮 [哥](member2.md) 兮 某
+詳：[我](member1.md) 兮 [哥](member4.md) 兮 某
 
 Eng：Elder brother's wife
 
