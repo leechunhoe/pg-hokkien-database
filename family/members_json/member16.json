@@ -1,0 +1,36 @@
+{
+    "id": "16",
+    "english": "mother's brother",
+    "his_relations": {
+        "pa": "13",
+        "ma": "14",
+        "bo": "51",
+        "cm": "15",
+        "hs1": "47",
+        "cw1": "48",
+        "hs2": "49",
+        "cw2": "50"
+    },
+    "my_relations": [
+        {
+            "1": "ma"
+        },
+        {
+            "3": "ht"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "舅",
+            "imji": "구-",
+            "tailo": "kū",
+            "taiji": "koo33"
+        },
+        {
+            "hanji": "阿舅",
+            "imji": "아·구-",
+            "tailo": "a-kū",
+            "taiji": "a3koo33"
+        }
+    ]
+}

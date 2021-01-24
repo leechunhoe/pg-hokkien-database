@@ -1,0 +1,42 @@
+{
+    "id": "58",
+    "english": "husband's mother",
+    "his_relations": {
+        "ang": "57",
+        "hs": "17"
+    },
+    "my_relations": [
+        {
+            "1": "ang"
+        },
+        {
+            "17": "ma"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "娘",
+            "imji": "녀ˆ",
+            "tailo": "niô",
+            "taiji": "nio2"
+        },
+        {
+            "hanji": "娘",
+            "imji": "ᄂᆤˆ",
+            "tailo": "niâu",
+            "taiji": "niau2"
+        },
+        {
+            "hanji": "大家",
+            "imji": "다-게·",
+            "tailo": "ta-kee",
+            "taiji": "ta33kae1"
+        },
+        {
+            "hanji": "媽",
+            "imji": "맣·",
+            "tailo": "mah",
+            "taiji": "mak3"
+        }
+    ]
+}

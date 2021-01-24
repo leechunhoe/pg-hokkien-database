@@ -1,0 +1,49 @@
+{
+    "id": "2",
+    "english": "father",
+    "his_relations": {
+        "pa": "8",
+        "ma": "9",
+        "bo": "3",
+        "ko": "10",
+        "cm": "12",
+        "ti": "11"
+    },
+    "my_relations": [
+        {
+            "1": "pa"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "爸",
+            "imji": "바·",
+            "tailo": "pa",
+            "taiji": "pa1"
+        },
+        {
+            "hanji": "爸爸",
+            "imji": "바·바·",
+            "tailo": "pa-pa",
+            "taiji": "pa3pa1"
+        },
+        {
+            "hanji": "阿爸",
+            "imji": "아·바ˆ",
+            "tailo": "a-pâ",
+            "taiji": "ah3pa2"
+        },
+        {
+            "hanji": "父",
+            "imji": "베-",
+            "tailo": "pēe",
+            "taiji": "pae33"
+        },
+        {
+            "hanji": "老父",
+            "imji": "ᄅᅷ-베-",
+            "tailo": "lāu-pēe",
+            "taiji": "lau33pae33"
+        }
+    ]
+}

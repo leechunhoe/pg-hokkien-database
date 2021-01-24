@@ -1,0 +1,27 @@
+{
+    "id": "50",
+    "english": "mother's brother's younger daughter",
+    "his_relations": {
+        "pa": "16",
+        "ma": "51"
+    },
+    "my_relations": [
+        {
+            "1": "ma"
+        },
+        {
+            "3": "ht"
+        },
+        {
+            "16": "cw2"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "表小妹",
+            "imji": "ᄇᆤˊ쇼ˊᄆᆀ-",
+            "tailo": "piáu-sió-mōi",
+            "taiji": "piau1sio1moy33"
+        }
+    ]
+}

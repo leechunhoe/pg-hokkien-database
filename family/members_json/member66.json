@@ -1,0 +1,24 @@
+{
+    "id": "66",
+    "english": "wife's younger brother",
+    "his_relations": {
+        "pa": "62",
+        "ma": "63"
+    },
+    "my_relations": [
+        {
+            "1": "bo"
+        },
+        {
+            "18": "ti"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "舅仔",
+            "imji": "구-아ˊ",
+            "tailo": "kū-á",
+            "taiji": "koo33ah4"
+        }
+    ]
+}

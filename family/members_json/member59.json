@@ -1,0 +1,29 @@
+{
+    "id": "59",
+    "english": "husband's elder brother",
+    "his_relations": {
+        "ti": "17"
+    },
+    "my_relations": [
+        {
+            "1": "ang"
+        },
+        {
+            "17": "ko"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "伯",
+            "imji": "벻·",
+            "tailo": "peh",
+            "taiji": "paek3"
+        },
+        {
+            "hanji": "阿伯",
+            "imji": "아·벻·",
+            "tailo": "a-peh",
+            "taiji": "ah3paek3"
+        }
+    ]
+}

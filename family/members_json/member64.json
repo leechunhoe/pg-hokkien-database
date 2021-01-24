@@ -1,0 +1,30 @@
+{
+    "id": "64",
+    "english": "wife's elder brother",
+    "his_relations": {
+        "pa": "62",
+        "ma": "63"
+    },
+    "my_relations": [
+        {
+            "1": "bo"
+        },
+        {
+            "18": "ko"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "舅",
+            "imji": "구-",
+            "tailo": "kū",
+            "taiji": "koo33"
+        },
+        {
+            "hanji": "阿舅",
+            "imji": "아·구-",
+            "tailo": "a-kū",
+            "taiji": "a3koo33"
+        }
+    ]
+}

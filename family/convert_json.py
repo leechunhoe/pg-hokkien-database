@@ -9,7 +9,17 @@ def main():
 def convert_members():
 	members = get_members()
 	members_json = generate_members_content(members)
+	convert_each_members(members_json)
 	write_to_file(members_json, "members.json")
+
+def convert_each_members(members_json):
+	for member in members_json:
+		convert_member(member)
+
+def convert_member(member):
+	filename = "members_json/member%s.json" %member['id']
+	json_string = json.dumps(member, ensure_ascii=False, indent=4)
+	open(filename, "w").write(json_string)
 
 def convert_relations():
 	relations = get_relations()

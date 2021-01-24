@@ -1,0 +1,24 @@
+{
+    "id": "53",
+    "english": "grand son",
+    "his_relations": {
+        "pa": "19",
+        "ma": "52"
+    },
+    "my_relations": [
+        {
+            "1": "hs"
+        },
+        {
+            "19": "hs"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "孫",
+            "imji": "순·",
+            "tailo": "sun",
+            "taiji": "soon1"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "24",
+    "english": "younger sister's husband",
+    "his_relations": {
+        "bo": "7",
+        "hscw": "25"
+    },
+    "my_relations": [
+        {
+            "1": "moy"
+        },
+        {
+            "7": "ang"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "妹夫",
+            "imji": "ᄆᆀ-후·",
+            "tailo": "mōi-hu",
+            "taiji": "moy33hoo1"
+        },
+        {
+            "hanji": "妹夫",
+            "imji": "뫠-후·",
+            "tailo": "muāi-hu",
+            "taiji": "muai33hoo1"
+        }
+    ]
+}

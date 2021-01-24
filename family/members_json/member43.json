@@ -1,0 +1,36 @@
+{
+    "id": "43",
+    "english": "father's sister's husband",
+    "his_relations": {
+        "bo": "12",
+        "hs1": "39",
+        "cw1": "40",
+        "hs2": "41",
+        "cw2": "42"
+    },
+    "my_relations": [
+        {
+            "1": "pa"
+        },
+        {
+            "2": "cm"
+        },
+        {
+            "12": "ang"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "姑丈",
+            "imji": "거·뎌ᇫ-",
+            "tailo": "koo-tiōnn",
+            "taiji": "kor3tnio33"
+        },
+        {
+            "hanji": "姑丈",
+            "imji": "거·ᄃᆤᇫ-",
+            "tailo": "koo-tiāunn",
+            "taiji": "kor3tniau33"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": "11",
+    "english": "father's younger brother",
+    "his_relations": {
+        "pa": "8",
+        "ma": "9",
+        "bo": "34",
+        "hs1": "73",
+        "cw1": "74",
+        "hs2": "75",
+        "cw2": "76"
+    },
+    "my_relations": [
+        {
+            "1": "pa"
+        },
+        {
+            "2": "ti"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "叔",
+            "imji": "즥·",
+            "tailo": "tsek",
+            "taiji": "ceik3"
+        },
+        {
+            "hanji": "阿叔",
+            "imji": "아·즥·",
+            "tailo": "a-tsek",
+            "taiji": "ah3ceik3"
+        }
+    ]
+}

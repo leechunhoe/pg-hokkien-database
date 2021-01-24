@@ -1,0 +1,35 @@
+{
+    "id": "12",
+    "english": "father's sister",
+    "his_relations": {
+        "pa": "8",
+        "ma": "9",
+        "ang": "43",
+        "hs1": "39",
+        "cw1": "40",
+        "hs2": "41",
+        "cw2": "42"
+    },
+    "my_relations": [
+        {
+            "1": "pa"
+        },
+        {
+            "2": "cm"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "姑",
+            "imji": "거·",
+            "tailo": "koo",
+            "taiji": "kor1"
+        },
+        {
+            "hanji": "阿姑",
+            "imji": "아·거·",
+            "tailo": "a-koo",
+            "taiji": "ah3kor1"
+        }
+    ]
+}

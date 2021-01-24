@@ -1,0 +1,35 @@
+{
+    "id": "72",
+    "english": "grandmother's sister's husband",
+    "his_relations": {
+        "bo": "32"
+    },
+    "my_relations": [
+        {
+            "1": "pa"
+        },
+        {
+            "2": "ma"
+        },
+        {
+            "9": "cm"
+        },
+        {
+            "32": "ang"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "丈公",
+            "imji": "뎌ᇫ-겅·",
+            "tailo": "tiōnn-kong",
+            "taiji": "tnio33kong1"
+        },
+        {
+            "hanji": "丈公",
+            "imji": "ᄃᆤᇫ-겅·",
+            "tailo": "tiāunn-kong",
+            "taiji": "tniau33kong1"
+        }
+    ]
+}

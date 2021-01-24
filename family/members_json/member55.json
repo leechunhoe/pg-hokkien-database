@@ -1,0 +1,30 @@
+{
+    "id": "55",
+    "english": "daughter's son",
+    "his_relations": {
+        "pa": "68",
+        "ma": "20"
+    },
+    "my_relations": [
+        {
+            "1": "cw"
+        },
+        {
+            "20": "hs"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "다버外孫",
+            "imji": "다·버·꽈-순·",
+            "tailo": "ta-poo-guā-sun",
+            "taiji": "ta3por3gua33soon1"
+        },
+        {
+            "hanji": "外孫",
+            "imji": "꽈-순·",
+            "tailo": "guā-sun",
+            "taiji": "gua33soon1"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "26",
+    "english": "grandfather's elder brother",
+    "his_relations": {
+        "pa": "29",
+        "ma": "30"
+    },
+    "my_relations": [
+        {
+            "1": "pa"
+        },
+        {
+            "2": "pa"
+        },
+        {
+            "8": "ko"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "伯公",
+            "imji": "벻·겅·",
+            "tailo": "peh-kong",
+            "taiji": "paek1kong1"
+        }
+    ]
+}

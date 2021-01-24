@@ -1,0 +1,23 @@
+{
+    "id": "6",
+    "english": "younger brother",
+    "his_relations": {
+        "pa": "2",
+        "ma": "3",
+        "bo": "21",
+        "hscw": "70"
+    },
+    "my_relations": [
+        {
+            "1": "ti"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "小弟",
+            "imji": "쇼ˊ디-",
+            "tailo": "sió-tī",
+            "taiji": "sio1tee33"
+        }
+    ]
+}

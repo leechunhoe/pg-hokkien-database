@@ -1,0 +1,29 @@
+{
+    "id": "17",
+    "english": "husband",
+    "his_relations": {
+        "pa": "57",
+        "ma": "58",
+        "bo": "18",
+        "cm": "61",
+        "ko": "59",
+        "ti": "60",
+        "hs": "19",
+        "cw": "20"
+    },
+    "my_relations": {},
+    "variants": [
+        {
+            "hanji": "尪",
+            "imji": "앙·",
+            "tailo": "ang",
+            "taiji": "ang1"
+        },
+        {
+            "hanji": "翁",
+            "imji": "앙·",
+            "tailo": "ang",
+            "taiji": "ang1"
+        }
+    ]
+}

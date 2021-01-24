@@ -1,0 +1,25 @@
+{
+    "id": "14",
+    "english": "maternal grandmother",
+    "his_relations": {
+        "pa": "44",
+        "ma": "45",
+        "ang": "13"
+    },
+    "my_relations": [
+        {
+            "1": "ma"
+        },
+        {
+            "2": "ma"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "外嫲",
+            "imji": "꽈-마ˊ",
+            "tailo": "guā-má",
+            "taiji": "gua33ma4"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "31",
+    "english": "grandmother's brother",
+    "his_relations": {},
+    "my_relations": [
+        {
+            "1": "pa"
+        },
+        {
+            "2": "ma"
+        },
+        {
+            "9": "ht"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "舅公",
+            "imji": "구-겅·",
+            "tailo": "kū-kong",
+            "taiji": "koo33kong1"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "70",
+    "english": "younger brother's children",
+    "his_relations": {
+        "pa": "6",
+        "ma": "69"
+    },
+    "my_relations": [
+        {
+            "1": "ti"
+        },
+        {
+            "6": "hscw"
+        }
+    ],
+    "variants": [
+        {
+            "hanji": "孫仔",
+            "imji": "순·아ˊ",
+            "tailo": "sun-á",
+            "taiji": "soon3ah4"
+        },
+        {
+            "hanji": "孫/甥/嬲",
+            "imji": "순·",
+            "tailo": "sun",
+            "taiji": "soon1"
+        }
+    ]
+}
