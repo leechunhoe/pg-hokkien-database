@@ -6,10 +6,12 @@
     },
     "my_relations": [
         {
-            "1": "hs"
+            "member": 1,
+            "relation": "hs"
         },
         {
-            "19": "bo"
+            "member": 19,
+            "relation": "bo"
         }
     ],
     "variants": [

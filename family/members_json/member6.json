@@ -4,12 +4,13 @@
     "his_relations": {
         "pa": 2,
         "ma": 3,
-        "bo": 21,
+        "bo": 69,
         "hscw": 70
     },
     "my_relations": [
         {
-            "1": "ti"
+            "member": 1,
+            "relation": "ti"
         }
     ],
     "variants": [

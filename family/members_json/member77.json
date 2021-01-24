@@ -7,13 +7,16 @@
     },
     "my_relations": [
         {
-            "1": "ma"
+            "member": 1,
+            "relation": "ma"
         },
         {
-            "3": "cm"
+            "member": 3,
+            "relation": "cm"
         },
         {
-            "15": "hs1"
+            "member": 15,
+            "relation": "hs1"
         }
     ],
     "variants": [

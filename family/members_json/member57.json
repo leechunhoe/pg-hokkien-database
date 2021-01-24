@@ -7,10 +7,12 @@
     },
     "my_relations": [
         {
-            "1": "ang"
+            "member": 1,
+            "relation": "ang"
         },
         {
-            "17": "pa"
+            "member": 17,
+            "relation": "pa"
         }
     ],
     "variants": [

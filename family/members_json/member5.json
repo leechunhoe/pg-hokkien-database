@@ -9,7 +9,8 @@
     },
     "my_relations": [
         {
-            "1": "ci"
+            "member": 1,
+            "relation": "ci"
         }
     ],
     "variants": [
