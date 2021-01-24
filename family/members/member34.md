@@ -8,7 +8,7 @@ Eng：Father's younger brother's wife
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 嬸 | 짐ˊ | tsím | cim4 
 阿嬸 | 아·짐ˊ | a-tsím | ah3cim4 

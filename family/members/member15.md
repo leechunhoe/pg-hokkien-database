@@ -8,7 +8,7 @@ Eng：Mother's sister
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 姨 | 이ˆ | î | ee2 
 阿姨 | 아·이ˆ | a-î | a3ee2 

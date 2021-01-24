@@ -8,7 +8,7 @@ Eng：Younger brother
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 小弟 | 쇼ˊ디- | sió-tī | sio1tee33 
 

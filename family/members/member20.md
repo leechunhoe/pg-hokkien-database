@@ -8,7 +8,7 @@ Eng：Daughter
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 자와ˊ | 자ˊ와ˊ | tsá-uá | ca1ua4 
 자뻐囝 | 자·뻐ˊ갸ᇫˊ | tsa-bóo-kiánn | ca3bor1knia4 

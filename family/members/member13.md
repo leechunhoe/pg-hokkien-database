@@ -8,7 +8,7 @@ Eng：Maternal grandfather
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 外公 | 꽈-겅· | guā-kong | gua33kong1 
 

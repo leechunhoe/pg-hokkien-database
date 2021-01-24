@@ -8,7 +8,7 @@ Eng：Wife's younger brother
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 舅仔 | 구-아ˊ | kū-á | koo33ah4 
 

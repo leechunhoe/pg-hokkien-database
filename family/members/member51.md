@@ -8,7 +8,7 @@ Eng：Mother's brother's wife
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 阿妗 | 아·김- | a-kīm | ah3kim33 
 

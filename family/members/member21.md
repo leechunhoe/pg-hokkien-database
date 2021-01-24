@@ -8,7 +8,7 @@ Eng：Elder brother's wife
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 嫂 | 소ˊ | só | soh4 
 阿嫂 | 아·소ˊ | a-só | ah3soh4 

@@ -8,7 +8,7 @@ Eng：Elder brother
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 哥 | 고· | ko | koh1 
 阿哥 | 아·고· | a-ko | ah3koh1 

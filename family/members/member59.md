@@ -8,7 +8,7 @@ Eng：Husband's elder brother
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 伯 | 벻· | peh | paek3 
 阿伯 | 아·벻· | a-peh | ah3paek3 

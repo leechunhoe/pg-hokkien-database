@@ -8,7 +8,7 @@ Eng：Grandmother
 
 ## 稱呼 Address
 
-漢音 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Tâi-lô | Taiji
 --- | --- | --- | --- 
 嫲 | 마ˊ | má | mah4 
 阿嫲 | 아·마ˊ | a-má | ah3mah4 
