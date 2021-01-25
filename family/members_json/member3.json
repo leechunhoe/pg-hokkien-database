@@ -10,7 +10,8 @@
     },
     "my_relations": [
         {
-            "1": "ma"
+            "member": 1,
+            "relation": "ma"
         }
     ],
     "variants": [

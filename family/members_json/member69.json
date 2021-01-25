@@ -2,28 +2,43 @@
     "id": 69,
     "english": "younger brother's wife",
     "his_relations": {
+        "ang": 6,
         "hscw": 22
     },
     "my_relations": [
         {
-            "1": "ti"
+            "member": 1,
+            "relation": "ti"
         },
         {
-            "6": "bo"
+            "member": 6,
+            "relation": "bo"
         }
     ],
     "variants": [
         {
-            "hanji": "嫂",
-            "imji": "소ˊ",
-            "tailo": "só",
-            "taiji": "soh4"
+            "hanji": "嬸",
+            "imji": "짐ˊ",
+            "tailo": "tsím",
+            "taiji": "cim4"
         },
         {
-            "hanji": "阿嫂",
-            "imji": "아·소ˊ",
-            "tailo": "a-só",
-            "taiji": "ah3soh4"
+            "hanji": "細嬸",
+            "imji": "짐ˊ",
+            "tailo": "sè-tsím",
+            "taiji": "say1cim4"
+        },
+        {
+            "hanji": "妗",
+            "imji": "김-",
+            "tailo": "kīm",
+            "taiji": "kim33"
+        },
+        {
+            "hanji": "妗仔",
+            "imji": "김-아ˊ",
+            "tailo": "kīm-á",
+            "taiji": "kim33ah4"
         }
     ]
 }

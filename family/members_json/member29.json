@@ -4,13 +4,16 @@
     "his_relations": {},
     "my_relations": [
         {
-            "1": "pa"
+            "member": 1,
+            "relation": "pa"
         },
         {
-            "2": "pa"
+            "member": 2,
+            "relation": "pa"
         },
         {
-            "8": "pa"
+            "member": 8,
+            "relation": "pa"
         }
     ],
     "variants": [

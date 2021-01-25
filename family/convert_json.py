@@ -85,14 +85,13 @@ def get_his_relations(variant_main):
 def get_my_relations(variant_main):
 	raw_string = get_item_if_exist(variant_main, 7)
 	if (raw_string == None or len(raw_string) == 0):
-		return {}
-
+		return []
 	result = []
 	for relation in raw_string.split("."):
-		key = int(relation.split(":")[0])
-		value = relation.split(":")[1]
-		result.append({key: value})
-
+		result.append({
+			"member": int(relation.split(":")[0]),
+			"relation": relation.split(":")[1]
+		})
 	return result
 
 def get_item_if_exist(list, index):

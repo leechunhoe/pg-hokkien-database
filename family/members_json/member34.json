@@ -5,17 +5,21 @@
         "ang": 11,
         "hs1": 73,
         "cw1": 74,
-        "hs2": 75
+        "hs2": 75,
+        "cw2": 76
     },
     "my_relations": [
         {
-            "1": "pa"
+            "member": 1,
+            "relation": "pa"
         },
         {
-            "2": "ti"
+            "member": 2,
+            "relation": "ti"
         },
         {
-            "11": "bo"
+            "member": 11,
+            "relation": "bo"
         }
     ],
     "variants": [

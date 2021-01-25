@@ -11,10 +11,12 @@
     },
     "my_relations": [
         {
-            "1": "pa"
+            "member": 1,
+            "relation": "pa"
         },
         {
-            "2": "pa"
+            "member": 2,
+            "relation": "pa"
         }
     ],
     "variants": [
