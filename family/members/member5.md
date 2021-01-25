@@ -8,10 +8,10 @@ Eng：Elder sister
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-姊 | 지ˊ | tsí | cee4 
-阿姊 | 아·지ˊ | a-tsí | ah3cee4 
+姊 | 지ˊ | chí | cee4 
+阿姊 | 아·지ˊ | a-chí | ah3cee4 
 
 
 ## 關係 Relationships

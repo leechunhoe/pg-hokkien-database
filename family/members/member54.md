@@ -8,9 +8,9 @@ Eng：Grand daughter
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-자뻐孫 | 자·뻐ˊ순· | tsa-bóo-sun | ca3bor1soon1 
+자뻐孫 | 자·뻐ˊ순· | cha-bó͘-sun | ca3bor1soon1 
 
 
 ## 關係 Relationships

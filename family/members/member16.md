@@ -8,7 +8,7 @@ Eng：Mother's brother
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
 舅 | 구- | kū | koo33 
 阿舅 | 아·구- | a-kū | a3koo33 

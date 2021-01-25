@@ -8,7 +8,7 @@ Eng：Grandfather
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
 公 | 겅· | kong | kong1 
 阿公 | 아·겅· | a-kong | ah3kong1 

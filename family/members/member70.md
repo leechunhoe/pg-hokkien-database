@@ -8,7 +8,7 @@ Eng：Younger brother's children
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
 孫仔 | 순·아ˊ | sun-á | soon3ah4 
 孫/甥/嬲 | 순· | sun | soon1 

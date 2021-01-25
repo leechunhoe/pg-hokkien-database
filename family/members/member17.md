@@ -8,7 +8,7 @@ Eng：Husband
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
 尪 | 앙· | ang | ang1 
 翁 | 앙· | ang | ang1 

@@ -8,9 +8,9 @@ Eng：Maternal great grandmother
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-外祖嫲 | 꽈-저ˊ마ˊ | guā-tsóo-má | gua33cor1mah4 
+外祖嫲 | 꽈-저ˊ마ˊ | goā-chó͘-má | gua33cor1mah4 
 
 
 ## 關係 Relationships

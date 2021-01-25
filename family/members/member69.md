@@ -8,10 +8,10 @@ Eng：Younger brother's wife
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-嬸 | 짐ˊ | tsím | cim4 
-細嬸 | 짐ˊ | sè-tsím | say1cim4 
+嬸 | 짐ˊ | chím | cim4 
+細嬸 | 짐ˊ | sè-chím | say1cim4 
 妗 | 김- | kīm | kim33 
 妗仔 | 김-아ˊ | kīm-á | kim33ah4 
 

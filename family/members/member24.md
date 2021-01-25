@@ -8,10 +8,10 @@ Eng：Younger sister's husband
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
 妹夫 | ᄆᆀ-후· | mōi-hu | moy33hoo1 
-妹夫 | 뫠-후· | muāi-hu | muai33hoo1 
+妹夫 | 뫠-후· | moāi-hu | muai33hoo1 
 
 
 ## 關係 Relationships

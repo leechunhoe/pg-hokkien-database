@@ -8,9 +8,9 @@ Eng：Daughter's husband
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-囝婿 | 갸ᇫˊ새 | kiánn-sài | knia1sai3 
+囝婿 | 갸ᇫˊ새 | kiáⁿ-sài | knia1sai3 
 
 
 ## 關係 Relationships

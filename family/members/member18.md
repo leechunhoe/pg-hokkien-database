@@ -8,9 +8,9 @@ Eng：Wife
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-某 | 뻐ˊ | bóo | bor4 
+某 | 뻐ˊ | bó͘ | bor4 
 
 
 ## 關係 Relationships
