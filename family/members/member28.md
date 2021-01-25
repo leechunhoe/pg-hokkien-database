@@ -8,9 +8,9 @@ Eng：Grandfather's sister
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-姑婆 | 거·보ˆ | koo-pô | kor3poh2 
+姑婆 | 거·보ˆ | ko͘-pô | kor3poh2 
 
 
 ## 關係 Relationships

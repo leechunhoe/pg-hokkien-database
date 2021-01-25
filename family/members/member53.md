@@ -8,7 +8,7 @@ Eng：Grand son
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
 孫 | 순· | sun | soon1 
 

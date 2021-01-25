@@ -8,11 +8,11 @@ Eng：Husband's mother
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-娘 | 녀ˆ | niô | nio2 
+娘 | 녀ˆ | niô͘ | nio2 
 娘 | ᄂᆤˆ | niâu | niau2 
-大家 | 다-게· | ta-kee | ta33kae1 
+大家 | 다-게· | ta-ke͘ | ta33kae1 
 媽 | 맣· | mah | mak3 
 
 

@@ -8,6 +8,6 @@ Eng：Great grandmother
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-祖嫲 | 저ˊ마ˊ | tsóo-má | cor1mah4 
+祖嫲 | 저ˊ마ˊ | chó͘-má | cor1mah4 

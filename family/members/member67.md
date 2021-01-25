@@ -8,7 +8,7 @@ Eng：Wife's younger sister
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
 姨仔 | 이ˆ아ˊ | î-á | ee2ah4 
 

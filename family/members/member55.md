@@ -8,10 +8,10 @@ Eng：Daughter's son
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-다버外孫 | 다·버·꽈-순· | ta-poo-guā-sun | ta3por3gua33soon1 
-外孫 | 꽈-순· | guā-sun | gua33soon1 
+다버外孫 | 다·버·꽈-순· | ta-po͘-goā-sun | ta3por3gua33soon1 
+外孫 | 꽈-순· | goā-sun | gua33soon1 
 
 
 ## 關係 Relationships

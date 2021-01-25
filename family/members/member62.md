@@ -8,12 +8,12 @@ Eng：Wife's father
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-丈人 | 뎌ᇫ-랑ˆ | tiōnn-lâng | tnio33lang2 
-丈人 | ᄃᆤᇫ-랑ˆ | tiāunn-lâng | tniau33lang2 
-丈儂 | 뎌ᇫ-랑ˆ | tiōnn-lâng | tnio33lang2 
-丈儂 | ᄃᆤᇫ-랑ˆ | tiāunn-lâng | tniau33lang2 
+丈人 | 뎌ᇫ-랑ˆ | tiō͘ⁿ-lâng | tnio33lang2 
+丈人 | ᄃᆤᇫ-랑ˆ | tiāuⁿ-lâng | tniau33lang2 
+丈儂 | 뎌ᇫ-랑ˆ | tiō͘ⁿ-lâng | tnio33lang2 
+丈儂 | ᄃᆤᇫ-랑ˆ | tiāuⁿ-lâng | tniau33lang2 
 
 
 ## 關係 Relationships

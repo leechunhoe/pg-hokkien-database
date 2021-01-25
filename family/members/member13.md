@@ -8,9 +8,9 @@ Eng：Maternal grandfather
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-外公 | 꽈-겅· | guā-kong | gua33kong1 
+外公 | 꽈-겅· | goā-kong | gua33kong1 
 
 
 ## 關係 Relationships

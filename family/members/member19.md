@@ -8,11 +8,11 @@ Eng：Son
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-後生 | ᄒᅷ-세ᇫ· | hāu-senn | hau33snae1 
-囝 | 갸ᇫˊ | kiánn | knia4 
-다버囝 | 다·버·갸ᇫˊ | ta-poo-kiánn | ta3por3knia4 
+後生 | ᄒᅷ-세ᇫ· | hāu-se͘ⁿ | hau33snae1 
+囝 | 갸ᇫˊ | kiáⁿ | knia4 
+다버囝 | 다·버·갸ᇫˊ | ta-po͘-kiáⁿ | ta3por3knia4 
 
 
 ## 關係 Relationships

@@ -8,13 +8,13 @@ Eng：Father
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
 爸 | 바· | pa | pa1 
 爸爸 | 바·바· | pa-pa | pa3pa1 
 阿爸 | 아·바ˆ | a-pâ | ah3pa2 
-父 | 베- | pēe | pae33 
-老父 | ᄅᅷ-베- | lāu-pēe | lau33pae33 
+父 | 베- | pē͘ | pae33 
+老父 | ᄅᅷ-베- | lāu-pē͘ | lau33pae33 
 
 
 ## 關係 Relationships

@@ -8,10 +8,10 @@ Eng：Mother's sister's husband
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-姨丈 | 이ˆ뎌ᇫ- | î-tiōnn | ee3tnio33 
-姨丈 | 이ˆᄃᆤᇫ- | î-tiāunn | ee3tniau33 
+姨丈 | 이ˆ뎌ᇫ- | î-tiō͘ⁿ | ee3tnio33 
+姨丈 | 이ˆᄃᆤᇫ- | î-tiāuⁿ | ee3tniau33 
 
 
 ## 關係 Relationships

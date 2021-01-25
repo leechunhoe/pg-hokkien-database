@@ -8,6 +8,6 @@ Eng：Great grandfather
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-阿祖 | 아·저ˊ | a-tsóo | ah3cor4 
+阿祖 | 아·저ˊ | a-chó͘ | ah3cor4 

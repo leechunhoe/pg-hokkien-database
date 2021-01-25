@@ -8,7 +8,7 @@ Eng：Mother
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
 媽 | 맣· | mah | mak3 
 媽媽 | 마·마· | ma-ma | ma3ma1 

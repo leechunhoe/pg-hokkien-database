@@ -8,10 +8,10 @@ Eng：Younger sister's children
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-外甥 | 꾀-싕· | guē-seng | guay33seng1 
-外甥 | 꽈-싕· | guā-seng | gua33seng1 
+外甥 | 꾀-싕· | goē-seng | guay33seng1 
+外甥 | 꽈-싕· | goā-seng | gua33seng1 
 孫仔 | 순·아ˊ | sun-á | soon3ah4 
 孫/甥/嬲 | 순· | sun | soon1 
 

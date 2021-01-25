@@ -8,9 +8,9 @@ Eng：Husband's sister
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-姑 | 거· | koo | kor1 
+姑 | 거· | ko͘ | kor1 
 
 
 ## 關係 Relationships

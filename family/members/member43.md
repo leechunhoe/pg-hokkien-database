@@ -8,10 +8,10 @@ Eng：Father's sister's husband
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-姑丈 | 거·뎌ᇫ- | koo-tiōnn | kor3tnio33 
-姑丈 | 거·ᄃᆤᇫ- | koo-tiāunn | kor3tniau33 
+姑丈 | 거·뎌ᇫ- | ko͘-tiō͘ⁿ | kor3tnio33 
+姑丈 | 거·ᄃᆤᇫ- | kō͘-tiāuⁿ | kor3tniau33 
 
 
 ## 關係 Relationships

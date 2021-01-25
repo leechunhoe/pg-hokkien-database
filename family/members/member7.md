@@ -8,10 +8,10 @@ Eng：Younger sister
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
 小妹 | 쇼ˊᄆᆀ- | sió-mōi | sio1moy33 
-小妹 | 쇼ˊ뫠- | sió-muāi | sio1muai33 
+小妹 | 쇼ˊ뫠- | sió-moāi | sio1muai33 
 
 
 ## 關係 Relationships

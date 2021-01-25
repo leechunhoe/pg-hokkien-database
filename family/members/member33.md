@@ -8,7 +8,7 @@ Eng：Father's elder brother's wife
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
 姆 | 음ˊ | ḿ | mm4 
 阿姆 | 아·음ˊ | a-ḿ | ah3mm4 

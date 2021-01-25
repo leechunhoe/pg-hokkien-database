@@ -8,10 +8,10 @@ Eng：Wife's mother
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
-丈姆 | 뎌ᇫ-음ˊ | tiōnn-ḿ | tnio33mm4 
-丈姆 | ᄃᆤᇫ-음ˊ | tiāunn-ḿ | tniau33mm4 
+丈姆 | 뎌ᇫ-음ˊ | tiō͘ⁿ-ḿ | tnio33mm4 
+丈姆 | ᄃᆤᇫ-음ˊ | tiāuⁿ-ḿ | tniau33mm4 
 
 
 ## 關係 Relationships

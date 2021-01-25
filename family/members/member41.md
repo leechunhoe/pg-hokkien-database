@@ -8,7 +8,7 @@ Eng：Father's sister's younger son
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
 表小弟 | ᄇᆤˊ쇼ˊ디- | piáu-sió-tī | piau1sio1tee33 
 

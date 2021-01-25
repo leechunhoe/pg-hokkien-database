@@ -8,12 +8,12 @@ Eng：Elder brother
 
 ## 稱呼 Address
 
-音漢 | 임·찌- | Tâi-lô | Taiji
+音漢 | 임·찌- | Pe̍͘h-oā-jī | Taiji
 --- | --- | --- | --- 
 哥 | 고· | ko | koh1 
 阿哥 | 아·고· | a-ko | ah3koh1 
-兄 | 햐ᇫ· | hiann | hnia1 
-阿兄 | 아·햐ᇫ· | a-hiann | ah3hnia1 
+兄 | 햐ᇫ· | hiaⁿ | hnia1 
+阿兄 | 아·햐ᇫ· | a-hiaⁿ | ah3hnia1 
 
 
 ## 關係 Relationships
