@@ -63,7 +63,7 @@ def get_variants(member):
 		variant_json = {
 			"hanji": variant[1],
 			"imji": variant[2],
-			"tailo": variant[3],
+			"poj": variant[3],
 			"taiji": variant[4]
 		}
 		variants.append(variant_json)

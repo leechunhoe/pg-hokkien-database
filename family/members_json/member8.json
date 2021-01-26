@@ -23,19 +23,19 @@
         {
             "hanji": "公",
             "imji": "겅·",
-            "tailo": "kong",
+            "poj": "kong",
             "taiji": "kong1"
         },
         {
             "hanji": "阿公",
             "imji": "아·겅·",
-            "tailo": "a-kong",
+            "poj": "a-kong",
             "taiji": "ah3kong1"
         },
         {
             "hanji": "裡公",
             "imji": "래-겅·",
-            "tailo": "lāi-kong",
+            "poj": "lāi-kong",
             "taiji": "lai33kong1"
         }
     ]

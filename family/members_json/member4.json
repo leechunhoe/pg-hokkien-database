@@ -17,25 +17,25 @@
         {
             "hanji": "哥",
             "imji": "고·",
-            "tailo": "ko",
+            "poj": "ko",
             "taiji": "koh1"
         },
         {
             "hanji": "阿哥",
             "imji": "아·고·",
-            "tailo": "a-ko",
+            "poj": "a-ko",
             "taiji": "ah3koh1"
         },
         {
             "hanji": "兄",
             "imji": "햐ᇫ·",
-            "tailo": "hiann",
+            "poj": "hiaⁿ",
             "taiji": "hnia1"
         },
         {
             "hanji": "阿兄",
             "imji": "아·햐ᇫ·",
-            "tailo": "a-hiann",
+            "poj": "a-hiaⁿ",
             "taiji": "ah3hnia1"
         }
     ]

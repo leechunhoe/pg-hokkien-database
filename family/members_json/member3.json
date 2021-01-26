@@ -18,31 +18,31 @@
         {
             "hanji": "媽",
             "imji": "맣·",
-            "tailo": "mah",
+            "poj": "mah",
             "taiji": "mak3"
         },
         {
             "hanji": "媽媽",
             "imji": "마·마·",
-            "tailo": "ma-ma",
+            "poj": "ma-ma",
             "taiji": "ma3ma1"
         },
         {
             "hanji": "媽咪",
             "imji": "마·미·",
-            "tailo": "ma-mi",
+            "poj": "ma-mi",
             "taiji": "ma3mee1"
         },
         {
             "hanji": "老母",
             "imji": "ᄅᅷ-뽀ˊ",
-            "tailo": "lāu-bó",
+            "poj": "lāu-bó",
             "taiji": "lau33bo4"
         },
         {
             "hanji": "老母",
             "imji": "ᄅᅷ-뿌ˊ",
-            "tailo": "lāu-bú",
+            "poj": "lāu-bú",
             "taiji": "lau33boo4"
         }
     ]
