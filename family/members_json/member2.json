@@ -19,31 +19,31 @@
         {
             "hanji": "爸",
             "imji": "바·",
-            "tailo": "pa",
+            "poj": "pa",
             "taiji": "pa1"
         },
         {
             "hanji": "爸爸",
             "imji": "바·바·",
-            "tailo": "pa-pa",
+            "poj": "pa-pa",
             "taiji": "pa3pa1"
         },
         {
             "hanji": "阿爸",
             "imji": "아·바ˆ",
-            "tailo": "a-pâ",
+            "poj": "a-pâ",
             "taiji": "ah3pa2"
         },
         {
             "hanji": "父",
             "imji": "베-",
-            "tailo": "pēe",
+            "poj": "pē͘",
             "taiji": "pae33"
         },
         {
             "hanji": "老父",
             "imji": "ᄅᅷ-베-",
-            "tailo": "lāu-pēe",
+            "poj": "lāu-pē͘",
             "taiji": "lau33pae33"
         }
     ]
